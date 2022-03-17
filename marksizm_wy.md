@@ -619,12 +619,3 @@ formułuje mogą się wydawać daleko idące, ale należy docenić pokazanie, ż
 kultura może być interpretowana jako sfera pojęć, które wyrwały się spod naszej 
 kontroli, jako sfera wyalienowania.
 
-
-
-
-
-
-
-
-
-
