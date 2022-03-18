@@ -1,3 +1,5 @@
+# Filozofia Polska -- wykłady
+
 ## Wykład 1 -- 11.03
 
 ![](./slajdy_polska/1.png)
@@ -132,4 +134,139 @@ raczej organizatorem koncepcji, niż jej twórcą
 przekonaniach, trzeba je ciągle rozwijać
 - przekonanie, że nie można nikogo zmuszać do przekonań
 - sumienie gwarantuje także prawo do błądzenia
+
+## Wykład 2 -- 18.03.
+
+![](./slajdy_polska/14.png)
+
+28:00 -- tutaj zaczynam notować
+
+![](./slajdy_polska/15.png)
+
+- Śmierć Serveta jedyną taką *głośną*, którą chwalił się Kalwin
+- W Genewie kamień, który go upamiętnia. Spotkanie wolnomyślicieli, którzy 
+chcieli go upamiętnić. Rok przed konferencją odsłonięty pomnik.
+- Teskt napisany przez jedną z pierwszą kobiet profesor na uniwersytetach
+- Dyskusja, czy był to błąd Kalwina, zakorzeniony w jego doktrynie? Czy da się 
+powiedzieć, że to błąd czasów, błąd ciąży na całym okresie.
+    - Luteranizm nie znajdowałby się w takim położeniu, bo ma skrzydło religijne 
+    i kulturalne.
+    - W kalwinizmie założyciel centralną postacią. Jeśli tu błąd, to błąd 
+    w całej doktrynie. Ta dyskusja będzie się toczyć przez cały XX wiek.
+    - Dzisiaj już kalwiniści mówią, że Kalwin popełnił błąd, ale dojście do tego 
+    było całym procesem.
+
+![](./slajdy_polska/16.png)
+
+- W 1908 r. dodano, że spalenie Serveta na stosie nastąpiło na rozkaz Kalwina. 
+Wcześniej został *zdalnie* spalony także przez inkwizycję katolicką.
+- W 1942 r. marionetkowy rząd Vichy zniszczył pomnik, odbudowany.
+
+![](./slajdy_polska/17.png)
+
+- Tekst napisany w konwencji Machiavellego.
+- Chłodna analiza, że porządek polityczny -- owszem -- jest związany 
+z religijnością, że religia jest ważnym aspektem życia politycznego, ale nie 
+wiadomo do końca co to znaczy. *Religio*, czyli wytrwałość. Nawet jeśli należy 
+to powiązać z jakimś kultem, to z jakim?
+- Castellion mówi o heretykach, wyróżnia wszelakie ich rodzaje. Zaznacza, że nie 
+należy stosować przemocy.
+    - *Nie mam śmiałości gwałcić swojego sumienia, bo nie chcę obrażać 
+    Chrystusa, który przez św. Pawła powiedział, że nie mam robić czegokolwiek 
+    oczym wątpię, czy jest słuszne. To, o czym ja wątpię, czy jest słuszne, jest 
+    związane z relacą do drugiego obywatela. (...) Mam się posługiwać swoją 
+    wiarą, a nie wiarą drugiego obywatela, który żyje obok.*
+    - Wiara kwestą indywidualną, wręcz prywatną.
+    - *Jeśli Kalwin hełpi się tym, że zabił Serveta, to nie oznacza to, że zabił 
+    heretyka. Znaczy to tyle, że zabił człowieka.*
+
+![](./slajdy_polska/18.png)
+
+### Dyskusja na czacie
+
+Definicja współsubstancjalności:
+
+- Współsubstancjalność - dzielenie tej samej substancji (w sensie jakościowym)
+- Współsubstancjalność czyli jedna natura, trzy osoby, czyli reprezentacje 
+jednego Boga
+- W ujęciu teologicznym pogląd, że trzy osoby boskie mają tę samą substancję 
+równocześnie będąc innymi osobami
+- Jedna substancja trzech osób boskich
+- Element tej samej substancji jest obecny w Bogu, Chrystusie i Duchu Świętym. 
+Np. istnieje coś takiego, jak boska substancja i ona jest obecna w każdym 
+z pośród trójcy świętej
+- Osoby Boskie są hipostazami jednej substancji
+
+Argumenty przeciw:
+
+- Dlaczego jedna substancja podejmuje z samą sobą dialog, sama się płodzi, 
+wysyła się na krzyż i tak dalej... Osobiście uważam, że "problem" ten jest 
+w ogóle istotny tylko dla chrześcijan a i tak nie wszystkich.
+- Odniesienie do Boga Ojca oraz jego syna, Jezusa - silna dyferencjacja osób 
+boskich, wprowadzenie hierarchii
+- Przy założeniu, że substancja jest jedna, a osoby trzy zakładamy równocześnie, 
+że substancja nie jest elementem dominującym (bo pozwala przy tym na tak silną 
+odrębność)
+- W Chrystusie unia hipostatyczna i obecność dwóch natur - ludzkiej i boskiej 
+może sugerować jakąś odrębność jakościową osoby Chrystusa
+
+Argumenty za:
+
+- Porównanie do trzech stanów wody
+- Dosyć dobre rozwiązanie problemu jedności trzech osób. Jedna substancja, trzy 
+przejawy, ja problemu nie widzę, objawianie się przez różne jakości jednej 
+rzeczy
+- Dzieki temu Boskosc przekracza bariery substancjalnosci
+- Bóg przekracza liczbę, liczba nie jest kresem
+
+### Argumenty Serveta:
+
+- Przyjmuje, że Jezus jest człowiekiem, Synem Bożym, Bogiem
+    - Pismo Święte mówi, że zmarł, zmartwychwstał, jest więc człowiekiem
+    - Biblia mówi, że jest Synem Bożym, nie ma co do tego sporu
+    - Czy jest Bogiem? Tu już potrzebne instrumenty filozoficzne. Jest Bogiem, 
+    o ile apostoł mówi, że jest w gatunku Boga. chrystusa z Bogiem łączy 
+    gatunek. Połowanie się na Tertuliana (racjonalizm mistyczny): Chrystus jest 
+    Bogiem jeśli chodzi o Jego formę, tą formą jest cnota (*virtus*), 
+    doskonałość boska. Ciałem człowiekiem, Duchem Bogiem. Servet zauważa, że 
+    można niedoceniać ludzkiej natury Chrystusa i robić z Niego tylko 
+    i wyłącznie Boga.
+- Chrystus istnieje w formie Boga.
+- Mamy przyjąć *modalistyczną* wersję. Metafora wody -- jedna substancja, 
+3 sposoby objawiania się. Jest to udany kompromis między racjonalnością, która 
+posługuje się pojęciami; z drugiej strony mamy prostotę przekazu biblijnego. 
+Przez racjonalność mamy przejść, aby skończyć na prostocie przekazu biblijnego.
+
+![](./slajdy_polska/19.png)
+
+- Pisma łączą elementy regilii, filozofii i fizjologii.
+- Krwioobieg paradygmatem życia, także życia Chrystusa.
+- Cytat po hebrajsku i grecku: *I nastała wojna w niebiosach*
+- *Pierwszym duchem jest krew, która ma siedzibę w wątrobie i naczyniach 
+krwionośnych. Drugi duch ma siedzibę w sercu. Trzeci duch, który jest światłem, 
+jego miejscem jest mózg. Tak skonstruowany jest człowiek. Krąży tutaj krew (ten 
+duch) między organami. Ten duch jest materialny. W nim jest dusza. Zbawienie 
+duszy może mieć aspekty materialne.*
+- To mistyczne ujęcie nie będzie potem kontynuowane przez antytrynitarzy 
+polskich
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
