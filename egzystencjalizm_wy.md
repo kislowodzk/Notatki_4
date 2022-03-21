@@ -742,6 +742,227 @@ egzystencja musi być odniesiona do czegoś, co jest absolutnie jednostkowe,
 absolutnie autentyczne i jedyne, ale nie dane nam nigdy wprost. To jest pewien 
 obrys, wprowadzenie do filozofii Kierkegaarda.
 
+## Wykład 3 -- 15.03.
+
+Kierkegaard przejdzie do historii narracji filozoficznej jako ten, któremu udało 
+się złączyć dwa typy komunikacji: tej balansującej na granicy poezji, 
+literatury, mitologii, sięgającej do archetypów historii światowej (lecz również 
+do współczesności, kryzys jednostki ludzkiej). Wykorzystuje ironię, którą 
+zastosuje przede wszystkim do swojej własnej osoby. Bierze dystans do siebie 
+samego, swojej biografii, tego, co go otacza, interesuje.
+
+Tkanka biograficzna jest dosyć uboga. Dramatyczne dzieciństwo półsieroty. 
+Chłopiec stygmatyzowany przez społeczeństwo jako ten inny, jako *malowany ptak*. 
+Kierkegaard umie te procesy przepracowywać. Orężem wyobraźnia, ogrom lektur, 
+które go pochłaniały. Z drugiej strony też dzieciństwo i wczesna młodość poddana 
+niewyobrażalnemu rygorowi człowieka, który już właściwie jest starcem, jest 
+coraz bardziej moralnie wymagający, jakby chciał wynagrodzić przewiny, które 
+wyzna będąc praktycznie na łożu śmierci -- przekleństwo Boga. Te problemy mogą 
+nam się wydawać odległe (tak jak warstwa religii), ale wtedy był niezwykle 
+istotny.
+
+Kierkegaard przechodzi coś, co można nazwać zwrotem osobowości popadania w to 
+bagno estetyzmu, w bagno kłamstw, rozkoszy o charakterze zmysłowym, sensualnym. 
+Legendą jest pobyt w domu publicznym, Kierkegaard był mizoginem, był 
+antyfeministyczny, miał zahamowania jeśli chodzi o kontakty seksualne. Był 
+człowiekiem, który po przewrocie, wybraniu jedynej myśli, dla której chciałby 
+żyć i umrzeć, zdecyduje się na życie w samotności.
+
+Myśl Kierkegaarda jest ciężka do uchwycenia, do scharakteryzowania. Jest 
+rozpisana na wiele głosów, osobowości. Do dzisiaj gorąco dyskutuje się kwestie 
+pseudonimów. One są znaczące, stanowią znaki w dziele.
+
+Zaczęliśmy od pierwszego okresu, który który Kierkegaard opisuje jako etap 
+estetyczny. Grupa pseudonimowych osobowości o imionach, które mają nas 
+orientować co do charakteru przedstawianych tam myśli.
+
+Kierkegaard nie był konsekwentny, jeśli chodzi o grę intertekstualną między 
+pseudonimami. Dzieło *Post scriptum* -- ogromny komentarz do swojego dzieła. To 
+też jest dzieło pseudonimowe, komentarz do *Okruchów filozoficznych*. Odwołuje 
+on to, co tam powiedział. Powiedział, że nie powinno się identyfikować dzień 
+pseudonimowych z nim samym. Czy jakiekolwiek wysiłki interpretacyjne będą 
+zasadne? Czy nie jest to kokieteria ze strony Kierkegaarda? Problem może wygląda 
+skomplikowanie, ale sam Kierkegaard zwraca uwagę, żeby śledzić postęp jego 
+myśli. Rozpisując się na autorów wskazuje na rysy swojej osobowości, na cechy, 
+które w danym okresie przeważają w tym wszystkim, co podejmuje, co chce 
+objaśnić. Z drugiej strony komunikacja pośrednia służy temu, by zwrócić się 
+bezpośrednio do jednostki. Nie chodzi o to, żeby ludziom cokolwiek narzucać (to 
+robi Hegel, Schopenhauer), myśliciele romantyczni już zwracają się inaczej, 
+przede wszystkim szukają wątku podmiotowego, do niego się zwracają. Wątkiem 
+naczelnym zwrócenie człowieka jemu samemu. Restytucja tego, o czym 
+zapomnieliśmy. Uczynienie człowieka jednostką. Jednostka Kierkegaarda jest 
+jednostką w swoim własnym doświadczeniu, zwróceniu do tego, co jest źródłem 
+subiektywności. Tam będzie mieszkała prawda. Chodzi o to, by jednostce 
+przywrócić jej samej, odrzucić jej to, co ją kiedyś zobiektywizowało, przeniosło 
+do świata materialnego, historycznego i tam kazało jej szukać czegoś, co jest 
+jej istotą (czemu winny jest Hegel). Nie ma czegoś takiego, jak istota 
+człowieka. Człowiek, jeśli czymś jest, to jest pewnego rodzaju dynamiką. Pewnym 
+procesem budowania się, tworzenia. jest przede wszystkim niedającą się nigdy 
+zaspokoić sprzecznością, albo zespołem sprzeczności.
+
+Trzeba powiedzieć, że Kierkegaard uznaje człowieka za pewnego rodzaju triadę. Na 
+ile Hegel (wróg numer 1) staje się tutaj dawcą terminologii? Z jednej strony 
+walka z ideami, meritum problemów, które Hegel przedstawił; z drugiej strony 
+zapożyczenie choćby samego języka. Ulega się wpływowi wroga. Posługuje się jego 
+metodą, by tym celniej go uderzyć, to chyba jest najbliższe prawdy.
+
+Restytucja jednostki w jej niepowtarzalnej indywidualności jest naczelną tezą, 
+linią Kierkegaarda. To jest możliwe w momencie, kiedy człowiek przejdzie pewne 
+etapy, stadia, sfery w tym, co Kierkegaard nazywa dialektyką jakościową (w 
+odróżnieniu od dialektyki heglowskiej, która oparta jest na ciągu nieskończonych 
+koniunkcji, które są mediatyzowane, sprzeczności zawsze zostają rozwiązane, 
+zawsze w perspektywie jest prawda, która jest całością i dokonuje zamknięcia, 
+holistycznego rozwiązania, to jest kres filozofii). Jeśli można mówić 
+o dialektyce, to tylko o dialektyce skoków. Tu dialektyka nie odnosi się do 
+tego, co przez rzeczywistość rozumiał Hegel, ale jest związana przede wszystkim 
+z człowiekiem, jego rozwojem. Nie ma żadnego planu (o ile człowiek go nie ma), 
+ten rozwój będzie uzależniony od pewnych stanów, które jednostka będzie musiała 
+wybrać w dramatyczny sposób.
+
+Żeby to wszystko przedstawić, to Kierkegaard musi opisać te stadia na drodze 
+życia. Nie ma tu żadnej chronologii, żadnego łańcucha przyczynowo-skutkowego. 
+Opisze to jako pewne punkty rozwoju (lub braku) na drodze życia jednostki.
+
+Kierkegaard był zdania, że większość z nas rodzi się estetykami, większość z nas 
+w tym stanie pozostanie, większość z nas jest z tego zadowolona bo nie ma 
+świadomości, że można skoczyć na wyższy sposób rozwoju.
+
+Podział estetyka na dwie kategorie (nierefleksyjny i refleksyjny). Estetyk jest 
+jednostką, która fałszywie pojmuje siebie i fałszywie lokuje swoje dążenia, 
+projekty, plany, wybory. Ucieka od siebie samego i chciałby osiągnąć swoje cele 
+(które naprawdę nie są celami), poprzez posłużenie się tym, co nie jest nim, 
+poprzez odniesienie się do świata zewnętrznego, do tych komponentów, które 
+zawsze go pociągną na dół. Jakie to komponenty? Człowiek złożony z takich 
+komponentów metafizycznych, które w żaden sposób nie są do pogodzenia. Musiał 
+uwzględnić to, co jest materialne, przeciwstawione duchowemu. Dla Hegla 
+zmysłowość, materialność jest tym, co musi ulec zanegowaniu Kierkegaard się 
+z tym zgadza. To jest tym, co nie jest indywidualizujące, przeciwnie -- 
+materialność wpycha do gatunkowości, do tego, czego Kierkegaard boi się 
+najbardziej. Materialność, bezpośredniość, jest tym, co charakteryzuje bardziej 
+gatunek, niż jednostkę. Temu przeciwstawiona duchowość, bardzo wiele jest 
+określeń duchowego u Kierkegaarda, łączy się to z pojęciem duszy, ducha, jaźni. 
+To zostaje ze sobą skonfrontowane,
+
+Oprócz tego, co jest materialne i duchowe, tego, co jest zmysłowością 
+i świadomością, to jest pierwsza seria sprzeczności. Jest jeszcze to, co 
+charakteryzuje kondycję bytu ludzkiego -- skończoność. Skończoność jest motywem, 
+który się przewija w filozofii. Konfrontacja z nieskończonością. Doczesność vs 
+wieczność. Wolność vs konieczność. Możliwość vs aktualność. To jest wszystko 
+związane z kategoriami, które mają określać jednostkę ludzką, człowieka. Gdyby 
+można było to wszystko pogodzić, to człowiek byłby syntezą spełnialną, a tak nie 
+jest tą syntezą. Mało tego: jeśli na pierwszym etapie: (w sensie dialektyki 
+jakościowej) estetyki, my wybieramy pierwsze elementy tych syntez, to robimy to 
+kosztem drugich, tych następników. Jeśli topię się w bezpośredniości i żądam 
+scalenia mojego aparatu zmysłowego, interesuje mnie świat barw, kolorów, 
+zapachów, piękne kształty, muzyka, to, co zmysłowe, to chwilowo mam żądzę 
+zaspokojoną piękna zmysłowego, ale inne zaspokojenie nie jest możliwe. Odchodzi 
+ode mnie sfera duchowego, choćby nawet potępiana przez Kierkegaarda rozumność 
+czy intelekt, ale w tym przypadku jest ona czymś wyższym. Kierkegaardowska 
+dialektyka jest dialektyką jakości, nie przechodzenia na zasadzie mediacji, 
+których Kierkegaard nie chce przejąć od Hegla, ale przeciwnie, na pogłębianiu 
+ich, na wzmacnianiu ich, bo na tym polega bycie jednostką, będzie ona wzmacniała 
+te sprzeczności.
+
+Esteta pozostaje na pierwszych elementach bycia człowiekiem z pominięciem 
+i pogwałceniem innych komponentów, które być może pchnęłyby go na wyższe etapy 
+rozwoju. Jest on człowiekiem zawieszonym między dwoma światami. Lokując swoje 
+projekty i życzenia w świecie zewnętrznym traci kontakt z tą rzeczywistością. 
+Chciałby wiecznie fruwać między możliwościami. Realizacja możliwości go nie 
+interesuje. Wieczne przebieranie, wybieranie w czymś, co wydaje się dawać mu 
+przyjemność, prowadzi do znużenia, nudy, których boi się najbardziej. To byłoby 
+do przyjęcia, gdyby nie to, że na horyzoncie bycia estety nie zarysowało się coś 
+jeszcze bardziej dramatycznego, coś bardziej rodzącego cierpienie. To jest ten 
+motyw, który Kierkegaard uważa z jednej strony za negatywną cechę osobowości 
+człowieka, z drugiej za coś pozytywnego, ponieważ będzie to siła, która go 
+w jakiś sposób pchnie dalej. To są dwie kategorie, które Kierkegaarda bardzo 
+interesują. Jedna jest czysto romantyczna (przejętej przez romantyków z okresu 
+romantycznego, kultury XVII wieku), *anatomia melancholii*. Kierkegaard 
+przypisuje melancholię tej dyspozycji ducha, który jest skazany na cierpienie, 
+który próbuje się wydobyć, pamiętając o tym, że istnieją wyższe sfery, niż 
+cielesna, wyższe żądze, niż świat pozbawiony zakotwiczenia, zaangażowania 
+w rzeczywistość. To jest melancholia, ale jest jeszcze jedna opisana przez 
+autora anonimowego. To będą lęk i trwoga, rozróżnienie między konkretnym 
+strachem a lękiem (trwogą). Ten wątek podjęty przez egzystencjalistów 
+współczesnych. To Kierkegaard po raz pierwszy wpadł na to, że strach jest czymś 
+do opanowania, ponieważ ma konkretny przedmiot, który da się nazwać. Trwoga jest 
+bezprzedmiotowa, płynie z czegoś, co Heglowi wydawało się naturalnym oponentem 
+bytu -- z nicości. Dla Kierkegaarda nicość nie jest naturalnym komponentem bytu, 
+jest to stan, w którym człowiek uświadamia sobie taki na przykład rozdział 
+między doczesnością i wiecznością albo między tym, co skończone i nieskończone 
+i nie obejmując tego rodzi się poczucie trwogi przed tym, co nie jest w żaden 
+sposób do opanowania. To, od czego można (tylko pozornie) uciec w świat 
+rozkoszy, w przygody Don Juana. Niewiązanie się z żadnym jednym obiektem, tylko 
+wręcz kompulsja, by tych obiektów było coraz więcej -- moment ostateczny, gdy 
+opera pokazuje go w ostatnim akcie, kiedy gasną światła i Don Juan musi zejść ze 
+sceny -- to jest niechlubny koniec estetyka, to jest coś, co z rozkoszy rodzi 
+lęk, z pewności świata bezpośredniego, zmysłowości, rodzi niepewność i coś, co 
+prowadzi do trwogi. Mało tego, prowadzi jeszcze do (po raz pierwszy w takich 
+subtelnych kategoriach opisanej) rozpaczy. Rozpacz to jest podsumowanie tych 
+sprzecznych ze sobą tendencji w substancji bycia człowiekiem. To wszystko, co 
+pokazuje, że albo uciekam od siebie, bo tak mi jest ze sobą niedobrze, albo 
+chciałbym tylko i wyłącznie narzucić siebie samego na to, co nazywa się światem. 
+Tak się kończy przygoda estety.
+
+Ten estetyk ma jedną tendencję, która nie jest całkowicie do potępienia. Jest 
+przywiązany, co stanowi błędnie ujmowaną indywidualność i subiektywność. Estetyk 
+być może zostanie (trzeba interwencji mocy, która nas wszystkich założyła, ona 
+będzie być może decydowała o tym, jak potoczą się nasze losy). Dzieło, które 
+opisuje tę walkę z pierwszego komponentu niemożliwej syntezy, jaką jest człowiek 
+-- *Albo-albo*. Samo dzieło pokazuje te dwie postawy. Pierwsza część to opisana 
+na wiele różnych sposobów *albo* estetyka. Świat zmysłów, fantazji, dryfowania, 
+nieangażowania się w nic, miłości, która jest tylko miłostką, na samym końcu 
+rozpaczy, samotności, pustki duchowej, skazania się na życie z samym sobą, co 
+jest bardzo ciężkie, nieakceptowanie samego siebie. Jednak nie możemy nie być 
+sobą, zabawa w przyjmowanie innych ról zawsze skończy się tym, co jest aktem 
+czystej rozpaczy. Kierkegaard opisuje to w *Chorobie na śmierć*.
+
+Drugie stadium: (może być ciąg przyczynowo skutkowy, jedno z drugiego może 
+wynikać, jednak nie dla człowieka, ponieważ my nie będziemy tego rozumieli, może 
+jest tu interwencja boska, czasami Kierkegaard podpowiada, że Bóg trzyma 
+człowieka jak marionetkę. Pociąga sznurkami, być może jest moment, w którym 
+zobaczymy walor i przeskoczymy do świata wyższego -- świata etyka. Ale nie mamy 
+żadnej pewności i musimy inaczej do tego podchodzić, patrzeć na zasadzie 
+przypadku albo wolności, która jest zawsze wolnością człowieka, bo innej nie 
+jesteśmy w stanie znać. Nie jest tak, że gdy duch spełni swój marsz, to na końcu 
+zrozumiemy prawdę. Nie możemy zrozumieć prawdy na samym końcu, bo mamy 
+perspektywę bytów ludzkich.)
+
+Drugi etap etapem opisanym mniej atrakcyjnie. Jest to seria listów, które mają 
+wskazać na wymiar życia, który jest wymiarem nie estetycznym, więcej, 
+skierowanym przeciwko postawie estetycznej, która prowadzi donikąd. Jest ona 
+czymś niebezpiecznym dla młodych ludzi. Sędzia Wilhelm pokazuje wszelkie 
+zagrożenia czyhające na młodego estetę, na każdego z nas. Wskazuje na wyzwania, 
+które powinniśmy zrealizować, żeby być jednostką. Co jest w przemowie sędziego? 
+Kierkegaard dokonuje zabiegu, polegającego na tym, że pisze to samo jeszcze raz. 
+Najlepiej jest obserwować istotę estetyzmu, etyki, z punktu wyższego. Z wyższej 
+perspektywy albo z czegoś, co już to przekroczyło. To przekroczenie to 
+późniejszy krok pozbywający się pewnego stanu aktualnego i skierowany ku czemuś 
+wyższego. Będzie o tym pisał Nietzsche i egzystencjaliści, Heidegger, Sartre. 
+Transcendencja jest wyjściem poza, ale nie tym heglowskim z pociągnięciem za 
+sobą starych treści, jest odcięciem od siebie tego, co zostaje przekroczone. 
+Moment, kiedy rozpacz, trwoga pchają estetę do granic, do tego, że on nie może 
+już ze sobą wytrzymać, nie może sobie ze swoją egzystencją poradzić, jest 
+momentem, który pomimo tej negatywności ma pozytywny wydźwięk i pcha jednostkę 
+na wyższy etap.
+
+Na czym ten etap polega? Znowu, jak to u Kierkegaarda, wszystko jest najeżone 
+niejasnymi tezami, paradoksami. Jest to cały czas bardziej szukanie, niż 
+prezentowanie gotowych rozwiązań. Wilhelm jest człowiekiem o ustabilizowanym 
+statusie, jest ustatkowany, jest mężem, ojcem, wykonuje zawód. Stanowi 
+przeciwieństwo tego, czym są esteci, jak się zachowują w życiu (bardziej jak się 
+nie zachowują). Etyk jest człowiekiem, z punktu widzenia danej społeczności) 
+w tę społeczną zaangażowanym. Jego kontrybucja do życia społeczności jest 
+znaczna i powinna polegać na tym, co Hegel nazywa obowiązkiem. To jest coś, co 
+musimy wypełniać jako ojcowie, mężowie, jako ludzie pewnej profesji. Wiążą nas 
+więzy o charakterze uniwersalnym. Przechodzimy na etap, który z rozbrykanego 
+subiektywizmu przechodzi na coś, co ma ustabilizowaną jakość życia, które jest 
+życiem pewnej społeczności o charakterze stabilnym z tym, co nazywa się zespołem 
+norm i wartości. Jest rzeczywistość mierzalna, sprawdzalna o charakterze 
+powszechnym, tej powszechności oczekuje od nas, posłusznych jednostek. Sędzia 
+cały czas będzie dokonywał przypomnienia, upominania, będzie wskazywał na te 
+aspekty, które w życiu etyka są czymś bezcennym, zdaniem sędziego Wilhelma.
+
+42:00
 
 
 
