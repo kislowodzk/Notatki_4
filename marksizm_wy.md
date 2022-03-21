@@ -619,3 +619,263 @@ formułuje mogą się wydawać daleko idące, ale należy docenić pokazanie, ż
 kultura może być interpretowana jako sfera pojęć, które wyrwały się spod naszej 
 kontroli, jako sfera wyalienowania.
 
+## Wykład 3 -- 21.03.
+
+### Mojżesz Hess
+
+Kolejna postać, z którą Marks wprost polemizował, a nie ośmieszał jej (po 
+Feuerbachu). Trwa spór, czy można go nazwać młodoheglistą. Nawet jeśli nim był, 
+to był nim krótko, później zajął własne, jeszcze bardziej radykalne, stanowisko. 
+Dochodził on do komunizmu. Badając duchowe źródła komunizmu dochodził do 
+judaizmu, do koncepcji syjonistycznych. Był zafascynowany Marksem. Być może to 
+on właśnie był źródłem socjalistycznych idei, którymi zajął się Marks. Łączył 
+radykalny judaizm z radykalnym socjalizmem humanistycznym okraszając to wszystko 
+Heglem. Marks Hessowi zawdzięcza szereg konkretnych idei, również takich, które 
+można traktować jako fundament marksizmu, łącznie z tezą fundamentalną: prymat 
+gospodarki w życiu społecznym, polityka, nauka, religia, moralność są pochodnymi 
+wydarzeń ze sfery gospodarczej. Czynniki gospodarcze determinują mechanizmy 
+sprawowania władzy, określają charakter życia społecznego. Pierwotnie to jest 
+odzwierciedlenie procesów zachodzących w sferze materialnej bazy. Oczywiście 
+później sfera polityczna dysponuje mechanizmami wtórnego wpływania na sferę 
+gospodarczą, jednak tu jest mowa o wpływie pierwotnym.
+
+Radykalna emancypacja -- wyzwolenie tej grupy społecznej, która jest najbardziej 
+uciskana. Musimy zacząć od sfery gospodarczej. Zmiana władzy doprowadzi tylko do 
+zmiany wyzyskiwaczy. Trzeba przebudować społeczeństwo od podstaw. To na 
+robotnikach skupia się całe zło, cała niesprawiedliwość współczesnego 
+społeczeństwa. Tu chodzi o całą grupę pracowników najemnych. To jest konieczny 
+warunek wyzwolenia ludzkości.
+
+Kolejna zasługa Hessa, jako potencjalnego natchnienia dla Marksa, to jest 
+identyfikowanie faktu, że źródłem zniewolenia jest własność prywatna. Charakter 
+własności środków produkcji wpływa nie tylko na produkcję, ale też determinuje 
+strukturę polityczną. Nie pomogą więc żadne reformy polityczne, nie pomoże 
+filozoficzna krytyka. Jeśli będzie istnieć własność prywatna, to będzie istnieć 
+nieproporcjonalny dostęp do dóbr. Jeśli tak, to ci, którzy mają więcej, dalej 
+będą rzędzić tymi, którzy mają mniej. Wolność to nie jest subiektywna 
+niezależność od woli innych jednostek, jak się potocznie wydaje. Wolność to nie 
+jest stan, w którym możemy robić co chcemy w granicach prawa, czy praw przyrody. 
+Prawdziwa wolność to jest zniesienie własności prywatnej oraz własności 
+państwowej, bo państwo też może być zbiorowym kapitalistą-wyzyskiwaczem. Potem 
+nastąpi raj, braterstwo, solidarność, sprawiedliwość.
+
+Hess podobnymi ideami zaraził Engelsa. Prawdopodobnie Engels poznał Marksa przez 
+Hessa.
+
+Od Hessa mamy też ideę rewolucji społecznej. Myśl, że rewolucja polityczna, czy 
+reformy polityczne, do niczego nie będą prowadzić. Chodzi o przeoranie 
+fundamentów życia społecznego. Teza o prymacie rewolucji społecznej nad 
+rewolucją polityczną. Pojawią się też ruchy, które stwierdzą, że należy zacząć 
+od przejęcia władzy i narzucić terrorem socjalistyczne społeczeństwo, ale to nie 
+jest opcja, za którą opowiedzą się Marks, Engels i Hess (choć ci pierwsi się 
+początkowo wahają).
+
+Marks, podobnie jak Hess, utrzymuje, że komunizm nie jest utopią, ale 
+racjonalnym wnioskiem z obserwacji społeczeństwa, z definicji człowieka. 
+Człowiek istotą społeczną, radykalnie wspólnotową. Radykalna afirmacja 
+wspólnotowości. Komunizm będzie się zgadzał z uniwersalistyczną wizją ludzkiej 
+natury. To niesie za sobą obietnicę zniesienia wszystkich innych konfliktów, 
+które nawarstwieją się na problemach fundamentalnych środków produkcji. Zniknie 
+dorobkiewiczostwo, egoizm. Dokona się to nie tylko w relacjach z innymi ludźmi, 
+ale też w skali makro. Zanikną państwa, narody, jako odseparowane wspólnoty, 
+którego tożsamość wyrasta z wrogiego ustosunkowywania się u innych.
+
+Hess twierdzi, że do rewolucji społecznej dojdzie wtedy, kiedy ta różnica 
+pomiędzy bogactwem kapitalistów (która będzie rosła w toku rozwoju gospodarki 
+kapitalistycznej przy zmniejszaniu się liczby kapitalistów) a ubóstwem mas 
+sproletaryzowanych będzie rosła. Marks dojdzie do wniosku, że w toku rozwoju 
+gospodarki kapitalistycznej struktura upraszcza się do społeczeństwa 
+dwubiegunowego. Zaniknie klasa średnia. Klasowa teoria społeczeństwa ma 
+charakter biegunowy. Ma charakter wojny, zazwyczaj prowadzonej w ramach państwa 
+prawa, ale czasem przechodząca poza te środki. Klasy dążą do urzeczywistnienia 
+swoich interesów kosztem interesów innych klas. Trzeba dążyć do zniesienia tego 
+absurdalnego porządku, w którym ceną mojego zadowolenia jest nieszczęście 
+innych. Marks się pomylił, bo już za jego życia okazuje się, że podział klasowy 
+się nie upraszcza, a komplikuje. Złożoność klasowa się komplikuje. Tworzy się na 
+przykład niższa klasa średnia, którą tworzą wykwalifikowani robotnicy.
+
+Ekstrapolacja teorii alienacji (która u Stirnera jest rozszerzona na całą sferę 
+ludzkich wartościowań, na wszystkie wartości, które uznajemy za istotne dla 
+życia społecznego, które odbierają wolność). Hess mówi, że istnieje bożek 
+nadrzędny. W czasach nowoczesnych ten bożek ujawnia się jako pieniądz (to jego 
+przejawem są wszystkie bożki poprzednie) jako źródło wszelkiej alienacji. 
+
+Marks ze skłonnością zbierania wątków prawdziwych u poprzedników? Choć tutaj 
+oczywiście radykalna krytyka. Druzgocąca ironia. Generalnie jakąkolwiek myśl 
+Marksa weźmiemy, to możemy znaleźć historycznie jeśli nie wprost jej 
+sformułowanie, to jej zapowiedź. Cechą, ale i wartością myślenia Marksa nie 
+byłaby bynajmniej oryginalność. Wartością, której pożądał Marks, nie było 
+nowatorstwo, lecz prawda. Stworzenie jednego systemu. Odtworzenie źródła 
+poszczególnej doktryny nie jest trudne. Być może nie ma tu elementów 
+oryginalnych.
+
+### Claude Henri de Rouvroy, comte de Saint-Simon (hrabia Saint-Simon)
+
+Utopijni socjaliści nie byli utopistami w potocznym znaczeniu. Ich analizy 
+funkcjonowania nowoczesnego (porewolucyjnego) społeczeństwa są równie wnikliwe 
+co analizy ekonomistów klasycznych. W tym kontekście można przedstawić całą 
+historię premarksistowskiego socjalizmu, jednak wystarczy skupić się na 4-ech 
+postacach. Pierwszą hrabia Saint-Simon.
+
+Pierwsza kwestia -- problem socjalizmu i jego statusu. Przekonanie Marksa 
+i Saint-Simona, że socjalizm nie jest utopią, że to nie jest idealny projekt, 
+który rodzi się w głowach szlachetnych reformatorów. To nie jest projekt, to 
+jest wynik procesu historycznego w tym procesie immanentnie zawarty. Socjalizm 
+realnością historyczną, stanowi efekt, wynik kryzysu (załamania) wcześniejszego 
+ustroju społeczno-gospodarczego. Marks, podobnie jak Saint-Simon pojmuje 
+mechanizm historii, siłę napędową dziejów. Tą siłą siła gospodarcza, przemiany 
+gospodarcze, które są wynikiem przemian w sferze technologicznej. Tym, co jest 
+realną ludzką historą nie są opowieści o zmianach królow na tronach. Prawdziwa 
+zmiana tam, gdzie ludzie opracowują coraz doskonalsze narzędzia. To jest koło 
+zamachowe historii. Historia społeczna, polityczna jest w istocie wtórna wobec 
+historii zmian technicznych. To rozwój narzędzi ostatecznie określa przemiany 
+polityczne. Saint-Simon twierdzi, że żyjemy w epoce, w której przemiany 
+społeczne i polityczne nie nadążają za przemianami technicznymi. Te dwa porządki 
+się rozeszły. Trzeba zatem zmienić ustrój społeczno-polityczny, żeby dogonić 
+rozwój polityczny. Drapieżny kapitalizm okazał się niewydolny, powstrzymuje 
+rozwój, prowadzi do nędzy i upodlenia milionów wyzyskiwanych robotników, 
+chłopów, którym odbiera się ziemię. To w sferze społecznej, w sferze politycznej 
+jest jeszcze gorzej -- większość państw znajduje się na poziomie feudalnym. 
+Saint-Simon mówi, że nowoczesny przemysł oparty na maszynie parowej dowodzi, że 
+to, co było charakterystyczne dla poprzedniego ustroju prowadzi do kryzysów, 
+anarchii, do marnowania nowoczesnych narzędzi. Chodzi o to, żeby technologię 
+wykorzystywać dla szczęścia i dostatku wszystkich, którzy pracują. Anarchię 
+wolnej konkurencji należy zastąpić planowaniem. O życiu społecznym powinni 
+decydować ci, którzy pracują. Ludzie pracy ujmowani bardzo szeroko: od ślusarza 
+walącego młotem w blachę po bankowca udzielającego pożyczki właścicielowi 
+fabryki. Saint-Simon nie dąży do zniesienia własności prywatnej, ale do tego, 
+aby była ona owocem naszej pracy. Nie jest fanem proletariatu, komunizmu. 
+Podstawowy podział społeczny również jest dychotomiczny: podział na próżniaków 
+i producentów, tych, którzy życią z własnej pracy oraz tych, którzy na pracy 
+innych żerują. Do tej warstwie producentów należy też *kadra menadżerska*, 
+kupcy, bankowcy. Tym wszystkim powinna przysługiwać władza. Wtedy nastranie 
+epoka industrialna, w której ludzkie siły nie będą się marnować. Chodzi o to, 
+żeby ludzie panowali nad przyrodą, a nie na innymi ludźmi. Stąd pochodzi formuła 
+wyzysku człowieka przez człowieka, którą przejmie Marks.
+
+U Saint-Simona mamy materializm historyczy, analizę społeczeństwa w kategorii 
+niemal sił fizycznych. Mamy analizę konfliktu społecznego, którego podstawą 
+relacja pomiędzy pracą najemną a kapitałem.
+
+### Pierre-Joseph Proudhon
+
+Z nim już Marks miał bezpośredni kontakt. Początkowa współpraca, konflikt, 
+rozejście się z nim -- to jest decydujące dla rozwoju socjalizmu. Konflikt 
+pomiędzy Proudhonem a Marksem przejdzie pod pewnymi względami w konflikt między 
+anarchistami i marksistami. W pewnym momencie były to dwie najważniejsze 
+postaci. Z jednej strony niemiecki doktor filozofii, z drugiej strony francuski 
+zecer, który pisze książki w wolnych chwilach, które ma w więzieniu. Z jednej 
+strony intelektualista, z drugiej trybun ludowy. Z jednej strony Marks mówiący 
+*w imieniu* ludzi pracy, z drugiej strony człowiek pracy, który próbuje 
+wypracować język. Proudhon, dla którego podstawą jest nędza, której doświadczył, 
+która pchnęła go w stronę myśli samobójczych.
+
+Proudhon był przez pewien czas zajmował się księgowością. Widział w jaki sposób 
+rodzi się niewypracowany dochód przedsiębiorcy. Widział różnicę pomiędzy 
+wartością wypracowanych przez robotników dóbr i sumą wypłat. Proudhon bodaj 
+najważniejszym przeciwnikiem Makrsa, najbardziej dla Marksa niepokojącym.
+
+Jedna z najważniejszych prac młodego Marksa (*Nędza filozofii*) odpowiedzią na 
+Proudhonowską *Filozofię nędzy*. To jedyna książka, którą Marks napisał po 
+francusku.
+
+Proudhon jednym z najbardziej wpływowym przeciwników. Proudhonizm dominował we 
+francuskim socjaliźmie, później odrodził się w formie syndykalizmu w latach 
+90-tych. Oddziałuje na ruchy socjalistyczne, związki zawodowe, anarchistów 
+(pierwszy raz wypowiedział ten termin w znaczeniu pozytywnym). Pojęcie 
+socjalizmu naukowego również pochodzi od Proudhona. Tak samo pojęcie rewolucji 
+permanentnej.
+
+Można zestawić poszczególne idee. Między osobowościami: P. (Proudhon) jest 
+nieufny wobec abstrakcji, syntezy, uogólnień. Jego socjalizm ma być naukowy -- 
+opierający się na wnikliwej analizie życia samego, które oparte jest na 
+sprzecznościach, przypływach, odpływach. Próba skonceptualizowania doświadczeń 
+życiowych, który każdej władzy musiał zajść za skórę, atakowany przez rząd 
+równie mocno, co przez kościół. On pierwszy ogłosił, że religią ludzi wolnych 
+jest lucyferyzm -- chodzi o to, by nie było panów i bogów. M. (Marks) naukowcem, 
+który uważa, że po Heglu ma doskonałą metodę, za pomocy której rozwiąże 
+problemy. Jest u P. element heglowski (wizja sprzeczności i negacji jako źródła 
+ruchu). M. zarzucał P. niekompetencję, jeśli chodzi o myśl Hegla. U P. są 
+sprzeczności, nie ma systemu. U M. monizm, obiektywistyczna wizja historii. M. 
+wierzy, że stworzył filozofię, która może obyć się bez moralizmu, wartościowań, 
+sentymentu; że odkrył mechanizm kryjący się za koniecznością. P. upiera się, że 
+antynomia pomiędzy bytem a powinnością jest z bytu nieusuwalna. U P. mamy 
+kantyzm w formie moralizmu -- jest obecny duch mieszczański. M. nazwałby P. 
+francuskim Kantem. Wg. M. największy filozoficzny błąd P. leży w tym, że popadł 
+on w dogmatyzm. Jeśli chodzi o dalsze poglądy dotyczące polityki, to P. jest 
+wolnościowcem -- chodzi o to, by nastał kres rządu człowieka nad człowiekiem, 
+środkiem oddolna organizacja w spółdzielnie, stowarzyszenie. Obowiązkiem państwa 
+ułatwianie tej samoorganizacji. W duchu mutualizmu postulowanie zakładanie 
+banków ludowych: uczynienie z państwa pierwszego pracodawcy. Robotnicy powinni 
+zakładać społeczne kasy, towarzystwa ubezpieczeniowe, spółdzielnie, by tworzyć 
+gospodarkę alternatywną, gdzie nie będzie nacisku rządu i wielkich 
+gospodarczych. M. powiada, że w rewolucji władzę powinna przejąć rewolucyjna 
+elita, partia, konieczna jest czasowe dyktatura partii (choć nikt nie wie ile 
+czasu będzie to trwało). P. nie jest przeciwnikiem własności prywatnej jako 
+takiej, jest zwolennikiem, by własność rozpowszechnić, przede wszystkim przez 
+banki ludowe, dostarczanie nieoprocentowanych kredytów dla zrzeszeń. Dla P. 
+komunizm, który głosi Marks, to jest zamiana kilkunastu kapitalistów na jednego 
+kapitalist rzędowego, który zastąpi wcześniejszych wyzyskiwaczy. Kapitał trzeba 
+rozproszyć. Ważne jest to, co jest małe, co dzieje się lokalnie. Nie komunizm, 
+a wzajemność, mutualizm, politycznie federalizm. Chodzi o powstrzymanie, 
+zmniejszenie centralizacji. Małe organizacje społeczne. M. uznaje komunizm za 
+konsekwencję historii, dokonuje się ona przez monopolizację. Dla M. ważna nie 
+wolność swobodnie organizującego się społeczeństwa, a jedność. Na początku 
+konieczna centralizacja. *Proletariusze wszystkich krajów, łącie się*.
+
+### Louis Auguste Blanqui
+
+### Louis Blanc 
+
+Obaj źródłem marksowskich sprzeczności. Przedstawiają rozdarcie. Dyktatorski 
+socjalizm partii kadrowej Blanquiego.
+
+Zasadnicza różnica polega na totalnie odmiennym rozumieniu rewolucji jako zmiany 
+społecznej. Blanqui -- władzę przejmują partie kadrowe. Blanc rewolucję rozumie 
+jako rozciągnięte w czasie reformy, ruch robotników przy wsparciu państwa, za 
+która partia postępuje. Ten konflikt odżyje na początku XX wieku. Za Blanquim 
+opowie się Lenin, za Blancem opowie się Róża Luksemburg (z modyfikacjami)
+
+Blancquizm:
+
+- teoria i praktyka rewolucji
+- przewrót przez  spisek, zamach stanu, obalenie władzy, rządy terroru
+- narzucenie socjalizmu jako tymczasowej dyktatury elit, która jest konieczna 
+aby z korzeniami wyrwać dawny ustrój
+- walka klas, dyktatura proletariatu
+- z nim Marks częściej się zgadza
+- przejmuje on Proudhonowską koncepcję rewolucji permanentnej (tu była koncepcja 
+reform), jednak dla Blancquiego rewolucja trwająca tak dłuo, aż nie wybije 
+wszystkich poprzednich władz
+- partia idealną robotniczą reprezentacją
+- proletariat monolityczny a partia jako jedyna w pełni ogarnęła ich pogląd
+- rewolucja jako wolna domowa -- pierwotnie walką z tymi, którzy mają władzę
+- walka przeciwko bogatym (Lenin rzucił hasło rewolucyjne: grab zagrabione; 
+Proudhon: własność to kradzież, ale nie każda własność jest kradzieżą)
+- potrzebna partia spiskowa, konspiracyjna
+- wbrew Marksowi: ważniejsza wola tej partii, niż mechanizmy historyczne
+- doświadczenie rewolucji październikowej potwierdza to spojrzenie
+- Lenin większym uczniem Blanquiego, niż Marksa
+
+Blanc:
+
+- na drodze do socjalizmu bardziej liczy się współpraca z państwem, niż 
+konspiracja, zbrojne przejęcie władzy
+- państwo, które stopniowo naprawia życie społeczne, usuwa wyzysk, bezrobocie
+- państwo bez wykluczania, stwarzające równe szanse
+- to właśnie jest rewolucja: nie wojna, nie przemoc, a długotrwaa rewolucja 
+społeczna
+- tylko państwo demokratyczne zdobędzie się na reformy
+- szeroki zakres przywilejów socjalnych, państwo opiekuńcze
+- ta wizja zdominuje teorię i praktykę powojennych partii socjalistycznych 
+i socjaldemokratycznych
+
+Dwie linie zrozumienia Marksistów. Ludzie uważający się za marksistów będą szli 
+linią Mao, Lenina, Tkaczowa, Blanquiego. Część socjaldemokratyczna, 
+rewizjonistyczna, będzie szła linią Blanca, współpraca z państwej. Dwa żywioły, 
+które w marksiźmie, ale i w głowie samego Marksa będą się zmagać. Wydaje się, że 
+częściej duch Blanquistowski będzie przemawiał. Lecz kiedy Marks szuka 
+argumentów przeciwko argumentom Bakunina, to będzie powoływał się na Blanca. Tak 
+jak dla całego ruchu rewolucyjnego są to dwa modele idealne, to one zmagają się 
+w samym Marksie.
+
