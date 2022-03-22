@@ -1142,6 +1142,148 @@ jego siła.
 
 ## Wykład 4 -- 22.03.
 
+### Fiodor Dostojewski
+
+Założyciel ruchu, który Mróz identyfikuje jako niesystemową szkołę 
+egzystencjalistyczną. Zanim bardziej ułożone uwagi, trzeba zwrócić uwagę na dwa 
+podstawowe fakty
+
+1. Egzystencjalizm wypowiada się w formie dalekiej od dyskursu stricte 
+filozoficznego. Świadectwo sztuki. Wiele analiz kondycji bytu ludzkiego. W tym 
+Dostojewski na tle XIX wieku (pozytywistycznego, zidealizowanego) jest figurą, 
+która nie ma sobie równych. Zostawił świadectwo dotyczące kondycji bytu 
+ludzkiego wręcz unikalne. Arcydzieła, zdaniem Mroza, nieśmiertelne. Dostojewski 
+jednym z najpotężniejszych nie tylko pisarzy, ale i myślicieli, jakich ludzkość 
+wydała.
+2. Kwestia uzgodnienia treści explicite z tym, co jest ładunkiem implicite, 
+implikowanym w twórczości artystycznej. W przypadku Dostojewskiego ciężko jest 
+wskazać na wspólny punkt odniesienia twórczości literackiej z tym, co można 
+z tej twórczości wydestylować, czyli światopoglądu, który na pierwszym miejscu 
+dotyczy spraw jednostki, jej relacji, relacji do transcendentu, czy poszukiwania 
+sensu życia albo uznania, że ten sens jest niemożliwy. Nie będą punktem 
+odniesienia ani dzienniki, ani liczne głosy krytyczne (był też krytykiem), które 
+nie zawsze korespondują z *oficjalną* wersją jego poglądów. Co innego prawda 
+artystyczna przekazana przez dzieła literackie, co innego jego poglądy. Jednak 
+co do kilku rzeczy panuje niepodzielna zgodność.
+
+Zgodnie z tradycją należy zwrócić uwagę jeszcze na trzeci punkt: Dostojewski 
+synem Rosji carskiej. Jest klasycznym sparzonym neurotykiem. Moskwa, która jest 
+właściwie państwem w państwie. Organizmem odciętym od Europy Zachodniej, wydanym 
+na pastwę pewnych tendencji, z którymi Dostojewski, jako młody człowiek, będzie 
+walczył.
+
+Po pierwszych nieudanych studiach w szkole inżynierskiej Dostojewski przechodzi 
+do zainteresowań nad literaturą. W tym charakterystyczny rys epoki. Zaczyna od 
+romantyzmu, uczy się francuskiego, zna niemiecki. Zaczyna czytać poezję 
+francuską, interesować się Balzakiem, ale z pisarzy bliższych mu można też 
+wymienić Hoffmanna, Rosjanin Gogol. Pierwsze próby, gdy Dostojewski zarzuca 
+karierę inżynierską, będą się koncentrowały na opisie realizmu poszerzonego, 
+nadrealizmu, życia w Rosji za cara Mikołaja II. Ważnym momentem w jego życiu 
+i twórczości zwrócenie się ku postępowej inteligencji, ku kołu pietraszowców. To 
+była niewinne stowarzyszenie młodych ludzi, którzy dyskutowali na temat tego, co 
+dzieje się poza Rosją i co powinno się w Rosji zrobić. Rosja nie przyjmowała 
+żadnych reform. Młodzi ludzie wpadają w sidła prowokacji. Wysłać ludzi na 
+katorgę, ale przedtem stawia się ich przed plutonem egzekucyjnym, ułaskawić, 
+w Dostojewskim wzbudzona refleksja, która będzie mu towarzyszyć do końca. 
+Pytanie za jakie wartości można poświęcić swoje własne życie.
+
+Reformy edukacyjne, próby zlikwidowania niewolnictwa, pańszczyzny, rozluźnienie 
+cenzury albo jej zniesienie -- takie idee głoszone przez pietraszowców. Młody 
+Dostojewski po przejściu (konwersji) uznaje, że dla spraw ziemskich nie warto 
+nigdy się poświęcać. Udaje się na katorgę. Tam zbiera podstawowy materiał, który 
+interesuje każdego egzystencjalistę. Nie było w historii europy miejsc 
+wskazujących dobitniej na to, jak człowiek może wygrywać/przegrywać swój los, 
+niż katorgi, obozy koncentracyjne. Dostojewski zbiera materiał, który nazywa się 
+materiałem o prawdziwym istnieniu ludzkim, albo o *poczwie* -- ważny termin, 
+jest to gleba. Ten młody inżynier w stopniu podoficerskim o pochodzeniu 
+szlacheckim, którego ojciec kupuje dwie wsie by je potem sprzedać i dać sobie 
+odebrać za długi (rodzina będzie je odzyskiwała) zostaje skazany jest więźniem 
+politycznym. Zostaje wrzucony w to, co później uzna za najprawdziwszy element 
+narodu. Właśnie w tę glebę, *poczwę*. To są ci ludzie, którzy popełnili pewien 
+występek, ale ten występek ratuje ich godność. To jest paradoks, o którym będzie 
+później. Na ten moment istotne dwie rzeczy:
+
+- katorga Dostojewskiego jest najgłębszym doświadczeniem egzystencjalnym 
+pisarza, to otarcie się o śmierć (nikt nie może przewidzieć szaleństwa cara, nie 
+wiadomo, czy to było zaplanowane, czy rzeczywiście nastąpiło to pod wpływem 
+impulsu, że im daruje życie). Znajduje się w miejscu, które jest oddalone od 
+jakichkolwiek centrów kulturowo-cywilizacyjnych. Spotyka ludzi, którzy są dla 
+niego pewnego rodzaju ideami człowieczeństwa w ogóle. To są ludzie, którzy 
+zamordowali, okradali, ale nigdy nie utracili godności, ponieważ ta godność 
+łączy się z czymś, co dla Dostojewskiego nazywa się *transcendencją* albo *wiarą 
+w Boga*.
+- ta wiara w Boga jest dla Dostojewskiego tym, co nie tyle pozwala przetrwać te 
+lata, ale przede wszystkim uzyskać impuls do tworzenia, *moce nadnaturalne do 
+tworzenia*. Jest element ważny element biograficzny, ważniejszy, niż relacja do 
+matki czy ojca -- moment, w którym Dostojewski otrzymuje w drodze na katorgę 
+otrzymuje Biblię (Ewangelię?). Ewangelia, z którą Dostojewski się nigdy nie 
+będzie rozstawał. To będzie prawdziwa inspiracja jego twórczości. Przekaz, 
+z którym człowiek, nawet ten, który pobłądził, musi się w jakiś sposób zetknąć. 
+Jeśli się zetknął, wierzy w ten przekaz, jego sprawy zostaną inaczej rozwiązane. 
+Sam człowiek nie jest w stanie nic zrobić.
+
+Po okresie katorgi Dostojewski wyścig z utraconym czasem, dostaje energii 
+nadludzkich tworząc bardzo szybko (co jest również wynikiem skomplikowanej 
+sytuacji życiowej: walczył z zadłużeniem, sprzedaje swoje siły, żeby zarobić). 
+Rozpoczyna zsyp powieści, które są *brewiarzem XIX-wiecznego humanizmu*.
+
+Pierwsza pozycja -- rozprawa z tym, co Dostojewski nazywa alienacją, my to 
+nazwiemy dehumanizacją jednostki. Są to **zapiski z podziemia**. Kilka wątków. 
+Jakiekolwiek literalne traktowanie tekstu prowadzi do niewłaściwych 
+interpretacji. Dostojewski dokonuje spowiedzi człowieka, ta spowiedź nie jest 
+bynajmniej wyrazem jego własnych poglądów. Jest to krytyka pewnego stanu 
+duchowości/umysłowości, która przychodzi z prądami zachodnimi. Ten atak na rozum 
+jest właściwie pierwszym tak gwałtownym i bezwzględnym atakiem na to, co 
+wypracowała tradycja kultury europejskiej od czasów Sokratesa. Dlaczego musimy 
+uciekać w sferę bezgranicznego, niewysławialnego cierpienia, z tego co 
+Dostojewski nazywa pogardliwie *mrowiskiem*, *kurnikiem*, z tego, o czym cała 
+cywilizacja zachodnia marzyła w postaci kryształowego pałacu. Prawdziwy Rosjanin 
+musi odejść od złych, zachodnich wpływów. Pokazuje nam tego człowieka, który 
+został skazany na podziemie. On może tylko rezonować. Rezonerstwo nie wyzwoli go 
+z cierpienia. Jeśli coś, jakiś los, może przypadek, wysyła pewnego rodzaju 
+wysłannika, to zawsze będzie to ktoś, komu się nie udało, ktoś, kto zostaje 
+skazany na cierpienie dlatego, że został w życiu skrzywdzony. Ważny motyw 
+w twórczości Dostojewskiego -- skrzywdzona kobieta. To jest wersja Magdy 
+Magdaleny. Dostojewski zawierza Ewangelii i zawsze te obiekty będą próbowały 
+rozwiązać problem za kogoś, w odniesieniu do transcendencji, poza porządkiem. Ta 
+dziewczyna -- prostytutka -- nie może uratować człowieka z podziemia, dlatego że 
+ten człowiek z podziemia woli udać się w sferę *podświadomości*, mieszkać i żyć 
+tak, jak żyje szerszeń czy robak. Mieć świadomość, nie starać się z tego wyjść, 
+dlatego, że odebrano mu wiarę. Tę wiarę odebrali mu fałszywi prorocy tacy jak 
+Stirner, cały pozytywizm, nawet Hegel i Kant. On musi wypić swoją herbatę, nic 
+mu z tego nie będzie, nic po ich rozumie. On zostanie na tym samym poziomie, 
+poziomie cierpienia. Jakiekolwiek przejawy ratunku zostaną przez niego 
+odrzucone.
+
+Ten motyw odrzucenia zostaje rozwinięty w wielkim moralitecie: **Zbrodni 
+i karze**. To jest, tak jak wszystko u Dostojewskiego, znakomicie skonstruowana 
+powieść. Dostojewski czerpał
+
+19:50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
