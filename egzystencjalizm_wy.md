@@ -1257,9 +1257,27 @@ odrzucone.
 
 Ten motyw odrzucenia zostaje rozwinięty w wielkim moralitecie: **Zbrodni 
 i karze**. To jest, tak jak wszystko u Dostojewskiego, znakomicie skonstruowana 
-powieść. Dostojewski czerpał
+powieść. Dostojewski czerpał materiał *z życia*, umiejętnie studiował wszelkie 
+możliwe gazety brukowe, które donosiły o nowych wydarzeniach. W poetyce 
+Dostojewskiego ważne jest nakładanie różnych elementów na siebie. Warstwy są 
+nakładane na siebie, tak powstała *Zbrodnia i kara*. Dostojewski umiał nałożyć 
+swoją niepowtarzalną strukturę na zdarzenia niebanalne. Wszystko 
+u Dostojewskiego graniczy z wielkim patosem, z wielkim kiczem i autentycznymi 
+wydarzeniami, któreczynią te dzieła strukturami szalenie dynamicznymi. Mamy 
+klasyczą strukturę narracyjną -- ona w powieściach egzystencjalistycznych jest 
+wyznacznikiem metafizyki tego świata. Struktura narracyjna ułożona bardzo 
+prosta. Bohater-indywiduum, nie jest romantycznym bohaterem. Raskolnikow jest 
+studentem, ale takim, który już nie studiuje. Raskolnikow, jak każdy członek 
+inteligencji rosyjskiej został skażony w swojej niewinności, skażony złymi 
+teoriami, złymi prawami, książkami, artykułami. Jednostka o ogromnej strukturze, 
+sile moralnej, jest związana z praw, bo sama ustanawia prawa. Później, tuż po 
+Dostojewskiego taką tezę będzie sprzedawał Stirner, szkoła Heglowska, za moment 
+Nietzsche. Może wielka jednostka usytuować się ponad prawem, ponad zasadami 
+moralności. Raskolnikow cierpi na to, co doskwiera bohaterom Dostojewskiego, 
+widzi coś w olśnieniu, w momencie, który nie jest dostępny innym. Jest to 
+epilepsja. To jest sygnał płynący bezpośrednio z tamtej sfery.
+23:28
 
-19:50
 
 
 
