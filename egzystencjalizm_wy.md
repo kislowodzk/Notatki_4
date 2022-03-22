@@ -960,10 +960,187 @@ subiektywizmu przechodzi na coś, co ma ustabilizowaną jakość życia, które 
 norm i wartości. Jest rzeczywistość mierzalna, sprawdzalna o charakterze 
 powszechnym, tej powszechności oczekuje od nas, posłusznych jednostek. Sędzia 
 cały czas będzie dokonywał przypomnienia, upominania, będzie wskazywał na te 
-aspekty, które w życiu etyka są czymś bezcennym, zdaniem sędziego Wilhelma.
+aspekty, które w życiu etyka są czymś bezcennym, zdaniem sędziego Wilhelma, 
+który będzie starał się uratować Johannesa.
 
-42:00
+Esteta twierdzi, że jest tym, czym jest, nie wychodzi poza swoją ograniczoną 
+przez zmysłowość, źle pojętą wolność naturę. To nie pozwala mu na 
+transcendowanie kondycji bycia tym, czym jest. To będzie miało kolosalne 
+znaczenie dla losów egzystencjalizmu światowego. Estetyk nie chce, nie może 
+dokonać wyboru. *Wybór absolutny* -- wybór siebie samego, który pozwala, bym 
+stał się tym, kim się stanę. Z pewnej fałszywie pojętej istotowości bycia estetą 
+do takiej osobowości, która dokonała świadomego wyboru siebie samego w obliczu 
+czegoś, co zbliża mnie do Absolutu. Do tego, co otwiera przede mną pewną 
+rzeczywistość. Rzeczywistość już wychodząca poza to, co jest bezpośrednie, 
+zmysłowe. Estetyk polega na tym, że jest tym, czym jest. Sartre zarezerwuje to 
+(to, co jest, czym jest) dla sfery rzeczy.
 
+Sędzia Wilhelm wie, że społeczeństwo będzie odgrywało ogromną rolę. To, co 
+estetyczne, musi zostać stranscendowane na to, co jest wyborem samego siebie. 
+Ten wybór nazywa autor pseudonimowy wyborem pomiędzy dobrem a złem. Te kategorie 
+w stadium estetycznym nie może się pojawić, bo wprowadzają etyczny etap. 
+Pojawiają się tu też pojęcia grzechu, przewiny oraz to, co Kierkegaard w sposób 
+twórczy opracował pod nazwą *powtórzenia*.
+
+Co to znaczy? Esteta jest motylem -- żyć krótko, intensywnie. Intensyfikacja 
+przyjemności ma polegać na tym, żeby je ograniczać, bo się szybko przejedzą. 
+Moment znużenia, przesycenia. Refleksyjny esteta o tym doskonale wie, ale jest 
+jeszcze jedna rzecz, która go przeraża: zaangażowanie. On się nie chce 
+zaangażować. Zaangażowanie to nic innego, tylko powtórzenie czegoś. Jeśli 
+przyjmuje się pewną postawę, rolę społeczną, to trzeba to powtarzać, przyjąć 
+zespół norm, własności, utrzymywać je własnym wyborem. Kierkegaard zwraca uwagę, 
+że nie ma czegoś takiego, jak obiektywny świat wartości bez udziału podmiotu, 
+subiektywności człowieczej. Ale ta subiektywność człowiecza jest subiektywnością 
+etyka -- estety to nie interesuje. Powtórzenie jest wpierw kategorią etyczną 
+(ciągłe podejmowanie tego wyboru, którego się raz dokonało). Przykład obrączki 
+-- to ona przypomina, że codziennie rano budzę się jako mąż (albo wdowiec 
+i codziennie będę utrzymywał tylko pamięć o małżeństwie). Etyka jest egzystencją 
+w pewnej ciągłości. Nie ma skoków. Wszystko oparte na tym, że odnosi się do 
+świata, który jest światem o obiektywnej naturze. Na tę obiektywną naturę 
+składają się ponawiane i powtarzane wybory innych osobników, którzy stanowią 
+społeczność. To jest świat, który gwarantuje istnienie wartości. Jest dana 
+obiektywna rzeczywistość. Hegel opisywał ją w kategoriach duchowych.
+
+Etyk musi orientować się też na inne kategorie, kryteria, które estecie są obce. 
+Na przykład kategoria grzechu i związanym z nim lęku. Sięgnięcie do swoiście 
+pojętej teologii, że jednostka, jeśli wychodzi ze stanu bezpośredniego 
+(estetyka), musi dokonać refleksji etycznej, oddzielić dobro od zła i orientować 
+się w kierunku tego, co jest rzeczywistością absolutną, choć bezpośrednio 
+człowiekowi nie daną. Nazwijmy to rzeczywistością Mocy, która nas założyła, abo 
+rzeczywistością Boga.
+
+Esteta wierny normom, dokonał wyboru samego siebie. To ja dokonuję wyboru, jako 
+etyk, nie ciemne moce, które są we mnie. Ja już te moce pokonałem. Tutaj 
+Kierkegaard idzie prostą drogą, jest to jedyny element jego filozofii, gdzie 
+przyjmuje założenia heglizmu: społeczność wymaga kodów, zachowań, kultywacji 
+pewnych wartości. Jest to ogólnie przyjęte i na tym społeczeństwa europejskie 
+bazują. Na tym bazuje poszanowanie prawa, tradycji. Jednak ten etap etyczny 
+w stadiach ma już inne rozwiązanie. Kierkegaard proponuje próbę subiektywizacji 
+tego etapu. Kierkegaard chciałby to, co najlepsze z estetyki (energię, 
+fantazję), przenieść do bądź co bądź nudnawego etapu wartości obiektywnych, 
+które zaczynają władać człowiekiem. Ogólna wymowa etapu etycznego: jest to etap 
+wyższy w stosunku do estetyki. Jako stadium jest przez Kierkegaarda (a 
+przynajmniej przez część autorów pseudonimowych) aprobowana.
+
+Na horyzoncie zarysowuje się rzecz najistotniejsza dla filozofii Kierkegaarda -- 
+etap trzeci. To jest coś, co miałoby znieść, nigdy połączyć, dwa poprzednie 
+etapy. To jest to, co Kierkegaard nazywa etapem wiary, człowiekiem wiary, 
+stanem, który w najbardziej pewny sposób uczyni jednostkę prawdziwym indywiduum, 
+uczyni jednostkę prawdziwą. To jest stanie w obliczu tego, co nigdy mi nie 
+zostanie dane na żaden z możliwych sposobów. Stanie w obliczu Absolutu. Mocy, 
+która nas założyła, która ma zupełnie niewyrażalne charakterystyki.
+
+To jest wprowadzenie do zderzenia tego, co jest ogólne, z tym, co jest 
+prawdziwe, indywidualne. Między tym, co etyka już sobie ułożyła w sposób 
+logiczny, koherentny. Kierkegaard nie podziela intelektualizacji życia 
+duchowego, uważa, że nie tak się poznaje prawdę, prawdy się doświadcza. To nie 
+jest ta sfera, w której istnieje schemat przyczynowo-skutkowy. Tu jest czysta 
+indywidualizacja, coś, co wyrasta ponad rozum a zwłaszcza ponad rozum ludzki -- 
+o innym nie możemy nawet marzyć. To jest etap, który jest etapem najwyższym. Ten 
+etap najwyższy zezwala na ujęcie w perspektywie wsteczne etapów niższych od 
+siebie. Trzeba zaznaczyć paradoksalność myśli Kierkegaarda: w konfrontacji 
+z tym, co religijne, co charakterystyczne dla świata wiary, etyka ulega 
+destrukcji, zniszczeniu totalnemu, natomiast estetyka mogła by się obronić gdyby 
+dało się uratować pewne charakterystyczne skłonności i tendencje, dokonując 
+oczyszczenia z tego, co jest charakterystyczne dla niemożliwej syntezy ludzkiej.
+
+Czym jest więc ten etap? Przede wszystkim zderzenie z tym, co ogólne i z tym, co 
+jednostkowe. Ogólne działa w pewnej społeczności. Mamy pewne figury dyskursu, 
+który przybliża nam ten stan dynamiczny, stan charakterystyczny dla sprzeczności 
+człowieka. Wiara jest oparta na wyborze, który nie posiada uwarunkowania, jest 
+czymś, co jest irracjonalne, jest pogwałceniem rozumu. Jest otarciem się 
+o absurd, ale on pociąga Kierkegaarda. Człowiek wiary jest człowiekiem absurdu.
+
+W trzecim widnokręgu (świecie Boga) też sprzeczności. Jest wiara i wiara, jest 
+religia i religia. Kierkegaard, chce dokonać oczyszczenia, dotrzeć do źródła 
+nieskalanej religijności. Ojciec w sekcie, nieludzkie żądania czyniące 
+z człowieka proch, człowiek nie miał niczego do powiedzenia. Człowiek nic 
+w relacjach z Bogiem do powiedzenia nie ma, nie może śmieć. Nigdy nie możesz 
+nawet pomyśleć, że wobec Boga możesz mieć rację.
+
+Etapy nakładają się na siebie. Czasami esteta ma wizję tego, co może chcieć 
+człowiek wiary. To go przeraża, to może go pchnąć do skoku. 
+
+Bóg siłą, która z człowieka ma wydobyć wszelkie sprzeczności, wyrzucić je, kazać 
+mu ze względu na nie cierpieć i nic nie pomoże racjonalizacja, próba 
+intelektualizacji wiary, opanowania tego w sposób myślowy. Bóg jest zupełnie 
+oddzielny, zupełnie niesprowadzalny do świata. Między Bogiem a światem, 
+a człowiekiem panuje przepaść nie do pokonania. To są jakości odrębne. Przez 
+zderzenie ma to spowodować stworzenie człowieka jako jednostki, jako bytu 
+autentycznego, jako tego, co zostanie po mnie w moim jedynym autentycznym 
+doświadczeniu -- doświadczeniu stanu wiary, która jest opanowana przez ciemność, 
+wieczne zwątpienie. Nie daje spokoju, wręcz przeciwnie, pcha do coraz gorszych 
+cierpień. Jest to pewnego rodzaju masochizm.
+
+Kierkegaard buduje wokół tego atmosferę sięgającą do listów apostolskich, ojców 
+Kościoła, Pascala. Eliminuje to wszystko, co ma być w religii racjonalne, co 
+miałoby nam pomóc.
+
+Pierwszy etap -- porażenie rozumu, filozofia obłędu, który polega na tym, że 
+szaleniec boży (który z własnego wyboru zostaje zbliżony do Boga) musi porzucić 
+wszystko. Nie może się starać Go zrozumieć. Hiob i Abraham potwierdzają to. Bóg 
+może wszystko, może nawet być autorem sprzeczności. Bóg w swojej wszechmocy może 
+dokonywać czynów, które nam się wydają nieetyczne, czy niemoralne.
+
+Religia typu A ma nas uspokoić, przede wszystkim sięga do rytuałów, nie ma to 
+nic z wiarą wspólnego. Religia B oparta na porażeniu rozumu. Człowiek zostaje 
+skonfrontowany ze sprzecznościami, bo sam jest sprzecznością; musi wierzyć w to, 
+w co nie może wierzyć. To jest stan stwarzający możliwość transcendencji dwóch 
+poprzednich etapów.
+
+Historie przytaczane przez Kierkegaarda odnoszą się tylko do jednostek. Bóg, jak 
+u Bergmana, gra w szachy, rozgrywa partię tak, że my zawsze musimy ją przegrać. 
+Pytanie w jakim celu czyści się świadomość religijną, uwalniając człowieka i nie 
+dając mu w zamian nic pozytywnego? Nie ma czegoś takiego, jak pewność co do 
+istnienia człowieka-Boga, który byłby syntezą, spełnieniem wszystkich 
+sprzeczności. My możemy się tylko oprzeć na indywidualnym akcie wiary, tylko 
+czasami możemy przypuszczać, że został on nam podany, jako zadanie, ale do tego 
+też nie mamy pewności. Wybór, który charakteryzuje akt wiary u Kierkegaarda, 
+jest zawsze wyborem i wskazaniem negatywnym -- Hiob i Abraham. Nie każdy dorasta 
+do takiej próby, nie każdy z takiej próby wychodzi jako jednostka 
+o nienaruszonej konsystencji.
+
+Temu służą dwa traktaty: powtórzenie, które jest zarezerwowane dla Boga (tego 
+doświadcza Hiob doświadczając całej nędzy istnienia, upadku, potem powtórzenie, 
+które nie jest możliwe w kategoriach ludzkich); wybór Abrahama, który jest 
+wyborem jednostki przez Boga -- nie ma ten traktat na celu pokazania, że tak się 
+będą sprawy miały jak z Abrahamem, jeśli utrzymamy wiarę, bo to jest wiara 
+Abrahama, a nie moja czy twoja. Próby oswojenia absurdu, sprzeczności są 
+krytykowane.
+
+Jest to myśl naznaczona niejednoznacznością. Nie da się znaleźć u Kierkegaarda 
+tez absolutnie pewnych, nie do obalenia. Jeśliby dało się podsumować przekaz 
+filozoficzny, to można to zrobić w kilku delikatnych krokach, bez narzucania 
+czegoś, co by go czyniło myślicielem jednoznacznym, bo sam Soren wymykał się 
+takim formom:
+
+- kwestia, którą porusza i z własnego przepracowania rzuca na szerszy plan -- 
+bycie jednostką w tym świecie, który jednostce zagraża, świecie postromantyzmu, 
+jednostka projektem bytu niemożliwego, nie da się na tę drogę nie wejść, jeśli 
+chce się być jednostką; ten projekt wymaga (bo człowiek nie jest 
+samowystarczalny) świadomości (która jest pierwszym etapem, uświadomieniem, to 
+są sygnały jego dysfunkcji ontologicznej, ale też sygnały płynące z wyższej 
+rzeczywistości -- Jaspers mówi o szyfrach transcendencji). Jeśli człowiek 
+opowiada, to wchodzi na tę drogę. Musi wejść na drogę ogólności, norm, której 
+Kierkegaard nie chce aprobować, natomiast etyka jest niezbędna, ponieważ otwiera 
+nas na treści o charakterze religijnym, jednak nie jest wystarczająca. Ona może 
+wspomagać religijność typu A, nigdy nie da nam prawdziwego przeżycia 
+jednostkowości, która jest nakierowana na samą Moc, Absolut. Człowiek walczy ze 
+sobą (nie chce być sobą), z drugiej strony chce narzucić siebie na świat -- to 
+jest dialektyka rozpaczy, nigdzie się nie znajdzie u siebie, będzie ciągle 
+próbował szukać. Jeśli skoczy, podda się stanowi wiary, to nie może żądać 
+ukojenia. Ten element był czymś przerażającym, z Kierkegaardem polemizowano. Nie 
+rozumiano Kierkegaarda, mówiono, że chce on wrzucić w obłęd (słowa apostoła 
+Pawła -- pomieszam wasze szyki, wasz rozum, bo ten nie doprowadzi was do Boga). 
+Bóg czasem u Kierkegaarda przyjmie figurę Chrystusa, jako ziszczenie syntezy, 
+która człowiekowi nie jest dana. Ten element będzie również w kulturze 
+prawosławia, u Dostojewskiego. Te etapy są dialektyką jakościową. Nie ma tu 
+przyczynowości, człowiek pozbawiony pewności. Prawda jest prawdą przede 
+wszystkim egzystencji, a egzystencji nie da się zamknąć w jeden system, dotyczy 
+ona przede wszystkim wiary. Człowiek zawsze bytem cierpiętniczym i na tym polega 
+jego siła.
+
+## Wykład 4 -- 22.03.
 
 
 
