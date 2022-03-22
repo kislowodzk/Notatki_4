@@ -976,37 +976,3 @@ aspekty, które w życiu etyka są czymś bezcennym, zdaniem sędziego Wilhelma.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
