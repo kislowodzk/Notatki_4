@@ -1263,8 +1263,8 @@ Dostojewskiego ważne jest nakładanie różnych elementów na siebie. Warstwy s
 nakładane na siebie, tak powstała *Zbrodnia i kara*. Dostojewski umiał nałożyć 
 swoją niepowtarzalną strukturę na zdarzenia niebanalne. Wszystko 
 u Dostojewskiego graniczy z wielkim patosem, z wielkim kiczem i autentycznymi 
-wydarzeniami, któreczynią te dzieła strukturami szalenie dynamicznymi. Mamy 
-klasyczą strukturę narracyjną -- ona w powieściach egzystencjalistycznych jest 
+wydarzeniami, które czynią te dzieła strukturami szalenie dynamicznymi. Mamy 
+klasyczną strukturę narracyjną -- ona w powieściach egzystencjalistycznych jest 
 wyznacznikiem metafizyki tego świata. Struktura narracyjna ułożona bardzo 
 prosta. Bohater-indywiduum, nie jest romantycznym bohaterem. Raskolnikow jest 
 studentem, ale takim, który już nie studiuje. Raskolnikow, jak każdy członek 
@@ -1275,8 +1275,172 @@ Dostojewskiego taką tezę będzie sprzedawał Stirner, szkoła Heglowska, za mo
 Nietzsche. Może wielka jednostka usytuować się ponad prawem, ponad zasadami 
 moralności. Raskolnikow cierpi na to, co doskwiera bohaterom Dostojewskiego, 
 widzi coś w olśnieniu, w momencie, który nie jest dostępny innym. Jest to 
-epilepsja. To jest sygnał płynący bezpośrednio z tamtej sfery.
-23:28
+epilepsja. To jest sygnał płynący bezpośrednio z tamtej sfery, która wyznaczyła 
+jednego człowieka, aby odbierając mu normalne przebiegi świadomości, pokazać mu 
+inne. Wszystkie znaczące postaci są wyznaczone przez epilepsję. Raskolnikow to 
+rozpoczyna, będzie książę Myszkin, będzie Swidrygajłow. Raskolnikow cierpi 
+nędzę. Rodzi się filozofia -- co, gdyby świat uwolnić od tego, kto nie powinien 
+istnieć. Jest coś, co nazywa się *wszą* -- staruszka, która jest lichwiarką, 
+pożyczającą na ogromny procent. Rodion dokona ucieleśnienia tej tezy. Jeden 
+dobry więcej, jedna zła mniej i będzie mógł zrobić użytek z tego, czego mu nie 
+dano. Dzieje się tak, że życie pisze pewne korekty. Za wszą jest jeszcze jeden 
+element -- pokrzywdzona tak samo jak Raskolnikow, siostra lichwiarki. Morderstwo 
+zostaje przypisane niewinnemu człowiekowi. Rodion zaczyna wpierw dokonywać 
+analizy, ale człowieczej. Jest wyrzut sumienia. Ale mało tego -- jeśli on 
+dokonał zbrodni, by realizować plany, to życie napisało mu jeszcze jedną korektę 
+-- kochającą rodzinę, która chce mu pomóc. Wyłania się z tego absurd, bezsens 
+tego czynu. Dostojewski idzie dalej. Jeśli cierpienie Rodiona miało zostać 
+rozwiązane przez ten akt, to Rodion jest niezbyt uważnym obserwatorem 
+rzeczywistości, bo na horyzoncie pałętają się po Petersburgu ludzie, którzy są 
+w gorszej sytuacji, ale nigdy by czegoś takiego nie zrobili. Dostojewski musi 
+losy Rodiona zderzyć z czymś innym -- racją wyższego rzędu jest Sonia, 
+prostytutka i święta. Ona jest wyższą formą mądrości. Sonia, dziewczyna pokonana 
+przez los, umie w ciszy znosić cierpienia. Spotkanie z ojcem Soni -- 
+z Marmieładowem. To nie jest człowiek, to jest były człowiek. On już nie jest 
+człowiek. Właśnie dlatego wzbudza wzruszenia, w kontakcie z nim Raskolnikow 
+zaczyna inaczej analizować to, co zrobił. Sonia jest drugim takim elementem, 
+trzecim jest śledczy, uosobienie przyszłej inteligencji rosyjskiej. On wie, że 
+tacy ludzie jak Rodion, o ogromnej sile, wrażliwości, muszą sami poddać się 
+karze. Ale to nie wszystko. Ostatnie sceny, kiedy Rodion w imię niewinności, 
+skrzywdzonej kobiety, którą zaczyna kochać, a która daje mu wyższą mądrość 
+wyższego rzędu, pod wpływem analiz nawet językowych Porfirego, Raskolnikow 
+wyznaje swoją zbrodnię. Model odkupienia, które będzie miało finał na katordze. 
+Sonia, prosta dziewczyna (ale święta), nakłania go do tego, aby uzyskać 
+przebaczenie. To przebaczenie jest przebaczeniem nie za jeden popełniony czyn, 
+ale za zło w ogóle. Być może Raskolnikow zostanie uratowany, być może zło 
+zostanie naprawione, ponieważ istnieje wyższa racja, która odnosi się do 
+porządku ludzkiego. Dla Dostojewskiego te dwa porządki są porządkami 
+nieprzekładalnymi. Tutaj byłby uczniem Kierkegaarda. Natomiast całe zło bierze 
+się stąd, że człowiek racjami żongluje sobie i wydaje mu się, że jest bardzo 
+mądry. Natomiast jest błędem strasznym, jeśli zadaje się gwałt naturze. Natura 
+dla Dostojewskiego jest zawsze związana z porządkiem, który ją usprawiedliwił 
+a wpierw stworzył.
+
+Nie chodzi tylko o to, że człowiek zostaje wyróżniony tym, co tradycyjnie mu 
+przypisywano -- rozumem. Człowiek gdzie indziej mieszka. Jeśli rozum zostaje 
+porażony tendencjami, które wyrastają poza jego sposób rozumienia, to może uciec 
+w pewną grę bardziej cienia niż światła. Wyalienowanie siebie z rad 
+społeczeństwa. To zostało opisane w *Notatkach*. 
+
+Dostojewskiego, który jest również myślicielem, który tworzy na własny rachunek, 
+interesuje przede wszystkim relacja człowiek-człowiek oraz człowiek-Bóg. To jest 
+podstawowy problem dzieła Dostojewskiego. Drugi moralitet dotyczy spraw bardziej 
+złożonych. Powieść również oparta na relacjach międzyludzkich. Będzie dotyczyła 
+problemu wiary. To jest **Idiota**, który jest rozprawą Dostojewskiego z pewnym, 
+bardzo wstydliwym problemem, relacji między kościołem wschodnim a zachodnim (to 
+jest oczywiście tylko jeden z elementów tego problemu). Mamy tu całą gamę 
+postaci, ludzi, wynaturzonych potworów. Postaci, które jeśli kochają, to kochają 
+do samego końca, albo jeśli nienawidzą to również do samego końca. Nigdy nie są 
+wycięci z danej rzeczywistości. Zawsze rzeczywistość muszą formować, albo ją 
+przekraczają. Oczywiście tytułowy *idiota* jest przede wszystkim człowiekiem 
+chorym, synem kupca, jest tym *pomyleńcem*, który chodzi po gościńcach 
+i wskazuje na inny świat. Przywędrował, ostał się w starej Rusi i wypowiada 
+prawdy, które dla człowieka zachodniego są niepokojące. Epileptyk, myśliciel, 
+człowiek wrażliwy (nadwrażliwy) zakochuje się w dwóch kobietach. Jedna jest 
+córką generała, drugą jest kobietą zepsutą do cna. Archetyp kobiety, która gra 
+na uczuciach ludzi szlachetnych i ludzi, które są bezwzględni. Rogożyn jest 
+pewną siłą *faustyczną*, on również kocha Nastazję Filipowną. Z tej miłości może 
+być tylko śmierć. Winę będą brali na siebie we dwójkę.
+
+W światopoglądzie etycznym Dostojewskiego nie liczy się dramat ludzki, liczy się 
+to, co człowieka uczyniło wyobcowanym w rzeczywistości. Przekaz etyczny jest 
+przekazem dużo bardziej głębokim, niż na przykład koncepcja alienacji u Marksa. 
+Człowiek zostaje wyobcowany wtedy, kiedy zrywa pewną więź. Ta więź to jest 
+więzią z transcendencją -- to jeszcze nie jest Bóg. To jest coś, co 
+z rzeczywistości wyrasta, ale rzeczywistością nie jest. Mróz poleca książkę 
+o szaleństwie u Gogola i Dostojewskiego. To jest świat szalony, ale on wróci do 
+normy, jeśli zostanie przywrócona relacja między człowiekiem a transcendentem, 
+między jego racją istnienia. Ta racja znajduje się poza tu i teraz, ona niesie 
+wartość moralną.
+
+W *Idiocie* poruszone 3 główne problemy:
+
+1. jak można kochać nienawidząc?
+2. jeśli człowiek dochodzi do pewnego kresu, to czy zbrodnia może zostać 
+usprawiedliwiona?
+3. problem Boga, którego idea została rozmieniona na drobne, za to odpowiadają 
+ludzie tam. Podczas podróży księcia Myszkina jego refleksje na temat krajów 
+zachodnich jest oceną negatywną. Wypowiedź Myszkina na temat kościoła 
+zachodniorzymskiego należy do największych inwektyw rzuconych na cywilizację 
+zachodnioeuropejską, która człowieka zniewala
+
+Szereg zbrodni jest jest tematem **Biesów**, które są arcydziełem literatury 
+profetycznej. Mamy bardzo dobrą młodzież z domów szlacheckich, znakomicie 
+wykształconą. Mamy rozpadający się system państwowości rosyjskiej. Mamy projekt 
+przebudowy. Jej ma dokonać trójka przyjaciół:
+
+- Stawrogin -- zło samo w sobie, ale zło o niesamowitej estetyce, która ma siłę 
+przyciągania
+- Wierchowieński -- sympatyczny, dobrze wykształcony człowiek
+- Matka Stawrogina, stary Wierchowieński -- przedstawiciele starszego pokolenia
+
+Będą tak prowokować sytuację, by stary porządek runął. Na miejsce starego 
+porządku co zamierzają wprowadzić? Grupa Stawrogina, studentów wciągniętych 
+w mechanizm rewolucyjny, który nastąpi później. To, co nastąpiło po momencie 
+pożaru kończącego opowieść było przestrogą dla całej Europy. Biesy podejmują 
+problem zła w układzie państwowym, politycznym. Nie da się znieść porządku nie 
+wyrządzając krzywdy. To jeszcze Dostojewski stara się zrozumieć. Natomiast jeśli 
+się stara zło wyprzeć przez drugie -- jeszcze większe -- zło, to sytuacja staje 
+się moralnie naganna. Tytuł szalenie wymowny, nawiązanie do Mateusza, diabłów, 
+które Chrystus wpędza w świnie. Struktura narracyjna *Biesów* jest szalenie 
+gęsta.
+
+Największą powieścią kończąca ogromną karierę powieść **Bracia Karamazow**, 
+w której Dostojewski zarysowuje pozytywy program odnowy. Mamy tu do czynienia 
+z klasycznym czworokątem rodzinnym (powrót do dzieciństwa Dostojewskiego). Stary 
+Karamazow uosobieniem tego, co najgorsze w Rosji szlacheckiej -- pijaństwo, 
+terroryzowanie dzieci. Trzech braci (dwóch prawowitych). Iwan -- inteligent, 
+wykształcony, obyty w świecie; jest on zaprzeczeniem Dymitra -- postać wielka, 
+dynamiczna, uosabiająca to, co w Rosji jeszcze jest optymistyczne, wrażliwe, to 
+co cenne. Klasyczny Rosjanin, otwarty. (Rodzina odzwierciedleniem pewnego 
+porządku kosmicznego). Alosza -- przyszły święty być może. Bardzo wrażliwy, 
+młody chłopak. On woli wybrać pewien porządek, który jest porządkiem właściwym 
+-- jest w monasterze. Jest czwarty -- to, co w Rosji jest chore -- wynik 
+dokonanego przez starego Karamazowa gwałtu (Dostojewski być może nie opanował do 
+końca pewnego doświadczenia, które sobie przypisywał, to jest zgwałcenia 
+dziewczynki, może jest to fantazja, może tak było, jego twórczość jest może 
+rozliczeniem z figurą ojca, którego nienawidził, a także z tym faktem, który by 
+skrzętnie ukrywał, a który cały czas powraca, on pokazuje, że człowiek nie jest 
+jednoznaczny -- to jest kwintesencją egzystencjalizmu Dostojewskiego, będą 
+zawsze w nim grały takie emocje, których nie będzie w stanie zahamować. Człowiek 
+jest wolny aż na granice absurdu. Jeśli można mówić o egzystencjalizmie 
+teistycznym, to Dostojewski będzie przodować) -- ten człowiek jest epifanią 
+najgorszego elementu w Rosji carskiej: Smierdiakow.
+
+Morderstwo ojca, fałszywe oskarżenie skierowane w stronę Dymitrego, prawdziwy 
+sprawca -- Smierdiakow -- ukryty. Prawdziwym sprawcą jest Iwan, który 
+namawianiem, zasianiem idei, zasiał w swoim bracie, który nie jest uznawany za 
+brata, ideę, że zbrodnia popłaca. Rozmowa Iwana z szatanem. Przestrzeżenie, że 
+jeśli nie rozwiążemy swoich problemów, to nastąpi ingerencja sił, które wyjdą 
+z podziemi. I scena w klasztorze, gdzie Dostojewski przedstawia pewne racje, 
+pewne wskazówki -- starzec Zosima, który steruje klasztorem. Ten starzec 
+zostawia pewnego rodzaju wykład jak powinien wyglądać świat. Nie ma naiwnego 
+moralizatorstwa, ponieważ Zosima sam kiedyś dokonał zła.
+
+Zostaje coś, co Dostojewskiego wyciąga z objęć niepamięci -- jest to fragment, 
+który dwaj bracia: intelekt i wiara tworzą. *Wielki Inkwizytor*. Dostojewski być 
+może będąc już posunięty w swej chorobie, lękach i Rosję i o Europę tworzy 
+historię, która ma być historią naszej kultury. Dwa porządki. Człowiek i Bóg 
+zostają w osobie Chrystusa złączone. Pokazuje co się dzieje z człowiekiem, kiedy 
+od porządku transcendentnego odchodzi. Następuje następny, kolejny akt 
+ewangelii. Kuszenie Chrystusa: chleb, cuda i władza. Historia, którą opowiada 
+Iwan polega na tym, że ustawiony do pilnowania porządku wielki inkwizytor 
+przyjmuje wizytę Chrystusa. Chrystus przychodzi, żeby zwrócić uwagę 
+inkwizytorowi, że jeśli On się oparł, to jakim prawem to, co dzieje się w innych 
+kościołach zostało zaprzedane. Inkwizytor mówi, że wolności nie można dać, 
+w imię Chrystusa on sam musi zginąć. Dostojewski kolejnymi scenami od *Biednych 
+ludzi* pokazuje, jak odeszliśmy od tego, co czyni człowieka człowiekiem -- od 
+Chrystusa. Zrobił to bezduszny system racjonalności, państwowości, władzy, 
+przemocy. Człowiek został upokorzony, ale jeszcze zwycięży. Wszystkie upadłe 
+anioły, sądy, te wielkie postaci, jeszcze jak gdyby się zbiegają i wołają, że 
+istnieje coś takiego, co nazywa się miłością, to jest ostatnim wezwaniem 
+Dostojewskiego, żeby człowiek wyszedł ze strasznego rozedrgania. Nie zostaje już 
+nic, ale zostaje jeszcze miłość. To opisuje ten Chrystus opisany przez 
+racjonalistę Iwana. Dostojewski nie udziela odpowiedzi pozytywnej. Bóg jest 
+gdzieś tam. Jeśli się interpretuje Dostojewskiego jako konserwatywnego filozofia 
+prawosławia, racjonalistę, to jest to tylko częściowa racja. To jest wielki 
+myśliciel, który podpiera się ogromnym, ale żywym symbolem miłości. To jest 
+caritas. Ważny jest człowiek w relacji do tej miłości.
 
 
 
