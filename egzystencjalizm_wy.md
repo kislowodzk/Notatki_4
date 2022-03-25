@@ -686,7 +686,7 @@ którzy kryją swoje kondycje. Rozpacz, która powinna ich pchnąć do zmiany
 tego trybu życia, jest przez nich przeżywana i przybiera postać 
 metafizycznego smutku, zniechęcenia do życia, depresji, która korzeniami 
 tkwi w bycie ludzkim i czyniącej z nas wszystkich nieszczęśników. 
-    
+
 To, co jest pozornie nakierowane na spełnienie pewnej żądzy, rozkoszy, jest 
 przeciwieństwem. Życie estety osiąga swoje przeciwieństwo. Nie byłoby to nic 
 złego, gdybyśmy ten stan mogli opuścić na rzecz innego członu alternatywa. Nie 
