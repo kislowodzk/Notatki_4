@@ -250,6 +250,155 @@ duszy może mieć aspekty materialne.*
 - To mistyczne ujęcie nie będzie potem kontynuowane przez antytrynitarzy 
 polskich
 
+## Wykład 3 -- 25.03.
+
+15:00 -- zaczynam notować
+
+![](./slajdy_polska/20.png)
+
+Zauważmy, że to papież siedzi na tronie, zajmuje wyższą pozycę. Ta scena ma 
+symbolizować przekazanie całej władzy imperialnej na ręcej głowy Kościoła 
+katolickiego. Mowa jest o zakresie geograficznym -- wszystko, co podlega władzy 
+Konstantyna, przechodzi pod władanie papieża.
+
+![](./slajdy_polska/21.png)
+
+Prowadzenie konia to zadanie dla niewolnika. Mamy samoponiżenie cesarze.
+
+Dokument, który miał zostać wystawiony przez Konstantyna. Mamy tam spisane 
+punkty, które na freskach widzimy symbolicznie. Wyznanie wiary, Konstantyn, 
+który całe życie prześladował chrześcijan, na końcu życia przez poniechanie 
+zabójstwa dzieci ukazuje mu się św. Piotr, który ma mu kazać pójść do papieża. 
+Tam się ochrzcił, ten chrzest wyleczył go z choroby i nawrócił na bardzo głęboką 
+wiarę.
+
+![](./slajdy_polska/22.png)
+
+Argumentacja, że dochodzi do niebezpiecznego pomieszania porządków. Kuzańczyk 
+widzi coś groźnego w tym, że władza duchowa i świecka tak mieszają się w tym 
+procesie.
+
+Valla publikuje obszerne, trudne w odbiorze, dzieło, które opiera się na 
+analizach językowych. Pokazuje, że i odniesienia historyczne są błędne. 
+Pokazanie, że styl językowy to coś więcej, niż dodatek do myśli. Uderza to 
+w średniowieczną wiarę, że słowa mają określone znaczenia, które mają silne 
+odniesienia ontologiczne -- wszystko, co dzieje się na płaszczyźnie literackiej 
+jest dodatkiem, natomiast reszta jest dodatkiem. Valla pokazuje, że słowa są 
+w pewnych kontekstach używane inaczej -- są tak samo zmienne, jak cała kultura. 
+Co więcej, możemy przez analizę słów stwierdzić z jakiego okresu, z jakiej 
+kultury pochodzi dane dzieło.
+
+Wnioski obu: ten dokument jest fałszywy.
+
+![](./slajdy_polska/23.png)
+
+Jeden wniosek: filologizacja wiedzy. Z drugiej strony stopniowe odchodzenie od 
+figury autorytetu. Autorytet dokumentu polegał na tym, że doszło (na przestrzeni 
+kilku wieków) do głębokiego zakorzenienia w prawie tych argumentów. Przywiązanie 
+do nazwiska człowieka, który używał kiedyż pewnego argumentu. To są dwa procesy.
+
+Czasem nawet ci, którzy byli krytykami, często albo sami powoływali się na 
+autorytety, albo chcieli autorytetami zostać. To są powolne procesy.
+
+Kuzańczyk tworzy po soborze w Konstancji, który zniósł dwa ośrodki papiestwa. 
+Ten sobór budził nadzieję na zniesienie schizmy pomiędzy chrześcijaństwem 
+zachodnim i wschodnim, ale także ich strukturą polityczną. Historycy zwracają 
+uwagę, że gdybywtedy problemy zostały rozwiązane, to jest szansa, że nie 
+mielibyśmy reformacji.
+
+### Erazm z Roterdamu
+
+Bliska przyjaźń z Tomaszem Morusem (utopia polityczna jako mechanizm analizy). 
+Erazm umysłem politycznym, pisze teksty polemiczne, teoretyczne. Do głosu 
+dochodzi u niego jasna świadomość polityczna, jakie konsekwencje ma to dla 
+porządku politycznego.
+
+De libero arbitrio -- o wolnej woli (odpowiedź na zniewoloną wolę Lutra). Erazm 
+jako obrońca wolnej woli.
+
+![](./slajdy_polska/24.png)
+
+*Comma* po grecku oznacza wstawienie czegoś do tekstu. Mamy coś, co okazuje się 
+dodatkiem do oryginalnego tekstu Pisma Świętego.
+
+![](./slajdy_polska/25.png)
+
+Ten tekst zawiera tę pełniejszą, niesprawdzoną wersję.
+
+![](./slajdy_polska/26.png)
+
+Ten stan oddaje biblistykę od czasów nowożytnych. Teraz jest już bardzo mało 
+ludzi, którzy trwają przy *Comma Johanneum*.
+
+Mamy do czynienia z próbą stworzenia tekstu równoległego do prologu Ewangelii 
+św. Jana. Erazm doszedł do wniosku, że to jest wstawienie nowego elementu, jest 
+to interpolacja.
+
+![](./slajdy_polska/27.png)
+
+Erazm opublikował równoległe wersje Nowego Testamentu. Mamy krótszą wersję bez 
+*Comma Johanneum*. Wersja Nestle Aland przyjęła praktycznie słowo w słowo to, co 
+Erazm opublikował w roku 1519. 1522 r. Erazm przywraca *Comma Johanneum*, aby 
+uniknąć oburzenia i zachować wpływy. Nie idzie to linearnie, postęp się cofa, 
+pojawia i tak to się toczy.
+
+Jakie jest tego znaczenie dla antytrynitarzy? Znika bardzo ważne, koronne 
+potwierdzenie w tekście biblijnym. Stąd droga dla tekstów Socyna. Około roku 
+1580 Socyn usuwa wszystkie tego typu miejsca z redakcji Biblii i z dyskusji 
+teologicznych. Do dzisiaj uznane jest, że w tekstach Nowego Testamentu żadna 
+metafora biblijna nie pozwala na bezpośrednie połączenie języka biblijnego 
+z językiem naukowej teologii, która mówi o Trójcy. Jeśli teologia mówi o trójcy, 
+to na 100% posługuje się językiem niebiblijnym, późniejszym, filozoficznym. 
+Teologowie posługują się językiem filozoficznym, nie mają żadnego oparcia 
+w Biblii.
+
+![](./slajdy_polska/28.png)
+
+![](./slajdy_polska/29.png)
+
+Ten cytat uchodzi za najbardziej filozoficzny w całej Biblii (może z wyjątkiem 
+samego początku Księgi Rodzaju). Język łaciński nie używa rodzajników, nie 
+będzie tu przydatny. Właśnie o rodzajnik będzie spór.
+
+W tekście czerwonym w grece nie występuje rodzajnik. Polszczyzna nie 
+odzwierciedla tego.
+
+Tło: teoria Erazma oparta na paradygmecie, że retoryka to nie jest dodatek, to 
+jest nauka o języku, a wszystko (w pewnym sensie) jest w języku. Retoryka 
+o wyrazie *logos* mówi, że jest to wyraz wieloznaczny. W łacinie wiele możliwych 
+tłumaczeń. To nie jest element, to jest wielość elementów w dynamicznych 
+relacjach. Erazm szuka najlepszego sposobu przełożenia (nie negując tradycyjnego 
+verbum, które wskazuje na pojedyncze słowo, ale zwraca się ku innym). To ma dać 
+świadomość, że *logos* jest dynamiczny, co dla człowieka oznacza, że jego 
+relacja z Chrystusem ma być dynamiczna. Należy uczyć się od Chrystusa, który 
+jest nauczycielem i przykładem. Po drugie te rodzajniki wskazują na to, że 
+*logos* jest absolutny. Dzięki temu, że jest wewnętrznie zdynamizowany 
+i zróżnicowany. Bo Bóg jest wewnętrznie zdynamizowany i zróżnicowany. Nie należy 
+przesadzać z metafizyką podkreślającą bosko-ludzką naturę, to jest niepewne 
+i niepotrzebne praktycznie. W drugim punkcie dla Erazma *logos* jako Syn Boży ma 
+charakter absolutny. Erazm nie zostaje antytrynitarzem.
+
+Da Valla i Erazm źródłami nowych metod, paradygmatów. Dają nowe tropy myślenia 
+antytrynatrzy. Bez nich nie byłoby polskiego antytrynitaryzmu. Jednak żaden 
+z nich nie przeszedł na pozycje doktrynalne przedstawione póżniej przez Socyna. 
+Z pism Erazma wiemy, że to, co Socyn powie za 50 lat, było już dla niego do 
+przewidzenia, zaznaczał, że widzi jak do takich doktryn dotrzeć, ale to napawa 
+go strachem i nie może do tego dotrzeć.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
