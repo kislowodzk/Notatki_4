@@ -879,3 +879,224 @@ argumentów przeciwko argumentom Bakunina, to będzie powoływał się na Blanca
 jak dla całego ruchu rewolucyjnego są to dwa modele idealne, to one zmagają się 
 w samym Marksie.
 
+## Wykład 4 -- 28.03.
+
+Wracając do poprzedniewo wykładu pożytecznie będzie wspomnieć o kilku książkach 
+(klasycznych, które się nie starzeją):
+
+- Herbert Marcuze -- *Rozum i rewolucja* (pokazanie, jak z heglizmu wyrasta 
+nowoczesna teoria społeczna)
+- Karl Lewit -- *Od Hegla do Nietzschego, rewolucyjny przełom w myśli XIX wieku* 
+(istotną częścią opowieść o zbuntowanych uczniach Hegla, sporo o Marksie)
+- Erik Fegelin -- *Od oświecenia do rewolucji*
+
+Jeśli chodzi o historię socjalizmu przedmarksowskiego:
+
+- Seria *Myśli i ludzie* -- sporo książek o socjalistach *utopijnych*
+- Ryszard Banasiuk *Hegel i jego uczniowie*
+
+### Filozoficzny aspekt doktryny Marksa -- **materializm historyczny/dziejowy**
+
+Aby zrozumieć dzieje Marksa w historii filozofii trzeba się temu przyjrzeć.
+
+Po pierwsze -- Marks był z wykształcenia filozofem, ale się za filozofa nie 
+uważał. Chciał napisać historię filozofii, ale nawał pracy i choroba mu na to 
+nie pozwolili. Pozostawił wiele filozoficznych wątków, często nierozwiązanych.
+
+Marks nigdzie w sposób pełny nie wyłożył tego, co wyraża materializm 
+historyczny. To może więc być jedynie pewna rekonstrukcja, która wydobywa 
+określone wątki z niejednorodnych wypowiedzi Marksa i Engelsa. Od osobistej 
+korespondencji po steoretyzowane prace czy prace stricte filozoficzne.
+
+Ani Marks ani Engels nie traktowali teoretycznych rozważań jako podwalin, ani 
+nawet jako teorii. Mówili o tym jako o pewnym sposobie podejścia do 
+analizowanych zjawisk życia społecznego, politycznych, ekonomicznych, zjawisk 
+historycznych. Próba przeniknięcia w te wydarzenia, uchwycenia ich racjonalnej 
+struktury. Znalezienia racjonalnego porządku, czy ludzkie czyny tworzące 
+historię da się wyjaśnić? Obaj, jako uczniowie Hegla, twierdzili, że tak. 
+Praktyka badawcza a nie teoria.
+
+Druga trudność (poważniejsza). To, co robimy, jest zabiegiem sztucznym, mającym 
+sens dydaktyczny, ułatwiający przedstawienie teorii. Marksowskiej teorii nie da 
+się oddzielić od marksistowskiego ideału. Dopóki nie uchwycimy czym jest 
+komunizm, nie zrozumiemy materializmu historycznego (i na odwrót). W przekonaniu 
+Marksa materializm historyczny jest filozoficznym ujęciem świadomości 
+społeczeństwa burżuazyjnego. Jest to metoda, która jest generowana przez 
+kapitalizm, jest to rodzaj kapitalistycznej samowiedzy. Róża Luxemburg będzie 
+twierdzić, że wraz z zanikiem społeczeństw klasowych materializm historyczny 
+zniknie jako metoda badania społeczeństwa, ponieważ społeczeństwa klasowego już 
+nie będzie. Można powiedzieć, że wbrew intencji samego Marksa, opis świata za 
+pomocą kategorii ekonomicznych implikują pewną wizję celu, do którego te dzieje 
+zmierzają. W tym sensie nasze postępowanie jest sztuczne, kiedy rozdzielamy 
+filozofię i utopię.
+
+Czym jest materialistyczne pojmowanie dziejów?
+
+Pokazanie, że człowiek jest istotą społeczną. Marks pokazuje swoistość tej 
+relacji, która jest zapośredniczona przez pewne *dobra*, bardzo szeroki zakres 
+przedmiotów, które tworzą relacje społeczne. Przedmioty konsumpcji -- nie tylko 
+dobra materialne, ale też dobra kultury, konusmpcja innych ludzi w relacjach 
+społecznych. Marks pyta skąd się biorą wartości, dlaczego za coś chcemy 
+zapłacić. Skąd wartość? Pytanie *Czym jest człowiek i skąd się biorą wartości*. 
+Różnica pomiędzy tym, co jest, a co powinno istnieć. To, co jest, to natura. My 
+naturę przetwarzamy w takie przedmioty, które mają dla nas wartość (chcemy je 
+kupować, ofiarowywać, wymiana i wzajemność -- te dwie ostatnie podkreślą 
+bardziej współcześni antropolodzy). Jak my *wkładamy* w przedmioty wartość.
+
+Marks uważa, że w sposób najbardziej fundamentalny można to przebadać na 
+przykładzie pracy. Ten przedmiot w tym procesie staje się czymś cennym. 
+Uznajemy, że niesie ze sobą jakąś wartość (najczęściej jest to wartość użytkowa, 
+stają się dla nas *przezroczyste*). Także wartość dóbr takich jak powietrze, 
+woda.
+
+Marks zadaje pytanie o wartość dodatkową, o *nadwartość*, jak to nazwą polscy 
+marksiści. Wartość dodatkowa okazuje się początkiem wyzysku -- ją przywłaszcza 
+sobie kapitalista, powstaje w procesie pracy, który jest zawsze niedopłacony, 
+ponieważ kapitalista dąży do ustabilizowania płacy na poziomie minimum 
+koniecznego do egzystencji. Wartość dodatkowa, którą wytwarzamy. To pokazuje 
+powiązanie między ekonomią a polityką. Marks twierdzi, że cała ekonomia jest 
+polityczna. Kolejne wielkie odkrycie Marksa -- fundamentalnie filozoficzne. 
+Zwraca nas ku samym źródłom mechanizmu społecznego, który rodzi się 
+w politycznym sporze. Grecy sięgają po filozofię, kiedy okazuje się, że dyskusja 
+jest lepszym mechanizmem rządzenia państwem, niż na przykład wojna. Grecy uczyli 
+się wymowy, aby zdobywać i utrzymywać władzę w ustroju demokratycznym.
+
+Marks swoją koncepcję zaczyna ustanawiać w połowie lat 40-stych. *Idealizm 
+niemiecki* zostanie wydany dopiero w XX wieku (lata 30-ste). Paradoks i meandry 
+w recepcji polegały na tym, że do lat 30-stych marksiści nie dysponowali pełnym 
+zestawem dzieł Marksa.
+
+W *Kapitale* Marks materializm historyczny traktuje za oczywiste założenie, 
+które każdy czytelnik, jeśli będzie chciał, wyprowadzi. Marks przecenił 
+zdolności swoich czytelników. My możemy posługiwać się tekstami, które są dużo 
+bardziej czytelne.
+
+*Rękopisy filozoficzno-ekonomiczne* są próbą zastosowania dialektyki Heglowskiej 
+do analizy zjawisk ekonomiczno-społecznych. Najważniejszy fragment dotyczący 
+alienacji pracy.
+
+*Ideologia niemiecka* przynosi pojęcie *ideologii*, jako uwikłanej społecznie 
+świadomości, która gwoli politycznych celów, często nieświadomie, maskuje swoją 
+społeczną genezę i chce uchodzić za istnienie czyste. Koncepcja ideologii, jako 
+świadomości fałszywej. Ale też pokazanie jak Marks i Engels czytali historię. 
+Mechanizmem napędowym historii są przemiany w ramach sił wytwórczych. Sposoby, 
+jakimi ludzie się posługują, aby zaspokoić swoje potrzeby -- jak to wpływa na 
+myślenie, na moralność, na przemiany społeczne. Marks pokazuje, że materializm 
+historyczny jest związany z komunizmem, który jest realnym procesem, który znosi 
+stan obecny. Pojawia się komunizm jako zniesienie podziału pracy (jeszcze naiwna 
+ta wizja, bardziej wizja jeszcze Schillerowska -- on postulował zniesienie 
+podziału pracy, jako generującej naszą osobowość).
+
+Podsumowaniem młodzieńczej wizji *Tezy o Feuerbachu*:
+
+- Marks myślicielem rewolucejnym (revolutio -- obracać się)
+- Odwrócenie myślenia -- niekoniecznie natura jest pierwsza. Tak naperawdę 
+najbardziej istotne jest działanie praktyczne, w wyniku którego natura się 
+kształtuje. Być może nie ma natury jako takiej, istniejącej niezależnie od 
+człowieka. Moć może świat sumą naszych czynów i naszych zaniechań
+- Esencja powstała w latach 40-stych, potem była praktyka. Powstawały dzieła, 
+jednak te fundamentalne myśli i intuicje zawarte są w pismach wczesnych.
+
+Fundamentem, punktem wyjścia: historia procesem jednorodnym, choć podzielonym na 
+fazy. Historia ma charakter fundamentalny i niepowtarzalny. Nie ma w historii 
+wiecznych powrotów, ale są powroty o charaktecze strukturalnym. Można traktować 
+komunizm jako pewnego rodzaju powrót społeczeńst bezklasowych, od których 
+zaczyna się rozwój ludzkości. Stąd Marks tak żywo był zainteresowany badaniami 
+antropologów.
+
+W historii obserwujemy 2 procesy: zmianę, ale jednocześnie pewną ciągłość. 
+Historia jest procesem dialektycznym, znoszeniem heglowskim, zachowywaniem 
+pewnych elementów na wyższym poziomie rozwoju. Proces linearny, ale nie linia 
+prosta, tylko spirala. Jeśli się przyłoży styczną do poszczególnych miejsc 
+spirali, to są to momenty powrotu do pewnych miejsc.
+
+Historia ludzkości zaczyna się od bezklasowej (bo nieznającej wartości prywatnej 
+i podziału pracy) społeczności. To dopiero te dwie tworzą klasy. Szczęśliwi 
+ludzie pierwotni, którzy dzielą się wszystkim ze wszystkimi. Historia zmierza 
+w przyszłości do czegoś takiego. By ludzie wyzwolili się z kajdan konkurencji 
+i zawłaszczania własności. Nowoczesne społeczeństwo komunistyczne -- 
+społeczeństwo bezklasowe. Historia jako dzieje konfliktów klasowych. Tak, jak to 
+jest ujmowane z *Manifeście...*.
+
+Marks mówi, że nie jest historiozofem. On jest tylko zainteresowany małym 
+fragmentem historii pewnego małego zakątka świata. Prawidłowości, które 
+odkrywam, nie powinny być przenoszone do innych rejonów świata. Jednak sposób 
+rozwoju *wyższych* społeczeństw wyraża przyszły rozwój społeczeństw teraz 
+*niższych*. Marks nie chce rysować obrazu przyszlości -- jej nie ma w ogóle, 
+możemy prognozować na temat cech zjawisk, natomiast nie da się przeszłości 
+zaprognozować.
+
+Zdefiniowanie historii, jako historii warstw klasowych. Konfliktowa teoria 
+społeczeństwa. Można domniemywać, że ma to filozoficzne źródła u Hegla. Marks 
+mniemał, że przekłada filozoficzne abstrakcie na grunt realnego życia, pokazuje, 
+co dzieje się, kiedy ludzie walczą o życie, o byt. Marksa nie obchodzą wątki 
+jednostkowe, tylko społeczeństwo. Czy Marks nie staje się platonikiem, jeśli 
+zakłada niezależny byt bytów społeczcnych. Metafizycznymi konkretami są ludzie, 
+kamienie, drzewa, ... . Marksa najbardziej interesuje żądzą do panowania. Jeśli 
+ktoś jest bogaty, to ma władzę. Marks: chodzi o to, żeby poza sferą 
+subiektywnych ideałów dostrzec to, co tkwi u podstaw, a co jest realną wartością 
+naszego życia. Jeśli ją mamy, to za jej pomocą można konstruować obiektywne siły 
+społeczne, gospodarczo-społeczne, czyli klasy. To największa siła, 
+a równocześnie jeden z jego najwyększych błędów. Nie dostrzegł on wielu sił, na 
+przykład poczucia narodowościowe i nacjonalizm. Wprost błąd Makrsa pokazuje 
+Roman Spohr? (Problmeatyka narodowościowa a Marks).
+
+To przypomina, że nie ma uniwersalnych wytryhów. Nasza wiedza jest zawsze wiedzą 
+warunkową i względną. Można go bronić, że nie miał skłonnośi systemowych. Jednak 
+Marks był filozofem niemieckim, niektórzy jego następcy twierdzą, że w jego 
+pismach jest zdanie na każde pytanie, trzeba tego dobrze je sformułować.
+
+Ważne posiadanie środków produkcji (narzędzi i surowców). Burżuazyjne środki 
+produkcji. Robotnicy pozbawieni narzędzi środków produkcji, nie mają narzędzi 
+ani surowców. Swój czas, rozum, sprzedają kapitaliście w formie zasobów.
+
+Wcześniej właściciel środków produjkcji sam był robotnikiem. Lepszym przykładem 
+rzemieślnik. Gospodarka wiejska bardziej, zdaniem Marksa, pasuje do pierwotnego 
+społeczeństwa -- chłopska mentalność, chłopi nie chcą pracować. Zadowalają się 
+tym, co mają, pracują tyle, ile muszą, żeby wyżywić rodzinę.
+
+W społeczeństwie klasowym praca skorelowana z zarobkiem, zamożnością, ze stylem 
+życia. Marks, żeby to uprościć, uważa, że najważniejsza jest praca i płaca. 
+Socjologowie XX wieku będą uważać, że styl życia należy wyprowadzić na pierwszy 
+plan. Ludzie tym się różnią, na tej zasadzie można rozróżnić funkcje, które 
+spełniają, że można rozróżnić na podstawie pracy i tego, ile zarabiają, czy mają 
+środki produkcji.
+
+Mamy fabryki, kosztowne maszyny, środki produkcji. Kapitaliści zatrudniają 
+pracowników, inwestują. Co z nauczycielami, prawnikami, (...), którzy sprzedają 
+swoje zdolności, swoją pracę? Czy można ich zaliczyć do klasy robotniczej? Nie 
+pracuje na swoim, nie ma środków produkcji. Robi to, co każe mu przedsiębiorca. 
+Marks musiał dokonać kolejnego uproszczenia, skupić uwagę na proletariacie 
+fabrycznym. Tam w najczystrzym stanie widać charakter. Jeśli ten mechanizm uda 
+się zbadać, to można będzie go odnieść do innych klas społecznych (na przykład 
+*proletariatu umysłowego*, chłopów), gdzie relacje są dużo bardziej 
+skomplikowane.
+
+Okazuje się jednak, że to nie bardzo działa. Ten mechanizm nie stosuje się do 
+krajów mniej rozwiniętych (Rosji, Chin, Indii). Klasa wyznaczana przez własność 
+środków produkcji. To opiera się na bardziej ogólnym założeniu. Jesteśmy 
+istotami egzystencjalnie kruchymi, musimy przetważać przyrodę, żeby przetrwać. 
+Chcemy istnieć. To nas skłania, żeby zacząć świat przetwarzać, pracować. 
+Pracując, człowiek zmienia świat i samego siebie. Nadaje przedmiotom naturalnym 
+ludzki charakter, jakąś wartość. Pracując człowiek wchodzi w relacje z innymi, 
+by wzmocnić produkcję. Zaspokaja podstawowe potrzeby, ale potem pojawiają się 
+potrzeby drugiego rzędu, nienaturalne. Akt zaspokojenia potrzeby naturalnej 
+budzi nowej potrzeby. Gospodarka kapitalistyczna opiera się również na 
+generowaniu potrzeb. Marksa prowadzi do wniosku, że historia tu się dzieje. 
+Konieczność pracy, by przeżyć. Trzeba się skupić na tym, co najbardziej 
+elementarne. Odrzucić na razie wszystkie poboczne zjawiska, wszystkie poboczne 
+elementy.
+
+Ostatecznie konkluzja, która dzisiaj wydaje się banalna, ale dla niego była 
+wielkim odkryciem. Mamy dwa elementy: własność i podział pracy. Od tych dwóch 
+zjawisk zależy całe nasze życie. Porządek polityczny, prawny, kultura, nauka, 
+moralność, ... . Dzięki tym dwóm elementom ludzie są coraz lepsi w produkcji. 
+Coraz bardziej panuje nad przyrodą, ale im bardziej panuje nad przyrodą, tym 
+bardziej uzależnia się od ludzi. Będzie próbował to odwrócić, żeby zlikwidować 
+panowanie człowieka nad człowiekiem. Chodzi o to, żeby ludzie panowali nad 
+przyrodą.
+
+**Brakuje tutaj dwóch cytatów, które będą wrzucone na teamsa**
+
+Poprzedni 4
+
