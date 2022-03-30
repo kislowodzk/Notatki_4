@@ -434,7 +434,141 @@ Człowiek sam dla siebie staje się obcy. Totalne wywłaszczenie świata ludzkie
 Robotnik, który jest częścią tego procesu, proletariat, zostaje wywłaszczony 
 z własnego człowieczeństwa.
 
+## Ćwiczenia 5 -- 30.03.
 
+### Jeszcze do poprzednich ćwiczeń
+
+Drugim życiem gatunkowym człowieka patrzenie na siebie w swoich wytworach. Jeśli 
+każdy staje się obcy sobie, to staje się obcy drugiemu, każdy staje się obcy 
+istocie gatunkowe -- samo człowieczeństwo.
+
+Kluczowe rozróżnienie między człowiekiem a zwierzęciem -- zwierzę realizuje 
+swoje potrzeby tu i teraz, konkretne działania. Człowiek pracując czyni coś 
+więcej, przedmiotem, materią tej pracy jest świat, ale nie świat konkretnych 
+potrzeb, człowiek w swojej pracy realizuje swoje człowieczeństwo, owa praca 
+czyni swoim przedmiotem cały świat. Jeśli świat się wyobcowuje, to wyobcowuje 
+się ta relacja. Świat przestaje być jego światem. Tym samym człowiekowi zostaje 
+odebrane to, co decyduje o jego człowieczeństwie.
+
+Człowiek pracuje również w wymiarze duchowym, uniwersalnym. Konsekwencją tego, 
+że człowiekowi staje się obcy przedmiot pracy, jest to, że obca stała się mu 
+jego istota gatunkowa. Człowiek stał się nieludzki. Człowiek staje się obcy sam 
+sobie, alienacja antropologiczna. Całkowite wyobcowanie człowieka względem 
+innego człowieka. Wspólnota zostajw zerwana.
+
+### Dzisiejszy tekst
+
+Czym jest *ideologia niemiecka*. Do jakiego nurtu kierowana jest polemika? Do 
+heglistów. Do tradycji postheglowskiej. Z tymi myślicielami podejmuje spór 
+uznając ich za ideologów. Mówi, że należałoby powiedzieć, że mamy do czynienia 
+z cieniami rzeczywistości. Insynuacja, że ci myśliciele odnoszą się do form 
+uznanych przez nich, za rzeczywistość, nie odnosząc się do rzeczywistości samej.
+
+Marks uznaje, że mamy do czynienia ze sporami stricte fillozoficznymi, które 
+ograniczają się do kwestii pojęć, fakty, do których się odnoszą, to fakty 
+świadomości. Będzie Marksowi chodziło o zakorzenienie w rzeczywistości. Zarzut, 
+iż młodohegliści zmistyfikowali problemy, z którymi walczą. Tym samym nie 
+odnoszą się do rzeczywistości. Pozostają na poziomie czystej świadomości, nie 
+przezwyciężyli idealizmu.
+
+To, co czynią ci myśliciele, to intelektualna praca na rzecz zmiany świadomości. 
+Obracają się oni w *zaklętym kole* pojęć odzwierciedlających ich stany 
+świadomości. Marks w tym tekście wskazuje na podstawy materializmu 
+historycznego. Nie wychodzą od przesłanki, jaką jest materialna rzeczywistość.
+
+Przyjrzyjmy się propozycji Marksa. Od czego należy wyjść, aby myśleć w sposób 
+realny i skuteczny? To, czym osobniki są, zależy od materialnych warunków ich 
+produkcji. Człowiek jako człowiek wytwarzający jest punktem wyjścia. Pytanie 
+*czym człowiek jest?* wiąże się z faktem, iż jest istotą wytwarzającą. Ważne są 
+materialne warunki pracy/produkcji ludzkiej. Człowiek buduje się poprzez pracę, 
+Jest wytwórcą.
+
+Marks zakreśla pewien schemat tego w jaki sposób należałoby podejść do tego 
+procesu. Wątek stawania się człowieka. Człowiek staje się poprzez pracę, poprzez 
+czynny stosunek względem świata w którym żyje. Uwarunkowania materialne są 
+fundamentem. Praca spleciona ze stosunkami społecznymi. Nieprzystawalność sił 
+wytwórczych i stosunku społecznego. Próba opisania historii na podstawie sił 
+wytwórczych. Trzeba powiedzieć, ze pojęcie własaności nie jest pierwotne. 
+Wyrasta ono z podziałyu pracy.
+
+Twierdzenie, że pierwszy podział dokonał się w wyniku oddzielania się warstw. 
+Podstawowe założenie, że podział pracy pierwotny względem form własności.
+
+Formy własności:
+
+1. Własność plemienna
+2. Gminna i państwowa
+3. Feudalna
+4. Nowoczesna
+
+Ujęcie bardzo schematyczne.
+
+Na czym polega materializm historyczny? Osobniki czynne wytwórczo wchodzą 
+w stosunki. Obserwacja musi pokazać związek. Empiria przeciwstawiona spekulacji 
+i mistyfikacji. Przesłanką poszczególne jednostki. Empiryczne spojrzenie na to 
+zagadnienie. To jest punkt wyjścia który pozwala na odniesienie się do struktury 
+policzycznej/państwa. Wskazanie na źródło. Jednak osobnicy tacy, jacy są 
+w rzeczywistości, nie to, w jaki sposób my sobie ich wyobrażamy, jak oni sobie 
+wyobrażają samych siebie, tylko to, w jaki sposób działają. Człowiek jest tym, 
+czym się przejawia. Punktem wyjścia to, że wytwarzamy materialnie. To, o czym 
+dotychczas mówił Marks, dałoby się określić mianem bytu, warnkowania bytowego. 
+Od tego do świadomości. Chodzi o ludzi rzeczywistych, działających. 
+
+2 poziomy przejawiania się w formie czynnej człowieka. Stara się perspektywę 
+uhistorycznić, wyjść poza idee i pojęcia. Trzeba iść od ziemi do nieba. 
+Podejście, które określane jest mianem empirycznego, odnoszącego się do 
+rzeczywistego procesu życiowego. To dzieje się w uwarunkowaniu materialnym. Tak 
+rozwijana jest metafora. Bierzemy za punkt wyjścia nie to, co ludzie sobie 
+imaginują, tylko ludzi rzeczywiście działających. To życie określa świadomość. 
+Byt określa świadomość. Prawdziwy rozwój historyczny dokonuje się w świecie 
+rzeczywistej, materialnej pracy i stosunków, które są z tym związane.
+
+Świadomość określona społecznie, przez język, ale to będzie uwarunkowane 
+głębiej, będzie się sprowadzało do materialistycznych przesłanek. Rzeczywiste 
+jest to, co jest rzeczywiste dla człowieka. Dla człowieka rzeczywitsty jest 
+świat pracy. Rzeczywistość związana z aktywnością człowieka, z tym, co go 
+wyróżnia. Świadomość wytworem społecznym. Marks kreśli tutaj to, w jaki sposób 
+świadomość dochodzi do głosu, rozwija się. Uwarunkowanie społeczne, stosunki 
+społeczne uwaronkowane podzieałem pracy. SPrzeczności, które narastaję w ramach 
+rozwoju historycznego.
+
+Siła wytwórcza, stan (stosunki) społeczny, świadomość -- popadają w sprzeczność. 
+Tego, żeby tak się nie działo, można dokonać jedynie przez zniesienie podziału 
+pracy. Wszystkie 3 wiążą się z problemem podziału pracy.
+
+Ostatecznie to, czego Marks będzie się domagał, to zniesienie własności. Jak ma 
+się pojęcie *własności* do *podziału pracy*? Wytwórczość wpisana w rozwój 
+społeczny. Na to nakłada się problem świadomości, również społecznej i klasowej.
+
+Co do rozwoju historycznego z punktu widzenia zewnętrznych sprzeczności, które 
+tutaj zachodzą. Punkt widzenia trzech sfer (siły wytwórczej, stosunków 
+społecznych, świadomosci). Pytamy dlaczego dochodzi do kolizji/sprzeczności 
+między nimi. Należy dążyć do zniesienia podziału władzy.
+
+W kapitalizmie siły wytwórcze wzrastają. Marks jest przekonany, że 
+przystawalność tej siły i stosunków społecznych nie zachodzi, nie ma miejsca 
+w historii. W jaki sposób działa burżuazja/kapitaliści. Gospodarka (siły 
+wytwórcze) jest w pewnym sensie awangardą. Struktury społeczne nie nadążająć. 
+Świadomość również uwarunkowana. U podstaw tego procesu leży problem podziału 
+pracy. Przywilej wykonywania pewnych funkcji, pewnych nie. Waloryzowanie, 
+tworzenie hierarchii, pewnego podziału społecznego.
+
+Dlaczego pojęcie własności będzie tu tak ważne? 
+
+Z jednej strony praca kapitalisty, z drugiej praca proletariusza. Własność 
+prywatna leży w rękach kapitalisty, jest zabierana proletariuszowi,
+
+Inny problem -- sprzeczność interesów. Gdy praca zaczyna być określona, każdy ma 
+swoją sferę, z której nie może się wydostać, jeśli nie chce utraciś środków do 
+życia.
+
+O co tu chodzi? Motyw alienacji pracy. Procesy o których tu mowa, zachodzą 
+w sposób **żywiołowy** -- z punktu widzenia uczestnika niezależny od niego, 
+ododbierany jako podstawowy.
+
+
+
+### Ostatnie ćwiczenia nr: 5
 
 
 
