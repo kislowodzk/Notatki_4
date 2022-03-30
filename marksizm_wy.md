@@ -884,10 +884,10 @@ w samym Marksie.
 Wracając do poprzedniewo wykładu pożytecznie będzie wspomnieć o kilku książkach 
 (klasycznych, które się nie starzeją):
 
-- Herbert Marcuze -- *Rozum i rewolucja* (pokazanie, jak z heglizmu wyrasta 
+- Herbert Marcuse -- *Rozum i rewolucja* (pokazanie, jak z heglizmu wyrasta 
 nowoczesna teoria społeczna)
-- Karl Lewit -- *Od Hegla do Nietzschego, rewolucyjny przełom w myśli XIX wieku* 
-(istotną częścią opowieść o zbuntowanych uczniach Hegla, sporo o Marksie)
+- Karl Löwith -- *Od Hegla do Nietzschego, rewolucyjny przełom w myśli XIX 
+wieku* (istotną częścią opowieść o zbuntowanych uczniach Hegla, sporo o Marksie)
 - Erik Fegelin -- *Od oświecenia do rewolucji*
 
 Jeśli chodzi o historię socjalizmu przedmarksowskiego:
@@ -1096,7 +1096,47 @@ bardziej uzależnia się od ludzi. Będzie próbował to odwrócić, żeby zlikw
 panowanie człowieka nad człowiekiem. Chodzi o to, żeby ludzie panowali nad 
 przyrodą.
 
-**Brakuje tutaj dwóch cytatów, które będą wrzucone na teamsa**
+### Cytaty
 
-Poprzedni 4
+… zgodnie z materialistyczną koncepcją historii decydującym czynnikiem 
+historii jest w ostatecznej instancji produkcja i reprodukcja rzeczywistego 
+życia. Ani Marks, ani ja nie twierdziliśmy nigdy niczego więcej. Jeśli potem 
+ktoś zniekształca to do tego stopnia, że ma to znaczyć, iż jedynie czynnik 
+ekonomiczny jest determinujący, to przekształca to twierdzenie w puste, 
+abstrakcyjne, absurdalne zdanie. Sytuacja ekonomiczna jest bazą, ale różne 
+części nadbudowy (…) również oddziałują na bieg walk historycznych i w wielu 
+przypadkach w przemożny sposób determinują ich formę. ~ Engels w liście do 
+Blocha
+
+Historia ===== praxix ======> Natura
+
+Tezy o Feuerbachu (1845):
+
+1.  Głównym brakiem wszelkiego dotychczasowego materializmu (…) jest to, że 
+przedmiot, rzeczywistość, zmysłowość ujmował on jedynie w formie obiektu, czy 
+też oglądu, nie zaś jako ludzką działalność zmysłową, praktykę, nie 
+subiektywnie.
+2. Zagadnienie, czy myśleniu ludzkiemu właściwa jest prawdziwość przedmiotowa 
+nie jest zagadnieniem teorii, lecz zagadnieniem praktycznym. W praktyce człowiek 
+musi dowieść prawdziwości, tzn. rzeczywistości i mocy, ziemskiego charakteru 
+swego myślenia. (…)
+3. Materialistyczna teoria, że ludzie są wytworami warunków i wychowania, że 
+więc zmienieni ludzie są wytworami innych warunków i zmienionego wychowania, 
+zapomina, że warunki są zmieniane właśnie przez ludzi i że sam wychowawca musi 
+zostać wychowany. (…)
+4. (…) To, co on [Feuerbach] robi polega na sprowadzaniu świata religijnego do 
+jego ziemskiej podstawy. Przeocza on, że po dokonaniu tej pracy pozostaje 
+jeszcze do zrobienia rzecz najważniejsza. Mianowicie fakt, że owa ziemska 
+podstawa odrywa się sama od siebie i utrwala w obłokach niczym samodzielne 
+państwo, da się wytłumaczyć jedynie samorozdarciem i samozaprzeczeniem tej 
+ziemskiej podstawy. Musi więc ona sama być najpierw zrozumiana w swojej 
+sprzeczności, następnie zaś przez usunięcie tej sprzeczności praktycznie 
+zrewolucjonizowana.
+6. (…) istota człowieka, to nie abstrakcja tkwiąca w poszczególnej jednostce. 
+Jest ona w swojej rzeczywistości całokształtem stosunków społecznych.
+8. Życie społeczne jest z istoty swej praktyczne. Wszelkie misteria 
+sprowadzające teorię na manowce mistycyzmu znajdują swe racjonalne rozwiązanie 
+w praktyce ludzkiej i pojmowaniu tej praktyki.
+
+### Poprzedni 4
 

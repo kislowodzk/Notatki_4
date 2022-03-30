@@ -1,6 +1,6 @@
 # Wykłady -- Egzystencjalizm
 
-"Prowadzący" -- Paweł Mróz
+*Prowadzący* -- Paweł Mróz
 
 ## Wykład 1 -- 01.03.
 
@@ -1355,10 +1355,10 @@ wartość moralną.
 
 W *Idiocie* poruszone 3 główne problemy:
 
-1. jak można kochać nienawidząc?
-2. jeśli człowiek dochodzi do pewnego kresu, to czy zbrodnia może zostać 
+1. Jak można kochać nienawidząc?
+2. Jeśli człowiek dochodzi do pewnego kresu, to czy zbrodnia może zostać 
 usprawiedliwiona?
-3. problem Boga, którego idea została rozmieniona na drobne, za to odpowiadają 
+3. Problem Boga, którego idea została rozmieniona na drobne, za to odpowiadają 
 ludzie tam. Podczas podróży księcia Myszkina jego refleksje na temat krajów 
 zachodnich jest oceną negatywną. Wypowiedź Myszkina na temat kościoła 
 zachodniorzymskiego należy do największych inwektyw rzuconych na cywilizację 
@@ -1442,37 +1442,147 @@ prawosławia, racjonalistę, to jest to tylko częściowa racja. To jest wielki
 myśliciel, który podpiera się ogromnym, ale żywym symbolem miłości. To jest 
 caritas. Ważny jest człowiek w relacji do tej miłości.
 
+## Wykład 5 -- 29.03.
 
+### Nietzsche
 
+Choć mówienie o *egzystencjalizmie* jako takim jest pewnym nadużyciem i pewną 
+wygodą, to jednak wspólny jest sprzeciw przeciwko filozofii systemowej, 
+przeprowadzania logicznych (czasem pozornie) operacji by udowodnić racje, do 
+których się zmierza. Zarówno Kierkegaard, Dostojewski i Nietzsche, który stanowi 
+temat dzisiejszych zajęć, także myśliciele tacy jak Stirner nie są przekonani co 
+do wartości systemu jako takiego. Są wrażeni co do pewnej metafizyki, która 
+została zużyta, nie odpowiada na pytania, które interesują ich wszystkich. Te 
+pytania zadawane z różnych punktów. Zawsze motywem przewodnim jednostka. Sposób 
+komunikowania prawd dotyczących egzystencji, temporalności człowieka nie może 
+być czymś systematycznym, absolutnie klarownym. U Dostojewskiego człowiek 
+pewnego rodzaju tajemnicą, niespełnieniem, bytem rozdartym, który oscyluje 
+między obecnym bytem a człowiekiem przyszłości. Jest dramatem istnienia, nerwem 
+wyrzuconym na zewnątrz. Temat jednostki jest tematem opracowywanym na wiele 
+sposobów, to jest bezcenne w myśli filozofów egzystencji.
 
+Druga uwaga już związana z treścią dociekań, wglądów w niedaną przez element 
+metafizyczny element człowieka -- jego istotę. Poszczególni myśliciele będą 
+odnosili się do źródeł, teraźniejszość zwraca się do żywej przeszłości. Ale 
+w tym nurcie przebija się jeden motyw -- biografizm (autobiografizm), 
+historyczności tego, kto uprawia refleksję. Myśliciela nie da się oddzielić od 
+myśli. Tak naprawdę zawsze zwraca się do własnego, głębokiego ja. Do osobowości, 
+która nie jest poznana, która nie jest nawet możliwa do poznania. To jest 
+podziemie, to jest wielka tajemnica bycia człowieka.
 
+W tej tajemnicy jest figura ojca. Ojca fizycznego i duchowego. Ten ojciec 
+znamionuje pewien porządek, pewną aksjologię, normy, projekty życiowe. Jest 
+autorytetem, jest szalenie istotny we wszystkich omówionych przez nas 
+przypadkach. Historia ojca Kierkegaarda, ojca Dostojewskiego -- nie ma liczącego 
+się dzieła Dostojewskiego, gdzie ten temat nie zostałby poruszony.
 
+Nie dzieje się inaczej w przypadku Nietzschego. Młody Nietzsche w pewnym 
+momencie traci oparcie, traci ojca (figurę utraconą, traci się z nim zarazem 
+pewną wizję świata, pewne wartości, odniesienia). Zostaje to rzucone na 
+płaszczyznę bardziej uniwersalną, metafizyczną. Od ojca rodziny przenosi się ten 
+brak, to pożądanie relacji w płaszczyznę *poza*, transcendens. Poszukiwanie ojca 
+w ogóle. To może się nazywać poszukiwaniem jednostki absolutnej (absolutne Ty 
+u Kierkegaarda), ideału Boga człowieczego, Syna Bożego (prawosławie 
+Dostojewskiego), czy też poszukiwanie Boga, którego już się nie da znaleźć -- 
+z tej nieobecności doprowadzi się do stanu, w której Bóg nie jest już obecny 
+w świecie, ogłosi się to, co ogłosił dojrzały Nietzsche.
 
+Nietzsche urodzony w rodzinie pastora. Musiał pozostawić pewien ślad po swoim 
+życiu. Pozostawił dzieło intymne, coś na zasadzie *dziennika*, wprowadzenia do 
+jego życia-myśli (życie podsuwa pewne tematy, myśl je opracowuje, związek 
+nierozrywalny. Tym dziełem jest *Ecce homo*. Ja, Nietzsche opowiadam jak 
+powstawało dzieło, co spowodowało, że musiałem przyjąć takie stanowisko, jak 
+udało mi się to zrobić, dlaczego czasem, którym będę rozporządzał kiedy mnie już 
+nie będzie, jest przyszłość. To jest bardzo ważny element, który Mróz nazywa 
+profetyzmem myślicieli egzystencjalistycznych. Kierkegaard mówił, że dopiero 
+potomność doceni jego dzieło, Nietzsche przekonany, że jego czasem nie jest zła, 
+drobnomieszczańska teraźniejszość, życie stadne, tylko przyszłość, którą 
+zarysuje, kiedy usunie elementy negatywne, które blokują nadejście nowego czasu, 
+który jest swoistego rodzaju powrotem do arkadii. Nietzsche przy 
+niezrównoważeniu stylistycznym, merytorycznym, przeskakiwaniem z tematu na 
+temat, posiada wątek, który opracowywuje, jest to teza wręcz mesjanistyczna. 
+Pokazanie, że w przyszłości leży nadzieja, która się spełni, gdy pokonamy to, co 
+zagraża stanowi kultury.
 
+Nietzsche fachowcem, jeśli chodzi o filologię starożytną. Nowe podejście do 
+spraw, które wydawały się zamknięte, jako coś, co nie może zaskoczyć, co nadaje 
+się jedynie do pieczołowitej kultywacji -- do kultury antycznej.
 
+Pierwsze dzieło opublikowane w wieku niespełna 25 lat, które wyróżnia go na tle 
+filozofii kultury XIX wieku. Teza, która reprezentuje napięcie wewnętrzne 
+wszystkich dzieł Nietzschego. Dialektyka: *nic nigdy nie może być dane raz 
+a dobrze*. Nietzsche nie szanuje myśli, która dąży do zaspokojenia potrzeb 
+poznawczych, chce osiąść na laurach. Nie uznaje wysiłków klasyków filozofii 
+niemieckiej. Sięga do pewnego odkrycia (zupełnie przypadkowego) -- odkrycia 
+myśli Schopenhauerowskiej. Jest to jedyne pewne źródło inspiracji. Człowiek, 
+który mu podsunął pewną wizję całości spraw świata, jego dynamiki, problemów, 
+które dają się osnuć wokół jednej tendencji.
 
+Młody Nietzsche wyposażony w wizję świata nakłada to wyobrażenie 
+(Schopenhauerowską) na świat. Jedno prawo ślepej, bezmyślnej, irracjonalnej 
+woli, która rujnuje wszelkie próby ustanowienia porządku. Nietzsche kocha 
+Greków, ale zawsze będzie patrzył na nich jako na grę, zmaganie się dwóch 
+pierwiastków. Te dwa pierwiastki będą dla niego zawsze dialektyką napięć między 
+tym, co jest jasne i ciemne. Tego, co appolińskie i dionizyjskie. To się 
+przejawia od początku świata. Od momentu, kiedy człowiek nie tylko zaspokaja 
+swoje potrzeby, ale wtedy, kiedy zaczął odczuwać presję rzeczywistości, świata, 
+który jest tworem zupełnie nieuzasadnionym i absurdalnym. To wiąże Nietzschego 
+ze starym nurtem egzystencjalizmu.
 
+To, co apollińskie jest jasne, rzeczowe, myślowe, opiera się na pewnych 
+kategoriach, pojęciach, na tym, co gruntuje myśl, ta myśl ma jasny przekaz, 
+nadający się do dyskutowania, kontrprzykładu, dyskursu. To jest przeciwstawione 
+czemuś, co jest irracjonalne, wymyka się racjonalności, jest żywiołem, sięga do 
+ciemnej, skłębionej siły, instynktu. To zostaje skonfrontowane, ale nie po to, 
+żeby toczyć bezsensowną krwawą wojnę, ale żeby wydać z tej walki pewien twór, 
+który powinien być tworem wzorcowym -- to jest tragedia grecka. Symbiotyczny 
+wykwit dwóch, zdawałoby się, nie do pogodzenia sił. Tworzących coś, co jest 
+przepełnione energią, ale jednocześnie ją w jakiś sposób ujarzmia. Daje myśl, 
+ale zarazem nie odsuwa emocji i uczuć. To jest oczywiście szczyt już osiągnięty 
+na początku samej kultury europejskiej w formie tragedii greckiej. To jest 
+poddane procesowi, który Nietzsche dostrzega z całą przenikliwością. Po tym 
+(tragedie Sofoklesa szczytowe) następuje nieuchronna degeneracja, staczanie się, 
+przechodzenie na pewne płaszczyzny, które usztywniają jedną bądź drugą stronę. 
+Tym, co dialektykę będzie usztywniało, będzie przejście na jedną lub drugą 
+stronę -- uściślanie w racjonaliźmie, albo przechodzenie na stronę instynktów, 
+emocji.
 
+Nietzsche przeciwstawia Sofoklesa Eurypidesowi, którego już nie ceni, już mu 
+szkoda energii na wersję rzymską, bardzo wtórnych twórców. Jednak to nie jest 
+analiza dla całej analizy -- to jest ilustracja tego, że pewien osiągnięty 
+szczyt (Arkadia) nie jest trwałym stanem, jest poddany procesowi erozji, która 
+się toczy i toczy. Nie jest jak u Hegla. Jest to coś bardzo gwałtownego, zagraża 
+przede wszystkim zdrowym energiom ludzi, którzy powinni tworzyć kulturę, nie 
+tylko ją konsumować a nagle odchodzą od tego. Co się stało w tym ciągu?
 
+Drugi element refleksji Nietzschego (jeszcze raz zwrócenie uwagi na to, że nie 
+jest to refleksja systematyczna, to są pewne zrywy niemetodyczne, 
+przedstawiające wglądy, intuicje, obawy, emocje związane ze stanem kultury 
+i cywilizacji europejskiej). To, co następuje, ma dalekosiężne konsekwencje. To 
+jest drugi Nietzsche, który zajmuje pozycję krytyczną wobec ustalonych filarów. 
+Akceptowanych, zdawałoby się, na których opiera sie kultura. Seria wypowiedzi 
+filozoficznych. *Genealogia moralności*, *Poza dobrem i złem*, *Antychryst*, 
+wskazanie na nurt, który okazał się czymś prowadzącym do zaprzeczenia ideałów, 
+nie tyle związany z samą kulturą, co moralnością, etyką, wartościami, takim ich 
+projektem, który Nietzsche będzie przedstawiał w swoim profetycznym, 
+mesjanistycznym działaniu.
 
+Starożytność nie jest czymś statycznym, ona przechodzi, zostaje wkorporowana 
+przez siłę, która się narodziła, przejęła pewne tendencje. Zarówno działalność 
+Sokratesa i Platona stanowiła przesłankę. Nietzsche rozpoczyna wizję rozwoju 
+prowadzącego do upadku. Są rezonerzy, są ludzie, którzy opierają wszystko na 
+logice i rozumie: to jest Sokrates, który nauczył nas odejścia od 
+bezpośredniości życia do opowiadania o tym życiu, nauczył nas destruktywnej 
+ironii. Co więcej, nauczył nas kwestionowania wszystkiego bez dochodzenia do 
+pozytywnych konkluzji. Dla Kierkegaarda Sokrates stanowił ideał przez ironię, 
+ustanawianie dystansu człowieka do siebie. Dla Nietzschego Sokrates jest figurą 
+wręcz abominalną, która musi zostać poddana krytyce jako ten, kto osłabił coś 
+żywotnego w człowieku, jego energię, siłę żywotną na rzecz bezproduktywnego 
+dyskursu, który do niczego nie był potrzebny. Cała działalność Sokratesa 
+działalnością szkodliwą, podobnie z Platonem. Oni przekazują pewne dziedzictwo, 
+które zostaje przejęte przez nową siłę.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+26:45
 
 
 
