@@ -1500,7 +1500,7 @@ drobnomieszczańska teraźniejszość, życie stadne, tylko przyszłość, któr
 zarysuje, kiedy usunie elementy negatywne, które blokują nadejście nowego czasu, 
 który jest swoistego rodzaju powrotem do arkadii. Nietzsche przy 
 niezrównoważeniu stylistycznym, merytorycznym, przeskakiwaniem z tematu na 
-temat, posiada wątek, który opracowywuje, jest to teza wręcz mesjanistyczna. 
+temat, posiada wątek, który opracowuje, jest to teza wręcz mesjanistyczna. 
 Pokazanie, że w przyszłości leży nadzieja, która się spełni, gdy pokonamy to, co 
 zagraża stanowi kultury.
 
@@ -1523,7 +1523,7 @@ Młody Nietzsche wyposażony w wizję świata nakłada to wyobrażenie
 woli, która rujnuje wszelkie próby ustanowienia porządku. Nietzsche kocha 
 Greków, ale zawsze będzie patrzył na nich jako na grę, zmaganie się dwóch 
 pierwiastków. Te **dwa pierwiastki** będą dla niego zawsze dialektyką napięć 
-między tym, co jest jasne i ciemne. Tego, co *appolińskie* i *dionizyjskie*. To 
+między tym, co jest jasne i ciemne. Tego, co *apollińskie* i *dionizyjskie*. To 
 się przejawia od początku świata. Od momentu, kiedy człowiek nie tylko zaspokaja 
 swoje potrzeby, ale wtedy, kiedy zaczął odczuwać presję rzeczywistości, świata, 
 który jest tworem zupełnie nieuzasadnionym i absurdalnym. To wiąże Nietzschego 
@@ -1544,7 +1544,7 @@ poddane procesowi, który Nietzsche dostrzega z całą przenikliwością. Po tym
 (tragedie Sofoklesa szczytowe) następuje nieuchronna degeneracja, staczanie się, 
 przechodzenie na pewne płaszczyzny, które usztywniają jedną bądź drugą stronę. 
 Tym, co dialektykę będzie usztywniało, będzie przejście na jedną lub drugą 
-stronę -- uściślanie w racjonaliźmie, albo przechodzenie na stronę instynktów, 
+stronę -- uściślanie w racjonalizmie, albo przechodzenie na stronę instynktów, 
 emocji.
 
 Nietzsche przeciwstawia Sofoklesa Eurypidesowi, którego już nie ceni, już mu 
@@ -1560,7 +1560,7 @@ jest to refleksja systematyczna, to są pewne zrywy niemetodyczne,
 przedstawiające wglądy, intuicje, obawy, emocje związane ze stanem kultury 
 i cywilizacji europejskiej). To, co następuje, ma dalekosiężne konsekwencje. To 
 jest drugi Nietzsche, który zajmuje pozycję krytyczną wobec ustalonych filarów. 
-Akceptowanych, zdawałoby się, na których opiera sie kultura. Seria wypowiedzi 
+Akceptowanych, zdawałoby się, na których opiera się kultura. Seria wypowiedzi 
 filozoficznych. *Genealogia moralności*, *Poza dobrem i złem*, *Antychryst*, 
 wskazanie na nurt, który okazał się czymś prowadzącym do zaprzeczenia ideałów, 
 nie tyle związany z samą kulturą, co moralnością, etyką, wartościami, takim ich 
@@ -1586,7 +1586,7 @@ Ta nowa siła jest obiektem numer jeden, jeśli chodzi o ataki Nietzschego. Jest
 on oczytany w pismach, jakie publikuje lewica heglowska, o tematyce 
 teologicznej. Sam przekaz fundamentu kultury europejskiej, jakim jest 
 **chrześcijaństwo**, jest dla niego nie do przyjęcia. Nie chodzi o to, że 
-Nietzsche jest skłonny negować istnienie Boga, upatruje innej desktukcji, która 
+Nietzsche jest skłonny negować istnienie Boga, upatruje innej destrukcji, która 
 została stworzona, ugruntowana na chrześcijaństwie. Tu chodzi o to, że Nietzsche 
 jest piewcą siły dionizyjskiej, siły, samego życia. One jest czymś absurdalnym, 
 nie do opanowania, żywiołowym, ale to jest jedyna wartość niewymagająca 
@@ -1637,7 +1637,7 @@ się tym, kim się jest. To jest taka zazdrość, nienawiść skierowana do tego
 czego ja nie mogę mieć, ale mają inni. Chodzi o zespół cnót, paletę szlachetnych 
 jednostek kultywujących *virtu*. Masa zazdroszcząc, nie mogąc tego osiągnąć, 
 wymyśla wszystkie możliwe teorie. Cała filozofia, nauka, psychologia służą, aby 
-udowodnić, że autyntycznymi wartościami są *uległość*, *miłość bliźniego*, 
+udowodnić, że autentycznymi wartościami są *uległość*, *miłość bliźniego*, 
 *poszanowanie słabości*, *współczucie* -- to jest odejście od podstawowego 
 prawa, jakim jest życie stawiające ogromne wymogi, to ono powinno być jedyną 
 wartością. Wszystko, co osłabia tę moc, jest nie do zaakceptowania. Ten stan 
@@ -1646,11 +1646,11 @@ w dziełach późnego okresu. To będzie związane między innymi ze zmianą
 zainteresowań z antyku, filozofii greckiej (szczególnie Heraklita). 
 Zainteresowanie koncepcjami współczesnymi, wykładnia Spencera i Darwina.
 
-Podsumowanie dotychczasowej części. Niezwykle utalentowany, wrażliwy, jesli 
+Podsumowanie dotychczasowej części. Niezwykle utalentowany, wrażliwy, jeśli 
 chodzi o ducha starożytnych. Nie był kształconym formalnie filozofem, w zasadzie 
 samouk. Głównie swoją wiedzę oparł na dziełach francuskiego oświecenia. 
 Uformowała go ciemna wizja *Świata jako woli i wyobrażenia* Schopenhauera. 
-Zapoznał się z nim przypadkowo kupująć tę książkę w antykwariacie. Przejął on 
+Zapoznał się z nim przypadkowo kupując tę książkę w antykwariacie. Przejął on 
 pewne instrumentarium nie tyle pojęciowe. Nim będzie w sposób niemetodyczny 
 próbował przedstawić krytykę rzeczywistości kulturowej, później zarysować pewien 
 misyjny program odnowy ludzkości, to zajmie się bardzo konkretnymi problemami 
@@ -1699,8 +1699,8 @@ są pewnego rodzaju wygodnymi hipotezami, właściwie chcą dotykać faktów, a 
 naprawdę *są jedynie interpretacjami*. Jednak interpretacje są niczym innym, jak 
 przyjęciem punktu obowiązującego w danej perspektywie. **Perspektywizm 
 poznawczy**. Wszystko, co znosi perspektywizm poznawczy, jest błędem, jest 
-opaczone aberracjami. W zależności od tego, kto tymi aberracjami zarządza 
-(Kościół? uniwersytet?) takie będziemy mieli ukształtowane wartości. Wplyw 
+obarczone aberracjami. W zależności od tego, kto tymi aberracjami zarządza 
+(Kościół? uniwersytet?) takie będziemy mieli ukształtowane wartości. Wpływ 
 Stirnera, Nietzsche zwalcza widma. Sam jest wyrzutkiem, rezygnuje z kariery 
 akademickiej, wydaje dzieła na własny koszt, pracuje niesystematycznie. Wie 
 jedno -- kultura europejska miała bardzo dobry początek (starożytnym udało się 
@@ -1735,7 +1735,7 @@ Nietzsche idzie podobnym tropem, mówi tak: człowiek, gdyby nie był filistrem,
 drobnomieszczaninem, gdyby nie szukał usprawiedliwień, gdyby odrzucił to 
 wszystko i stanął oko w oko z żywiołem życia, to albo by przegrał, albo by 
 przetrwał. Tutaj sięga do koncepcji, którą zaakceptował w dużej mierze, którą 
-się zafascynował nie bedąc naukowcem. To jest darwinizm. Bardzo często 
+się zafascynował nie będąc naukowcem. To jest darwinizm. Bardzo często 
 interpretowało się nietzscheanizm w terminach darwinizmu. Dla Darwina pewne 
 prawa są niezmienne -- są prawa dziedziczenia, walka o przetrwanie, zwycięstwo 
 tego, kto jest silniejszy. Nietzsche podejmuje te wątki. Mówi, że jest siła, 
@@ -1748,28 +1748,116 @@ w zasadzie bez znaczenia, ich życie będzie ciężarem. Mają jeden wybór --
 zniknąć, nie blokować drogi tym, którzy są silniejsi, nie tylko chcą przetrwać, 
 ale też z tego przetrwania uczynić pozytywną wartość.
 
-54:55
+To jest bardzo okrutny egzystencjalizm. Został wykoślawiony, przejęty przez 
+najmroczniejsze siły w XX wieku. Siostra, która uległa mitowi wyższości 
+germańskiej oddała dziedzictwo brata nazistom. Jednak koncepcja Nietzschego 
+polegała przede wszystkim na doborze, takim, który preferuje najmocniejszych, 
+a z nich jeszcze wybiera tych, którzy zajmie twórczy stosunek. Człowiek jako 
+kreator, artysta, naukowiec, filozof. Nie pracownik na polu filozofii, ale 
+myśliciel, który każdym swoim włóknem będzie fundamentalne problemy ludzkie 
+przeżywał i przedstawiał. Jakie to są problemy? Problem odpowiedzialności. 
+Nietzsche dokonuje następującej analizy. Jeśli (jak w *Wiedzy radosnej*) 
+człowiek głosi, że zabiliśmy Boga, nie dorośliśmy do pewnego ideału (ukłon 
+w kierunku koncepcji Feuerbacha, człowiek wymyślił Boga, ale do tej 
+wyalienowanej koncepcji nie dorośliśmy), to jeśli ogłaszamy jego śmierć, jeśli 
+Zaratustra powie, że stary Bóg zaśmiał się z okazji popełnionego błędu, kazał 
+nam być sprawiedliwymi tam, gdzie nie moglibyśmy i nie musieliśmy być 
+sprawiedliwi a wręcz przeciwnie -- powinniśmy zachowywać się okrutnie, to 
+człowiek zostaje sam. To *zostanie samemu* na świecie, decydowanie o wszystkim 
+bez odniesienia się do żadnego autorytetu, wymaga wielkiej siły, wielkiego 
+*virtu*. Nie każdy może się na to zdobyć.
 
+Można powiedzieć o wejściu na górę Abrahama i zejściu Zaratustry w dół. Dwóch 
+proroków, dwóch ojców pewnej wiary. Jedna w starym, judaistycznym modelu religii 
+prawa z odrzuceniem religii łaski (Kierkegaard porozumiałby się z Nietzschem co 
+do tego, że łaska jest zupełnie zbędna, łaska jest czymś szkodliwym). 
+U Nietzschego jeśli Zaratustra schodzi, model nadczłowieka, transcendencji, 
+która się dokonała. Od zwierzęcia, przez człowieka, przez arcyczłowieka do 
+nadczłowieka. Jeśli on schodzi i jest sam, to chce powiedzieć o zadaniach 
+czekających na ludzkość, która będzie musiała zostać odrodzona. Tę ludzkość 
+będzie uczył niezależności, ze decyzje nie mogą być oparte o jakiś etos, o to, 
+czego uczy chrześcijaństwo czy inne religie, bo one wszystkie są oparte na 
+metafizycznych kategoriach, które nie mają żadnego odniesienia. One tylko coś 
+interpretują w danym momencie. Nietzsche był relatywistą, który uważał, że 
+historyczność jest podstawowym źródłem człowieka. Nie ma czegoś pozaczasowego. 
+My zmieniamy się razem z kulturą, kultura zmienia się razem z nami. Pojęcia to 
+odzwierciedlenie pewnych stanów umysłowych pewnej grupy ludzi. To jest wszystko. 
+Nie ma prawd absolutnych, klasyczne, niezmienne dzieła. Jeśli mamy człowieka, 
+któremu nie daje to nic, kultura się zużyła, to musi on ją sam stworzyć. Mogą to 
+zrobić tylko jednostki, które są najsilniejsze, które biorą za wszystko 
+odpowiedzialność. To jest bardzo niebezpieczna myśl. Branie odpowiedzialności 
+jest związane z tym, że człowiek decydując teraz, decyduje jak gdyby za całą 
+przyszłość. Heidegger będzie również grał tym motywem, będzie mówił, że mój 
+wybór jest moim wyborem, ponieważ ustawiam jakiś projekt przyszłości. To jest 
+wzięte z Nietzschego. Nietzsche mówi, że ta jednostka, która uświadomiła sobie 
+stan faktyczny rzeczywistości, świata bez Boga, z ogółem który mu nie dorasta, 
+jest bydłem pogrążonym w miernych wartościach anty-życiowych, który jest zalewany 
+papką pseudokultury, kultury masowej, filistrów, którzy łakną tylko sytości, ten 
+człowiek wyrasta nie mając punktu odniesienia, jaki ma jednostka u Kierkegaarda. 
+Ten człowiek jest sam. To bycie w przysłowiowej samotni niesie określone 
+konsekwencje. Każdy wybór będzie wyborem pozornie jego tylko, ale rzuconym na 
+przyszłość i pokazanym jako wzorzec dla innych.
 
+I tutaj rozwija on koncepcję zawrotną, wymagającą wszystkiego, ale też 
+niejednoznaczną. Koncepcja obliczona dla jednostek najwyższych. To jest 
+koncepcja **amor fati**. Jednostka, która przyjmie kornie los, nie będzie się 
+starała go tłumaczyć jak jest go wygodniej. Nie będzie go narzucała innym. Ona 
+stanie oko w oko (jak jednostka u Kierkegaarda staje oko w oko z nieznanym 
+i rozegra ostateczną grę) jako jednostka wyzwolona z więzów, kajdan wiary, 
+religii, nauki, psychologii, będzie grała w swoją grę życiową w taki sposób, że 
+w każdym momencie może powiedzieć, że jeśli to powtórzy się, jeśli to miałoby 
+się powtórzyć (a to jest teoria wiecznych powrotów) to on nigdy by nie podjął 
+innej decyzji. To jest jądro nietzscheanizmu. Człowiek, który został wyzwolony 
+z wszystkich złych rzeczy, słabości, które uchodzą za prawdy ostateczne, 
+z pojęć, które rozsypują się wniwecz, jak *dobro*, *wartość*, *przyczyna*, które 
+są stałe tylko w jakimś momencie historii żądając statusu prawd absolutnych, 
+jeśli ten człowiek zacznie wędrować, zobaczy za sobą swój cień, czyli to, co 
+jest złe, zostało wyrzucone, jeśli ten człowiek się wyczyści sam i dokona czynów 
+czasami w oczach społeczności zdegenerowanej okrutnych, jeśli on uzna, że życie 
+ma wartość najważniejszą, że trzeba hołubić to, co jest silne, niezłomne, 
+szlachetne zarazem, a więc charakterystyczne dla hodowli, która ma powstać, dla 
+nadczłowieka, to wtedy sprawdzianem będą nie autorytety, nie ocena innych, ale 
+będzie życzenie, by to, co wybrałem, powtórzyło się i mogło się powtórzyć 
+w nieskończoność. Stanę jeszcze raz przed tym. Według Mroza to jest 
+najważniejsza myśl nietzscheańska. Wokół tego będzie orbitowała myśl pomniejsza 
+filozofii Nietzschego. Miernikiem jest przyszłość. Dla Dostojewskiego oparcie 
+jest nie prawda, oparciem jest Chrystus, którego on traktuje jako bliźniego 
+upodlonego -- wizja upodlenia jest czymś najistotniejszym; wizja tego, że się 
+dokonało nieprawości, ta nieprawość jest cały czas reprodukowana 
+w społeczeństwie, to są ludzie, którzy spadli na samo dno, ale oni są 
+najcenniejsi. Ta *poczwa* Dostojewskiego to dla Nietzschego są ludzie moralnie 
+najsilniejsi. Dostojewski dla Nietzschego był nauczycielem najgłębszej 
+i najczystszej psychologii. Wizja ostateczna u Nietzschego jest taka, że 
+człowiek w swojej odwadze moralnej za wszystko co wybrał staje w obliczu losu, 
+który nie zostanie nigdy zamknięty. Ten wieczny powrót, który jest cyklem 
+trwającym -- heraklitejski obrót -- zmusza nas do tego, że ten wybór ma być 
+wyborem powtarzanym i ja się mam z nim utożsamiać, to jest odwaga moralna. To, 
+że jednostka nie będzie szukała dodatkowych racji, ona wie, że w każdym cyklu 
+będzie stała przed sobą samą i powie: *amor fati*, wybrałem i ten wybór jest 
+przeze mnie aprobowany.
 
+Bardzo ciężko jest systematyzować tę myśl. Przedstawiony zarys pewnego rozwoju. 
+Zawsze starożytność będzie dla Nietzschego odniesieniem razem z kulturą i myślą 
+antyku. Nałożony na to zostaje piewca irracjonalnego żywiołu, jakim jest życie 
+-- Schopenhauer. Będzie to, co jest również przenikające, czyste w pierwszym 
+okresie -- nawiązanie do sztuki antycznej tak, jak wedle Nietzschego zrobił 
+Wagner. To, co jest jeszcze nieznane i wymagające analiz, to jest stosunek 
+Nietzschego do innych kultur. Pomyłka nazistów, że Nietzsche był antysemitą, że 
+jest to czysta, niemiecka myśl, to są nadinterpretacje, nieprawdziwe. Nietzsche 
+był dumny ze słowiańskiego pochodzenia, przypisywał sobie nie do końca 
+sprawdzone wątki biograficzne. To, co jest faktem bezspornym to jest to, że 
+Nietzsche był bardziej przywiązany do kultury francuskiej, polskiej (uwielbiał 
+Chopina). Druga sprawa: straszna choroba. To, co zostało najprawdopodobniej 
+wywołane przez nieleczoną chorobę, co powodowało spekulacje. Nietzsche stał się 
+figurą dyskursu w kulturze europejskiej, szczególnie na początku XX wieku 
+w okresie modernizmu zajmowali się nim wszyscy. Jest tematem niekończących się 
+odniesień takich filozofów jak Jaspers i Heidegger. Wielka myśl, ale myśl 
+żywiołowa, niesystemowa, którą się interpretowało za każdym razem inaczej. 
+W każdej sytuacji jest inny Nietzsche. Dzisiaj Nietzsche jest czasem uznany za 
+ojca postmodernistów, dla których nic nie ma pewnego, wszystko jest płynną 
+rzeczywistością, pozostają jedynie te interpretacje, które są wytworem pewnych 
+umysłów. Te umysły to nic, tylko wynik pewnej ewolucji, pewnym nurtem życia, 
+z tym się nigdy nie możemy spierać.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Ostatni 5
 
