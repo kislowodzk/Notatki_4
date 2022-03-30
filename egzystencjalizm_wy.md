@@ -1522,9 +1522,9 @@ Młody Nietzsche wyposażony w wizję świata nakłada to wyobrażenie
 (Schopenhauerowską) na świat. Jedno prawo ślepej, bezmyślnej, irracjonalnej 
 woli, która rujnuje wszelkie próby ustanowienia porządku. Nietzsche kocha 
 Greków, ale zawsze będzie patrzył na nich jako na grę, zmaganie się dwóch 
-pierwiastków. Te dwa pierwiastki będą dla niego zawsze dialektyką napięć między 
-tym, co jest jasne i ciemne. Tego, co appolińskie i dionizyjskie. To się 
-przejawia od początku świata. Od momentu, kiedy człowiek nie tylko zaspokaja 
+pierwiastków. Te **dwa pierwiastki** będą dla niego zawsze dialektyką napięć 
+między tym, co jest jasne i ciemne. Tego, co *appolińskie* i *dionizyjskie*. To 
+się przejawia od początku świata. Od momentu, kiedy człowiek nie tylko zaspokaja 
 swoje potrzeby, ale wtedy, kiedy zaczął odczuwać presję rzeczywistości, świata, 
 który jest tworem zupełnie nieuzasadnionym i absurdalnym. To wiąże Nietzschego 
 ze starym nurtem egzystencjalizmu.
@@ -1582,7 +1582,193 @@ dyskursu, który do niczego nie był potrzebny. Cała działalność Sokratesa
 działalnością szkodliwą, podobnie z Platonem. Oni przekazują pewne dziedzictwo, 
 które zostaje przejęte przez nową siłę.
 
-26:45
+Ta nowa siła jest obiektem numer jeden, jeśli chodzi o ataki Nietzschego. Jest 
+on oczytany w pismach, jakie publikuje lewica heglowska, o tematyce 
+teologicznej. Sam przekaz fundamentu kultury europejskiej, jakim jest 
+**chrześcijaństwo**, jest dla niego nie do przyjęcia. Nie chodzi o to, że 
+Nietzsche jest skłonny negować istnienie Boga, upatruje innej desktukcji, która 
+została stworzona, ugruntowana na chrześcijaństwie. Tu chodzi o to, że Nietzsche 
+jest piewcą siły dionizyjskiej, siły, samego życia. One jest czymś absurdalnym, 
+nie do opanowania, żywiołowym, ale to jest jedyna wartość niewymagająca 
+usprawiedliwienia. Człowiek jeśli się w tym nurcie nie znajdzie, to przepada. 
+Czegoś będzie mu brakowało. Zamieni się w chłystka, małego Sokratesa, który 
+prowadzi jedynie dyskurs.
+
+Chrześcijaństwo przejęło pewien model myślowy ze starożytności. Platonizm 
+z nieśmiertelnością duszy, twierdzeniami metafizycznymi bez uzasadnienia, 
+wprowadzającymi zamęt, bez odniesień. Chrześcijaństwo przez Nietzschego czasem 
+nazywane platonizmem dla ubogich, dla tych, którzy nie mają siły aby walczyć 
+z samym żywiołem życia, aby walczyć o siebie samych -- zdobywać coś, co zostało 
+zaprzepaszczone, gdy Chrześcijaństwo weszło z przekazem tragicznym dla 
+autentycznej kultury.
+
+Nietzsche dokonuje celnych i aktualnych analiz dotyczących dwóch **typów 
+moralności**. Coś zostało zniszczone. To co to jest szlachetność, męstwo, cnota. 
+Mityczny obraz utraconych przymiotów ludzi starożytności. Nie wiemy o co tak 
+naprawdę chodziło Nietzschemu. To są jednostki silne, wybitne. Nietzsche wraca 
+do mitu jednostki ponad światem, która ten świat buduje, jest twórcza, 
+kreatywna, sprawiedliwa, przede wszystkim jest szlachetna, jest mocna. Ta 
+jednostka musi ustąpić w zetknięciu z tym, co jest słabe i liche. Czytając 
+*Zaratustrę* dowiemy się, że w zasadzie te liche byty są wszędzie. To są małe 
+potworki ludzkie, które zalegają, zdaniem Nietzschego, rzeczywistość, one sobie 
+roszczą racje do tego, żeby to, co jest szlachetniejsze, pokonać; żeby to, co 
+jest wyższe, obalić; żeby jednostki, które są słabe i tę słabość 
+usprawiedliwiają, zapanowały nad tymi, którzy są racją dla siebie samych, nie 
+potrzebują usprawiedliwienia. Analogia z Kierkegaardem, który myślał 
+o jednostkach, które wychodzą (odcinają się) od bagna rzeczywistości, stają 
+w obliczu jednostki wszystkich jednostek -- to są ludzie wiary; Abraham, który 
+pogwałci prawa i normy, ponieważ ma wiarę. Natomiast człowiek Nietzscheański, 
+mityczny, wielki, ta wielka jednostka rządząca energią, kreatywna, twórcza, 
+zostaje zepchnięty, ponieważ weszła na arenę dziejów masy. Ta masa została 
+(tutaj druga figura negatywna) poprowadzona przez tego, który podał się za Syna 
+Bożego. Nietzsche należał do wyjątkowo krytycznych i obsesyjnie nienawidzących 
+chrześcijaństwa i nie tyle Chrystusa, co Jego uczniów (szczególnie Pawła), 
+ludzi. Pawła oskarża o wszystko: o zniekształcenie doktryny, o złą interpretację 
+kazania na górze, o to, że musi słabszy, maluczki, zostać wyniesiony kosztem 
+silnego, że będzie się głosiło pochwałę słabości, choroby, miłości, współczucia, 
+które osłabiają wolę życia. To zostaje przełożone na tragiczny wiek, który 
+z tych właśnie wartości uczynił filary, na których ma stać kultura europejska.
+
+Ale ta kultura chyli się ku upadkowi, ponieważ te uczucia, które żywiły masy 
+w stosunku do szlachetnych, wielkich jednostek, są uczuciami druzgocącymi. To 
+jest sławetny mechanizm opisany przez Nietzschego, potem przejęty, szczególnie 
+przez Maxa Schellera, mechanizm **resentymentu**. To jest uraza dlatego, że jest 
+się tym, kim się jest. To jest taka zazdrość, nienawiść skierowana do tego, 
+czego ja nie mogę mieć, ale mają inni. Chodzi o zespół cnót, paletę szlachetnych 
+jednostek kultywujących *virtu*. Masa zazdroszcząc, nie mogąc tego osiągnąć, 
+wymyśla wszystkie możliwe teorie. Cała filozofia, nauka, psychologia służą, aby 
+udowodnić, że autyntycznymi wartościami są *uległość*, *miłość bliźniego*, 
+*poszanowanie słabości*, *współczucie* -- to jest odejście od podstawowego 
+prawa, jakim jest życie stawiające ogromne wymogi, to ono powinno być jedyną 
+wartością. Wszystko, co osłabia tę moc, jest nie do zaakceptowania. Ten stan 
+należy zmienić. W jaki sposób? Nietzsche będzie się nad tym zastanawiał 
+w dziełach późnego okresu. To będzie związane między innymi ze zmianą 
+zainteresowań z antyku, filozofii greckiej (szczególnie Heraklita). 
+Zainteresowanie koncepcjami współczesnymi, wykładnia Spencera i Darwina.
+
+Podsumowanie dotychczasowej części. Niezwykle utalentowany, wrażliwy, jesli 
+chodzi o ducha starożytnych. Nie był kształconym formalnie filozofem, w zasadzie 
+samouk. Głównie swoją wiedzę oparł na dziełach francuskiego oświecenia. 
+Uformowała go ciemna wizja *Świata jako woli i wyobrażenia* Schopenhauera. 
+Zapoznał się z nim przypadkowo kupująć tę książkę w antykwariacie. Przejął on 
+pewne instrumentarium nie tyle pojęciowe. Nim będzie w sposób niemetodyczny 
+próbował przedstawić krytykę rzeczywistości kulturowej, później zarysować pewien 
+misyjny program odnowy ludzkości, to zajmie się bardzo konkretnymi problemami 
+genezy kultury europejskiej. Geneza obiecująca, bo łącząca dwa dialektyczne 
+zwarcia nurtów, które nam towarzyszą od powstania człowieka. Nurtu jasnego, 
+życiowego, logicznego, który nazywa żywiołem apollińskim. Nurtu mu 
+przeciwstawnego -- dionizyjskiego, który sięga do trzewi samego życia, tego 
+kłębu, instynktów agresywnych, związanych z przeżyciem, narzuceniem swojej woli. 
+Genialność ducha greckiego ma polegać na tym, że powstało pewne dzieło, które 
+jest symbiozą pogodzenia się i twórczego współdziałania tych elementów -- to 
+jest tragedia grecka. Pokazuje ona z jednej strony żywioł, działanie sił nie do 
+opanowania (na przykład los w tragediach Sofoklesa). One są wyrazem pogodzenia 
+tego, co jest tragiczne, z tym, co jest życiem samym, energią i czymś, co jest 
+nieuchronne. Życie pomimo tego, że jest absurdalne, niewytłumaczalne, jednak 
+jest czymś bezcennym, wartościowym. Wszystko, co zagraża życiu, jest warte 
+potępienia. Godne potępienia są wszystkie kierunki, tendencje umysłu chorego 
+ludzkości w formach doktryn, które starają się ten żywioł ujarzmić, osłabić, 
+starają się go tłumaczyć (zazwyczaj robi się to bardzo źle). Nietzsche przeciwny 
+paradygmatowi, modelowi nauki XIX wieku, która opiera swoje poczynania na idei 
+postępu. Postępu do czego? Postęp jest jeden, w kierunku destrukcji, śmierci, 
+zaniku, niebytu. Tak młody myśliciel rozpoczyna analizy (my to systematyzujemy 
+za niego). Głównie są to analizy stanu kultury. Ten stan kultury łączy się 
+z tym, co nazywamy aksjologią. Nietzsche te wartości opisuje, dokonuje pewnej 
+schematyzacji, hierarchizacji. Stawia wartości na takich płaszczyznach jak 
+życie, nie-życie, to co jest tak zwane *dobre* i tak zwane *złe*. Koncepcja 
+pewnej dynamiki -- nie ma jednego podejścia, nie ma czegoś stałego, trwałego, 
+uniwersalnego. Nie ma wartości niezmiennych, wszystkie są oparte o walor życia. 
+To życie czyni je dobrymi albo złymi. Nie ma absolutnych odniesień, wartości, bo 
+nie ma absolutnych autorytetów, wszystko jest dynamiczne, żywiołowe. Są 
+natomiast takie tendencje, które chciałyby to usztywnić, narzucić jeden 
+określony światopogląd, rozumienie. One wszystkie przedstawiają nam coś, co ma 
+za zadanie obniżyć walor, rozłączyć teorię od życia.
+
+Nietzsche wypowiada się tu kilkakrotnie, jeśliby próbować zbudować coś na 
+kształt epistemologii. Żyjemy w pewnym świecie prawd. Te prawdy są oparte na 
+pojęciach, one mają coś tłumaczyć, wyjaśniać pewne związki. Mają stanowić 
+wzornik wiedzy/poznania. Nietzsche oprócz tego, że jest krytykiem kultury, 
+wprowadza nowe elementy do teorii moralności, jest też filozofem, który starał 
+się oduczyć człowieka pewnych przyzwyczajeń, struktur usztywnionych, które ufają 
+bezgranicznie i na ślepo przyjmują pewne instrumentarium pojęciowe, pewną 
+metafizykę, która nas ustawia i każe myśleć w określony sposób. Nietzsche 
+destruuje podstawowe pojęcia takie jak: *byt*, *prawda*, *piękno*, *dobro*. Ten 
+kanoniczny związek wielkich transcendentaliów zostaje rozbity. One nie mają 
+żadnego uzasadnienia ani w naszych doświadczeniach, ani w naszych teoriach. One 
+są pewnego rodzaju wygodnymi hipotezami, właściwie chcą dotykać faktów, a tak 
+naprawdę *są jedynie interpretacjami*. Jednak interpretacje są niczym innym, jak 
+przyjęciem punktu obowiązującego w danej perspektywie. **Perspektywizm 
+poznawczy**. Wszystko, co znosi perspektywizm poznawczy, jest błędem, jest 
+opaczone aberracjami. W zależności od tego, kto tymi aberracjami zarządza 
+(Kościół? uniwersytet?) takie będziemy mieli ukształtowane wartości. Wplyw 
+Stirnera, Nietzsche zwalcza widma. Sam jest wyrzutkiem, rezygnuje z kariery 
+akademickiej, wydaje dzieła na własny koszt, pracuje niesystematycznie. Wie 
+jedno -- kultura europejska miała bardzo dobry początek (starożytnym udało się 
+zespolić dwa żywioły: myśli i życie; pojęcia i zastosowanie pojęć do człowieka, 
+dać mu doświadczenie -- to jest wkład starożytnych). Po tym przychodzi coś, co 
+wywraca ten porządek -- Sokrates, Platon, św. Augustyn, Tomasz. On ich nie zna 
+dokładnie, wie, że wykonali złą robotę, usztywniają pewne pojęcia, które niczego 
+nie odwzorowują, bo *faktów* nie ma. Umawiamy się jedynie co do zakresów 
+pojęciowych pewnych kategorii, jednak na prawdę jedynie interpretujemy. Chodzi 
+o to, żebyśmy wszystko interpretowali blisko wartości nadrzędnej, jaką jest 
+życie. To z kolei wiąże się z tym jaką przejawiamy energię.
+
+Ten element, który z teorii poznania prowadzi do etyki, moralności, antropologii 
+filozoficznej. Moralność również jest czymś umownym -- nie ma świata, który 
+byłby światem absolutu. Problem, który Nietzschego inspiruje, to jest problem 
+pewnego statusu człowieka, jego pozycji, usytuowania. Można to przełożyć na 
+pytanie *co człowiek w tak krytycznym momencie, w jakim znalazła się kultura 
+europejska, kiedy zacznie odrzucać kajdany, którymi go spętano, może jeszcze 
+robić? co może wybrać?*. Kierkegaard odpowie, że skok wiary. Nie każdy może to 
+wybrać i dlatego wysypali się na świat esteci, którzy żyją połowicznie. 
+Dostojewski przybiera inny ton, uważa, że jedynym rozwiązaniem dla człowieka 
+jest powrót do nieskażonego źródła wiary -- do chrystianizmu tak, jak rozumie 
+prawosławie; pokłonienie się ziemi, skromność, poszanowanie praw, ale praw 
+pierwotnych, które nie mają nic wspólnego z oficjalną wykładnią prawną, 
+religijną, naukową. Człowiek musi wrócić do swoich źródeł, te źródła tkwią 
+w glebie, w tym, co nieskażone -- to jest lud. On przedstawia instynkt prawości. 
+Nawet, jeśli ci ludzie są zbrodniarzami, to są szlachetni; dokonali czegoś nie 
+dlatego, że nie wiedzieli, że to jest złe. Dokonali tego, ale znają również
+odpowiedzialność, odpokutowują -- to jest przesłanie Dostojewskiego.
+
+Nietzsche idzie podobnym tropem, mówi tak: człowiek, gdyby nie był filistrem, 
+drobnomieszczaninem, gdyby nie szukał usprawiedliwień, gdyby odrzucił to 
+wszystko i stanął oko w oko z żywiołem życia, to albo by przegrał, albo by 
+przetrwał. Tutaj sięga do koncepcji, którą zaakceptował w dużej mierze, którą 
+się zafascynował nie bedąc naukowcem. To jest darwinizm. Bardzo często 
+interpretowało się nietzscheanizm w terminach darwinizmu. Dla Darwina pewne 
+prawa są niezmienne -- są prawa dziedziczenia, walka o przetrwanie, zwycięstwo 
+tego, kto jest silniejszy. Nietzsche podejmuje te wątki. Mówi, że jest siła, 
+dziedziczenie, nie możemy się temu przeciwstawić. Możemy się wybrać wobec tego, 
+co przynieśliśmy na świat. Jednak jeśli znajdujemy się w świecie (to jest 
+rzeczywiście świat walki), to nie możemy głosić tych teorii, co na przykład 
+chrześcijaństwo i żądać tego, żeby przetrwali najsłabsi, bo oni obniżą ogólną 
+wartość życia. Jeśli przetrwają, to tylko dla samego przetrwania. Ich życie jest 
+w zasadzie bez znaczenia, ich życie będzie ciężarem. Mają jeden wybór -- 
+zniknąć, nie blokować drogi tym, którzy są silniejsi, nie tylko chcą przetrwać, 
+ale też z tego przetrwania uczynić pozytywną wartość.
+
+54:55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
