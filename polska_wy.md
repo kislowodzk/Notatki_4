@@ -385,21 +385,149 @@ Z pism Erazma wiemy, że to, co Socyn powie za 50 lat, było już dla niego do
 przewidzenia, zaznaczał, że widzi jak do takich doktryn dotrzeć, ale to napawa 
 go strachem i nie może do tego dotrzeć.
 
+## Wykład 4 -- 01.04.
 
+Dzisiaj sprawa *wolnej woli*. Jest to pojęcie złudne -- dzisiaj temat jest 
+bardzo szeroko omawiany przez filozofię analityczną. Żeby wejść w tę tematykę 
+tak, jak była ona rozumiana wtedy, to musimy się odłączyć od współczesnego 
+podejścia.
 
+Dzisiaj to jest rozumiane jako wolny wybór, natomiast we współczesnej filozofii 
+padają pytania takie jak *co to znaczy, że ktoś może zdecydować inaczej?*, *czy 
+podjęta decyzja jest wypadkową warunków?*.
 
+W XVI wieku nie pytano o determinizm w podejmowaniu codziennych decyzji. Wtedy 
+ta kwestia wiąże się nierozerwalnie z grzechem pierworodnym (perspektywa 
+teologiczna) i perspektywą zbawienia. Mamy wtedy stanowisko Augustiańskie (tylko 
+łaska), Tomistyczne (łaska, ale czyny mają znaczenie dla zbawienia), stanowisko 
+Erazma (wolność człowieka jest ważniejsza, niż grzech pierworodny, który być 
+może nawet nie ma znaczenia).
 
+Tyle z uwag wstępnych.
 
+![](./slajdy_polska/30.png)
 
+Pelagiusz to to samo pokolenie, co Augustyn. Pelagiusz optymistą 
+antropologicznym. Natura człowieka z gruntu rzeczy dobra. Krytyka manicheizmu, 
+ale doktryna samego Augustyna okazuje się przeszyta maniheizmem.
 
+Maniheizm -- religia, słabo uporządkowana; mają w świecie istnieć dwie zasady: 
+dobra i zła (to sprzeczne z myśleniem platońskim, które przyjmuje Augustyn, 
+gdzie jest zasada dobra, zło brakiem dobra), człowieka od dołu ściąga zło, 
+człowiek jest w rozterkach, nie jest do końca tożsamy ze sobą.
 
+Zarówno Augustyn jak i Pelagiusz walczą z maniheizmem. Augustyn przez platonizm. 
+Pelagiusz, jako asceta, oburzał się na niemoralność. Utrzymywał, że remedium na 
+moralne zepsucie będzie przywrócenie wiary w dobrą naturę człowieka. Skoro 
+człowiek został stworzony przez Boga, to i jego natura ma w sobie coś boskiego. 
+Ta natura nigdy nie ginie. Ona przejawia się też w woli, w której platonicy 
+widzą tylko zepsucie. To, co dobre, jest niezniszczalne. Jeśli natomiast chodzi 
+o grzech pierworodny, to Adam zgrzeszył, ale odpowiedzialność za grzech musi być 
+indywidualna, nie może to wpłynąć na naturę kolejnych ludzi tak, że rodzą się 
+już z winą. Pelagiusz posuwa się do stwierdzenia, że w tym kontekście decyduje 
+wola człowieka. Jeśli człowiek chce dobrze, to udało mu się nawiązać kontakt 
+z dobrą stroną natury, jego zbawienie jest formalnością. Umniejszenie roli łaski 
+-- Bóg nie potępi dobrego. Co więcej, Bóg nie musi ratować człowieka przez 
+śmierć na krzyżu, ponieważ już go ratuje przez dobry przykład -- Adam zgrzeszył, 
+Chrystus uczy nie grzeszenia. To stanowisko wywołuje bardzo zdecydowany sprzeciw 
+Augustyna. Ostatecznie ekskomunika i potępienie nauk Pelagiusza.
 
+Ostatecznie zwyciężył Augustyn. Jednak wpływ pelagiusza u humanistów jest 
+obecny. Miał rację z krytyką Augustyna. Platonizm, który jest tak emocjonalny, 
+barwny, jest bardziej zrospaczony, niż skuteczny. Pelagiański sprzeciw działa 
+mocniej tam, gdzie ludzie są zainteresowani koncepcją, która uczy wolniści, każe 
+szukać dobrego korzenia wolności w naturze człowieka. Stąd republiki, które nie 
+są opanowane przez wąską grupę ludzi, otwierają się na szersze grupy obywateli, 
+takie ustroje sprzyjają tendencji pelagiańskiej.
 
+Dzisiaj Kościół określa się jako semi-pelagiański. Przyjmuje wolność, ale nie 
+akceptuje konsekwencji, jaką jest nieistotność łaski.
 
+![](./slajdy_polska/31.png)
 
+Erazm publikuje teksty, z których wynika, że zbliża się do poglądów Pelagiusza. 
+Luter zaczyna swoją doktrynę budować w kontrze do Erazma. To skończy sie mocnym 
+konfliktem. Skupimy się na głównych tezach dwóch publikacji. Erazm pisze 
+o wolnej woli, Luter o zniewolonej.
 
+Erazm reaguje na dojrzałą koncepcję Lutra i na mocny nacisk, który luter kładzie 
+na łaskę bożą. Erazm uznaje łaskę -- uważa, że jest potrzebna, ale nie można jej 
+absolutyzować i nie można zgadzać się na to, by ona decydowała o losie człowieka 
+w całości tylko dlatego, że ktoś czytał platoników i uwierzył, że wszystko, co 
+cielesne, co nie jest czystym rozumem, jest samo w sobie grzeszne. Owszem, jest 
+coś bardzo złego w naturze ludzkiej, jednak są w stanie poznać się na własnym 
+złu. Jest sumienie, intuicja, refleksja moralna, jest wreszcie intelekt 
+rozpatrujący konsekwencje naszych wyborów. Trzeba się strzec takiego 
+odczytywania Biblii, które uznaje grzech pierworodny za samodzielną zasadę 
+(czyli maniheizm), a nie tylko za tendencję. Analiza językowa ma nas ustrzec od 
+takim odczytaniem, które przypisywałoby każdemu winę, która załuguje na karę. 
+Wolna wola siłą, dzięki której człowiek może zwrócić się ku temu, co prowadzi do 
+zbawienia, albo się od tego odwrócić. Jeśli wolna wola powoduje coś złego, to 
+tylko wtedy, gdy człowiek w sposób świadomy, mając przed sobą możliwość 
+zbawienia, odwraca się od niej i wybiera coś innego. Jeśli ktoś wybierze zło, to 
+nie jest efekt natury ludzkiej jako takiej.
 
+Co więc z takimi miejscami w Biblii, które dla większości teologów uchodzą za 
+świadectwa substancjalistycznego determinizmu, który oznacza, że natura ludzka 
+jest zepsuta. Co zrobić z tymi miejscami? Erazm argumentuje, że te miejsca nie 
+dotyczą natury ludzkiej jako takiej, dotyczą raczej problemu boskiej 
+przedwiedzy. Bóg wie z góry jakie są charaktery, moralne wybory ludzi. Wie to 
+także w odniesieniu do przyszłości. Tak należy traktować te miejsca w Biblii.
 
+Luter w odpowiedzi publikuje mocny tekst, który nie wchodzi jednak do kanonu 
+luteranizmu. Nie udało się Lutrowi wprowadzić tej pozycji jako wiążącej do całej 
+tradycji luterańskiej. Człowiek z własnej woli nie potrafi zbliżyć się do Boga, 
+nie może czynić dobrych rzeczy w oczach Boga. Od grzechu pierworodnego natura 
+ludzka jest tak zepsuta, zła, człowiek pozostawiony sam sobie może tylko 
+grzeszyć. Jeśli robi cokolwiek dobrego, to już jest to działanie łaski bożej. 
+Człowiek nie decyduje o swoim postępowaniu.
+
+Polska szlachta koncepcji Lutra nie przyjmuje.
+
+![](./slajdy_polska/32.png)
+
+![](./slajdy_polska/33.png)
+
+Tutaj spis najważniejszych tekstów.
+
+![](./slajdy_polska/34.png)
+
+- Polityczność to jest nic innego, niż realizujący się potencjał racjonalności 
+człowieka (i na odwrót)
+- Kiedy rzeczpospolita przestaje się reformować, przestaje istnieć
+- Prawo najważniejszym instrumentem polityki, ale ono samo wyrasta z obyczajów. 
+Trzeba do nich sięgać, jednocześnie eliminując to, co nasza racjonalność uznaje 
+za zło.
+
+![](./slajdy_polska/35.png)
+
+Frycz mówi, że w praktyce społecznej trzeba się zachowywać tak, jak gdyby zło 
+było osobną substancją. Nie ma tu czasu zachowywać się tak, jakby wszystko było 
+brakiem dobra. Frycz nie umetafizycznia tej nauki. Nie przyjmuje tu 
+jednoznacznego stanowiska, rozpatruje to jako problem filozoficzny, który ma 
+swoją stronę praktyczną i teoretyczną. Odrywa się w nim erazmiańczyk.
+
+Frycz zgadza się z Lutrem i Kalwinem, że upadek człowieka jest głęboki 
+i zostawił ślad w naturze człowieka. Jak duży to ślad? Kalwin przyznaje, że 
+rozum, o ile ma dobre warunki może dalece zajść, ale nie w kontekście wszystkich 
+ludzi. U Kalwina ten sposób życia jest nie do pogodzenia z praktyką polityczną. 
+Frycz mówi, że nie tylko rozum, ale też strona woluntatywna, zachowała w sobie 
+coś dobrego po upadku człowieka. Człowiek nie tylko w rozumieniu czegoś dochodzi 
+w końcu do cnoty, ale także i w chceniu. Nawet jeśli w grzechu pierworodnym jest 
+jakaś siła, to nie przenika ona nawet całej strony woluntatywnej.
+
+![](./slajdy_polska/36.png)
+
+Wola jako wybór kierunku.
+
+Frycz racjonalistą, dużo materiału z Cycerona. Proponuje takie pojęcie 
+racjonalności, która jest w stanie przenikać nawet w to, co dzisiaj nazywamy 
+podświadomością, tam działać. W tym sensie człowiek posiada wolną wolę. W woli, 
+chceniu jest coś dobrego, w rozumie możliwość przejrzenia.
+
+Frycz broni erazmiańskiego pojęcia wolności intelektualnej pokazując, że pozycje 
+teologiczne (które stają się pozycjami politycznymi) są źle napisane od strony 
+filozoficznej, bo ci ludzie nie panują nad pojęciami.
 
 
 
