@@ -1138,5 +1138,233 @@ Jest ona w swojej rzeczywistości całokształtem stosunków społecznych.
 sprowadzające teorię na manowce mistycyzmu znajdują swe racjonalne rozwiązanie 
 w praktyce ludzkiej i pojmowaniu tej praktyki.
 
-### Poprzedni 4
+##  Wykład 5 -- 04.04.
+
+Sam Marks przekonany, że żyje w szczególnym momencie historii. Chodzi o to, żeby 
+walkę klas (której efektem panowanie jednej klasy nad inną) zakończyć. Ten 
+moment, który nastał, jest apokaliptyczny (w sensie ewangelicznym -- moment 
+rozdzielenia się dobra i zła zapowiadające zbliżające się ostateczne 
+rozstrzygnięcie). Rozwój kapitalizmu, coraz bardziej bezwzględne zawłaszczanie 
+produktów pracy, ale też samych robotników: ich zdrowia, ich rodzin, ich czasu. 
+Jest to ostatecznie opresja o charakterze moralnym. Degradacja wyzyskiwanego, 
+a to wzmaga konflikty społeczne. To rysuje obraz społeczeństwa burżuazyjnego, 
+w którym mniejszość ma się dobrze kosztem upodlenia większości. Ceną 
+przywłaszczenia własności jest dehumanizacja, degradacja całych grup 
+społecznych.
+
+Do tego narzędziem zawłaszczania i panowania w społeczeństwie jest fałszowanie 
+obrazu świata, żeby panowanie umacniać. To fałszowanie (kiedyś domena religii 
+i metafizycznych filozofów) teraz dokonywane jest głównie przez ekonomię 
+polityczną (i jej dziennikarzy, publicystów). Chodzi o wpojenie ludziom 
+przekonania, że dobrze jest tak, jak jest i nie można tego zmieniać, bo to jest 
+świat funkcjonujący na zasadzie boskich wyroków. Nędza wynika z boskiego 
+porządku świata. Funkcję religii przejmuje ekonomia polityczna -- opowiada 
+o rynku, o prawach ekonomii obowiązujących ponoć z ekonomiczną ścisłością, mają 
+te prawa być nieczułe na ludzkie starania, na ludzką moc. To jest rzeczywistość, 
+którą człowiek musi przyjąć, musi się jej podporządkować. Tymczasem, jak wiemy 
+dzięki Feuerbachowi i Stirnerowi, z rynkiem jest tak samo, jak z bogami -- są to 
+ludzkie wytwory, chodzi o to, żeby ludziom przywrócić nad nimi władzę. Ekonomia 
+jest nauką społeczną, a nie ścisłą. Chodzi o to, żeby to ludzie świadomie, dla 
+swojego dobra, tworzyli swoją rzeczywistość.
+
+Późniejsi marksiści będą to rozumowanie rozszerzać na przyrodę. Ona też jest 
+ludzkim wytworem. Nie ma dla człowieka innego świata, niż ten, który on sam 
+sobie tworzy. Człowiek przyrodę tworzy przetwarzając ją. W tym sensie człowiek 
+poznaje tylko swoje wytwory, rozpoznaje się w nich, zyskuje samowiedzę. To jest 
+moment idealistyczny koncepcji Marksa odwołujący się do Hegla, Fichtego i Kanta. 
+
+Kolejny element -- **marksowska teoria pracy**, czy szerzej **problem pracy**. 
+Marks, choć kryje się za empiryzmem, to nie jest do końca w stanie usunąć ze 
+swojego podejścia argumentów idealistycznych. Praca nie jest martwym, 
+mechanicznym procesem wydzierania czegoś przyrodzie. Praca nie jest też tylko 
+i wyłącznie procesem, w którym ludzie kooperują ze sobą (w tych czasach raczej 
+wykorzystywanie, niż kooperacja). Praca jest czymś innym -- przede wszystkim 
+jest ekspresją ludzkiej natury. Jedyny rodzaj natury, którym człowiek może mówić 
+do świata i który świat rozumie. Dzięki niej człowiek może dyktować prawa 
+przyrodzie i afirmować swoje człowieczeństwo. Praca jest więc tym mechanizmem, 
+który człowiekowi powiniem przynosić najwięcej spełnienia, szczęścia. Natomiast 
+teraz praca jest przykrym obowiązkiem. Jest pewnym nieszczęściem, brzemieniem 
+(zgodnie z biblijną klątwą). Chodzi o to, aby przywrócić pracy jej ludzki -- 
+twórczy, ekspresyjny -- sens. Żeby to był proces, w którym człowiek się nie 
+wyniszcza, a tworzy samego siebie.
+
+To jest patos młodego Marksa, ale ta myśl zostaje do pewnego stopnia utrzymana. 
+Marks później dochodzi do przekonania, że nie chodzi o wyzwolenie pracy jako 
+afirmacji człowieczeństwa, lecz do tego, żeby człowiek miał czas, żeby się 
+rozwijać. Marks dojdzie do wniosku, że praca zawsze będzie sferą konieczności 
+(argumenty natury fizykalistycznej oraz argumenty dotyczące współpracy 
+z innymi), ale trzeba tak zorganizować pracę, by była ona w miarę łatwa 
+i krótkotrwałą. By człowiek miał czas wolny (a w nim siły i środki), rozwijać 
+się w nim jako człowiek.
+
+Młody Marks wyobrażał sobie, że przyczyną całego zła jest wąska działka, którą 
+pracownik się zajmuje. Praca ograniczona do wykonywania bardzo prostych, niemal 
+zautomatyzowanych, ruchów. Marks uznaje, że na razie praca wyniszcza pracownika 
+fizycznie i intelektualnie. Komunizm miał być odwróceniem tego stanu rzeczy. 
+Problem jest taki, że jeśli tak, to komunizm jest powrotem do gospodarki 
+naturalnej, do szeroko pojętego rolnictwa.
+
+Obraz pracy zmienia się im bardziej Marks wgłębia się w myślenie ekonomiczne. 
+Dochodzi do wniosku, że problemem nie jest podział pracy, lecz jej organizacja. 
+Poprawienie warunków, radykalne skrócenie dnia pracy. Przede wszystkim jednak 
+sprawiedliwy podział wartości dodatkowej. Sprawiedliwy czyli proporcjonalny. 
+Dopiero później rozwój gospodarki i społeczeństwa może nas przybliżyć do ideału 
+*każdemu wedle potrzeb*, a nie *każdemu wedle zasług* (tu różnica między 
+socjalizmem i komunizmem -- potrzeby).
+
+Można argumentować, że Marksowska koncepcja pracy stanowi rusztowanie dla 
+materializmu historycznego.
+
+Marks w liście do Engelsa (1867 r.) pisze, że największym wkładem (tym co 
+najlepsze) w *Kapitale* są rozważania na temat pracy, a przede wszystkim 
+uwypuklenie dwoistego charakteru pracy. Ta dwoistość zależy od tego, czy praca 
+tworzy wartość użytkową, czy wartość wymienną. Jeśli chodzi o towar pracy, jest 
+to oczywiste, ale tu jest to przeniesione na proces pracy. To Marks uznaje za 
+swoje największe osiągnięcie. W pracy możemy wyróżnić pracę konkretną (źródło 
+wartości użytkowej) i pracę abstrakcyjną (źródło wartości wymiennej -- 
+użytkowej).
+
+Marksa interesuje problem wartości. Dlaczego ludzie są skłonni płacić za towary 
+więcej, niż faktyczcnie pochłania ich wyprodukowanie. Wartość użytkowa zaspokaja 
+potrzebę. Wartość wymienna ma być ekonomicznym reprezentantem pracy 
+abstrakcyjnej -- tę, która nie jest włożona w przedmiot, ale którą liczy sobie 
+kapitalista i która decyduje o wartości rynkowej. Wartość wymienna jest pewną 
+relacją społeczną. Te dwie wartości składają się na realną cenę przedmiotu na 
+rynku. Często mamy do czynienia z przewagą wartości wymiennej (przykład 
+produktów markowych, gdzie płacimy za etykietę, za zaspokojenie naszej ambicji 
+posiadania modnego przedmiotu). Jeśli chodzi o produkty codziennego spożycia, to 
+relacja między wartością użytkową a wymienną nie jest tak bardzo zaburzona.
+
+Carl Levit w swojej historii filozofii XIX wieku skłania się ku temu, że dla 
+myśli Marksa (szczególnie młodego) najważniejszy jest problem pracy. Argumentuje 
+on, że to wynika z filozoficznego usytuowania myśli Marksa. Mają się tu 
+przeczytać dwie linie frontu. Pierwsza krytyka -- krytyka ekonomii politycznej. 
+Druga linia frontu -- krytyka filozofii Hegla. Levit mówi, że to jest istotne, 
+że lektura wczesnych dzieł Marksa pozwala uchwycić związek pomiędzy filozofią 
+i ekonomią. Marks wypowiada wojnę ekonomii politycznej, chce, żeby przestała ona 
+fałszować rzeczywistość -- powinna być częścią prometeistycznej antropologii, 
+która ukazuje człowieka jako władcę i stwórcę świata. Problem z ekonomią 
+polityczną jest taki, że jest ona fałszywa przez jej aspirację do obiektywności. 
+Przez to okazuje się zależna od fantomów rynkowych. Tłumaczymy sobie naszą biedę 
+mechanizmami gospodarczymi. Niemniej ekonomia to nie jest tylko zbiór samych 
+oszustw, widzieć trzeba przede wszystkim to, że jest to świadomość i ideologia 
+kapitalistycznej fazy rozwoju stosunków produkcji. Jest racjonalizacją 
+faktycznie zachodzących procesów. W tym sensie stanowi teoretyczny wyraz 
+faktycznej gospodarki. Nie jest to bezstronny opis, on nie tylko usprawiedliwia 
+rozwój stosunków gospodarczych, ale i je przyspiesza. Ekonomia, jako nauka, jest 
+tym, czym dla Hegla była filozofia jeśli chodzi o dążenie ducha do pewnej 
+samowiedzy -- jest to ostateczny moment. Ekonomia to jest sowa Minewry, która 
+wlatuje po tym, jak już procesy twórcze zamarły. Jest zwiastunem zmierzchu 
+kapitalizmu. Dotyczy to społeczeństw, które stoją tak wysoko, że ludzie mogą 
+refleksyjnie przyjrzeć się gospodarce. Tak jak dla Hegla pojawinie się filozofii 
+miało zwiastować koniec historii (bo ludzie już nie mają siły tworzyć historii), 
+tak dla Marksa pojawienie się nauk ekonomicznych jest zwiastunem końca 
+kapitalizmu.
+
+Paradoks zauważony przez Różę Luksemburg -- analogicznie z marksizmem, wraz 
+z przemianami społecznymi przestanie on być potrzebny. Dla niej materializm 
+historyczny (i cały marksizm) nie ma nic wspólnego z filozofią. 
+
+Zdaniem Marksa różnica jest taka, że ekonomia jest ideologią, któej zadaniem 
+jest maskowanie procesów dziejowych, fałszowanie ich obrazu.
+
+Kiedy myślimy o gospodarce, praca jest podstawową kategorią naszego myślenia. 
+Mechanizmem rozwojowym jest praca. Dlatego fałszywe ujęcie ekonomii będzie 
+przede wszystkim fałszować to, czym jest praca. Praca została błędnie powiązana 
+z wartością prywatną, natomiast praca jest procesem społecznym. Ekonomia 
+polityczna tworzy monstrum *homo economicus*, które jest nastawione na własny 
+zysk, które nie potrafi działać inaczej, jak tylko na podstawie zimnej 
+kalkulacji, która w imię zysku jest w stanie poświęcić wszelkie inne wartości. 
+Marks idzie krok dalej przełamując tę koncepcję, ale nie przełamuje jej do 
+końca. Marks burzy koncepcję idealnego indywiduum, wprowadza zbiorowość -- grupy 
+społeczne. Bada zależności, jakie się tworzą. To jest zbiorowość, którą rządzę 
+mechanizmy kooperacji. Póżniejsza krytyka będzie zauważać, że kategoria zysku 
+została, ale jest przeniesiona na całe grupy społeczne.
+
+Później antropologia ekonomiczna będzie argumentować, że to nie zysk jest 
+podstawą, a dar, dobrowolne przekazanie. Podstawą badania terenowe. Pokazanie, 
+że cała ekonomia wychodząca od Smitha, jest faszywa, bo oparta na złych 
+przesłankach.
+
+W krytyce ekonomii politycznej Marks podąża drogą Feuerbacha i popełnia te same 
+błędy, które zarzuca Feuerbachowi. Przenosi spór z ekonomią na pole antropologii 
+(tak jak F. na polu antropologii chciał walczyć z teologią). Tej ekonomicznej 
+wizji człowieka obaj przeciwstawiają wizję komunistyczną. Człowiek jest istotą, 
+która żyje (w tym zdobywa środki do życia) z gruntu społecznie. Perspektywa 
+wspólnoty, grupy jest dominująca. W systemie kapitalistycznym dominuje 
+perspektywa indywidualna, stąd perspektywa własności prytwatnej. To sprawia, że 
+człowiek pozbawiony własności prywatnej spada do poziomu towaru (skoro własność 
+prywatna i rynek dominują nad wszystkim, to robotnik, żeby przeżyć, musi 
+sprzedawać samego siebie, swoje siły wytwórcze). Nie ma szans, żeby robotnik 
+odnajdywał siebie w pracy. Im robotnik więcej wytwarza, tym bardziej jest 
+zubożony (w sensie materialnym i duchowym). Produkuje towary sam siebie 
+zamieniając w towar -- pozbywa się człowieczeństwa. To jest zasadnicza forma 
+antropologicznej opresji. To jest odwrócenie porządku świata. Człowiek, który 
+powinien być panem świata, czuje się spbą, kiedy nie pracuje, a kiedy zaspokaja 
+swoje zwierzęce potrzeby. Tam, gdzie powinien afirmować swoje człowieczeństwo, 
+w pracy, czuje się jak bezduszne zwierzę. Sobą czuje się poza pracą.
+
+Sytuacja kapitalisty nie jest lepsza. Jest mniej fizycznie dotkliwa, ale 
+odczłowieczenie, alienacja, również dotyka kapitalisty, który jest zmuszony do 
+udziału w grze rynkowej. 
+
+Jak temu zaradzić? Marksowska koncepcja komunistyczna koncepcją opanowania 
+świata. Jednak tej koncepcji Marks nigdy nie przedstawił w sposób spójny 
+i pełny. Młody Marks wskazuje na dwa elementy:
+
+1. Wyzwolenie pracy poprzez zniesienie jej podziału
+2. Wyzwolenie pracy poprzez uspołecznienie jej owoców
+
+Nadal jednak obracamy się w tej samej przestrzeni, rzeczywistości społecznej 
+generowanej poprzez burżuazyjny sposób produkcji. Marks stara się ten obraz ująć 
+subtelniej. To nie jest tak, że źli (kapitaliści) wyzyskują dobrych 
+(proletariat). Również kapitalista jest dotknięty przez alienację. To jest 
+mechanizm bardziej powszechny, niż charakterystyczny dla danego etapu rozwoju 
+w społeczeństwie. Marks uważa, że filozofem, który odkrył pracę jako rzeczywistą 
+sferę ludzkiej aktywności, w której człowiek staje się człowiekiem, był Hegel. 
+Można ściągnąć Hegla z nieba abstrakcji (jak to zrobił Feuerbach) i ująć go 
+w sposób antropologiczny. 
+
+Ludzie tworzą rzeczywistość, która zaczyna żyć własnym życiem. Twór oddziela się 
+od stwórcy i przeciwstawia się ludzkim pragnieniom. Okazuje się, że człowiek nie 
+rozpoznaje, nie ubogaca się w swoich wytworach, a przez nie cierpi. Zapomina 
+o tym, że jest ich producentem. To, co jes ludzkim dziełem, zaczyna żyć pozornym 
+swoim życiem, w ludzkiej wyobraźni zaczynają jawić się jako nieludzkie, 
+nadludzkie. Ludzie stają się niewolnikami własnych dzieł, praw. Rynek to nazwa, 
+dla tych wszystkich dzień. Kapitaliści też są ofiarami, choć ich wyobcowanie 
+różni się od wyobcowania robotników w procesie pracy. Ekonomia jest ekonomią 
+gospodarki wyalienowanej. Ekonomia hipotezom nadaje status praw przyrody. Chodzi 
+o to, by rozbić tę sfetyszyzowaną rzeczywistość, by pokazać, że rynek opisywany 
+jako bezosobowy proces, do którego człowiek musi się dostosowywać, to coś, za 
+czym kryją się konkretni ludzie, że rynek to skomplikowana sieć ludzkich 
+relacji. Tę sieć, jak wierzy Marks, da się kontrolować, choć będzie to wysiłek 
+tytaniczny, Podporządkowanie rzeczywistości społecznej ludzkim potrzebom, 
+opanowanie gospodarki, bo ma ona fundamentalny charakter również egzystencjalnie 
+-- zapewnia warunki do życia.
+
+Dla Marksa kapitalizm nie jest złem wcielonym -- jest konieczną fazą rozwoju 
+ludzkości. Podnosi na wysoki poziom rozwój technologiczny, produkune narzędzie 
+przetwarzania świata. Również w ujęciu jednostkowym Marks nie ukrywa, że jednak 
+ludzie żyli nieco lepiej, niż żyli w poprzednich epokach. To jest jednak 
+związane z rozwojem narzędzi, które jednak potem są one marnowane. Marks ma żyć 
+w momencie, w którym kapitalizm się wyczerpuje. Zamiast ubogacać ludzkość 
+kapitalizm zaczyna się kręcić w kółko. Stworzone przez ludzi narzędzie zwraca 
+się przeciwko ludziom. Marks stwierdza, że nadszedł czas, żeby zastąpić je innym 
+-- doskonalszym technologicznie i moralnie).
+
+Co więcej, Marks w pewnym sensie jest entuzjastą kapitalizmu -- jeśli sensownie 
+by tym pokierować, to jesteśmy w stanie rozwiązań problem niedoboru dóbr (w 
+cieniu którego rozwijała się ludzkość). Niektórzy badacze twierdzą, że ekonomia 
+ma dwa etapy: maltuzjański i pomaltuzjański (pomarksowska). Ten pierwszy to jest 
+nauka posępna (ponieważ traktuje człowieka jako istotę, która nigdy nie będzie 
+syta, ponieważ mamy wieczny niedobór dóbr koniecznych nawet dla naszej fizycznej 
+egzystencji). Ten drugi jest bardziej optymistyczny -- nawet zaczyna uderzać 
+w tony ekonomii szczęśliwości (zadaniem ekonomii nie zapewnienie przetrwania, 
+ale ułożenie życia tak, żeby ludzie byli szczęśliwi, kapitalizm wyprodukował 
+wystarczająco dużo dóbr, żeby zaspokoić potrzeby). Marks mówi, że trzeba uderzyć 
+u podstaw -- znosząc własność prywatną uda się znieść klasowe ułożenie 
+społeczeństwa. Marks uważał, że kapitalizmu nie da się zreformować, że musi 
+dojść do rewolucji. Po Marksie pojawią się marksiści, którzy uważają, że 
+socjalizm da się wprowadzić w ramach społeczeństwa kapitalistycznego. 
+
 

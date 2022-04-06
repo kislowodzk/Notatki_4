@@ -203,3 +203,115 @@ spokój.
 
 Jest pewien stały punkt (WOKÓŁ KTÓREGO OBRACA SIĘ KULA ZIEMSKA <3)
 
+## Ćwiczenia 4
+
+### Dostojewski
+
+(Prowadziłem)
+
+## Ćwiczenia 5
+
+Nie było mnie na Szestowie :/
+
+## Ćwiczenia 6 - 06.04.
+
+### Nietzsche -- Zaratustra
+
+Bardzo religijne, konserwatywne środowisko. Dzięki temu dogłębne i świadome 
+zbadanie swojej wiary. Porzucenie sfery akademickiej.
+
+Zaratustra dziełem późnym. Tekst liryczny, niejasny. Tekst daje narzędzia, które 
+dają możliwość krytycznego ustosunkowania się do przyjętego systemu myśli. Użyte 
+formy to mowy, pieśni, przypowieści.
+
+Wielbłąd -> Lew -> Dziecko
+
+(afirmacja 1) -> (negacja) -> (afirmacja 2)
+
+Wielbłąd to ugięcie się pod ciężarem zastanych przekonań. Mówi tak, choć jest to 
+dla niego obciążające. To wymaga siły. Moment lwa jes momentem negacji 
+(absolutnej), to jest *nie* rzucone wszystkiemu. To jest moment powolnego 
+wykształcania się wolności. Wolność wewnętrznie pusta. Jeśli ten element jest 
+traktowany w stopniu absolutnym, to się wyczerpuje. Dziecko bliżej tego, żeby 
+mówić *tak*, ale ono jednocześnie będzie tworzyło jakieś nowe wartości. Będzie 
+afirmować, ale w inny sposób. Po pierwsze ta droga nie ma charaktery 
+zamkniętego. Do momentu, w którym dojdziemy do jakiegoś człowieczeństwa, 
+przechodzimy przez etapy nieczłowiecze. Dziecko wszystko tworzy, może to być 
+początek dalszej drogi.
+
+Nietzsche lubi paradoksalne figury -- starzec stający się młodzieńcem, człowiek 
+znów stający się dzieckiem. Mamy prewną podwójność. *Nie* lwa jest czymś 
+odmiennym od *nie* Zaratustry. Stare tablice, które kruszy Nietzsche, są pewnymi 
+zastanymi przekonaniami. Domaga się ich kruszenia, jednak nie ma jeszcze nowych. 
+Stare tablice są już skruszone, a z drugiej nowych nie ma.
+
+Figura południa -- moment bez tablic, ale bez nowych jest momentem 
+najświetlistszego południa, z drugiej strony momentem najkrótszego cienia. 
+Południe to moment przesilenia dzielącego dzień na dwie połowy. Moment zmiany. 
+Coś, co Nietzschego będzie interesować.
+
+Temat śmierci Boga. Bóg **nie żyje**. Istotny nie jest moment śmierci. To nie 
+jest deklaracja ontycznego nieistnienia Boga. Bóg, jako gwarant porządku, ładu, 
+jest martwy. Bóg-zombie. Coś, co jeszcze przygniata, ale już nie ma siły 
+sprawczej, być może zostanie za niedługo zostanie usunięte. Oparcie na 
+paradoksie -- Chrześcijaństwo przetrwało śmierć Boga. Paradoks tego, że raz 
+Zaratustra mówi, że tablice są skruszone, a póżniwj nawołuje do ich kruszenia.
+
+Co musi się stać po śmierci Boga? Człowiek musi sam podjąć wysiłek 
+kształtowania, tworzenia. Istotny element wytwarzania nowych wartości.
+
+Na czym polega mówienie *tak*, które zaleca Nietzsche? Chodzi o powiedzenie 
+*tak* światu. Nie można zamknąć się w podziemiu, uciekać przed światem, nie 
+stawiać mu czoła. *Nie* lwa i *tak* wielbłąda okazuje się elementem tego samego 
+zaklętego koła bezczynności. Przeciwko temu jest mówienie życiu *tak* 
+Zaratustry. Jest pewną gotowością stawienia czoła światu. Traktowanie 
+wszystkiego jako możliwość nowego doświadczenia, jako udowodnienia czegoś 
+światu.
+
+Wrogów się nienawidzi, a nie nimi gardzi.
+
+Cnota darząca -- w jaki sposób coś dajemu. Chodzi o to, że samym swoim 
+istnieniem, samą maksymalizacją siebie coś ludziom dajemy zachowując w tym 
+siebie. Nie jest to jałmużna -- wyparcie się siebie na rzecz innych.
+
+Figura ostatniego człowieka (ostatnich ludzi): są tak bardzo zakorzenieni 
+w kulturze, że nie potrafią już nic stworzyć. Oni są szczęśliwymi ludźmi. Oni 
+mówią, że szczęście wynaleźli. Jest zdrowy, syty, ma jakieś swoje drobne 
+przyjemnostki, z drugiej strony nie wie co to jest miłość, tęsknota, gwiazda. 
+Figura człowieka nirwanicznie roztopionego w tępej szczęśliwości, permanentny 
+stan letniości. Ostatni ludzie zupełnym przeciwieństwem *ja-sagen*. Nie chcą 
+żadnych sytuacji, które byłyby pokonywaniem siebie.
+
+*Prawdziwa blond-aryjska bestia zawsze mówi ja-sagen wobec wursta*.
+
+Człowiek musi siebie przezwyciężać, pokonywać. Trzeba sobie zadawać porcję bólu, 
+cierpienia. Trzeba przekraczać to, czym się jest obecnie. Zaratustra zawsze 
+uważa, że w tym momencie jest jeszcze niedostateczny. Kultura ostatnich ludzi 
+będzie nawoływać do akceptacji tego, kim jest się obecnie. Nadczłowiek, który 
+jest nieustannym łamaniem siebie jest tutaj kluczową kategorią. Ten nadczłowiek 
+nie jest żadną antropologicznie różną od człowieka istotą. Jest figurą, która 
+podkreśla inny stan podmiotowości, jest w stanie akceptować życie, nie uciekać 
+w eskapizm ani negację. Nadczłowiek będzie tym, który nowe wartości będzie 
+potrawił tworzyć.
+
+Wola mocy. To, co żyje, cechuje się wolą mocy. Ostatecznie wola mocy powinna 
+okazać się silniejsza od woli życia. Wola mocy nie jest wyłącznie kwestią 
+świadomej i wyartykuowanej woli mocy. Jeśli ktoś jest akademikiem, badaczem 
+i mówi, że ma obiektywną prawdę, to nieświadomie kieruje nim wola tego, żeby być 
+dysponentem tej prawdy. Asceza (prawdziwa) ma w sobie głęboki rdzeń poszukiwania 
+perwersyjnej przyjemności. Ktoś w ascezie potrzebuje narcystycznego 
+samouwielbienia wobec świata.
+
+*The shortest shadow* -- polecana książka o Nietzschem
+
+Jeśli prawdziwy nadczłowiek to ktoś, kto narzuca światu swoje pojęcia, realnie 
+zmienia świat i go przetwarza, to pojawia się paradoks. Kapłani, którzy są 
+*winni* odwrócenia wartości, jednak wygrali, udało im się wprowadzić swój 
+porządek.
+
+Nietzsche nie lubi zaświatowców i eskapistów. Po stronie ostatnich ludzi 
+niezdecydowanie, stawiając nogę nie wiedzą, czy chcą ją postawić. Z drugiej 
+strony Nietzsche chce zakorzenienia w (matce xd) ziemi. Figura tancerza, który 
+nie jest przygnieciony, potrafi się wznieść. Dwie lekkości: ostatni ludzie -- 
+niezdecydowanie, połowiczności; Zaratustra -- taniec.
+

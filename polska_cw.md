@@ -8,7 +8,7 @@ i wysłać pod koniec semestru.
 
 Za tydzień spotykamy się stacjonarnie
 
-## Ćwiczenia -- 18.03. (polska)
+## Ćwiczenia 3 -- 18.03. (polska)
 
 ### Dokończenie razu ostatniego
 
@@ -69,5 +69,49 @@ powinniśmy zanegować samych siebie.
 
 Ciekawe jest też to, że słowa wymieniane po stronie *białej* jest czymś 
 charakterystycznym raczej dla myślenia europejskiego
+
+## Ćwiczenia 4 -- 01.04.
+
+### Tekst Kołakowskiego
+
+Zaznaczenie konfliktu między Kantowskim a historiozoficznym sposobem myślenia. 
+Uznaje samego siebie za sympatyka Kanta. Pyta o znaczenie filozoficznej 
+antropologii Kanta. Zauważa, że w ujęciu Kantowskim człowieczeństwo należy 
+postrzegać jako kategorię moralną -- nie możemy wprowadzać reguł co do tego, co 
+czynimy. Problem: jeśli nie jest możliwe dokonanie rozróżnienia między dobrem 
+a złem (na podstawie obserwacji ludzkich zachowań), to jak możemt to zrobić 
+w sferze rozumu praktycznego. Czy cywilizacja może istnieć bez wiary, że 
+istnieje różnica między dobrem a złem, bez kategorii moralnych i bez odwoływania 
+do kategorii utylitarnych.
+
+Dalej rozważania nt. koncepcji radykalnego zła u Kanta -- dla Kanta zło jest 
+radykalne, bo ma źródło w woli człowieka. Radykalność zła polega na wprowadzeniu 
+w miejsce dobra i zła jedności, zjednoczenia tych dwóch. Kant przy opracowaniu 
+myśli moralnej nie zakładał, nie oczekiwał, żeby ludzkość mogła temu sprostać, 
+to był bardziej drogowskaz, niż wymóg, który trzeba sprostać. Ta maksyma miała 
+ograniczać  podatność woli na zło. Dalej zauważa dwa elementy: imperatywem 
+wprowadza zasadę radykalnego "albo-albo", która miała chronić przed budową 
+radykalnej jedności; moralne minimum kantyzmu (człowiek może być traktowany 
+wyłącznie jako cel sam w sobie, nigdy jako środek) -- to jest uzupełnieniem -- 
+przez to kantyzm wyraża sprzeciw wobec wszelkich form niewolnictwa. Etyka może 
+istnieć tylko, jeśli zakłada wyraźną różnicę między popędami naturalnymi 
+a normami.
+
+Stwierdzenie, że istotnym zagrożeniem dla cywilizacji jest to, że dalibyśmy się 
+przekonać o niemożności rozróżnienia dobra i zła, albo, co gorsze, jeśli uznamy, 
+że da się to wydedukować z ludzkich zachowań i procesów historycznych.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -1,4 +1,4 @@
-# Historia Filozozii Nowożytnej II -- ćwiczenia
+# Historia Filozofii Nowożytnej II -- ćwiczenia
 
 ## Ćwiczenia 1 -- 28.02.
 
@@ -73,21 +73,21 @@ też mają cechy pierwotne. Również atomy powodują to, że atomy mają moce.
 
 #### Problem Molyneuxa (czyt. molinu)
 
-Załómy, że mamy niewidomego człowieka, który przez dotyk nauczył się rozpoznawać 
-kształt sześcianiu i kuli. Jeśli ten niewidomy nagle przejrzy, to czy będzie 
+Załóżmy, że mamy niewidomego człowieka, który przez dotyk nauczył się rozpoznawać 
+kształt sześcianu i kuli. Jeśli ten niewidomy nagle przejrzy, to czy będzie 
 w stanie tylko na podstawie wzroku rozpoznać kulę i sześcian (przypuśćmy, że je 
 widzi). Są one czymś trójwymiarowym.
 
 Według Locke'a nie będzie w stanie tego zrobić.
 
-Odpowiedż Leibniza jest pozytywna, pod warunkiem, że ten człowiek jest w stanie 
+Odpowiedź Leibniza jest pozytywna, pod warunkiem, że ten człowiek jest w stanie 
 przeprowadzić pewne przekształcenia matematycznego i wie, że przed oczami ma 
 kulę i sześcian (ma je tylko rozróżnić).
 
 #### Natura języka
 
 Znaczenia słowa ogólnego to jest idea ogólna w umyśle. Powstają przez abstrakcje 
-z materiału konkretnego -- zmysłowego i refleksyjnego. Budowa znaczeń jęsykowych 
+z materiału konkretnego -- zmysłowego i refleksyjnego. Budowa znaczeń językowych 
 od dołu.
 
 Komunikacja językowa polega na tym, że ja używając słowa obwieszczam, że mam 
@@ -146,7 +146,7 @@ Mamy:
 - Przedmioty wzroku -- bezpośrednio postrzegane przez wzrok. Na przykład kolory, 
 kształty, cienie.
 - Przedmioty dotyku -- w znaczeniu takiej rzeczy jak ciała (możemy powiedzieć, 
-że są to doznania dotykowe albo nawet serie doznań dotykowych, do kórych 
+że są to doznania dotykowe albo nawet serie doznań dotykowych, do których 
 redukuje się ciało).
 
 One, zdaniem Berkeley'a nie są tego rodzaju, nie są do siebie podobne, nie są 
@@ -158,7 +158,7 @@ przedmiotami wzroku i dotyku istnieje relacja językowa. Nikt z nas nie
 powiedziałby, że jest autorem tego języka. To oznacza, że ten język ma być 
 stworzony przez Boga. Z każdym doświadczeniem wzrokowym dostajemy informację, 
 która mówi o tym, co znajduje się po stronie przedmiotów dotykowych. Czasem może 
-nas ta informacja zwieść, ale pomijająć sporadyczne przypadki pomyłki, to ten 
+nas ta informacja zwieść, ale pomijając sporadyczne przypadki pomyłki, to ten 
 język działa całkiem dobrze. Nie możemy więc twierdzić, że Bóg nie istnieje 
 i nie możemy twierdzić, że się on o nas nie troszczy, nie możemy twierdzić, że 
 nie ingeruje w świat. Z wniosków natury doświadczalnej przechodzimy do wniosków 
@@ -225,7 +225,7 @@ z metafizyką, bardziej techniczna, abstrakcyjna.
 Filozofia moralna (bada ludzie obyczaje i stara się na nią wpłynąć) -- powinna 
 czerpać z filozofii spekulatywnej.
 
-Filozofia spekulatywna/teoretyczna -- ma mieć charakter bardziej dogłębej wiedzy 
+Filozofia spekulatywna/teoretyczna -- ma mieć charakter bardziej dogłębnej wiedzy 
 o człowieku, o umyśle.
 
 W ten sposób Hume tłumaczy się z teoretycznych wywodów. On chciał być pisarzem, 
@@ -281,9 +281,9 @@ się łączą.
 
 - podobieństwo -- między przedmiotami idei
 - styczność w czasie i przestrzeni -- między przedmiotami idei
-- przyczyna i skuek -- również chodzi raczej o przedmioty idei
+- przyczyna i skutek -- również chodzi raczej o przedmioty idei
 
-Możnaby tak to zrozumieć, że chodzi o idee. Tak spróbujmy i zobaczmy. Hume się 
+Można by tak to zrozumieć, że chodzi o idee. Tak spróbujmy i zobaczmy. Hume się 
 nad tym nie rozwodzi, uważa to za prawie oczywiste. Najbardziej będzie go 
 interesować przyczyna i skutek, podobieństwo uważa za zbyt oczywistą rzecz, żeby 
 się nią zajmować.
@@ -334,7 +334,7 @@ sprawdzić doświadczalnie.
 
 Podrzucam do góry kamień. Apriori mogę powiedzieć, że ten ruch może odbywać się 
 na nieskończenie wiele sposobów. To jak powiedzieć, że nie wie się, jak ten ruch 
-będzię dokonywał. Mogę pomyśleć o nieskończenie wielu sposobach poruszania się, 
+będzie dokonywał. Mogę pomyśleć o nieskończenie wielu sposobach poruszania się, 
 w żadnym nie ma sprzeczności.
 
 Nauka mówi o rzeczywistości pośrednio. Mówi o swoim modelu, który jest lepszym 
@@ -358,5 +358,108 @@ przyzwyczajenia myślowe
 
 Od tego zaczniemy za tydzień.
 
-Poprzednie: 5
+## Ćwiczenia 6 -- 04.04.
+
+### Hume
+
+Z doświadczenia wiem w ogóle, że istnienie w świecie przyczyna i skutek. Wedle 
+Hume'a nigdy nie możemy apriori przewidzieć jaki będzie skutek. Wiedza 
+doświadczeniowa będzie polegać na obserwowaniu korelacji zdarzeń. Bez 
+doświadczenia nie jesteśmy w stanie poznać związku przyczynowego. Kant powie, że 
+zasada przyczynowości nie wynika z doświadczenia, ale doświadczenie warunkuje.
+
+Hume ma też wątpliwości krytyczne. Przypuśćmy, że jem chleb. Oczekuję, że chleb 
+mnie pożywi. Hume konstatuje, że to doświadczenie mówi, że chleb zawsze mnie 
+żywił. Jednak czy z faktu, że do tej pory chleb zawsze mnie żywił oraz z tego, 
+że teraz jem chleb, wynika to, że chleb, który jem, mnie pożywi? Nie.
+
+Inaczej też -- jeśli pomyślę sobie te dwie przesłanki, to nie jest sprzeczne 
+stwierdzenie, że chleb mnie nie pożywi (a na przykład otruje). Wniosek nie wynika 
+z przesłanek. Okazuje się, że nie jesteśmy w stanie uzasadnić nawet aposteriori. 
+Coś jest nie tak z naszym doświadczeniem. Cenna jest dla nas wiedza mówiąca 
+o teraźniejszości. 
+
+A gdyby dodać kolejną przesłankę? Jak mogłaby ona wyglądać. Przyjmijmy zasadę, 
+że przyszłość będzie podobna do przeszłości. Nawet jeśli wtedy z tych przesłanek 
+wynika wniosek, że ten chleb mnie pożywi, to jednak wciąż pojawia się potrzeba 
+uzasadnienia tej dodanej przesłanki. Jak można to uzasadnić? Albo apriori, albo 
+aposteriori. Nie udowodnimy tego apriori, bo nie widzimy niczego sprzecznego 
+w zdaniu przeciwnym (tak to stawia Hume). Co z dowodem aposteriori? Nie mogę 
+uzasadnić powołując się na doświadczenie, ponieważ ta przesłanka ma mi pozwolić 
+sięgać do doświadczenia, aby coś wykazać. Nie można więc dowodzić aposteriori, 
+ponieważ poruszalibyśmy się po błędnym kole.
+
+Popper będzie twierdził, że jeśli przyjmiemy taki model nauki, który opisuje 
+Hume, to jesteśmy w kropce. Naukę raczej trzeba ująć jako hipotezy, które chcemy 
+obalić. Im bardziej hipoteza opiera się próbom obalenia, tym bardziej jest godna 
+zaufania. Obecność w nauce mają te twierdzenia, które nie zostały jeszcze 
+obalone. To jest de facto odpowiedź udzielona Hume'owi.
+
+Wniosek Hume'a: nasze przechodzenie myślowe od jedzenia chleba do pożywienia się 
+mówi nam coś na temat wiedzy i musimy się na to zgodzić.
+
+Hume wnioskuje, że ta czynność przechodzenia od przesłanki rozumowej do wniosku 
+**nie jest rozumowaniem**, ponieważ nie jest to poprawne rozumowanie. Hume nie 
+przeczy istnieniu korelacji, problem jest z rozszerzeniem związku logicznego 
+między zdarzeniami. Korelacja to taka wiedza, jak medycy, którzy wiedzą, że przy 
+danych objawach choroba, która je wywołała, jest taka. Natomiast, za 
+Arystotelesem, wiedza o chorobie polega na umiejętności podania przyczyn. 
+Okazuje się, że z naszą wiedzą jest krucho. Przejście nie ma charakteru 
+rozumowania, jest to jedynie **przyzwyczajenie**, *habitus*. Jeśli mam myśl A, 
+to nasuwa mi się myśl B. Mechanizm przyzwyczajenia przyda nam się, gdy będziemy 
+mówić o związku koniecznym. Jeśli wielokrotnie chleb mnie żywił, to odzywa się 
+moja zwierzęca natura, od myśli A nasuwa mi się myśl B. To przyzwyczajenie ma 
+pewną siłę sprawczą, oznacza to jakąś pewność, coś, na czym możemy polegać. 
+*Habitus* jest jakimś praktycznym ratunkiem z tej sytuacji. W ostateczności 
+liczy się nasze działanie (takie praktycystyczne rozumienie Hume'a), a jeśli nie 
+działania, to jakaś intuicja. Mamy nawyk, który jest lodołamaczem trudności 
+teoretycznych.
+
+Większość nauk polegających na indukcji. Hume powie, że to jest pewnego rodzaju 
+mechanizm psychologiczny.
+
+**Prawdopodobieństwo** -- empirystycznie wytłumaczone. Dlaczego bardziej 
+uznajemy to, co prawdopodobne, niż to, co nie jest prawdopodobne? Dlaczego 
+jestem przekonany, że raczej wypadnie na kostce liczba od 1 do 5, niż 6? Jaki 
+jest mechanizm psychologiczny, który za tym stoi? Ponieważ wielokrotnie 
+obserwowałem, że na kostce wypada od 1 do 5, niż że wypada 6. Hume krytykuje 
+cuda jako coś, co jest zdarzeniem rzadkim, więc ma mniejsze prawdopodobieństwo. 
+Jeśli rozważę wszystkie świadectwa, które mówią, że ludzie nie zmartwychwstają, 
+to ta szala przeważa. Mógłbym próbować argumentować, że fałszywość argumentacji 
+za cudem jest mniej prawdopodobne, niż sam cud. Nie sposób uzasadnić przez 
+odwołanie do cudów. Można przyjąć cuda na podstawie wiary, ale nie da się 
+uzasadnić religii na podstawie cudów.
+
+**Związek konieczny** -- interesuje nas przyczyna, skutek. Hume analizuje 
+związek konieczny, bo interesuje go pojęcie przyczyny. Od przyczyny wymaga się 
+pewnej mocy sprawiania czegoś. Przyczyna ma pewną moc. Po drugie to, co 
+przyczyna sprawia, dzieje się z koniecznością. Czyli dla przyczyny istotna 
+**moc** i **konieczność skutku**. (Wedle współczesnej literatury przyczyna jest 
+powiązana z cechą, coś, co nie ma mocy przyczynowej, nie ma cech). Trzeba by 
+zbadać jaka jest impresja idei przyczyny. To musi być impresja pewnej mocy, 
+a zarazem impresja pewnej konieczności. Czy w doświadczeniu zewnętrznym jest nam 
+dane coś, co ma pewną moc? A pewną konieczność? Nie mam impresji, która ukaże 
+konieczność. Co do mocy, to Hume też powie, że mogę obserwować jedynie 
+następstwo, ale nie moc. Widzę, że kartka papieru się zapala, to nie oznacza, że 
+ogień ma jakąś moc, która by to sprawiła.
+
+Mogę powiedzieć, że mam jakieś wrażenie oporu, nie oznacza to jednak, że jest 
+jakaś rzecz, która mi się opiera. Jest to jedna z wielu różnych danych. Podobnie 
+jak z barwą. Czy wrażenie barwne uzasadnia, że są przedmioty barwne? 
+W ostateczności wrażenie oporu możemy też mieć na przykład we śnie.
+
+Konieczności też na pewno nie widzimy. Co powinienem więc mieć na myśli mówiąc, 
+że A jest przyczyną B? Znaczy to, że w dotychczasowym doświadczeniu bardzo 
+często po A następowało B, wskutek tego wyrobił się we mnie pewien nawyk, przez 
+który kiedy widzę A oczekuję B. Poczucie w moich myślach, że zawsze po 
+A następuje B jest poszukiwaną koniecznością. Nie ma tutaj zaprzeczenia 
+istnienia związków przyczynowych w świecie, ale nie są nam one dane. Jeśli ktoś 
+mówi o związkach przyczynowych, to zdajemy sprawę ze swojego umysłu.
+
+Co ze zdarzeniem zupełnie nowym? Zgodnie z tym mechanizmem, wedle Hume'a nie 
+będziemy mieli myśli na temat przyczyny i skutku.
+
+## Ćwiczenia 7 --
+
+
 

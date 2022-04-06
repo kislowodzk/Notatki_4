@@ -566,9 +566,130 @@ O co tu chodzi? Motyw alienacji pracy. Procesy o których tu mowa, zachodzą
 w sposób **żywiołowy** -- z punktu widzenia uczestnika niezależny od niego, 
 ododbierany jako podstawowy.
 
+## Ćwiczenia 6 -- 06.04.
 
+### Uzupełnienie do *Ideologii niemieckiej*
 
-### Ostatnie ćwiczenia nr: 5
+Rozwój żywiołowy, czyli niezależny od człowieka. Człowiek jest zależny od 
+wykonywanej pracy, która jest narzucana przez procesy społeczne. Dochodzi do 
+alienacji pracy. Człowiek staje się w pełni zależny od tego rozwoju. Człowiek 
+musi się odnaleźć w warunkach dyktowanych przez rozwój społeczny. Rezygnuje 
+z siebie na rzecz pracy społecznie określonej. Człowiek nie panuje nad pracą -- 
+praca panuje nad człowiekiem. Remedium zniesienie podziału pracy, ideał 
+człowieka wszechstronnego. Ta działalność, czyn człowieka, staje się jego 
+własnym czynem. Człowiek wyraża się poprzez pracę. Zmienność pracy jest 
+podkreślona. Państwo również, w dotychczasowym kształcie społecznym, jest sferą 
+alienacji.
 
+Dalej analiza klasowa. Wniosek -- wszystkie walki w ramach państwa są 
+iluzorycznym przejawem prawdziwej walki -- walki klasowej. Sfera polityczna jest 
+wtórna w stosunku do sfery ekonomicznej. Jednak przyjmuje, że ta sfera 
+polityczna nie  jest bez znaczenia. Proletariat również w tej sferze musi się 
+wypowiedzieć, zaangażować. Najpierw musi przejąć władzę polityczną, aby potem 
+przedstawić swój interes jako coś powszechnego. Z czym zatem należy walczyć? 
+Należy walczyć z państwem -- to jest ta forma organizacji, w której skupiają się 
+sprzeczności. Należy podjąć wysiłek mający na celu zniesienie państwa. 
+Skuteczność tego emancypacyjnego procesu musi się wiązać ze spełnieniem pewnych 
+warunków. Jakie to są warunki? Alienacja nie do wytrzymania i rozwój sił 
+wytwórczych. Ma to być proces uniwersalny, ma obejmować gospodarkę w całości -- 
+założenie, że ta gospodarka została w świecie zuniwersalizowana. Marks dopuszcza 
+różnice w stopniu rozwoju. Jednak ten proces staje się procesem uniwersalnym, 
+ukierunkowanie tego procesu jest już wyraźne. Narody/państwa zmierzają 
+w kierunku w pełni rozwiniętej gospodarki kapitalistycznej. Jeśli ta przesłanka 
+(rozwój sił wytwórczych) nie będzie spełniona, to doprowadzi do nędzy.
 
+Komunizm to rzeczywisty ruch, który znosi stan obecny. Stara się tutaj pokazać, 
+że opisuje realny proces. Główną przesłanką staje się istnienie światowego rynku 
+kapitalistycznego. Tylko wtedy ludzkość jest w stanie zapanować nad tym 
+procesem. Chodzi tu o kontrolę nad tym procesem. To, co dokonywało się w sposób 
+żywiołowy, ma się stać procesem kontrolowanym.
+
+Kwestia ideologii -- czym jest? Jaka jest jej funkcja społeczna? Ideologia jest 
+określona klasowa. Jest narzędziem mającym przedstawiać interesy panującej klasy 
+jako interesy wspólne, uniwersalne. 
+
+### Tezy o Feuerbachu
+
+#### Teza 1
+
+Czego brakuje Feuerbachowi? Dotychczasowy materializm jest stanowiskiem, które 
+domaga się przeformułowania. Chodzi o nowy typ materializmu, który rozwijałby 
+*stronę czynną*. Zdaniem Feuerbacha obiektywnie istnieją tylko przedmioty, 
+natomiast zdaniem Marksa realnie istnieją także relacje, praca. Domaga się 
+spojrzenia na stanowisko materialistyczne, które byłoby stanowiskiem ujmującym 
+również sferę czynności. Ten materializm powinien zawierać w sobie procesy, 
+aktywność, która kształtuje rzeczywistość zmysłową. Jesteśmy aktywną, 
+kształtującą sferą świata. Podkreślenie strony czynnej. Materializm historyczny, 
+który bierze pod uwagę również ten aspekt rzeczywistości. Czynne rozumienie 
+życia na gruncie materializmu. Dla marksa nie istnieje coś takiego, jak 
+*obiektywnie istniejąca rzeczywistość*, zawsze jest ona w odniesieniu do 
+człowieka. Już samo spojrzenie na rzeczywistość jest czynne. Człowiek patrzy 
+praktycznie na świat.
+
+#### Teza 2
+
+Niepraktyczne podejście, to podejście czysto scholastyczne -- oderwane od 
+rzeczywistości, nieujmujące jej.
+
+#### Teza 3
+
+Wychowawca musi zostać wychowany -- na to, jak będzie on kształtował późniejsze 
+czasy, musiały wpłynąć czasy wcześniejsze, w których się wychowywał, który 
+kształtyje jego postrzeganie rzeczywistości. Mamy dwustronną zależność. Ten, kto 
+zmienia rzeczywistość, jest kształtowany przez nową rzeczywistość. Jest to jeden 
+proces historyczny. Próba zmiany optyki z tego, że nie warto koncentrować się na 
+przedmiotach, które widzimy, a warto na procesie. Struktury, nie ich zawartość, 
+są czym, co jest dla nas pouczające. To, jak świat działa, to nie są rzeczy, ale 
+struktury, które same będą wytwarzać rzeczy, umożliwiające im istnienie. Fakt, 
+iż nie ma podziału na warstwę wychowującą i wychowywaną. Mowa o jednym procesie 
+historycznym, nie jest on rozdrobniony na cały szereg procesów. To jest do 
+uchwycenia przez rewolucyjną praktykę -- proletariat. Po drugie -- nie myśl, 
+tylko praktyka zmienia warunki, a więc zmienia człowieka.
+
+#### Teza 4 i 5
+
+Marks przyjmuje krytykę alienacji religijnej, ale podkreśla, iż jest to 
+podejście niewystarczające, ponieważ Feuerbach zatrzymuje się, a zdaniem Marksa 
+trzeba zejść jeszcze niżej w analizie zjawisk społecznych. Należy przejść niżej 
+-- do rzeczywistych warunków, które decydują o kształcie świata społeczenego. 
+Fakt samorozdarcia i samozaprzeczenia ziemskiej podstawy. Należy zrozumieć tę 
+podstawę w jej sprzeczności. Na przykład rodzinę należy rozważać jako część 
+pewnego systemu społecznego. Rodzina jest postrzegana jako pewna struktura 
+społeczna wpisana w proces społeczno-ekonomiczna. Jest formą organizowania 
+również stosunków kapitalistycznych. Będzie się Marks domagał przejrzenia 
+społecznego charakteru rodziny i tego, że jest ona klasowo uwarunkowana. Wyraża 
+się w niej sprzeczność pomiędzy działalnością człowieka i strukturą społeczną. 
+Rodzina w sensie burżuazyjnym (którą znam w dotychczasowym kształcie) 
+i skłonności rodzinne w społeczeństwie bezklasowym). Rodzina jest przefłużeniem 
+pewnej struktury ekonomiczno-społecznej, wyraża się w niej podział pracy, 
+z którym Marks walczył. W proces kształtowania się podziału pracy uczestniczyy 
+rodzina. Kontrast między naturalną potrzebą więzi rodzinnej (prawdziwie ludzkie 
+życie) i tym, jak ona wygląda w spoleczeństwie burżuazyjnym. Fundament -- 
+podstawowa sprzeczność między interesem indywidualnym a interesem wspólnym. Inna 
+sprzeczność między rodzajem sił wytwórczych a strukturą społeczną. Państwo jako 
+struktura uwarunkowana klasowa. Wiąże się z władzą burżyazyjną. Na pewnym etapie 
+państwo jest czymś koniecznym, domaga się ostatecznie zniesienia państwa. 
+Podstawową sprzeczności w rzeczywistości społecznej jest fakt dominacji 
+społecznej, bo jest aritralne. Chodzi o to, żeby kontekst teoretyczny umieścić 
+w praktyce.
+
+#### Teza 6, 7 i 8
+
+Istota ludzka całokształtem warunków społczenych. Odpowiedzią na pytanie *czym 
+jest człowiek?* jest społeczeństwo jako całość, która to całość kształtuje 
+człowieka. Radykalnie społeczny sposób rozumienia człowieka. Abstrakcyjna 
+jednostka nie jest *jakaś*, to społeczeństwo *jakąś* ją tworzy. Antyesencjalizm 
+radykalny. Tego, że również *usposobienie religijne* jest wytworem społecznym 
+nie zauważył Feuerbach.
+
+#### Teza 9 i 10
+
+Krytyka, po naszemu, *liberalnego* społeczeństwo. Przeciwstawiona społeczeństwo 
+ludzkie, czyli uspołeczniona ludzkość. Istotę człowieka sprowadzono do stosunków 
+społecznych, to rozumienie ludzkości jako uspołecznionej, w której zostały 
+usunięte wszystkie ograniczenia, z którymi mieliśmy do czynienia w ramach 
+społeczeństwa obywatelskiego (mieszczańskiego/burżuazyjnego). Przestajemy 
+patrzeć na społeczeństwo jako na zbiór jednostek, zaczynamy patrzeć jako na 
+strukturę. Jeśli istota człowieka sprowadza się do stosunków społecznych, to 
+człowiek utożsamia się ze społeczeństwem, którego jest częścią.
 
