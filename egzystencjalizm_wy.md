@@ -1859,5 +1859,58 @@ rzeczywistością, pozostają jedynie te interpretacje, które są wytworem pewn
 umysłów. Te umysły to nic, tylko wynik pewnej ewolucji, pewnym nurtem życia, 
 z tym się nigdy nie możemy spierać.
 
-### Ostatni 5
+## Wykład 6 -- 05.04.
+
+### Fenomenologia
+
+Egzystencjalizm ściśle związany z analizą fenomenologiczną, z fenomenologią. 
+Trzeba zaznaczyć, że jest kilku autorów -- członków ruchu 
+egzystencjalistycznego, którzy nie uznają wysiłków opisu sytuacji/kondycji bytu 
+ludzkiego za istotne, jeśli nie sięgają one do dziedzictwa pozostawionego przez 
+Husserla i jego uczniów. To jest uwaga akademicka. Wszystkie niemetodyczne zrywy 
+(od Pascala, przez Kierkegaarda, Dostojewskiego) znajdują pas transmisyjny 
+przekazu niezależnie na dwóch płaszczyznach:
+
+1. Działalność do dzisiaj nie w pełni poznanego, docenianego filozofa: 
+
+### 1:25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
