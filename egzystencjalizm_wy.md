@@ -1871,10 +1871,150 @@ Husserla i jego uczniów. To jest uwaga akademicka. Wszystkie niemetodyczne zryw
 (od Pascala, przez Kierkegaarda, Dostojewskiego) znajdują pas transmisyjny 
 przekazu niezależnie na dwóch płaszczyznach:
 
-1. Działalność do dzisiaj nie w pełni poznanego, docenianego filozofa: 
+1. Działalność do dzisiaj nie w pełni poznanego, nie w pełni docenianego 
+filozofa: **Gabriela Marcela**, który przeszedł na katolicyzm. Stworzył on bez 
+najmniejszych odniesień do systemu Husserla swoją niepowtarzalną metodę 
+fenomenologiczną. To się objawia przede wszystkim w studium *Być i mieć*. Ten 
+nurt polega na tym, że odrzuca się pewne ustalenia, pewne apriori, sięga się za 
+to do pewnego opisu, pewnego doświadczenia wewnętrznego.
+2. Drugi nurt będący samoświadomym sięganiem do Husserla. Miało to być nauką 
+ścisłą, niepodważalną, która wskaże takie typy doświadczenia, które nieomylnie 
+wskażą na typ bytu niedający się w żaden sposób zakwestionować.
 
-### 1:25
+1901 r. -- Husserl opublikował pierwszy tom **Badań logicznych**, które 
+znamionują prawdziwy przełom w myśli filozoficznej XX wieku. Żeby dobrze 
+uchwycić metodę fenomenologiczną jak i wkład fenomenologów i wpływ na doktryny 
+egzystencjalistyczne, trzeba powiedzieć o dwóch przesłankach:
 
+1. Stan, który Husserl uznał za niezadowalający -- na końcu XIX w. filozofia 
+miała utracić prawo do wypowiadania sądów pewnych co do tego, co istnieje. 
+Filozofia została rozerwana dwoma antynomiami:
+    - Psychologizm -- jest to sięgający empiryków brytyjskich problem. Jest to 
+    pewnego rodzaju ślepa wiara, która opiera się na założeniu, że da się umysł 
+    albo świadomość, albo podmiot znaturalizować -- umieścić w pewnym horyzoncie 
+    świata naturalnego, przyrodniczego. Heidegger (uczeń Husserla) będzie 
+    nazywał to ontologiami cząstkowymi (regionalnymi). Zamiast wyjaśniać coś 
+    tracą z horyzontu byt jako byt. Dla Husserla problem polega na tym, że 
+    w świecie empirycznym oddało się umysł, świadomość, podmiotowość. Rodzi to 
+    prawdy, które prawdami naprawdę nie są. Dochodzimy do niemożliwości 
+    wypowiadania sądów o charakterze ogólnym. Wszystko, co rozum chciałby 
+    osiągnąć, okazuje się prawami psychicznymi. Wiemy, że 2+2=4 tylko dlatego, 
+    że umysł przyzwyczaił się do pewnej formy operacji (Hume), przyzwyczajenie, 
+    nawyk powoduje, że mamy do czynienia z prawem psychologicznym. Nie mamy do 
+    czynienia z prawami, które w swoich treściach ma charakter uniwersalny, 
+    idealny (poza czasem i przestrzeniem). Zamiast prawd uniwersalnych/idealnych 
+    mamy do czynienia z twierdzeniami oddanymi w gestię empirii.
+    - Próba uwolnienia się od psychologizmu na gruncie przede wszystkim logiki 
+    -- przejście do czegoś, co mogłoby przypominać badania nad prawdziwym bytem. 
+    *Z powrotem do samych rzeczy* -- jeśli filozofia ma się liczyć w jakikolwiek 
+    sposób, musi się odwrócić od ograniczeń związanych z ujęciem empirystycznym, 
+    naturalistycznym. Musi się rzucić w wir tego, co Husserl nazywa *sferą 
+    rzeczy prawdziwych*. Wrócić do nich z powrotem, bo kiedyś może filozofia 
+    w nich przebywała. Problem polega na tym, że Husserl musiał owe rzeczy, 
+    innymi słowy owe *fenomeny*, na nowo określić. Tu się zaczyna przewrót 
+    kopernikański dokonany u progu XX wieku. Filozofia taka nie może wywodzić 
+    się z jakichkolwiek założeń. Ma sięgnąć do takiego materiału, takich 
+    doświadczeń, które są pewne, w które nie można zwątpić. Mają one być 
+    samooczywiste, ewidentne. Wszystko to ma być ukazane w specyficznym 
+    (ujawnionym przez Husserla) doświadczeniu, które nazwał *naocznością*, albo 
+    *intuicją*. Jeśli mam wrócić do rzeczy, udać się do autentycznej sfery bytu, 
+    to muszę wskazać na typ doświadczenia niepodważalnego. Ja go nie zakładam, 
+    muszę go odkryć. Husserl nie jest pionierem -- wcześniej był Kartezjusz. 
+    Husserl napisze *Medytacje kartezjańskie*, jest ich tyle, co u Kartezjusza. 
+    Muszę odkryć, doświadczyć czegoś takiego, co mnie przekona. Takie 
+    doświadczenie, to doświadczenie **naoczności bezpośredniej/intuicji** -- 
+    coś, co zostanie mi przedstawione albo przedstawi się w sposób bezpośredni 
+    -- zezwoli mi to na zdecydowanie, że to w ogóle jest. To *jest* będzie inne, 
+    niż *jest* o którym rozprawiała filozofia przedhusserlowska. Jeśli mam 
+    powrócić do samych rzeczy, to wiem, że te rzeczy będą się jawiły nieco 
+    inaczej, niż własności. Dane w tym szczególnym typie nakierowania w intuicji 
+    -- istotny związek między tym, co nakierowuje się, co jest spełniaczem 
+    takich aktów, a przedmiotem tych aktów. Po jednej stronie pewna matryca, 
+    która tego dokonuje (jest to jakaś świadomość), z drugiej strony mamy jakieś 
+    przedmioty tej świadomości -- coś, co jawi się w polu jej działania. 
+    Z jednej strony byty same w sobie -- nienaruszalne, poznawalne na wiele 
+    sposobów. Poznaje je nauka, poznaje je psychologia, metafizyka, ontologia, 
+    ciągle coś w przedmiocie zostaje niedopowiedziane do końca. Przedmiot 
+    zostaje niezależny. Przedmiot sam w sobie zamknięty, poznawialny w kolejnych 
+    przybliżeniach (wg. pozytywizmu), nie będziemy nic o nim wiedzieć do końca. 
+    Husserl mówi, że trudno mówić o przedmiotach, to (treści), co uważamy za 
+    przedmioty, to są treści, które nie wychodzą poza obręb naszej świadomości. 
+    Świat to nic innego, niż seria pewnych dat, wiązek wrażeniowych. To są dwa 
+    straszne błędy, które popełniliśmy. One blokują nam dostęp do 
+    rzeczywistości. Aby ją odsłonić, muszę wyjść od samego początku. To 
+    *pierwsze* musi uświadomić sobie typ doświadczenia, który pokaże relację 
+    między jedną i drugą stroną: między zespołem *jak?* i zespołem *co?*. Mówi 
+    się: zostawmy stare przyzwyczajenia (nastawienie naturalne) -- nie niszczmy 
+    tego, ale spójrzmy na to inaczej. Wydaje nam się, że coś wiemy, coś nam się 
+    jawi, ale najistotniejszy będzie związek między świadomością a tym, co ona 
+    obejmuje swoim zakresem, *na co jest nakierowana*, *czego jest 
+    intencjonalnie świadoma*. Wtedy świat nabierze innego aspektu, jeśli 
+    zobaczymy, że te dwa nie do pogodzenia człony są w jakiś sposób ze sobą 
+    powiązane. To jest pierwsze zaproszenie Husserla do porzucenia sfery 
+    przyzwyczajeń.
+    - Podsumowując: dla Husserla najważniejsze jest doświadczenie, to 
+    doświadczenie nazywamy **intuicją** albo **bezpośrednią naocznością**, kiedy 
+    coś się nam prezentuje. Żeby coś nam mogło być dane, to musi być strona 
+    podmiotowa, której to się objawia i ta strona podmiotowa nie jest do 
+    pomyślenia bez swojego uzupełnienia -- bez strony przedmiotowej. Podmiot 
+    implikuje przedmiot. Nie ma czegoś takiego, że widzi się bez samego 
+    widzenia, ale też bez tego, co się widzi. Filozofia tradycyjna koncentrowała 
+    się na jednym członie: albo eksponowała człon podmiotowy, albo przedmiotowy. 
+    Relacja między nimi była zagmatwana. Zachodziło do walki zmagań: obiektywizm 
+    albo subiektywizm. Dla Husserla najważniejszy związek między jednym członem 
+    a drugim. Dla Husserla będzie to zawsze przedmiot *jako coś*, z naturą tego 
+    czegoś wiąże się sposób prezentowania tego czegoś.
+
+Jeśli mam rozpocząć prawdziwe pole badania, to muszę wystąpić z pewną propozycją 
+pozornie starą, ale w ujęciu Husserla nabiera kolosalnego znaczenia. Jestem 
+w pewnym świecie, znalazłem się w nim z jakichś powodów, jestem jakąś 
+podmiotowością, bytem jakiegoś ja. Myślę, ale również odczuwam, przewiduję, 
+doświadczam czasu. W dodatku jawią mi się inne podmioty. Chciałbym osiągnąć 
+pewien sposób wiedzy. Wiedza (czy teoretyczna, czy praktyczna) jest wiedzą 
+wychodzącą z pewnych założeń, które zawsze mogą zostać zakwestionowane -- nie 
+mają pełnej podstawy. Co, gdyby zacząć inaczej? Gdyby całe dziedzictwo, cały 
+dorobek (Husserl jest samoukiem, nie jest przerażony tradycją, którą musi 
+poznać, ma odwagę odrzucania tego, czego nie chce zaakceptować) włożyli w pewien 
+nawias, przyjęlibyśmy taką postawę, w której to by się nie liczyło. Epoche -- 
+wzięcie w nawias. Zawieszenie sądu. Sceptycyzm, jeśli się go uporczywie będzie 
+trzymało (jak powie Husserl), też prowadzi do nikąd. Sceptycyzm w ostatniej 
+instancji sam siebie musi zakwestionować. Ten pierwszy impuls w stronę tego, co 
+wiemy, zostaje wyłączony, ma się ukazać oczyszczone z założeń pole 
+fenomenologiczne.
+
+Co zostaje? Zostają specyficzne byty nazywane **fenomenami**. One są tym, co się 
+jawi. Musi się to zjawiać pewnemu *czemuś* podmiotowemu -- świadomości.
+
+Jest Husserl, który należy do najbardziej wybujałego idealizmu 
+transcendentalnego, jest Husserl, którego się nieco inaczej interpretuje -- nie 
+ma ostatecznego rozwiązania. Fenomeny pojawiają się w pewnej świadomości, która 
+jest bytem w świeciem, jest w czasie i przestrzeni, jest poddana pewnym 
+procesom. Nasze redukcje (redukcje transcendentalne) pokazują inny aspekt, że 
+świadomość empiryczna nie interesuje go -- interesuje go coś, co byłoby matrycą 
+o idealnym charakterze pozaprzestrzennym i pozaczasowym -- to jest *ja 
+transcendentalne*, *świadomość transcendentalna*. Tutaj fenomenologowie nie będą 
+mogli się pogodzić. Utworzą się szkoły:
+
+1. Jedna wersja: w wyniku zawieszenia, oczyszczenia pola fenomenologicznego, 
+Husserlowi jawi się matryca wszelkich matryc, coś co jest poza czasem 
+i przestrzenią, co jest niezniszczalne, niepersonalne, transcendentalne. To *ego 
+transcendentalne* jest oceniane jako coś, co zostanie zawsze. Nawet, jeśli świat 
+się zawali. To jest prawdziwy prawodawca wszystkich przedmiotów, które zostały 
+ukonstytuowane, pojawiły się w polu.
+2. Inna świadomość -- świadomość zniszczalna, empiryczna. Jest to pewne *ja*, 
+które znajduje się w pewnym określonym świecie, w tym świecie będzie musiało 
+przebywać i tworzyć pewne sensy.
+
+Opis najistotniejszej relacji -- relacji między świadomością a światem. Wiemy 
+już, że stan filozofii, poszczególnych światopoglądów, jest dla Husserla nie do 
+przyjęcia przez sięganie do bytu jako bytu. Jednak one (te filozofie, nauki, 
+światopoglądy) mogą opracowywać pewne poszczególne fragmenty świata.
+
+Husserl chce wskazać na pewien typ doświadczenia, na pewien typ intuicji, która 
+byłaby intuicją o niekwestionowalnym charakterze. Nazywa ją *bezpośrednią 
+naocznością*, *wglądem*, *intuicją*.
+
+32:10
 
 
 
