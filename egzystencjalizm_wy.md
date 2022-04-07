@@ -2012,45 +2012,179 @@ przyjęcia przez sięganie do bytu jako bytu. Jednak one (te filozofie, nauki,
 
 Husserl chce wskazać na pewien typ doświadczenia, na pewien typ intuicji, która 
 byłaby intuicją o niekwestionowalnym charakterze. Nazywa ją *bezpośrednią 
-naocznością*, *wglądem*, *intuicją*.
+naocznością*, *wglądem*, *intuicją*, gdzie byt jawi się w swojej 
+bezpośredniości, jako taki. Byt musi jawić się temu, co kreuje ten proces. 
+Ingarden mówił o świadomości, jako o *spełniaczu* pewnych aktów. Husserl mówi, 
+że najważniejsza jest relacja dynamiczna między tymi dwoma członami. Jedno nie 
+jest do pomyślenia bez drugiego. Zawsze podmiot musi wskazywać na pewien 
+przedmiot. Jest to związek, którego nie da się rozerwać.
 
-32:10
+Żeby ten związek wyeksplikować, Husserl powołuje pewne metodologiczne formuły, 
+nazywając to *epoche*: redukcją, zawieszeniem pewnego stanu faktycznego wiedzy. 
+Zarówno na poziomie intersubiektywnym, jak i czysto jednostkowym. Zawiesza się 
+całą tradycję filozoficzną, ale przede wszystkim wstępne przekonania, założenia, 
+które dotyczą przede wszystkim istnienia czegoś. Można badać świat bez przyjęcia 
+w ciemno tezy o jego istnieniu. Jeśli dokonało się takiego wstępnego zabiegu, to 
+Husserl zostaje z dwoma komponentami:
 
+- Świadomością
+- Światem
 
+Przy czym zdania są podzielone -- dwie interpretacje świadomości jak bytu 
+transcendentalnego (poza czasem i przestrzenią, nieegzemplifikowany przez żadną 
+jednostkę ludzką) i jako świadomości empirycznej (wydana na pastwę czasu 
+i przestrzeni).
 
+O metodzie, którą zaproponował Husserl, można mówić sensownie w trzech 
+aspektach:
 
+1. Aspekt redukcji
+2. Aspekt ujawnienia/odkrycia związku między świadomością a światem
+3. Aspekt bardzo wątpliwy -- rozróżnienie między fenomenologią jako filozofią 
+prawdziwą, filozofią transcendentalną, gdzie króluje świadomość transcendentalna 
+a tym mniejszym zakresem jego badań, kiedy Husserl koncentruje się na relacji 
+członu podmiotowego i członu przedmiotowego
 
+Można ująć to w pewien schemat. *Cogito/ego* -- odesłanie do podmiotowości, gra 
+intencji -- interakcie i intencje; przedmiot obejmowany przez intencje: 
+*cogitatum*. Działania świadomości czyli podmiotu oraz przedmioty. Najważniejszy 
+związek między tym, co podmiotowe, a tym, co przedmiotowe. Aksjomatem 
+fenomenologii husserlowskiej (jak i każdej fenomenologii) jest to, że 
+**strukturą świadomości jest intencjonalność** -- świadomość musi być zawsze 
+świadomością czegoś, ale **nie jest ona tożsama, nie może być tożsama 
+z przedmiotem**. Zachodzi ontologiczna różnica między matrycą (spełniaczem, 
+świadomością), a jej przedmiotami. To stanowi podwalinę całego egzystencjalizmu 
+francuskiego.
 
+Co odkryliśmy? Jesteśmy w bagnie świata naturalnych nastawień. To bagno to 
+akademie, filozofie, teorie. Husserl jest matematykiem, wychodzi od projektu 
+uzdrowienia nauk, trzeba je wzorować na modelu pewnym. Okazuje się, że aby dało 
+się to zrealizować, trzeba pokonać bardzo potężnego wroga. Tym wrogiem jest 
+psychologizm, który mówi, że umysł, który miał być elementem rządzącym 
+rzeczywistością, stosuje wszelkie prawa, które płynął do niego z zewnątrz -- ze 
+świata przyrody. Husserl nazywa to naturalizmem. Panuje zasada niesprzeczności, 
+wyłączonego środka o ile istnieje co najmniej jeden podmiot, który tę prawdę 
+wytworzył, przyswoił i jej pilnuje. Tyle naturaliści. Jeśli cokolwiek złego by 
+się stało, to te prewdy przestają być prawdami. Może być tak, że zasada 
+niesprzeczności przestanie obowiązywać. Husserl zaczyna się zastanawiać i mówi, 
+że naturaliści pomylili treść z formą sądu. Formy mogą się zmienić, ale jeśli 
+jakiś szaleniec będzie chciał być szaleńcem, (Husserl jest 100% racjonalistą, to 
+jest projekt: jeszcze raz wróćmy do nieskażonego niczym logosu), to nawet jeśli 
+będzie to mówić szaleniec, to te prawdy będą miały walor uniwersalności -- nie 
+ma to nic wspólnego z pamiętaniem, przewidywaniem, kojarzeniem i tak dalej. 
+Istnieje sfera świata przyrodniczego i innego -- ona interesuje Husserla 
+najbardziej.
 
+Jeśli teraz te wszystkie redukcje ujawniły rzecz podstawową -- związek pomiędzy 
+świadomością a światem, to ten związek będzie charakteryzował coś, co ma walor 
+niekwestionowany. Przedmiot świadomości, który jest korelatem różnych nastawień, 
+będzie zawsze prawdziwy, będzie tym, a nie czym innym. Wyłania się pytanie -- 
+jak w takim razie istnieją te przedmioty? Jaki mają status ontologiczny? Jeśli 
+wejdzie na salę obiektywista, to powie, że istnieją jako zestaw o pewnej 
+trwałości, tożsamości, po co tu podnosić zarzuty, poruszać tę kwestię? Jest tak, 
+jak jest. Jeśli przyjdzie biologiczny kognitywista, to powie, że to są pewne 
+procesy, które są odzwierciedleniem. Jednak załóżmy taki model, kiedy świadomość 
+nieuprzedzona (nic nie założę przed), jeśli to nieuprzedzenie każe mi ten świat 
+na nowo strukturować, to ten świat będzie zależny od serii moich nakierowań 
+intencjonalnych. To istnieje jako... Przedmiot jako coś. Max Scheller opisał 
+różnego typu *przedmioty intencjonalne*, czyli *korelaty świadomości* różnego 
+typu. Świadomość jest czymś takim, co posiada strukturę dynamiczną, twórczą, 
+jest wyłączona z praw natury, praw deterministycznych, ona dysponuje różnymi 
+sposobami nakierowywania się. Ona się nakierowuje, ponieważ ma taką strukturę. 
+Ma **zawsze** strukturę intencjonalną, musi być świadomością czegoś. A jeśli ona 
+nie ma przedmiotu? Nie ma szklanek, stołów, idei, to co jej zostaje? Ona sama. 
+Ona się wychyla ku światu. Jaką intencją ona obejmie, taki będzie świat. Nie 
+znaczy to jednak, że dokonuje ona aktu kreacji z niczego, ona stwarza coś 
+innego, czego bez świadomości nie dałoby się pomyśleć. I tu jest drugi fundament 
+Husserlowskiej filozofii transcendentalnej.
 
+Przykład -- jajko. To jajko będzie nabierało różnych sensów w zależności od 
+sposobu od nakierowywania się na to jajko. Inne będzie jajko dane w myśli 
+(Husserl mówi, że w pojęciu), gdzie (drugi typ redukcji) zostawia materiałowość 
+rzeczywistego *tu coś* i skupia się na istocie -- redukcja identyczna, ja po 
+prostu odrzucam wszystkie warstwy i szukam czegoś, co można byłoby nazwać 
+jajkowatością. Jednak Husserl zwalcza zarówno podejście Arystotelesa jak 
+i metafizyczny realizm Platoński oraz podejście empiryczne. Ta istota nie 
+poprzedza istnienia, ona jest dana myślowo. Jest w tym tu ukonstytuowanym 
+przedmiocie, ona jest związana z tym konkretnym bytem. Jajko jest *nosicielem* 
+jajkowatości, czyli istoty bycia jajkiem.
 
+Jednak istnieje coś innego -- istnieje jajko dla historyka sztuki. To jajko 
+*jakieśtam*, brylanciki się świecą. Istnieje jajko dla marksisty, który mówi, że 
+to jajko było gwoździem do trumny cara. Istnieje jajko, które może oglądać 
+głodne dziecko chłopskie i istnieje jajko, które kobieta podnosi od jednej 
+samotnej kury, kiedy już budowana jest autostrada i musi ona opuścić domostwo. 
+Husserl mówi, że to jajko jawiące się na tle świata jest czymś jednym i czymś 
+w wielości. Nigdy nie będzie tak, że wszystkie intencje spotkają się w jednym 
+konkretnym jajku i będziemy mogli mówić o bycie w sobie czyli jajku jako takim. 
+To jajko jest dane przez wielość swoich sensów. Jeśli uchwycimy to u Husserla, 
+to uchwycimy znaczną część egzystencjalizmu XX-wiecznego. Wszystkie intencje (a 
+jest ich bardzo wiele) są podstawowe, dają inne korelaty, stwarzają inne 
+przedmioty intencjonalne. Zawsze będzie coś takiego, jak *X jako to*, albo *X 
+dany w tym*. Mam myśl, mam naoczność, mam wyobrażenie. Na tym się będzie 
+opierała cała teoria nicości Sartre'owskiej. Mam coś, co zezwala mi na 
+przewidywanie i coś, co pozwala na utrzymywanie czegoś w pewnym stanie 
+uobecniania (np. przypominania), mechanizm, który utrzymuje w przeszłości, 
+retencja. Ma cały wachlarz tego, by narzucić tu znajdującej się rzeczywistości 
+pewien określony sens albo zespół sensów. To jest drugi szalenie istotny motyw 
+nauki Husserlowskiej. Pierwszy to taki, że oczyszczenie nie jest dokonane dla 
+samego siebie, po to, żeby zedrzeć zasłonę iluzji, którymi karmiliśmy się, które 
+zostały nam podane przez filozofię i nauki. Jeśli się teraz to ujmie w nawias, 
+nabierze dystansu do świata naturalnych nastawień, to pojawi się coś, co Husserl 
+nazywa doświadczeniem pierwotnym/intuicją/naocznością bezpośrednią. Widzi się 
+ten związek, który jest związkiem niekwestionowanym między świadomością a tym, 
+co nazywamy światem. Co ciekawe, mówi Husserl, nie bardzo nas interesuje 
+istnienie. One, jeśli już pojawiają się w naszym polu jako fenomeny, to one 
+w jakiś sposób już istnieją. Konia z rzędem temu, kto podejmie się sformułowania 
+jasnej definicji istnienia. Jeśli usunie to magiczne słowo *jako* coś...
 
+Dokonane redukcje pokazują strukturę świadomości, która musi być zawsze 
+świadomością czegoś. W ekstremalnym przypadku nakierowana na samą siebie. Ona 
+musi mieć swój przedmiot. Ona ma pewien korelat, każdy akt będzie miał swój 
+korelat -- będzie odpowiednio przyporządkowywał dany przedmiot, wedle swoich 
+możliwości. Myśl robi to inaczej, wyobrażenie inaczej, percepcja inaczej. Zawsze 
+będą to inne przedmioty, przedmioty jako dane. To jest ważne -- przedmiot 
+i sposób jego dania, sposób jego prezentowania się. Tych przedmiotów jest 
+nieskończenie wiele, bo jest nieskończenie wiele intencji. Intencji, które 
+działają w określonej rzeczywistości w rzeczywistym świecie.
 
+Husserl ateistą, ale i on miał przeblyski. Jest coś, co oświetla, fenomenologia 
+próbuje puścić snop światła. On przenosi z jednego świata w inny. To się dzieje 
+w badaniu fenomenologicznym. Jeśli ujmuję przedmiot jakodany w myśli, to jest on 
+wykluczony jako wyobrażenie. Żeby wyczerpać świat musiałby zaprosić do działania 
+super świadomość transcendentalną. Ale jej nigdy Husserl wprost nie opisał. 
+Mówi, że może wszystko zniknąć, ale ona zostanie. Jest tym czynnikiem, który 
+jest czynnikiem decydującym o świecie i o sensie tego świata. Te wszystkie 
+różnice między intencjami wskażą na ważną rzecz, która zapłodni wyobraźnię 
+filozoficzną Niemców i Francuzów -- z nauki, która miała być ścisła 
+(fenomenologia miała się wyzbyć wszelkich założeń) Husserl uczynił propozycję, 
+która sięgnęła wszystkich możliwych dziedzin rzeczywistości i duchowej, 
+i artystycznej, przede wszystkim filozoficznej. Przez umieszczenie podmiotu 
+i świadomości empirycznej w świecie Husserl ten świat uczynił w jakiś sposób 
+zależny od świadomości, ale również, poprzez prawo intencjonalności, pokazał, że 
+świadomość jest również zależna od przedmiotu, ponieważ zawsze jest świadomością 
+czegoś. Jej intencjonalność rzuca ją w objęcia rzeczywistości i nakazuje 
+rzeczywistość pozostawić w stanie zmienionym, czyli nadać jej pewien sens, 
+którego ona nie miała. Sensy będą się zmieniały, nachodziły na siebie, 
+wykluczały, będą pozostawały w sprzeczności; a może też ukonstytuują coś więcej. 
+To *coś więcej* będzie pasjonowało Heideggera.
 
+Tyle tytułem wstępu do fenomenologii. Należy zapamiętać:
 
+- redukcję
+- próba wyzwolenia myśli z założeń
+- odkryty związek intencjonalny między świadomością a światem
+- świadomość dysponuje wieloma sposobami nakierowywania się (wychodzenia poza 
+siebie) i tworzenia (w sensie dosłownym) przedmiotu, któremu nada zawsze sens; 
+ten sens jest czymś charakterystycznym dla danego sposobu otwierania się na 
+przedmiot
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Teraz losy XX wiecznego egzystencjalizmu, ale i XX wiecznej filozofii, będą 
+w znacznej mierze zależne od tego, co Husserl powiedział na przestrzeni kilkuset 
+stronic wydanych i kilku tysięcy niewydanych. To był myśliciel, który zmieniał 
+swoje stanowisko, modyfikował je. Do dzisiaj ta spuścizna jest nie w pełni 
+zinterpretowana. Zawsze zostają pewne obszary, które zapraszają badaczy do 
+ponownego przestudiowania. Pojęcie świata ludzkiego, konstytucji, ile jest 
+rodzajów, sposobów istnienia i tak dalej.
 
 
