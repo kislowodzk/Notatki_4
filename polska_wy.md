@@ -529,8 +529,9 @@ Frycz broni erazmiańskiego pojęcia wolności intelektualnej pokazując, że po
 teologiczne (które stają się pozycjami politycznymi) są źle napisane od strony 
 filozoficznej, bo ci ludzie nie panują nad pojęciami.
 
+## Wykład 5 -- 08.04.
 
-
+Kurde no cały no xd
 
 
 
