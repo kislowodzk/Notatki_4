@@ -101,17 +101,41 @@ Stwierdzenie, że istotnym zagrożeniem dla cywilizacji jest to, że dalibyśmy 
 przekonać o niemożności rozróżnienia dobra i zła, albo, co gorsze, jeśli uznamy, 
 że da się to wydedukować z ludzkich zachowań i procesów historycznych.
 
+## Ćwiczenia 5 -- 08.04.
 
+### Jeszcze o Kołakowskiego tekście dotyczącym Kanta
 
+Kant jest tu analizowany w oderwaniu od realiów historycznych. Kantyzm to nauka 
+o normach (niezależnych od procesów historycznych), antroponomia, a nie 
+antropologia. Idea godności człowieka, która przysługuje wszystkim, jest 
+niezależna od historii konkretnych zapotrzebowań. Polemika z utylitaryzmem (Kant 
+zdecydowanym przeciwnikiem tego ruchu).
 
+Kant: *Niebo gwiaździste nade mną, a prawo moralne we mnie*. Pewna anarchistka, 
+którą cytuje Bartula: *Niebo gwiaździste nade mną, a prawo moralne, to ja mam 
+w głębokim poważaniu*.
 
+### Kazanie o wojnie sprawiedliwej
 
+Pojawiające się w XV wieku pytanie czy dopiszczalna jest wojna, czy cesarz może 
+wyznaczyć granice państw, czy dopuszczalna jest wojna prewencyjna. Polityka ma 
+wciąż charakter sakralny (wg. Janka dopiero Luter to próbuje zmienić). Co 
+z *christianitas*? Co z jednością państw chrześcijaństkich? Czy można 
+sprzymierzać się z poganami?
 
+Wojna sprawiedliwa? 3 warunki Tomasza:
 
+- wojna musi zostać wypowiedziana przez prawowitą władzę publiczną (władca 
+uważany za uświęconego)
+- zło wyrzązdone przez tych, na których napadamy
+- prowadzeniu wojny musi towarzyszyć uczciwa intencja
 
+Filozof krzyżacki -- 2 warunki:
 
+- wojna musi być wypowiedziana z wyprzedzeniem
+- musi być ona rozpoczęta za zgodą papieża i cesarza
 
-
+Tyle jeśli chodzi o kontekst
 
 
 
