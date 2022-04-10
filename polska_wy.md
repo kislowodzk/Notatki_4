@@ -252,7 +252,36 @@ polskich
 
 ## Wykład 3 -- 25.03.
 
-15:00 -- zaczynam notować
+Temat, który wiąże się z tym, co się będzie działo w Polsce. Wielu przeciwników 
+antytrynitarzy kojarzyło właśnie z tymi tekstami, które dzisiaj. 
+
+W centrum uwagi Erazm, ale wcześniej **Lorenzo da Valla** -- humanista XV 
+wieczny, który pojawia się też jako pomysłodawca antytrynitaryzmu. Jest 
+autorytetem dla wszystkich, którzy wprowadzają metody krytyczne. Związek między 
+filozofią i teologią ma być nowy. Nie taki, jak w starej scholastyce, ale też 
+nie taki, jak w nowej scholastyce (w szkołach jezuickich).
+
+Antytrynitarze mają inne spojrzenie na filozofię -- nie jest ona dla nich 
+instrumentarium, z którego można korzystać w apologii religijnej. U Melanchtona 
+jeszcze filozofia jest uznana za coś, co może bronić jasno określonych poglądów 
+religijnych. Początek XV wieku -- nowe podejście. Grupa teologów, którzy nie 
+widzą siebie w roli krytyków czy heretyków, którzy filozofię chcą przywrócić 
+jako autonomiczny obszar myśli, gdzie to filozofowie decydują jak używane są 
+instrumenty filozoficzne. Z punktu widzenia teologów, jeśli na to pozwolimy to 
+tracimy kontrolę nad tym, o czym się rozmawia -- nie da się przewidzieć 
+konsekwencji tego. Szczególnie szkodliwi wydają się sceptycy wyćwiczeni 
+w wskazywaniu paradoksów pojawiających się w doktrynach religijnych.
+
+Ci, którzy rozwijają myśl krytyczną, nie chcą zniszczyć teologii. Da Valla 
+i Erazm chcieli być teologami, ale chcieli wykorzystać w pełni krytyczny 
+potencjał filozofii. Nie jest to tylko sceptycyzm starożytny, który szuka 
+paradoksów albo tego, że chcąc coś udowodnić już na początku to zakładamy. 
+Sięgają po nowe instrumentarium: filologia, literatura, retoryka. Retoryka 
+przestaje być dodatkiem, staje się niezależną, w pełni rozwiniętą medotą 
+naukową. Jeśli retoryka daje werdykt, to ten werdykt ma taką wartość, jak 
+*porządnie* wypracowany argument teologiczny.
+
+Da Valla: pismo, które pełni rolę zaczynu tego procesu.
 
 ![](./slajdy_polska/20.png)
 
@@ -531,20 +560,82 @@ filozoficznej, bo ci ludzie nie panują nad pojęciami.
 
 ## Wykład 5 -- 08.04.
 
-Kurde no cały no xd
+### Frycz Modrzewski
 
+Tekst Frycza Modrzewskiego, który *słusznie* uchodzi za jeden 
+z najtrudniejszych. Powstał on, ponieważ w Polsce pojawiały się coraz większe 
+kontrowersje wokół antytrynitaryzmu, który rodzi się w XVI wieku jako już 
+w miarę uchwytny obóz (bardzo mało zdyscyplinowany, zróżnicowany zewnętrznie, 
+ale jednak z zewnątrz widoczny). Jeszcze nie zostało przez Socyna sformułowane 
+stanowisko unitaryzmu (dwie kolejne osoby boskie czymś podobnym do Boga, ale nie 
+są bogami). Tej pozycji jeszcze nie ma wtedy (lata 60-te, o tym mówimy), ale 
+zaczynają się konflikty wokół tego.
 
+Te konflikty nabierają wymiaru politycznego. Czas Synodu trydenckiego, walk 
+politycznych (choćby ze względu na to, że Zygmunt August nie ma potomka). 
+Królowi zależało na zażegnaniu konfliktu, na sformułowaniu doktryny, która 
+rozwiąże to politycznie, albo chociaż złagodzi to teologicznie. Padło na Frycza 
+Modrzewskiego, który był rozeznany w argumentach, miał kontakty, z drugiej 
+strony Modrzewski miał pewien posłuch wśród obu obozów (katolickiego 
+i protestanckiego), nadawał się na arbitra.
 
+Frycz się podjął, napisał cztery teksty, które dotyczą problemu 
+antytrynitaryzmu. W drugim tekście kolejne przedstawienie kościoła narodowego na 
+modłę angielską. Polski kościół, w którym każdy znajduje schronienie, formuła 
+kompromisowa.
 
+Reakcja na skomplikowanie, inna na prostotę. Aspekty, które wyrażają się 
+w różnicy między z jednej strony intellectus (wrażliwej na to, co za pojęciami, 
+na idee, jedność, intuicja intelektualna reagująca na to, co proste, patrząca na 
+to, co kryje się za pojęciami), z drugiej strony ratio (od słowa *liczyć*, to 
+już zakłada wielość elementów, ta strona radzi sobie ze skomplikowanymi 
+strukturami, hierarchiami). Klasyczny schemat, który jest teraz przykładany do 
+różnych spraw.
 
+Jeśli tekst Frycza ma jednoznaczną odpowiedź, to jest jakaś strona prosta 
+(intuicja), oraz jakiś proces, który jest szalenie skomplikowany. Pomysł Frycza 
+polega na tym, żeby zadbać o formuły oddające tę prostotę i następnie ją 
+zostawiają -- zostawiają pewne elementy ludziom do własnego osądu, do własnego 
+przeżywania religijnego, żeby przy tym już nie *majstrować*. Prostota Biblii (o 
+którą trzeba zadbać i ją przekazywać), z drugiej strony cała patrologia 
+(działalność ojców Kościoła), mnóstwo konfliktów -- tym niech się zajmują ci, 
+którzy panują nad pojęciami, krórzy są biegli filozoficznie -- im trzeba dać 
+wolność (ponieważ jest ona niegroźna społecznie i politycznie jeśli pamiętamy 
+o różnicy między prostotą i skomplikowaniem).
 
+![](./slajdy_polska/37.png)
 
+Cztery *sylwy* jako nieuporządkowany tekst, który zawiera ciemne, skomplikowane, 
+niekanoniczne rzeczy. Akt wydania tego przez antytrynitarze przez wielu jest 
+dowodem na to, że Frycz miał przejść na stronę antytrynitarzy. Jednak trzeba 
+pamiętać o kontekście. Kiedy Frycz to pisze, to:
 
+- obóz nie jest jeszcze skonsolidowany
+- Frycz wielokrotnie wyraża przywiązanie do tradycyjnej teologii; to, co go 
+zbliża do antytrynitarzy to nie jest stanowisko teologiczne tylko metoda 
+filozoficzna, podejście do różnych tekstów z instrumentarium erazmiańskim 
+i sprawdzanie przede wszystkim rodzaju tekstu: to sprawia, że inaczej czytamy 
+Biblię, inaczej filozofię a jeszcze inaczej tradycję patrologiczną. W tym leży 
+największe podobieństwo Frycza i antytrynitarzy.
 
+Dlaczego tekst został wydrukowany dopiero w 1590 roku (około 20 lat po 
+powstaniu). Frycz chciał to wydać wcześniej, złożył to w drukarni w Bazylei (w 
+Polsce drukować nie można tego było, bo w kraju za duża była otwartość na 
+antytrynitarzy) -- z drukarni manuskrypt został wykradziony przez kalwińskich 
+teologów i agentów, których doszły słuchy o dyskusjach w Polsce; chciano mieć 
+gotową odpowiedź, najlepiej już wydrukowaną, w momencie, w którym wydrukowane 
+zostanie problematyczne stanowisko. Jeszcze lepiej, jeśli mamy wydrukowaną 
+odpowiedź i jednocześnie możemy zapobiec wydrukowi (tak się stało). Wykradziono 
+manuskrypt, przygotowano odpowiedź, która pokazuje jak ważna jest płaszczyzna 
+metodologiczna.
 
+Ta odpowiedź w sprawach czysto doktrynalnych się od stanowiska Frycza nie 
+różniła, ale różniła się co do metody -- była ona dokładnie odwrócona. Język 
+jest jeden, słowa mają zawsze jedno znaczenie, bez względu na to, czy pochodzą 
+one z kontekstu biblijnego, filozoficznego czy teologicznego. To było podejście 
+autora -- było ono niesamowicie popularne. To pokazuje z jak ważną sprawą mamy 
+do czynienia, jak osobliwe jest stanowisko Frycza i antytrynitarzy co do języka.
 
-
-
-
+17:45
 
 
