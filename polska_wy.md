@@ -680,7 +680,7 @@ Trzeci traktat:
 - mowa końcowa, w której Frycz powraca do erazmiaństkiego motywu prostoty 
 i złożenia; respektowania granicy między jednym a drugim
 
-Wybrane motywy z pierwszego traktatu:
+#### Wybrane motywy z pierwszego traktatu:
 
 - podjęcie argumentacji antytrynitarzy
 
@@ -707,7 +707,138 @@ Wybrane motywy z pierwszego traktatu:
     jednego tekstu, ale też z innymi tekstami
 - Część języka antytrynitarzy i część języka tradycyjnej trynitologii (ale 
 z erazmiańskim *sermo*) -- szukamy kompromisu
+- Analiza kończy się problematycznym stwierdzeniem
 
-42:15
+![](./slajdy_polska/42.png)
 
+- Trójka **zawsze**, mocno sprzeczna -- dosłownie *walczy* z jednością -- ten 
+argument traktowany z bardzo dużą uwagą
+- Ta sprzeczność jest gdzieś na poziomie filozoficznych pojęć. Na tym tle musimy 
+rozumieć kolejny krok Frycza
+
+![](./slajdy_polska/43.png)
+
+- Tu najbardziej osobliwy argument Frycza
+- Jeśli mówimy o Biblii, to musimy się zastanowić nad pojęciami, które są 
+używane w samej Biblii, ale też o tych pojęciach, które są używane, kiedy mówimy 
+o samej Biblii
+- Frycz przebadał grecką wersję Nowego i Starego Testamentu (co do Nowego to 
+oryginał, co do Starego to przekład, którego według legendy dokonało 70 
+tłumaczy, każdy z nich miał otrzymać ten sam tekst). Ta cała rozbudowana 
+terminologia ontologiczna, terminologia dotycząca bycia, w ogóle w Biblii nie 
+występuje. Jest jedno miejsce, gdzie słowo *być* jest stosowane w mocnym 
+znaczeniu, jako pełny czasownik, jako czynność. To jedyne miejsce, to słynne 
+*jestem, który jest*. Cała reszta jest dodatkiem filozofów i teologów.
+- Frycz twierdzi, że istota i bycie, to jest jedno w kontekście Biblii. Frycz 
+stawiając tutaj znak równości odżegnuje się **całkowicie** od tradycji 
+arystotelesowskiej. U Arystotelesa być a być tym, czym się było, to przepaść. 
+Frycz stawia znak równości, ponieważ przyjmuje zasadniczą różnicę między Biblią 
+i jakąkolwiek filozofią. Istota i bycie różnią się tylko drobnymi dodatkami 
+gramatycznymi, które nie mają żadnego znaczenia dla znaczenia.
+- W drugim etapie okazuje się, że wszystkie poniższe określenia (natura, istota, 
+osoba, istnienie, hipostaza, podmiot, ...) to jest to samo, co bycie.
+
+![](./slajdy_polska/44.png)
+
+- Kierunek krytyki ślepego utożsamiania języka filozofii z językiem Biblii.
+- Argument 12-sty zaczerpnięty z pism jednego teologów.
+- W ewangelii Jana mamy zdanie: *zanim Abraham stał się, ja jestem* -- Chrystus. 
+Jestem stanowi tu mocne istnienie. Chodzi o akt bycia.
+- Abrahamowi akt istnienia przypisany przez czasownik oznaczający *powstawanie* 
+(w domyśle *i ginięcie*). Z drugiej strony *einai*, *być* jako wieczne 
+bytowanie. Być bo ktoś nie może inaczej. To jest konieczne, odwieczne, wieczne 
+bycie. Frycz mówi, że tutaj ten argument upada, ponieważ jest to stosowanie 
+języka filozofii do języka biblijnego. To jest przykład tego, jak Frycz 
+krytykuje nadużycia w interpretacji Biblii
+
+Teraz kolejny argument (16), który się ostoi, można go chyba interpretować jako 
+osobiste przekonanie Frycza:
+
+- Z natury, a nie z adopcji bądź ze względu na pełniony przez siebie urząd, 
+Chrystus nazywany jest Synem Bożym. Więc jest On Synem Boga. W takim sensie, 
+w jakim dzieci pochodzą od swoich ojców. Jedna jest ich substancja, jedna 
+władza, jedna godność. Jest więc Bóg jeden ze swą substancją, choć ma trzy 
+osoby.
+- Czytelnik mógłby odetchnąć z ulgą. 34 dowody biblijne nie działają, ale główna 
+teza o Trójcy jest obroniona. Tak, ale tak się kończy tylko pierwszy traktat -- 
+jest też drugi. Musimy się liczyć z tym, że to, co Frycz tu mówi jest częścią 
+aporycznego doświadczenia. Celem, byśmy doświadczali różnych tendencji i ich 
+niezgodności.
+
+#### Drugi traktat
+
+Będzie mowa o trzech osobach, ale jednocześnie trzech istotach
+
+![](./slajdy_polska/45.png)
+
+- Istota to nic innego, jak osoba. Jeśli więc mamy trzy osoby, to mamy i trzy 
+istoty
+- Frycz od razu prezentuje stanowisko łagodne. Można wyczytać tendencje do 
+kompromisu
+- Tradycja prawosławna w tym temacie nie odchodzi tak daleko od tekstu 
+biblijnego, ponieważ nie idzie za filozofią
+- Na zachodzie podkreślano bardziej równorzędność Ojca i Syna w akcie stworzenia 
+świata. Świat jest z Ojca i Syna -- oni są wtedy zbliżeni do siebie, prawie 
+równolegli. To jest stanowisko, którego w XV wieku nie mogli akceptować 
+prawosławni, którzy pisali, że świat jest stworzony z Ojca **przez** Syna. 
+Z Ojca, ale Syn jest transmiterem. Syn pośredniczy między Bogiem a stworzeniem. 
+Tego sporu nie udało się rozwiązać.
+- Ten spór w Królestwie Polskim i Wielkim Księstwie Litewskim nie rodził nigdy 
+większych napięć politycznych. Frycz to wykorzystuje. Sięga po doświadczenie 
+prawosławia. To się tutaj zaznacza
+- *Realnie różni* -- to jest język filozoficzny. Spór o różnicę realną. Jeśli 
+mam butelkę, szklankę i długopis, to jest między nimi różnica realna.
+- Ojciec i Syn są różni jako egzystencje (język filozoficzny, w Biblii nie ma 
+tej różnicy), nie można ich zlewać w jedną istotę. Nie wolno nam trzech rzeczy 
+rozmywać w jednej istocie, skoro są one realnie różne. Jednak Frycz używa tu 
+pewnego czasownika: *confundendos* -- oznacza to wlewać trzy płyny do jednego 
+naczynia tak, żeby nie było różnicy. *Confundere* jest czynnością, której 
+dokonujemy my, ludzie czytający ten tekst. Ten akt polega na tym, że stoimy 
+przed trzema realnie różnymi rzeczami. Widzimy to, ale na siłę szukalibyśmy 
+metody zniesienia tej różnicy i stwierdzenia, że mają one jedną istotę.
+- Ta teza Frycza nie oznacza, że mamy radykalnie wykluczyć jedność tych trzech 
+rzeczy, która bez naszego udziału, naszej tendencji psychologicznej, aby coś 
+łączyć na siłę, samoistnie z czegoś wynika. Tu będzie Frycz szukać rozwiązania. 
+Na razie w tym drugim traktacie musimy stwierdzić, że jeśli nawet mówimy o Synu, 
+że jest Bogiem, to w innym sensie, niż Ojciec, który jest Bogiem sam w sobie. 
+Syn jest Bogiem z Boga -- on swoją boskość ma nadaną przez Ojca.
+- Furtka zostawiona -- tej współistotności nie można rozumieć tak, jaką 
+mielibyśmy tendencję psychiczną -- jako przymus, by na siłę połączyć i rozmyć 
+różnicę między rzeczami -- ta różnica musi być zachowana. Frycz zachowuje ją 
+tak, że jest to zaproszenie na poziomie językowym do tego, by korzystać 
+z tradycji prawosławnej, która jest mniej arystotelesowska. Ona się nie wikła 
+w różnice między istotą a istnieniem. Tam jest Proklos, Aeropagita, Plotyn, 
+Platon. Na tym też będzie polegało to, co Frycz proponuje jako rozwiązanie.
+
+Kolejyn argument:
+
+- Osoby mają w Biblii różne nazwy, tylko do Ojca stosuje się w Biblii takie 
+określenia, które wskazują na Jego źródłowość. On jest źródłem, prakorzeniem, 
+zasadą, początkiem, ... . Gdybyśmy to chcieli zastosować do Syna, to gdyby Syn 
+miał te atrybuty, to byłby własnym Ojcem.
+
+![](./slajdy_polska/46.png)
+
+- Tu mamy polskie rozwiązanie europejskiego problemu. Dzięki wielości kultur 
+mamy tutaj pewną elastyczność w podejściu do biblijnych obrazów.
+- *Zdmuchana*, bo to słowo to oddech. Zdmuchać z trzech różnych kierunków.
+- Istotę należy rozumieć tak, że została ona udzielona **z** Ojca (jako ze 
+źródła, z Jego głębi)
+- Jeśli mamy taki obraz, płynięcie w naszą stronę a nie wtłaczanie przez nas 
+w jedność, to w takim sensie Frycz zgadza się na Trójcę.
+- Nie można pomyśleć istoty Syna i Ducha bez odniesienia do Ojca. Zabieg 
+neoplatoński.
+
+#### Traktat trzeci
+
+![](./slajdy_polska/47.png)
+
+- Zaproponowane pojęcie *emanatio*. Trudno powiedzieć w jakimkolwiek żyjącym 
+języku co to jest emanacja.
+- Źródło wydając z siebie niczego z siebie nie traci.
+- Różnica między istotą słońca a istotą promienia może być dobrze tłumaczone 
+przez instrumentarium szkotystyczne. Światło jest jedno a drugie takie samo. 
+Jednak jest różnica -- w promieniu jest światło od słońca, ale już w innym 
+miejscu. W tym sensie Trójca jest i trójcy nie ma. Współistotność jest 
+i współistotności nie ma. Tak jak między słońcem i jego promieniem.
 
