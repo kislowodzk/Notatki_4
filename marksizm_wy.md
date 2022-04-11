@@ -1367,4 +1367,197 @@ społeczeństwa. Marks uważał, że kapitalizmu nie da się zreformować, że m
 dojść do rewolucji. Po Marksie pojawią się marksiści, którzy uważają, że 
 socjalizm da się wprowadzić w ramach społeczeństwa kapitalistycznego. 
 
+## Wykład 6 -- 11.04.
+
+Marksizm jako materializm historyczny sprowadza się do hasła "gospodarka, 
+głupcze!" według jakiegoś profesora. Uznanie, że za wszystkimi wyborami, za 
+wartościowaniem i wartościami, leży tak naprawdę sfera materialnego 
+przetwarzania życia. Ostatecznie o tym kim jesteśmy, jak myślimy, decydują 
+zmiany w produkcji, które z kolei są uwarunkowane przez zmiany w sferze 
+produkcji, przez nowe narzędzia, które zmieniają produkcję. Stosunki produkcji 
+określają wszystkie nasze relacje i odniesienia życiowe. Społeczeństwo, relację 
+władzy, sfery zachodzące w świadomości, w tej jej części, którą możemy nazywać 
+*ideologią* -- usystematyzowane idee, które funkcjonują w postaci systemów 
+religijnych, teorii naukowych, wreszcie światopoglądów. Wciąż powracać tu będzie 
+odniesienie do sfery materialnego życia -- do tego jak wytwarzamy produkty, 
+które zaspokajają nasze potrzeby.
+
+Marks rozważa ten problem, ale nie w sposób abstrakcyjny, tylko na sposób 
+konkretny (co uważa za swoją wyższość). Marksa interesuje kapitalizm, na 
+podstawie rozmyślań o nim chce dojść do wniosków bardziej ogólnych. To nie jest 
+dedukcja z filozoficznych zasad, tylko uogólnienie konkretnych wyników.
+
+Próba określenia tego czym jest kapitalizm. Od strony filozoficznej można to 
+rekonstruować jako relację pomiędzy ludźmi -- relację zapośredniczoną przez 
+jakąś rzecz:
+
+> Człowiek <--- [przedmiot] ---> Człowiek
+
+Ten przedmiot nie musi być materialny: to może być idea, uczucie. Marks 
+przyjmuje dla uproszczenia, że mamy do czynienia z pewną rzeczą, którą można 
+zmierzyć. Tym zajmuje się ekonomia. Chodzi o mierzenie pewnych wartości, które 
+rzeczy mają dla człowieka. Ekonomia stara się odkryć dlaczego ludzie tak cenią 
+sobie pewne rzeczy, że je kupują, wymieniają, ofiarowują.
+
+Problem mierzalności. W oczach nowoczesnej ekonomii upraszcza się to do kwestii 
+ceny. Jeden z twórców ekonomii nowoczesnej tak definiuje swoją profesję -- 
+badanie przedmiotów, które da się wycenić -- on twierdzi, że oprócz takich 
+przedmiotów istnieją inne, których nie da się wycenić, sprzedać. Marks twierdzi, 
+że w kapitalizmie **wszystko** można wycenić i kupić zgodnie z cytatem 
+z *Fausta* (nie mam pojęcia o jaki cytat chodzi, poszperałem i może chodzi 
+o "oto klejnoty, kupić za nie można cnotę", ale nie jestem pewien).
+
+Marks mówi, że nie chodzi tu tylko o przyrodę. Kapitalizm zamienia artefakt 
+przyrodniczy w towar, ale Marks mówi, że stosunki społeczne także zamieniane są 
+w towary, czyli ludzie zamieniają się w towary. Mamy tutaj ciągłą pogoń za 
+zyskiem. Kapitalizm nie jest nastawiony na zaspokajanie ludzkich potrzeb, ale na 
+zysk -- tworzenie produktów zaspokajających potrzeby, których wcześniej nie 
+było.
+
+Wcześniej ekonomia nauką o tym, że dóbr jest za mało, ludzi jest za dużo, 
+ekonomia nauką posępną, która opisuje to, czego zrobić się nie da, która miała 
+wyjaśniać dlaczego dzieci muszą umierać z głodu. Wczesna ekonomia uwikłana 
+teologicznie -- Bóg wypędzając ludzi z raju rzucił na nich klątwę (w pocie 
+i trudzie będą zdobywać pożywienie). Dokonuje się w myśleniu ekonomicznym zmiana 
+-- okazuje się, że ekonomia może być wyrwana z kręgu determinacji, może być 
+nauką o tym, jak świat zmieniać, co jest możliwe do zrobienia (to nie tylko 
+zasługa Marksa, ale również innych, na przykład Milla). Zmiana polega na tym, że 
+Mill i Marks twierdzą, że to człowiek tworzy swoje życie, jego warunki 
+(oczywiście nie dowolnie). Stąd podstawowe pytanie marksizmu: jak zmienić świat?
+
+W XX wieku ekonomista Keynes poprzez wprowadzenie pewnych postulatów myślicieli 
+marksistowskich i dochodzi do harmonii trzech sfer:
+
+- efektywność gospodarcza
+- sprawiedliwość społeczna
+- wolność jednostki
+
+To ma zapewnić szczęśliwość człowieka. Jednak był Keynes cenił wolność nie tylko 
+gospodarczą. Również teza, że nawet w gospodarce wolnej państwo może być stroną 
+gospodarczą.
+
+Pytanie do jakiego stopnia Marks może być uznany za 100% wyraz tej przemiany, 
+która zachodzi? Jeśli jest się w oku cyklony nie można zachować 100% czystości. 
+Sam Marks jest jeszcze rozdarty -- dwa paradygmaty jeszcze się tu zmagają: nauka 
+posępna i to jak ludzie mogą zmieniać świat dla własnego dobra. Karl Polanyi 
+będzie z tego powodu czynił zarzuty Marksowi. Drugim zarzutem antynomia pomiędzy 
+ekonomią realną/życiową/empiryczną (prawdziwego życia) a ekonomią formalną. 
+W terminologii Polanyi'ego nazywa się to ekonomia substancjalna i formalna. 
+Ekonomia nie jest czymś wszechobejmującym -- ekonomia częścią realnego życia, 
+ale tylko częścią. To, czym zajmuje się ekonomia to zinstytucjonalizowane 
+relacje między ludźmi z innymi ludźmi i relacje między ludźmi a przyrodą. Aby 
+rozumieć gospodarkę społeczeństwa, to zdaniem Polanyi'ego trzeba najpierw 
+zrozuieć kulturę. Marks twierdzi inaczej, w drugą stronę. U Marksa pojawia się 
+skłonność do ekonomii formalnej -- która bada pewnego *homo economicusa*, bada 
+racjonalne zachowania jednostek przy mniejszej lub większej skali niepewności -- 
+w tym sensie ekonomię można opisać matematyką. U Polanyi'ego substancjalna.
+
+Punktem wyjścia pewien niedobór (niekoniecznie materialnych, także takie 
+wartości jak charyzma, uroda), chcemy zdobyć. Niektórzy będą to wykorzystywać, 
+na przykład kapłani. To jest geneza kultury. Marks się z tym zgadza. Kultura 
+zaczyna się wtedy, gdy zaczyna się gra o zachowanie dóbr. To jest koncepcja 
+Rousseau.
+
+Są ludzie, którzy żyją kosztem innych zostawiając im tylko tyle, żeby przetrwali 
+i maskując to za pomocą ideologii (tego chce Bóg, racja stanu). Punkt wyjścia 
+Marks jest pesymistyczny jak Rousseau, Hobbesa. Wszystko zaczyna się od stanu 
+natury -- wojny o zaspokojenie potrzeb. Mamy dwa rodzaje potrzeb: prawdziwe 
+i sztuczne (które po pewnym czasie mogą stać się prawdziwymi). Generalnie ten 
+podział jest intuicyjnie uchwytny (choć upraszczający). Pierwsze potrzeby 
+potrzebami witalnymi. Te drugie mają swoją naturę już w społeczeństwie, 
+pojawiają się w momencie zaspokojenia tych pierwszych. Sam akt zaspokojenia 
+potrzeb pierwszego rodzaju tworzy potrzeby drugiego rodzaju. Żeby zaspokajać 
+potrzeby pierwszego rzędu potrzebne nam są pewne narzędzia a tworzenie narzędzi 
+to jest druga natura, choćby podniesiony kamień staje sie elementem kultury. 
+Wchodzimy w relację z innymi, żeby zaspokajać potrzeby. Wtedy pojawiają się 
+relacje a z ich powstaniem pojawiają się zupełnie innego rodzaju potrzeby. 
+Wydaje się, że zwierzęta (zwłaszcza te, które są w świecie ludzkim), też mają 
+potrzeby, które się zmieniają. I podobnie -- wydaje się, że odcięcie człowieka 
+od internetu może przekładać się nawet na jego zdrowie. To rozróżnienie jest 
+pomocną hipotezą, ale niekoniecznie należy je traktować jako pewne prawo 
+historyczne czy społeczne. Marks twierdzi, że generalnie jest tak, że ludzie 
+coraz sprawniej zaspokajają potrzeby pierwotne, co sprawia, że oddzielają się od 
+przyrody, że zaczynają nad nią panować (rolnictwo).
+
+Marks zauważa, że w im większym stopniu ludzie sami zaczynają panować nad 
+przyrodą, w tym większym stopniu stają się niewolnikami innych ludzi. 
+Z rolnictwem pojawia się podział pracy, z podziałem pojawia się dwoisty 
+charakter a z nim pojawia się alienacja. Okazuje się, że nie ma już kooperacji, 
+są zarządcy, podział, władza.
+
+Pytanie, czy gdyby człowiek miał łatwość zaspokajania potrzeb bez narzędzi, to 
+nie stworzyłby kultury? Może dopiero niedobór, brak, cierpienie skłania nas do 
+zmiany? W wyniku pracy rodzi się społeczeństwo, nie w wyniku umowy społecznej 
+czy woli boskiej. Państwo pojawia się, gdy relacje społeczne obejmują coraz 
+większą liczbę jednostek. Człowiek kreuje samego siebie jako istotę społeczną 
+poprzez pracę, która ma charakter dwoisty: nie tylko daje władzę nad przyrodą, 
+ale też uzależnia.
+
+Społeczeństwa pierwotne społeczeństwami bezklasowymi. Społeczeństwa cywilizowane 
+sa społeczeństwami klasowymi a klasy to są takie części społeczeństwa, które są 
+generowane/tworzone poprzez pracę. Poprzez funkcje, które dani ludzie mają 
+w społeczeństwie. O przynależności do danej klasy decyduje charakter pracy, 
+zamożność, styl życia, które są skorelowane z pracą. Czy pracuje się na siebie 
+czy na innych? Czy pracownik zarabia na tyle, że jest w stanie utrzymać siebie 
+i rodzinę? W jaki sposób zaspokaja swoje potrzeby? Styl życia wyznaczany przez 
+styl konsumpcji. Te wszystkie zróżnicowania w społeczeństwie dają się sprowadzić 
+do klas. To nie są jedyne podziały -- jest ich bardzo dużo (podziały rasowe, 
+narodowościowe, kulturowe), ale różnice klasowe najbardziej adekwatne do badania 
+współczesnego społeczeństwa. Współcześnie niektórzy to podważają -- uważają, że 
+klasy są przydatnym narzędziem badania, jednak nie jest to podział realny, 
+ponieważ nie ma świadomości klasowej. Jeśli spytam kogoś o to, kim jest, to 
+przynależność klasowa albo się nie pojawi, albo pojawi się na końcu listy. 
+Jednak pytanie, czy klasy dla Marksa istniały naprawdę (realnie), czy były tylko 
+konceptem. 
+
+Świadomość klasowa rodzi się jako świadomość wspólnych interesów. Jednak 
+w przypadku empitycznych ludzi te interesy nie są uświadomione. Marks mówi 
+o klasach w sobie i klasach dla siebie. Klasy w sobie nie mają jeszcze 
+świadomości. Staną się klasą w pełni (dla siebie), kiedy w pełni uświadomią 
+sobie swoje intencje. Klasa jest z jednej strony pojęciem ekonomicznym. 
+(Określana przez interesy). W przypadku marksowskiej koncepcji klas te interesy 
+nie są wspólne -- klasa powstaje w walce z inną klasą. Mogą istnieć 
+społeczeństwa wieloklasowe, dwuklasowe albo bezklasowe. Nie ma mowy o jednej 
+klasie. Marks dostrzegał tendencje do upraszczania tego podziału, do zaniku klas 
+pośrednich a zwłaszcza klasy średniej, która ma być skazana na zagładę. To jedna 
+z tez, przy której Marks się pomylił.
+
+Lenin twierdził, że proletariat sam w sobie (bez partii, bez inteligenckich 
+przywódców) nie wypracuje swojej świadomości (co najwyżej ukszatłtuje związki 
+zawodowe), nie będzie chciał obalić istniejącego porządku. Rozwiązanie Lenina -- 
+trzeba świadomość klasową robotnikom **zaszczepić** -- od tego jest partia. 
+
+O co toczy się walka klasowa? O zaspokojenie interesów klasowych -- od 
+przetrwania do panowania. Marks wprowadza element Hobbesowski. Hegel mówi, że 
+niewolnik walczy z panem, by pan uznał go. Chodzi o to, byśmu nad innym 
+zapanowali. Walka klas walką o hegemonię, o panowanie w społeczeństwie.
+
+W jaki sposób odbywa się ta walka? Nie toczy się ona przede wszystkim w trakcie 
+strajków, powstań, rebelii. Toczy się pernamentnie, ale w sferze naszych 
+poglądów -- w sferze wizji. Jeśli mówimy, że nie można pluć na godło, 
+sprzeciwiać się nauczycielowi, to klasa, która to głosi, wygrywa. Marks później 
+nie rozwijał tego aspektu swojej myśli (skupił się na sferze materialnej), ale 
+tym, co wygrało, jest pokazanie, jak ważne są idee, światopoglądy, które mają 
+swoją genezę w sferze materialnego życia. Ale idee mogą wtórnie oddziaływać na 
+sferę gospodarczą.
+
+Musimy odpowiedzieć sobie na pytanie jak można być socjalistą w społeczeństwie 
+bez kapitalizmu? Nie możemy przeskoczyć sfery kapitalizmu. Przedwczesne 
+rewolucja spowoduje więcej złego. Nasze myślenie nie jest prostą, mechaniczną 
+kopią procesów gospodarczych. Nie da się poddać wszystkiego interpretacji 
+gospodarzzej. Chodzi o dwa zjawiska trakrowane jak banały. Istnieje więź 
+pomiędzy tym jak myślimy, a poziomem rozwolu przemysłu, to wszystko wpływa na 
+nasze myślenie. Ten, kto ma władzę, widzi świat inaczej. Uwikłanie, geneza, 
+odniesienie.
+
+Dla Marksa interesuje to, że nasz umysł tę ideę ukrywa. Co oznacza, że trzeba 
+badać takie struktury naszego myślenia, które związane z usprawieliwiami . Jest 
+rodzajem zasłony dymnej -- propagandy skierowanej przeciwko. Klasa rządząca swój 
+interes przedstawia jako inerel, który jest wspólny wszystkim. Chodzi o to, żeby 
+ukazywać społeczną genezę, społeczne interesy, które kryją się za naszymi 
+myślami. Jak daleko to pociągnąć? Czy teorie matematyczne mogą być 
+zideologizowane? Według niektórych marksistów tak. To dotyczy ideologii i badań 
+nad społecznym kreowaniem rzeczywistości. Zwłaszcza takiej socjologii. 
+Poszukiwanie ukrytych znaczeń (psychoalaniza), Cały system Marksa, jeśli 
+o ideologię chodzi, oderwany trochę od jego nazwiska. Nie skojarzony z nim.
 

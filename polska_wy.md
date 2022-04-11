@@ -636,6 +636,78 @@ one z kontekstu biblijnego, filozoficznego czy teologicznego. To było podejści
 autora -- było ono niesamowicie popularne. To pokazuje z jak ważną sprawą mamy 
 do czynienia, jak osobliwe jest stanowisko Frycza i antytrynitarzy co do języka.
 
-17:45
+Teraz zobaczymy jak to jest zbudowane. 4 sywy. Pierwsza i czwarta o istocie 
+i osobach Boga. Pierwsza składa się z trzech traktaków.
+
+![](./slajdy_polska/38.png)
+
+Autor planuje prowadzić nas przez manowce. Gdy zobaczymy, że te tezy się nie 
+sklejają, nie powstaje rozwiązanie, to mamy w to nie wchodzić, nie doszukiwać 
+się rozwiązania. Raczej traktować to doświadczenie jako aporie. Jako moment, 
+w którym doświadczamy, że czegoś nie wiemy. Świadomość swojej niewiedzy jest 
+początkiem nowej drogi. Pójście na dystans i zadanie sobie pytania *co mogę 
+robić alternatywnego, skoro pojęcia nie chcą się ze sobą zgadzać?* Mogę się 
+skupiać na prostocie, złożeniu.
+
+![](./slajdy_polska/39.png)
+
+Jak budowane są kolejne traktaty? Jeden broni tezy, że mamy do czynienia 
+z trzema osobami i jedną istotą, drugi będzie stał za tym, że mamy trzy istoty, 
+trzeci będzie to rozważał całościowo.
+
+Pierwszy traktat:
+
+- rozpoczęcie od wyjaśniania pojęć (tu widać erazmiańskie podejście do języka)
+- lista argumentów z Biblii na rzecz tej tezy 34 -- trzy osoby, jedna istota; 
+przeprowadzenie analizy językowej -- dojście do wniosku, że źle zostały 
+odczytane te fragmenty, nie zgadza się to z teologią
+- argument, który prawdopodobnie jest jego osobistym poglądem -- to ma na celu 
+zbicie tendencji, które wówczas są najbardziej wyraźne -- dyteizm i tryteizm, 
+rezygnacja ze wspólnej istoty i radykalna teza, że skoro trzy osoby, to trzy 
+istoty, trzy substancje, trójka bogów -- to stara się Frycz zbić
+
+Drugi traktat:
+
+- tu już nie ma analizy języka
+- punkt, w którym wydaje się bardzo sensowne mówienie, że skoro trzy osoby, to 
+trzy istoty, jednak Frycz pokazuje, że ta teza jednocześnie ma w sobie jakąś 
+rację, ale jednocześnie jej nie ma -- wyczucie sensownego środka
+
+Trzeci traktat:
+
+- zderzenie obu stron
+- rozbudowane analizy dotyczące Chrystusa i Ducha Św.
+- mowa końcowa, w której Frycz powraca do erazmiaństkiego motywu prostoty 
+i złożenia; respektowania granicy między jednym a drugim
+
+Wybrane motywy z pierwszego traktatu:
+
+- podjęcie argumentacji antytrynitarzy
+
+![](./slajdy_polska/40.png)
+
+![](./slajdy_polska/41.png)
+
+- Mamy dwa różne motywy
+    - Jest pewna forma gramatyczna *trinitas*, która oznacza zamiast *trzy* coś 
+    takiego jak *troistość*, *potrójność*; to samo możemy robić z każdą inną 
+    liczbą -- to jest pewien banał językowy, który jeszcze nic nie znaczy. Mamy 
+    trzy Osoby, ale przecież jest jeszcze pojęcie Boga i istoty boskiej -- 
+    w pewnych pismach pojawia się problem poczwórności, mamy trzy osoby i naturę 
+    boską. To wskazuje na to, że kto chce mówić o trójcy musi się zmagać, że 
+    jeśli chcemy mieć trzy elementy w jedności, to jest szansa, że ta jedność 
+    będzie czwartym elementem. To są problemy tradycyjnie występujące 
+    w patrologii
+    - Cytat św. Jana. To jest Comma Johanneum w bardzo ciekawej formie. Frycz 
+    (uczeń Erazma) przywraca Comma Johanneum, tak jak Erazm, kiedy okazało się, 
+    że usunięcie wywołuje bardzo duże emocje. Frycz pisze, że *trzy są, którzy 
+    dają świadectwo w Niebie: Ojciec, Logos, Duch Św.* Mowa jest w przekładzie 
+    SH. Jest tu *sermo* a nie *verbum* osiągając pewną tekstowość w hereneutyce. 
+    Wiara nie w stałe znaczenie słowa, a wiara w wielość relacji w ramach 
+    jednego tekstu, ale też z innymi tekstami
+- Część języka antytrynitarzy i część języka tradycyjnej trynitologii (ale 
+z erazmiańskim *sermo*) -- szukamy kompromisu
+
+42:15
 
 

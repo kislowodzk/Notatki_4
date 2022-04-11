@@ -459,7 +459,103 @@ mówi o związkach przyczynowych, to zdajemy sprawę ze swojego umysłu.
 Co ze zdarzeniem zupełnie nowym? Zgodnie z tym mechanizmem, wedle Hume'a nie 
 będziemy mieli myśli na temat przyczyny i skutku.
 
-## Ćwiczenia 7 --
+## Ćwiczenia 7 -- 11.04.
 
+### Rousseau -- *Rozprawa o pochodzeniu i podstawach nierówności między ludźmi*
 
+Dzieło napisane w 1754 roku, wydane rok później.
+
+Kilka lat po wydaniu WIelkiej Encyklopedii. Kontrast po tym wychwalaniu rozumu 
+-- Rousseau akcentujący uczuciowość i pokazujący, że rozum nie tylko dobre 
+rzeczy przynosi.
+
+#### Człowiek w stanie natury vs człowiek cywilizowany:
+
+- pewnie istnieją jakieś etapy pośrednie, ale jest to uproszczenie
+- ktoś może powiedzieć, że to jest nieadekwatne, ale popatrzmy na to co muszę 
+założyć co do człowieka, że by otrzymać, że równość czy nierówność jest 
+uzasadniona
+- mamy człowieka jakim go znamy, odejmujemy to, co jest cywilizacyjne i mamy 
+otrzymać to, co jest naturalne
+- należy abstrahować od faktów (hiostorii opisanej przez Biblię), patrzeć na 
+swoje wnętrze, patrzeć na przyrodę
+- człowiek dla Rousseau to przede wszystkim uczucie, uczuciowość
+
+Cechy fizyczne:
+
+- N: urzeczywistnione wszystkie doskonałości ciała, człowiekowi zagraża co 
+najwyżej starość, zagrożenia lepiej wyostrzone zmysły, siła, wytrwałość, 
+odporność na warunki zewnętrzne, zahartowanie; jest to istota działająca 
+**bezrefleksyjnie** w sposób szybki, zwinny. Ona nie myśli, ona reaguje. (To 
+jest połączenie instynktów innych zwierząt, ale o tym potem). Nie ma refleksji. 
+Istota pogrążona w tym, co zmysłowe. Chodzi o to, że nie ma rozumnego działania. 
+Nawet jeśli jest to działanie wolne.
+- C: degradacja, zmysły stępione, brak wytrzymałości (może nie dotyczy to ludzi, 
+którzy żyją blisko natury -- rolnicy), choroby, cywilizacja wytwarza więcej 
+chorób, niż ma środków przeciw nim, lekarze szarlatanami raczej doprowadzającymi 
+do śmierci pacjenta
+
+Cechy psychiczne:
+
+- N: niewielka liczba podstawowych potrzeb; łatwość ich zaspokojenia; równowaga 
+potrzeb i tego, co ta istota może osiągnąć. Równowaga z otoczeniem (jest jednym 
+z jego składników). Potrzeby minimalne w stosunku do obecnych, to byłoby bardzo 
+dobrze. Niewielka ilość potrzeb
+- C: Gdy ta równowaga przestaje istnieć, to pojawiają się nierówności. Rozum 
+jest możliwością pojmowania, porównywania rzeczy. Im szerszy umysł, tym szerszy 
+zakres potrzeb, pragnień. Rozum uruchamia mechanizm, który rodzi namiętności. 
+Rozwój rozumu, to, że staje się on coraz szerszy, to jest rzeczą niebezpieczną 
+-- człowiek będzie skłonny działać w celu zaspokojenia potrzeb, wtedy zrozumie, 
+że nie może ich zaspokoić bez innych ludzi, to czyni nas podległymi innym 
+ludziom.
+- to trochę przypomina to, co mówili stoicy -- ograniczenie potrzeb, powrót do 
+stanu równowagi, z którego wyszliśmy.
+- miłość sprowadza się do sfery cielesnej, bo miłość jako coś duchowego jest 
+wytworem społecznym, który powoduje konflikty. Nie ma uczuć wyższych w stosunku 
+do partnerów/rodziców/dzieci. Nie widać, żeby w związku z tym czegoś brakowało. 
+Duszy nie mąci niepokój.
+- życie bezmyślne, zwierzęce i krótkie
+
+Cechy metafizyczne:
+
+- N: wolna wola (w przeciwieństwie do zwierząt), która jest chyba rozumiana 
+w przeciwieństwie do działania instynktownego; giętkość postępowania człowieka. 
+Człowiek może nabywać doświadczeń nie powtarzając wszystkich czynności, które 
+powtarzali jego przodkowie; zdolność do doskonalenia się, do zmiany, do 
+przeformułowania swojego sposobu życia.
+- C:
+- Człowiek jest zdolny do dokonania wyboru nawet, jeśli nie ma racji 
+przemawiającej bardziej za jednym wyborem. Osioł, który ma dwie kupy siana nie 
+wybierze, bo instynktu nic nie przekonuje. Człowiek może wybrać którąś z tych 
+kup (hehe), ponieważ ma wolę. Instynkt jako coś bardzo przewidywalnego. Człowiek 
+postrzegany tak, że pomimo czegoś takiego człowiek jest w stanie coś takiego 
+zrobić.
+- Rousseau chce człowieka jako istotę wolną w stanie naturalnym. Rousseau nie 
+chciałby dojść do tego, że wolność jest nienaturalna. Nawet kosztem paradoksów, 
+że jest on równocześnie jak zwierzę, ale jednak wolne.
+- Człowiek jest bardziej doświadczonym zwierzęciem, z wielu doświadczeń 
+wyprowadza pojęcia abstrakcyjne, tego mechanizmu nie wyjaśnia głębiej.
+
+Cechy moralne:
+
+- N: czy ten człowiek możliwy jest do opisania w kategoriach dobra i zła, czy 
+jest dobry i zły? Czy człowiek ma pojęcia dobra i zła? Rousseau mówi raczej 
+o litościwości i samolubstwie. Na pewno człowiek ten nie jest samolubny, jest 
+wrażliwy na krzywdę innych i litościwy, ale nie można powiedzieć wprost, że ten 
+człowiek jest dobry czy zły. Jego dobroć jest trochę dobrocią człowieka, który 
+czyni dobrze, ponieważ nie umie czynić inaczej. Ten człowiek nie ma cech, które 
+widzielibyśmy jako decydujące o tym, że jest moralnie zły. Nie ma przywar 
+moralnych, które znajdyjemy w społeczeństwie, bo nie ma jeszcze społeczeństwa. 
+Nie jest też dobrze, bo nie ma aktów miłosierdzia czy wdzięczności. Sfera 
+płciowa oderwana od moralności, jest czymś naturalnym. Wydaje się, że Rousseau 
+wiąże negatywne czyny z posiadaniem ziemi. Jest to człowiekowi calkowicie 
+zbędne, a może sprowadzić obawę, że ktoś mu to zabierze.
+- C:
+- nie ma tu też mowy o grzechu pierworodnym
+- obrona człowieka mająca pokazać, że sam -- pojedynczy człowiek nie jest winny 
+temu, co się dzieje, jaka jest jego sytuacja -- jest w społeczeństwie, żyje we 
+Francji, w której może pójść do więzienia za to, że komuś się jego słowa nie 
+podobają
+
+Za tydzień druga część
 
