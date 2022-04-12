@@ -2187,4 +2187,214 @@ zinterpretowana. Zawsze zostają pewne obszary, które zapraszają badaczy do
 ponownego przestudiowania. Pojęcie świata ludzkiego, konstytucji, ile jest 
 rodzajów, sposobów istnienia i tak dalej.
 
+## Wykład 7 -- 12.04.
+
+### Fenomenologia -- Husserl i Heidegger
+
+Egzystencjalizm wskazuje nieodmiennie na to, co nazywa się *fenomenologią*. 
+Egzystencjalizm XIX wieku tej metodologii jest pozbawiony (fenomenologia otwiera 
+wiek XX, kiedy każda myśl musi się do niej ustosunkować). Egzystencjalizm XX 
+wieku w większości przypadków musi nawiązać do instrumentarium Husserla 
+i wykorzystuje to czasem w sposób krytyczny, czasami kontynuuje.
+
+Co można rozumieć przez fenomenologię? Sam Mróz wywodzi się ze szkoły, która 
+oparła się na przekazach uczniów Ingardena, który był uczniem Husserla. Ciągłość 
+pewnej dziejowości. Mróz zaznacza, że ten wykład będzie zabarwiony pewnego 
+rodzaju nostalgią, że nie wszystko zostało wykorzystane, że nie wszystko się 
+dało powiedzieć w ramach opisów fenomenologicznych. Czasem ton może być 
+subiektywny.
+
+Fenomenologia niezbędnym elementem tego, co jest tu przedstawiane jako 
+egzystencjalizm. Rozpoczyna się ona końcem wieku XIX za sprawą Husserla, 
+określone formy przybiera w wieku XX. Pierwsze znaczące dzieło Husserla *Badania 
+logiczne* powstają na początku XX wieku i ten wiek w znacznym stopniu 
+determinują.
+
+##### Husserl
+
+Projekt w dużej mierze destruktywny -- miał oddalić szarpiące od stuleci 
+antynomie, w które umysł wikłał się coraz głębiej. W wieku XIX wpadł w dwa 
+sidła: pozytywizm i psychologizm
+
+- pozytywizm -- filozofia, jeśli ma mieć jakąś rangę, ma się zbliżyć do nauk 
+o charakterze empirycznym (charakteryzowanych przez ciągłą zmienność, otwartych 
+na ciągłe dociekania, na fakty zaległe od doświadczeń, zbliżanie się do tego, co 
+pozytywizm nazywa prawdą, czyli co można uznać na gruncie koherencyjnych 
+zabiegów, porządkowania modeli poszatkowanej rzeczywistości); walka 
+z idealizmem, niechęć do wielkich systemów metafizycznych; pożądanie prawd 
+pewnych, ale jednoczesne ostre wystąpienie przeciwko formom aprioryzmu; 
+siedzieli mocno w sądach syntetycznych aposteriori -- uzależnionych od stanu 
+wiedzy o charakterze empirycznym z mocnym skłonem ku wiedzy mierzalnej, którą da 
+się przełożyć na jednostki.
+- psychologizm -- (Husserl podejmie z nim bezpośrednią walkę) całość 
+rzeczywistości ma być wyjaśnialna, eksplikowalna, wytłumaczalna poprzez 
+odniesienie się do danych o charakterze psychicznym, czyli związanym z tym, co 
+nazywa się *aparatem psychicznym* -- pewne procesy myślowe o charakterze 
+fizologicznym; sprowadził i uzależnił tzw. *rzeczywistość obiektywną* do 
+procesów myślowych -- jedynie te procesy myślowe są racją poznania, jednak 
+prawdy (efekty takiej procedury) mają charakter subiektywny, ograniczony -- 
+wszelkie poznanie nie może wykroczyć poza procesy fizjologiczne, wszystkie 
+prawdy związane z procesami umyśłu o charakterze wymiernym -- to było 
+stanowisko, które odsuwało prawdy o charakterze apriorucznym, uważało, że gdyby 
+zmieniła się sama struktura ludzkiego umysłu, przepływów nerwowych, to 
+zmieniłyby się prawdy, które my uznajemy za prawdy niezmienne, prawdy 
+o charakterze apriori
+
+Husserl zdenerwował się z powodu takiego ograniczenia psychologizmu -- uważał, 
+że istnieje taki zestaw prawd, który jest niezależny od doświadczenia. 
+Psychologizm atakując tradycję europejskiej metafizyki przedstawił bardzo 
+ograniczoną perspektywę ujmowania prawd i rzeczywistości, która była dostępna 
+przez aparat, który nie był pewny, który podlegał pewnym zmianom.
+
+Husserl swoją naukową działalność rozpoczynał naukową od matematyki i logiki. 
+Stanowisko, które go niepokoiło, stało się inspiracją do poszukiwań czegoś, co 
+miało stanowić podstawę filozofii o podstawach niewzruszonych. O charakterze 
+nawet przekraczającym, będącym czymś bardziej właściwym niż nauki. Filozofia 
+jako badanie pewne, niezmienne, oparte na projekcie **ewidencji** -- 
+oczywistości, która nie może być w żaden sposób kwestionowana.
+
+Przybrało to formę dziwnego acz chwytliwego hasła: *należy powrócić do samych 
+rzeczy*. Tutaj Husserl nie miał na myśli rzeczy w rozumieniu pozytywistów jako 
+trwałych, w sobie zamkniętych i niedostępnych o charakterze przedmiotowym. Rzecz 
+jako uzupełnienie pewnych aktów. Była zrelacjonowana -- pozostawała w związku 
+z drugim komponentem -- ze świadomością. Powrót do rzeczy samych oznaczał dla 
+Husserla oznaczało rozpoczęcie analiz, które zaczynały się od opisu relacji 
+tego, co nazywa się *świadomością* a tym, co ta świadomość napotyka, na co 
+zostaje skierowana (intenduje) i obejmuje swoim zakresem różnych aktów -- 
+przedmiotem.
+
+Przewrót Husserlowski, który najlepiej zostaje wyrażony przez hasło powrotu do 
+rzeczy (powrotu, bo kiedyś chyba mieliśmy tę relację, ona została zagubiona) 
+polega na tym, że odkryje się pewien związek, który wykorzysta się w nowej 
+filozofii, która będzie czymś ścisłym, nowym, opartym na *ewidencji* -- 
+samooczywistości -- relacji między dwoma siłami. Z jednej strony świadomość, 
+z drugiej to, co się zjawia tak, jak się zjawia w swojej naoczności -- przedmiot 
+czy rzecz. Owa rzecz to nic innego, jak fenomen. Fenomenologia bada to, co jest 
+dane (i tak jak jest dane) świadomości w tym jej nakierowaniu, które Husserl 
+rozumie w tradycji Brentana jako intencjonalność. Innymi słowy badanie związku 
+między świadomością a światem oparte jest na zasadzie intencjonalności, 
+sięgającej do tradycji średniowiecznej -- uznaniu, że każdy akt świadomości 
+(świadomość) jest zawsze świadomością **czegoś**. Nie ma czegoś takiego jak 
+świadomość bez swojego przedmiotu. W przypadkach, które będą później 
+rozpatrywane jest również taki skrajny: sama świadomość może uczynić siebie 
+swoim przedmiotem, nakierować się na siebie aktem refleksji i też będzie to 
+świadomość *czegoś*.
+
+Efektem posługiwanie się słowem **fenomen**, później będzie się to określało 
+jako **przedmiot intensjonalny** czyli w skłonie idealistycznym (taki u Husserla 
+jest) jest uzależnienie, współpraca z różnym rozłożeniem komponentów 
+subiektywności, obiektywności i w formie tego, że mamy do czynienia 
+z przedmiotem intencjonalnym będącym w zależności od spontanicznej, zawsze sobie 
+znanej, pewnej dla siebie świadomości a właściwie aktów tej świadomości.
+
+Na marginesie: mamy koncepcję również fenomenologiczną gdzie Twardowski 
+rozróżniał (i tu poszerzał pole widzenia Brentany i Husserla) to, że zawsze 
+będziemy mieli do czynienia z komponentami: świadomością, aktem świadomości, 
+treść świadomości i przedmiot świadomości. Husserl też o tym będzie mówił, ale 
+na początku szczególnie istnieje dla niego ten związek, którego owocem jest 
+fenomen jako twór, jako odkrycie tego, co leży po drugiej stronie świadomości -- 
+jest to horyzont łączący się z sensem, na który ta świadomość natrafia. Te 
+horyzonty są przede wszystkim sensami, które muszą oczekiwać na wejście 
+świadomości na arenę po to, żeby ujawniły się struktury. To jest ta 
+rzeczywistość.
+
+Jednak jak do niej dochodzi? Ten związek między świadomością a światem wyrażony 
+przez Husserla na przykład w formule *świadomość, jej aktowość i przedmioty tego 
+związku*, ta cała robota musi się rozpocząć od pewnych zabiegów -- to są 
+opisywane na wiele sposobów (i na wiele sposobów interpretowane) redukcje. Tak 
+jak odrzucając antynomie stworzone przez pozytywizm albo psychologizm, tak 
+i tutaj.
+
+Pierwszy krok -- *epoche* -- zawieszenie ważności (nie niszczenie) wielu teorii 
+i sądów, wiele ustaleń, którymi filozofia operowała, zostało włożone w nawias. 
+Pierwsze oczyszczenie pola badania: redukcja fenomenologiczna, wyłączenie 
+pewnych nastawień, które są dla nas charakterystyczne -- to się nazywa 
+*zawieszeniem tezy o naturalnym świecie*; to jest podstawowe. Czyści się pole, 
+by przejść do tego, co większość literatury przedmiotu nazywa **drugą redukcją** 
+-- tym, co jest w tej rzeczywistości istotne, jest stałe, ma charakter 
+koniecznościowy. To jest to, co nazywa się redukcją -- sprowadzeniem do czegoś 
+najistotniejszego w danym fenomenie, ustalenie pewnych związków istniejących 
+między tymi istotami fenomenów, które są związane rodzajowo-gatunkowo ze sobą, 
+dzielą jedną wartość. To ma nas wprowadzić do właściwej struktury rzeczywistości 
+poznawanej jako zespołu pewnych ustrukturalizowanych, usensownionych, mających 
+znaczenie fenomenów. Czegoś, co pozostaje w stosunku zależności do działań 
+świadomości jako siły sensotwórczej, siły konstytutywnej, tworzącej coś, co bez 
+jej udziału byłoby niemożliwe.
+
+Oczyszczenie (epoche), redukcja fenomenologiczna, redukcja ejdetyczna -- 
+wyrzucenie wszystkiego, tego, co przedarło się z nastawienia naturalnego, 
+pozostanie na tym, co daje się jako istota przedstawić. To jest dopiero początek 
+roboty, która ma pokazać co to znaczy podmiot do rzeczy samych.
+
+
+
+28:00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
