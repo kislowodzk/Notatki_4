@@ -2210,7 +2210,7 @@ określone formy przybiera w wieku XX. Pierwsze znaczące dzieło Husserla *Bada
 logiczne* powstają na początku XX wieku i ten wiek w znacznym stopniu 
 determinują.
 
-##### Husserl
+#### Husserl
 
 Projekt w dużej mierze destruktywny -- miał oddalić szarpiące od stuleci 
 antynomie, w które umysł wikłał się coraz głębiej. W wieku XIX wpadł w dwa 
@@ -2378,39 +2378,37 @@ też pozbawione elementu rzutu do przyszłości
 
 Skłon ku pewności, ku absolutyzacji wiedzy fenomenologicznej.
 
-Trzecia redukcja -- redukcja transcendentalna. Ją się rozumie dwojako:
+Trzecia redukcja -- redukcja transcendentalna. Jak ją rozumieć? Propozycja: jako 
+redukcję do absolutnych sensów, do źródła tego sensu -- to przybrało taką formę, 
+że Husserl wskazał na element, który byłby elementem niezależnym, absolutnym, 
+poza czasem i przestrzenią, nie tak jak świadomość, którą opisywał w swojej 
+aktowości, intencjach; ona miałaby być poza czasem i przestrzenią, to byłoby to 
+sławetne *ego transcendentalne*, które miało zostać odkryte po całym procesie 
+redukcji i objawić się jako pewnego rodzaju substytut chyba bytu absolutnego, 
+jako element świadomości absolutnej, o której marzył Hegel.
 
-- jako redukcję do absolutnych sensów, do źródła tego sensu -- to przybrało taką 
-formę, że Husserl wskazał na element, który byłby elementem niezależnym, 
-absolutnym, poza czasem i przestrzenią, nie tak jak świadomość, którą opisywał 
-w swoich intencjach; ona miałaby być poza czasem i przestrzenią, to byłoby to 
-sławetne *ego transcendentalne*, które 
+*Ego transcendentalne* ma być źródłem konstytucji świata. Skłon ku idealizmowi 
+powodem do licznych polemik. Świat całkowicie zależny od działań świadomości 
+znajdującej się w jakiejś przestrzeni ezotorycznej, bez odniesień czasowych, bez 
+historii. Byłaby czymś absolutnym zarówno jeśli chodzi o przestrzeń, jak 
+i o czas.
 
-38:00
+Podsumowując: fenomenologia otwarła nowe przestrzenie. Zrezygnowała bądź 
+z jaskrawie idealistycznych, psychologistycznych, pozytywistycznych, naukowych 
+tendencji, które redukowały rzeczywistość do jednego elementu. Chciała ona 
+powrócić do rzeczywistości w pełni ludzkiej -- w pełni uświadomionej, 
+racjonalnej. Rzeczywistości, którą dałoby się opisywać w terminach precyzyjnych. 
+Cały słownik husserlowski miał pokazać związek, który był związkiem pewnym. Jest 
+pewna naoczność, źródłowość -- to co mi się jawi tak, jak mi się jawi, jest 
+czymś niekwestionowanym. Ten związek między światem a świadomością wytycza 
+i potwierdza prawdziwą strukturę nie tylko rzeczywistości, ale i sensu tej 
+rzeczywistości. To jest mniej-więcej pewien zestaw idei, które w taki czy inny 
+sposób (negatywny czy pozytywny) muszą się pojawić u każdego egzystencjalisty 
+XX-wiecznego a przede wszystkim u ucznia Husserla -- Martina Heideggera.
 
+#### Martin Heidegger
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+43:10
 
 
 
