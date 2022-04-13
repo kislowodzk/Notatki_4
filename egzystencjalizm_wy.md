@@ -2326,25 +2326,67 @@ wyrzucenie wszystkiego, tego, co przedarło się z nastawienia naturalnego,
 pozostanie na tym, co daje się jako istota przedstawić. To jest dopiero początek 
 roboty, która ma pokazać co to znaczy podmiot do rzeczy samych.
 
+Bardzo istotna kwestia -- aktowości -- struktura natury tych aktów. Husserl 
+wymienił ich kilka, aktem o podstawowym znaczeniu jest spostrzeżenie. Ono jest 
+narzędziem intencjonalnym sięgania do pewnej struktury świata, która jest nam 
+dana w swojej bezpośredniości. Jest to zespół pewnych uposażeń jakościowych. 
+Postrzegamy -- postrzeżenie jest prolongowaną grą z rzeczywistością -- nie jest 
+to podejście natychmiastowe, jednorazowe. Akt postrzegania jest pewną *serią 
+rzutów*, zbliżaniem się kolejnym do pewnego przedmiotu, podchodzeniem do niego 
+z różnych stron, różnych perspektyw. Postrzeżenie jest czymś ograniczonym -- 
+jest to oglądaniem pewnych aspektów, pewnych stron. Gdybym nawet założył, ze te 
+oglądy wszystkie jestem w stanie zsumować, złożyć w jedną całość, to nigdy nie 
+uzyskałbym czegoś takiego, jak przedmiot sam w sobie, bo to jest idea błędna. 
+Przedmiot w tym sensie jest transcendensem, umyka mi on. Mogę próbować się 
+zbliżyć do pewnych uposażeń.
 
+Intuicja ejdetyczna nie będzie mogła być oparta na postrzeżeniu, choć Husserl 
+zakłada coś takiego, jak *akt* o charakterze absolutnej immanencji -- wtedy 
+istotę mogę nagle obejrzeć. To nie jest ogląd postrzeżeniowy. Do badań nad 
+istotą nie jest mi konieczny fakt istnienia, czy nieistnienia.
 
-28:00
+Mamy postrzeżenie, jest też wyobrażenie. Tutaj nie potrzeba zbliżania się. 
+Wyobrażenie widzi w jednym momencie. Jednak przedmiot jest tu pozbawiony 
+bogactwa uposażeń, materiałowego. Jest też intencja myślowa, czyli konstytucja 
+przez myśl, ideę, koncept, pojęcie. Bardzo ważna jest również ta intencja, która 
+powoduje się emocjami, preferencjami, miłością, nienawiścią. To jest intencja 
+emotywna otwierająca jeszcze inny aspekt fenomenu.
 
+Badania Husserla, które wychodzą od części negatywnej -- odrzucenia całej 
+tradycji przekonań filozoficznych, dokonywanie zawieszenia, redukcji, 
+czyszczenia niepotrzebnego materiału wrażeniowego/myślowego. Sprowadzanie 
+jednego do drugiego. Osiąganie w redukcji ejdetycznej *eidos*, które jest 
+strukturą rządzącą czymś *co* danego fenomenu, wpływające w sposób konieczny na 
+jego strukturę ontologiczną, epistemologiczną i na jego sens. Cały opis 
+podchodzenia świadomości, która dysponuje tymi intencjami, one wszystkie mają 
+pokazać, że rzeczywistość którą bada Husserl jest niezwykle upoziomowana, 
+ustrukturowana, nigdy nie może się wyczerpać, cały czas będzie pokazywała różne 
+aspekty w zależności od tego, jak się do niej będzie podchodziło. Ale żeby 
+podejść musi się zastosować instrumentarium proponowane przez Husserla.
 
+Przedmioty nie dzieją się bez odniesień czasowo-przestrzennych. Komponent 
+czasowy jest tu bardzo ważny. Postrzeżenie jest zawsze pamięcią pewnego 
+spostrzeżenia (po Proustowsku mówiąc), mamy też nawiązanie do tego, co jest 
+przeszłe i projekcję do tego, co jest przyszłe w badaniu danego fenomenu. Słynne 
+terminy:
 
+- protencja -- wybieganie w przód, stosowanie bagażu, który już zyskałem, do 
+przyszłych sytuacji, oglądów, nakierowań; zatrzymanie pewnej wiedzy i stosowanie 
+jej do aktów teraźniejszych -- one nie są nieukorzenione w przeszłości, nie są 
+też pozbawione elementu rzutu do przyszłości
+- retencja
 
+Skłon ku pewności, ku absolutyzacji wiedzy fenomenologicznej.
 
+Trzecia redukcja -- redukcja transcendentalna. Ją się rozumie dwojako:
 
+- jako redukcję do absolutnych sensów, do źródła tego sensu -- to przybrało taką 
+formę, że Husserl wskazał na element, który byłby elementem niezależnym, 
+absolutnym, poza czasem i przestrzenią, nie tak jak świadomość, którą opisywał 
+w swoich intencjach; ona miałaby być poza czasem i przestrzenią, to byłoby to 
+sławetne *ego transcendentalne*, które 
 
-
-
-
-
-
-
-
-
-
+38:00
 
 
 
