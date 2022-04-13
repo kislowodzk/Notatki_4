@@ -2404,11 +2404,139 @@ czymś niekwestionowanym. Ten związek między światem a świadomością wytycz
 i potwierdza prawdziwą strukturę nie tylko rzeczywistości, ale i sensu tej 
 rzeczywistości. To jest mniej-więcej pewien zestaw idei, które w taki czy inny 
 sposób (negatywny czy pozytywny) muszą się pojawić u każdego egzystencjalisty 
-XX-wiecznego a przede wszystkim u ucznia Husserla -- Martina Heideggera.
+XX-wiecznego (przynajmniej u większości) a przede wszystkim u ucznia Husserla -- 
+Martina Heideggera.
 
 #### Martin Heidegger
 
-43:10
+Jedna z najbardziej złożonych i skomplikowanych koncepcji. Dla pokolenia Mroza 
+Heidegger był żywą legendą. Był żywą wyrocznią. Na recepcję wpływała sytuacja, 
+w której znajdował się wtedy polski uniwersytet.
+
+Związki z nazizmem. Te wątki zostaną poruszone między Jaspersem i Heideggerem. 
+Był jednak genialnym metafizykiem, człowiekiem o niezwykłych intuicjach. Wbrew 
+swoim intencją dokonał przełomu egzystencjalistycznego, choć z samym terminem 
+nie chciał się utożsamiać. Był co do niego nieufny i nastawiony niechętnie.
+
+Jak rozpocząć omawianie Heideggerowskiej koncepcji, która ma wyjaśnić pewien byt 
+szczególny, jego związek ze światem? Poprzez odwołanie się do instrumentarium 
+i podstawowych tez Husserla. Można powiedzieć, że filozofia Heideggerowska 
+(ontologia fundamentalna, jak sam ją nazywa) nie wyrosłaby, gdyby nie polemika 
+z Husserlem. Wejście w polemikę z podstawowymi tezami husserlowskimi. Jeśli 
+Husserl dążył do uzyskania statusu wiedzy pewnej przez filozofię (opartej na 
+niewzruszonych oczywistościach, na takim dowodzie, który nie jest do ruszenia), 
+to można powiedzieć, że zamysłem Husserla była epistemologia. Zamysłem 
+Heideggera jest ontologia -- uważa on, że w tradycji filozoficznej zapomniany 
+został podstawowy problem. Jest on po stronie czegoś, co jest po stronie 
+wszystkich nakierowań intencjonalnych -- tego, co zostało przez greków 
+w pierwotnych intuicjach poznane. To jest problem **bycia**.
+
+Młody Heidegger otrzymał w młodości książkę Brentany o wielu znaczeniach bycia 
+u Arystotelesa. Przejął się tym problemem -- z nim pozostał do samego końca. 
+Myśliciel myśli o jednym, nabiera różnych sposobów, jak sam stwierdzi w *Liście 
+o humaniźmie*. Problem **bycia**, **sein**. Problem jednostki ustosunkowującej 
+się do tego bycia. Bycie wpadło w zapomnienie, zostało pomieszane, zestawione na 
+swoją niekorzyść i utożsamione z bytami.
+
+Pierwszą inspiracją działań Heideggera jest przekroczenie ontologicznej różnicy, 
+uświadomienie, że z byciem, jako racją ostateczną rzeczywistości i poczynań 
+człowieka, należy od tego *bycia* rozpocząć wszelkie działanie i wyeliminować 
+jego utożsamienie z bytami. Trzeba wyjaśnić tę pomyłkę, że *bycie* jest *bytem* 
+a *byty* są *byciem*. Żeby wrócić do właściwego źródła myślenia trzeba ten 
+problem nakreślić tak, jak robi to intencjonalność husserlowska. Jeśli 
+świadomość jest świadomością czegoś, to Heidegger postanawia zacząć od związku 
+między byciem a bytami -- bycie jest zawsze byciem pewnego bytu. Jeśli 
+przyznamy, że dla Husserla intencjonalność dotyczyła związku świadomości ze 
+światem, z przedmiotami, to tu trzeba sobie uświadomić, że dla Heideggera nie 
+istnieje już związek świadomości ze światem, bo to jest coś wtórnego. To być 
+może nastąpi pod wpływam działań poznawczych, ale to nie jest istotne.
+
+Przedstępne rozeznanie faktu, że jeśli mam do czynienia z bytem, to jest on 
+w związku ze swoim byciem. Ten związek będzie inspiracją poczynań wczesnego 
+Heideggera, zostanie na wiele sposobów wytłumaczony i opisany w podstawowym 
+dziele: *Byciu i czasie*.
+
+Jeśli ten związek ma być związkiem inspirującym, rozpoczynającym refleksję, 
+działanie filozofa, to trzeba wskazać na możliwości badania tego związku. 
+Husserl dokonywał redukcji, zaczynał od *oczyszczania* terenu, żeby zostać ze 
+świadomością jako źródłem sensu i matrycą ustanawiającą, opartą na relacji 
+świadomość-świat. Heidegger idzie od tego, że elementem, który jest elementem 
+fundamentalnym (strukturą, która umożliwia badanie związku bycia i bytów, 
+korelacji) jest byt szczególnego rodzaju. On posiada przywilej ontologiczny 
+(związany z rozumieniem) i ontyczny (ponieważ sam jest bytem). Ten byt to 
+struktura utożsamiana później z człowiekiem -- **Dasein** -- byt tu i teraz, 
+*przytomność*, *jestestwo*, które zapytuje o swoje własne bycie. Ono potrafi 
+zapytać o swoje własne bycie. Przez to pytanie może również zapytać o bycie 
+innych bytów.
+
+Heidegger rozpoczyna zbliżanie się do *bycia* jako racji wszystkiego. Jest to 
+byt konkretny, umieszczony w świecie, *rzucony w świat, którą zastał*. Jest to 
+byt konkretny, a nie transcendentalny -- oczyszczony z wszystkich związków tak 
+jak *ego transcendentalne*.
+
+Dla Husserla źródłem sensu jest twór ponadczasowy, ponadprzestrzenny, 
+wyczyszczony z empirii, emocji, cielesności, związków z jakimkolwiek światem. 
+Matryca wszselkich matryc; możliwość i źródło wszystkich możliwych sensów. 
+Husserl poszedł w stronę idealizmu. Tego nie mógł mu wybaczyć na przykład 
+Heidegger.
+
+Heidegger zaczyna od pewnej racji, której nie da się zdefiniować -- od pewnej 
+struktury, fenomenu umożliwiającego pojawienie się wszystkich innych możliwych 
+fenomenów, który został kiedyś gdzieś odkryty (na zasadzie wielkich intuicji, 
+dokonali tego starożytni) -- jest to *bycie*, jednak ono nie występuje samo, 
+występuje w ścisłym związku z bytem. Mówi się o byciu pewnego bytu. To trzeba 
+uchwycić bez definicji. Definicje nie będą nam posłuszne, nie będą wnosiły 
+niczego nowego.
+
+Żeby ten związek odkryć, żeby go opisać, wyciągnąć z niego konsekwencje, 
+Heidegger wskazuje na coś, co jest faktem niezaprzeczalnym. Jeśli mam uprawiać 
+fenomenologię, to musi ona być ontologią. Nie można wyłączyć tezy o istnieniu, 
+nie można wyłączyć świata naturalnych nastawień. Należy od tego rozpocząć 
+i w tej przestrzeni wskazać na taki byt, który posiada zdolność (moc, przywilej 
+ontologiczny) rozumienia swojego bycia poprzez odniesienie się do siebie samego. 
+To odniesienie jest również odniesieniem do tego w czym to Dasein zostało 
+rzucone. Tutaj rozpoczyna się wielka przygoda Heideggera z tym, co zastało 
+Dasein, w co zostało wrzucone. Od ontologicznej struktury pochodzą wszystkie 
+ontologiczne stosunki między jednym elementem Dasein a tym, przez co ten element 
+został uwarunkowany i co musi warunkować. Heidegger swój wykład, hermeneutykę 
+bytu jednostkowego, przygodnego, umieszczonego w czasie i przestrzeni rozpoczyna 
+od przedstawienia tego, co nazywa **egzystencjaliami**. Tego, co dotyczy 
+*Dasein* i jego związków ze światem, w przeciwieństwie do tego, co filozofia 
+będzie nazywała kategoriami. Podstawową charakterystyką tego specyficznego 
+uprzywilejowanego onto-ontycznie bytu, który jest nakierowany na swoje własna 
+bycie i poprzez to bycie nakierowuje się na inne bycia innych bytów, jest 
+w charakterze czasowym, jest w danej przestrzeni, posiada swoją przeszłość, 
+swoją teraźniejszość, posiada też to, co będzie go charakteryzowało 
+w odróżnieniu od wszystkich innych fenomenów, rzeczywistości -- **projektowość** 
+-- rzucenie się na przyszłość. Co to znaczy? Dasein jest przede wszystkim 
+nieuposażone w istotę (ponieważ istota Dasein leży w jego egzystencji, a ta 
+egzystencja jest nakierowana na to, by być tym, czym ma być. Ma być Dasein -- 
+podkreślać indywidualny charakter. Ma być sobą, nie może być nic innym. Skoro 
+tak, to musi posiadać wiedzę o swojej strukturze. Wiedza o strukturze 
+koncentruje się na charakterze Dasein: na jego charakterze wolnościowym, 
+projektującym, możliwościowym. Nic innego w Dasein nie jest niczym innym, niż 
+zespołem pewnych możliwości, które nie działają w próżni -- orientują się one na 
+to, co było w pewnej przeszłości i są realizowane w świetle tego, co będzie 
+przyszłe właśnie w akcie czasu teraźniejszego. Dasein odwrotnie od tego, jak 
+chciał Husserl pojmować jego ego transcendentu, jest ściśle czasowym, dziejącym 
+się w czasie elementem, strukturą. Mało tego -- ten czasy posiada pewnego 
+rodzaju ekstatykę, te czasy się łączą. Przeszłość w jakiś sposób ustala to, co 
+będzie później przez ukorzenienie się i zaokrętowanie w teraźniejszości. Tak się 
+będą przedstawiały zespoły pewnych możliwości -- **Dasein**, które nie są 
+możliwościami ograniczonymi. One należą do tego, że będą kiedyś mogły być 
+zrealizowane, albo nie zostaną zrealizowane. Albo będę wybierał coś jako 
+przedmiot zainteresowania, albo będę od tego uciekał. Możliwość, która jest 
+typowo i jedynie, należąca tylko i wyłącznie do Dasein, to jest możliwość 
+ostateczna, która podkreśla charakter autentyczny, jednostkowy mojego bycia 
+w świecie -- to jest **bycie ku śmierci** podkreślające to, co Heidegger nazywa 
+podstawową charakterystyką bytu ludzkiego jako skończoności.
+
+Ta możliwość mnie przeraża. To jest otwarcie...
+
+1:05:15
+
+
+
 
 
 
