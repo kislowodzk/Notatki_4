@@ -693,3 +693,148 @@ patrzeć na społeczeństwo jako na zbiór jednostek, zaczynamy patrzeć jako na
 strukturę. Jeśli istota człowieka sprowadza się do stosunków społecznych, to 
 człowiek utożsamia się ze społeczeństwem, którego jest częścią.
 
+## Ćwiczenia 7 -- 13.04.
+
+### Tekst Engelsa
+
+*Ludwik Feuerbach i zmierzch klasycznej filozofii niemieckiej*
+
+Z jednej strony aspekt krytyczno-retrospektywny w stosunku do tekstu *Ideologii 
+niemieckiej* -- już po śmierci Marksa powrót do pewnej tematyki.
+
+Feuerbach, ale również część poświęcona Heglowi oraz Marksowi.
+
+Ważny kontekst polityczny. Już po okresie wiosny ludów. Te wydarzenia 
+rewolucyjne skłaniają Engelsa do próby wpisania myśli marksistowskiej w ten 
+kontekst. 
+
+#### Hegel
+
+Cytat *wszystko, co rzeczywiste jest rozumne, wszystko, co rozumne, jest 
+rzeczywiste*. Jednak Hegel wspierał Rewolucję Francuską. Engels proponuje, że 
+rzeczywiste jest tylko to, co konieczne. Słowa te odnosi do sposobu rozumienia 
+historii u Hegla. To, co jest rzeczywiste, to, co nie jest konieczne, może 
+przestać być rzeczywiste. Wszystko, co rzeczywiste, może zatracić swoją 
+konieczność. Teza Heglowska za sprawą samej dialektyki zamienia się w swoje 
+przeciwieństwo.
+
+Rysuje się obraz dynamiczny. Historia staje się, nasze stanowisko powinno 
+uwzględniać ten charakter. Rzeczywistość wedle tego ujęcia jest rewolucyjna, 
+ponieważ jest rewolucyjna. O ile stare nie stawia oporu, to przemiany będą 
+pokojowe. Jeśli nie, to przekształcenie będzie przemocowe.
+
+Prawda jest pewnym procesem zawartym w historii, w jej rozwoju. Prawda procesem 
+stawania się historii. Abstrakcyjnie, statycznie rozumiana prawda jest nie do 
+obrony. Jeśli chcemy mówić o prawdzie, to musimy uwzględnić prawdę w sensie 
+stawania się rzeczywistości. Podobnie jest z historią -- nie zmierza ona do celu 
+ostatecznego, który musi osiągnąć. Z tego punktu widzenia historia to nie tyle 
+dążenie do celu, co sam proces przemian historycznych. Filozofia dialektyczna 
+burzy przekonania o stanach absolutnych.
+
+Engels chce się przedstawić jako myśliciel dialektyczny. Czym jest ta 
+*dialektyka* w rozumieniu Engelsa? Sama rzeczywistość jest dialektyczna -- nasze 
+myślenie dialektyczne jest tylko odzwierciedleniem dialektycznej rzeczywistości, 
+której częścią jesteśmy my sami. To ma odbieic w *myślącym mózgu* -- same 
+myślenie ma materialną podstawę.
+
+Przeciwstawienie dialektyki i myślenia systemowego. To wymóg systematyczności 
+doprowadził do zwieńczenia myśli, jednak ta kwestia przysłoniła rewolucyjny 
+charakter dialektyki i zwiodła wielu myślicieli. Engels podkreśla, że cenna jest 
+tu ta metoda myślenia -- dialektyka, która nie szuka zwieńczenia, ale w sposób 
+otwarty opisuje rzeczywistość jako stającą się.
+
+Hegel doprowadził pewien typ filozofii do apogeum, ponieważ pokazał ograniczenia 
+samej filozofii. Rozwój heglizmu -- jego przezwyciężenie. Myśl młodoheglowska, 
+która zorientowana była na kwestie religijne, ponieważ kontekst religijny 
+uniemożliwiał wypowiadanie się na tematy rzeczywiste.
+
+Engels zwraca uwagę, że w ramach myśli Feuerbacha idealizm Hegla został 
+całkowicie zanegowany. Został przywrócony materializm (który ma aspekty 
+idealistyczne). Feuerbach znów popada w idealizm, przyczynia się do rozwoju 
+myśli Hegla pokazując jedynie, że podstawa materialna jest pierwotna. Pojęcie 
+*natury ludzkiej* u Feuerbacha staje sie abstrakcyjne. To, co jeszcze Engelsa 
+uwiera to niedialektyczny sposób rozumienia materializmu u Feuerbacha.
+
+Engels buduje opozycję idealizmu i materializmu. Chodzi o pierwszeństwo i genezę 
+rzeczywistości. Czy z ducha, jako pojęcia wyjściowego, wyprowadzimy 
+rzeczywistość materialną (idealizm), czy materia jest pierwotna a duch/myśl jest 
+tylko odzwierciedleniem tej rzeczywistości.
+
+Jak przezwyciężyć idealizm? Rozpoczęcie od postawienia problemu tożsamości 
+myślenia i bytu -- pytanie o możliwość poznania  rzeczywistości. Kryterium 
+naszego poznania ma być eksperyment (nauka eksperymentalna, pozytywistyczna) 
+i przemysł (realne zastosowanie nauki do przemieniania świata, rzeczywistości). 
+Odpowiedzią na pytanie teoretyczne jest tutaj praktyka. Ona jest kryterium 
+umożliwiającym weryfikację naszych poglądów. Engels tutaj właściwie opowiada się 
+za naukami przyrodniczymi jako podstawowymi, za praktycznymi ich zastosowaniami. 
+Filozofia jest już właściwie skończona, nadchodzi czas scientyzmu. Co więcej -- 
+filozofowie dotychczas nie zdawali sobie sprawy, jak ich myślenie było 
+motywowane rozwojem nauk eksperymentalnych. Teraz to staje się rzeczywistością. 
+
+W ujęciu Engelsa rzecz sama w sobie jawi się jako rzeczywistość materialna. 
+Przez poznawanie praw następuje kontrola, przyswajanie rzeczywistości. Ludzkość 
+staje się świadoma swojego miejsca. Świat miejscem możliwym do opanowania. 
+Z drugiej strony zależność jest obustronna. To poznanie również określa nas 
+samych.
+
+Czy to się pokrywa z myślą samego Marksa? Czy materializm engelsowski jest 
+tożsamy z materializmem historycznym Marksa? Pojęcia należy ująć w sposób 
+materialistyczny ~ Engels. Należy odwrócić porządek. Pojęcia są własnościami 
+materii, a nie materia realizacją ducha absolutnego. W tym sensie świadomość 
+odzwierciedla dialektykę istniejącą w historii. Mocne założenie -- sama 
+przyroda, sam świat jest dialektyczny. Dialektyka jest częścią procesów 
+zachodzących w świecie materialnym. Myślenie jest odzwierciedleniem tych 
+procesów, praw. W świecie przyrody owe prawa zachodzą w sposób nieuświadomiony, 
+w historii ludzkiej częściowo są nieświadome, częściowo uświadomione. Możemy 
+domniemywać, iż ta część uświadomionych praw będzie się poszerzać wraz z ludzkim 
+poznaniem i zastosowaniem tego poznania w praktyce. Człowiek poznaje 
+receptywnie, ale również współtworzy tę rzezcywistość. Scientystyczne rozumienie 
+rzeczywistości. Czy Marks by się z tym zgodził? Jaki byłby materializm 
+historyczny? Jest to pogląd, wedle którego obecne warunki bytowe wpływają na 
+myślenie jednostek w spoleczeństwie, które tę rzeczywistość przekształcają. 
+U Marksa akcent położony na istnienie społeczne -- poprzez społeczeństwo 
+człowiek odnosi się do świata. Optyka postrzegania świata jest spowodowana 
+warunkami społeczno-politycznymi. Nauka zideologizowana. Społeczny sposób 
+pojmowania rzeczywistości i oddziaływania na nią poprzez praktykę. U Engelsa 
+przekonanie, że prawa dialektyczne, które dostrzegamy w przyrodzie, są prawami 
+obiektywnymi. Prawa historyczne są niczym innym, jak przedłużenie praw 
+przyrodniczych. Mocny akcent na prawa obiektywne, przyrodnicze. Tu możnaby 
+dostrzegać różnicę między podejściem Marksa i Engelsa.
+
+U Engelsa w fundamentalnych ujęciach problem alienacji jakoś zanika.
+
+Porządek poznawczy wpisany w praktykę u Marksa. Przetwarzając rzeczywistość 
+nadajemy jej kształt.
+
+U Marksa dialektyka stosowała się do przemian ekonomiczno-społecznych, do 
+przemian ludzkich, o tyle dla Engelsa dialektyka jest przesunięta do przestrzeni 
+obiektywnych praw przyrody. Engels pisze, że dialektyka to nauka o ogólnych 
+prawach ruchu zarówno w kwestii świata przyrody jak i umysłu ludzkiego.
+
+Historia u Engelsa całkowicie wpisana i opisana przez podejście scientyczne. 
+Ostatecznie nastepuje kres myślenia filozoficznego. Jeśli filozofia się ostanie, 
+to będzie to nauka o ogólnych prawach rzeczywistości czyli logika i dialektyka. 
+Tyle zostanie z filozofii, wszystko co zostanie przejmie nauka.
+
+Czym jest dla Engelsa historia ludzkości? Częściowo dokonuje się w sposób 
+nieuświadomiony, częściowo w uświadomiony. Postęp nauk powiększa tę drugą pulę. 
+Ostatecznie Engels powie, że materializm stary zatrzymuje się za wcześnie. 
+Sprężyny poruszające historią, które dawny materializm rozpoznaje, nie są 
+ostateczne -- trzeba wejść głębiej. Jakie siły są pod powierzchnią? Trzeba je 
+ujmować w skali makro -- chodzi o masy, klasy, ich przywódców. O powstaniu klas 
+decydują czynniki ekonimiczne. Engels proponuje analizę ekonomiczno-społeczną 
+przemian politycznych. Wykorzystuje już tu analizy marksowskie dotyczące 
+sposobów produkcji i struktur ekonomicznych i przekładania się tych struktur na 
+społeczeństwo. Ostatecznie ekonomia jest tą bazą, która decyduje o przemianach 
+w wymiarze historycznym.
+
+Można się zapytać jak to się ma do ogólnych założeń Engelsa. Czym jest ekonomia 
+w tym rozumieniu? Tu w zasadzie powtarza się teza materializmu historycznego, 
+ale jak to pogodzić? Religia u Engelsa jest jakimś błędem poznawczym, u Marksa 
+akcent położony na praktyczne wyjaśnienie. To zmienia perspektywę postrzegania 
+procesów. Nadaje im inny charakter.
+
+Jak rozumieć ostatnie zdanie? *Niemiecki ruch robotniczy jest spadkobiercą 
+niemieckiej filozofii klasycznej*. Zastanowić się nad tym.
+
+

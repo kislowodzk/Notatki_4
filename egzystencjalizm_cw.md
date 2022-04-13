@@ -315,3 +315,171 @@ strony Nietzsche chce zakorzenienia w (matce xd) ziemi. Figura tancerza, który
 nie jest przygnieciony, potrafi się wznieść. Dwie lekkości: ostatni ludzie -- 
 niezdecydowanie, połowiczności; Zaratustra -- taniec.
 
+## Ćwiczenia 7 -- 13.04.
+
+### Husserl
+
+Główny tekst z okresu transcendentalnego. To, co przyjęli głównie 
+egzystencjaliści to okres pierwszy -- fenomenologia ejdetyczna.
+
+Współcześnie fenomenologia nurtem, który jeszcze jest żywy.
+
+Dlaczego fenomenologia jest ważna dla egzystencjalizmu? Zdanie 
+egzystencjalistów, że filozofia utraciła życie przez kontakty z fizyką, przez 
+strukturalizm -- filozofia miała ugrzęznąć w rozważaniach bez odniesienia do 
+empirii. *Mogę zrobić filozofię z tego koktajlu*. Fenomenologia jako metoda, nie 
+jako punkt dojścia.
+
+Husserl studiował matematykę, później uczeń Brentany. Brentano był specjalistą 
+od Arystotelesa -- przypomniał intencjonalność; jak dojść z fenomenów 
+psychicznych do fenomenów fizycznych (przy których pojawia się sceptycyzm). 
+Intencjonalność jest wybieganiem do przodu, *rzucaniem się na coś i wciąganiem 
+tego do siebie*. Jest to próba obejścia podziału na fenomeny psychiczne 
+i fizyczne.
+
+Fenomenologia miała polegać na tym, że ani z matematyki, ani z psychologii nie 
+czerpie się wzorców, nie można ich brać z nauk szczegółowych -- filozofia ma być 
+nauką bezzałożeniową. Kartezjusz chciał osiągnąć punkt wyjścia -- musiał wątpić 
+w sposób absolutny. Metoda musi spełniać warunki punktu, do którego chcemu 
+dojść. Kartezjusz uznał, że jest to wątpienie. Różnica polega na tym, że Husserl 
+w swoim epoche zawiesza nie tylko tezę o istnieniu, ale także tezę 
+o nieistnieniu. Dzięki temu mógł opisać to, co się jawi, jak się jawi. To jest 
+pierwszy Husserl. Problem redukcji.
+
+Epoche to *zawieszenie*, *wzięcie w nawias*, *zawieszenie naturalnego 
+nastawienia* -- to się czasem uważa za pierwszą redukcję. Druga redukcja to 
+redukcja ejdeetyczna -- do istoty fenomenu. Kolejna redukcja to redukcja do ego 
+transcendentalnego -- to jest już Husserl późniejszy.
+
+Transcendentny to wykraczający poza. Transcendentalny to ze względu na warunki, 
+możliwości. Ego transcendentalne u Husserla późniejszego. W fenomenologii jak 
+jest ta świadomość (intencjonalna), której dają się fenomeny (w jakiś sposób, 
+jako coś). Husserl też nie dał opisu dochodzenia do fenomenu. Świadomość, która 
+daje przedmioty zainteresowania przed siebie. Mamy ciągłe akty -- nie 
+postrzegamy tego, skąd one wypływają. Ego transcendentalne jest jakimś *biegunem 
+aktów*, które jest jakimś założeniem. Jak możliwe są akty, myśli? Mamy akty, 
+skąd one są? Jak je mentalnie *przedłużymy*, to zejdą się w punkcie ego 
+transcendentalnego. Akt świadomy daje nam się razem ze świadomością tego aktu 
+(to pozwala uniknąć problemu trzeciego człowieka w intencjonalności aktu aktu 
+aktu.... Ingarden i Heidegger odrzulali ten idealizm, ponieważ jest tu pewna 
+pułapka -- wtedy to ego umożliwia, jest twórcze. U Husserla można to rozumieć 
+tak, że jest ego transcendentalne, które umożliwia świat, który widzimy. Czy 
+jest to ego nasze, jedyne, czy jakiś Bóg? Jeśli nasze, to mamy solipsyzm. Jak 
+wyjść do świata rzeczywistego, którego istnienie bądź nieistnienie zawiesiliśmy. 
+Husserl w czwartym okresie fenomenologii genetycznej próbuje w o wejść -- przed 
+aktami i intencji jest jeszcze coś. W ostatniej książce wraca do tego świata 
+zewnętrznego, który zawiesił.
+
+W aktach *cogitationes* są ich przedmioty -- są takie sytuacje, gdzie nie ma 
+tych przedmiotów fenomenów (liczny, przedmioty myślowe), to one nie są w sensie 
+zwykłym rzeczywiste. One będą przedmiotem aktu myślowego. Zawiesiliśmy istnienie 
+i nieistnienie, możemy je swobodnie opisywać. Intencjonalność świadomośći jest 
+*oczymśnością*. Czysty opis tego, co mamy w świadomości, to jest fenomenologia 
+-- zwykle to robimy bez zawieszenia tezy o naturalnym nastawieniu. Husserl 
+chciał znaleźć podstawę naukową nauk szczegółowych. Twierdził, że jest jedna 
+filozofia -- ona daje podstawy do wszystkich nauk innych; ma to być 
+fenomenologia.
+
+W zawieszeniu naturalnego nastawienia szuka się tego, co jest oczywiste tak, jak 
+oczywisty jest trójkąt mający trzy boki. Jeśli udało się opisać fenomen w sposób 
+oczywisty, to jest to niepodważalne, jednak inna osoba może zaoponować. Jednak 
+są opisy, które się dają w sposób oczywisty. One dają dojście do fenomenu 
+w sposób prawidłowy.
+
+Na przykład profesor Gadacz (współpracujący z Tischnerem) zapytawszy Tischnera 
+o redukcję ejdetyczną dostał polecenie zrobienia badania fenomenologicznego. 
+Gadacz zrobił opis takiego fenomenu jak *milczenie*.
+
+Musi być sytuacja możliwa do doświadczenia. Dobry opis fenomenologiczny to taki, 
+w którym możemy się odnaleźć. W momencie, w którym oczekuje się, że ktoś będzie 
+mówił, a nie mówi, to nie panuje cisza, ale milczenie. Okazuje się, że fenomeny 
+ciszy i milczenia są fenomenami różnymi od siebie. Po zawieszeniu tezy 
+o naturalnym nastawieniu musimy wyłączyć doświadczenie kulturowe i wiedzę 
+ścisłą. Zawieszamy wszystko to, co pochodzi z zewnątrz fenomenu. Jednocześnie 
+fenomen nie ma pleców. Opis fenomenu obracanego w myśli tak długo, aż nie 
+wykorzystamy wszystkich jego rzutów. Opis fenomenu myślowego tak długo, aż 
+opiszemy go każdorazowo z innej strony.
+
+Łukasz Sokołowski -- *Wprowadzenie do fenomenologii* -- ponoć bardzo przystępne 
+wprowadzenie.
+
+Opis fenomenu musi być intuicyjnie oczywisty. W naukach szczegółowych metodą 
+weryfikacji jest eksperyment, w fenomenologii jest to oczywistość, u Heidegerra 
+jest to badanie egzystencjalne.
+
+Krzysztof Michalski -- najbardziej jasne wytłumaczenie Heideggera, jaką spotkał 
+prowadzący.
+
+Naczelne hało Husserla: *z powrotem do rzeczy samych*. Wcześniej filozofii 
+zarzucało się spekulatywność, brak pewności. Mamy wrócić do rzeczy -- do tego, 
+co nam się jawi, co jest niepodważalne. Im czystszy opis, tym lepszy.
+
+Trzeciego Husserla (ego transcendentalne) odrzuci Sartre. To powinniśmy 
+*wynawiasować*, to jest założone. Jeśli egzystencja, byt dla siebie jest cały, 
+to są same akty: akt po akcie, po akcie itd. U Sartre'a tak nieznośne będzie 
+ukonstytuowanie się bytu samego w sobie, to będzie niemożliwe.
+
+NIE ROZUMIEM CO TU SIĘ ODPIERDALA, ALE JEST SUPER!
+
+Impresje, które umożliwiają dopiero te akty (u Maurie) -- to jest podobne do 
+późnego Husserla. O Heideggerze mówi się, że jest on bardziej ontologiczny, 
+o Husserlu, że fenomenologiczny. Husserl wg. Mariona jest redukcją 
+epistemologicznej (do przedmiotu), Heidegger do bycia.
+
+Po Husserlu kwestia jak wyjść z solipsyzmu oraz jak wrócić do świata, którego 
+istnienie zawiesiliśmy. Jeden z pomysłów taki, żeby w ogóle nie mówić 
+o naturalnym nastawieniu. Jednak problem tego jak ukonstytuować innego, skoro on 
+się jawi przeze mnie. Ten problem rozważa Levinas, ale też Ricouer. Prof. Gadacz 
+uważa, że rozważanie Husserla bez rozważania jego kwestii wiary jest pozbawione 
+sensu -- uważa, że sprowadzanie go tylko do kwestii epistemologii jest błędem. 
+Husserl z rodziny żydowskiej, później zmienił wiarę na luteranizm. Fenomenologia 
+tym kierunkiem, w którym jest najwięcej konwersji na chrześcijaństwo.
+
+Inna interpretacja taka, że fenomenologia nie ma być metodą poznawania, ale 
+sposobem życia. Ostatnie chwile życia Husserla opisał jego asystent. Ta książka 
+została wydana dzięki Tischnerowi po polsku, ale nie została wydana w żadnym 
+innym języku. Co jest ciekawe, ponieważ późniejszy Husserl ma pokazywać, że 
+fenomenologia ma ratować kontynent europejski ze wszystkich *-izmów*. Dobrze 
+przeprowadzone *epoche* nie pozwala przyjmować wszystkich *-izmów*, 
+w doświadczeniu nie spotykamy takich ukierunkowań w samych rzeczach.
+
+Kwestia tego, jak z powrotem dojść do współbycia z innymi i z rzeczami. Jak 
+dojdzie się do tego, że to życie, ta całość jest pierwotna, dana w fenomenach 
+strachu, cierpienia, to one się dają. Potem dopiero je *przed miotamy*, ale one 
+najpierw są. Najpierw cierpimy, najpierw jesteśmy bólem, później je opisujemy. 
+To są *fenomeny nasycone* -- możemy na ich temat pisać i nie wyczerpiemy ich. 
+Takie fenomeny to też *miłość*, *zmęczenie*, *radość*, ... . Jedną z metod 
+wyjścia poza solipsyzm jest nie wychodzenia poza tefenomeny -- w nich nie ma 
+tego dystansu.
+
+Husserl też próbował w ten sposób wrócić do tego *świata życia* -- taki świat 
+opisywali też egzystencjaliści, aczkolwiek dla nich ta kwestia ontologiczna była 
+drugorzędna. Dla Jaspersa *sytuacje graniczne*, zagrożenia życia, śmierci, to 
+będą takie sytuacje.
+
+Heidegger zastąpił Husserla na katedrze we Fryburgu. Różnica między Husserlem 
+a Heideggerem. Rozejście się ich sposobów myślenia. Według Heideggera Husserl 
+rozważał byt bez jego bycia -- bez czasu. Dla Heideggera ten zwrot 
+epistemologiczny będzie drugorzędny -- najpierw problem bycia. Rozróżnienie 
+poręczności i podręczności (/przedręczności) -- rozróżnienie użytecznego 
+przedmiotu i martwego przedmiotu. Nie poznamy długopisu dopóki nie będziemy go 
+używać, dopóki nie będzie on pisał.
+
+Max Scheller -- o istocie miłości i nienawiści czy o istocie resentymentu -- tu 
+też we wstępie opis metody fenomenologicznej
+
+Tak samo na wstępie *Bycia i nicości* Sartre'a.
+
+Jest to jedyny chyba kierunek, który jeszcze żyje, dopóki nie powstanie coś 
+nowego. Powinniśmy wiedzieć co to jest fenomenologia po studiach filozoficznych.
+
+
+
+
+
+
+
+
+
+
+
