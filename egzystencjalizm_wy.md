@@ -2565,4 +2565,3 @@ Ta możliwość mnie przeraża. To jest otwarcie...
 
 
 
-
