@@ -2529,38 +2529,110 @@ przedmiot zainteresowania, albo będę od tego uciekał. Możliwość, która je
 typowo i jedynie, należąca tylko i wyłącznie do Dasein, to jest możliwość 
 ostateczna, która podkreśla charakter autentyczny, jednostkowy mojego bycia 
 w świecie -- to jest **bycie ku śmierci** podkreślające to, co Heidegger nazywa 
-podstawową charakterystyką bytu ludzkiego jako skończoności.
+podstawową charakterystyką *Dasein* -- bytu ludzkiego jako skończoności.
 
-Ta możliwość mnie przeraża. To jest otwarcie...
+Ta możliwość mnie przeraża. To jest otwarcie się na coś, co jest niepewne, wiąże 
+się ściśle z pojęciem nicości, z fenomenem nicości. To napawa mnie lękiem, 
+trwogą, która jest też wyznacznikiem mojej egzystencji w świecie. Trwoga jest 
+odróżniana od konkretnego strachu, to jest koncept, który Heidegger przejął od 
+Kierkegaarda. Ja mogę się orientować na dwa sposoby, jeśli chodzi o zew 
+ostatecznej możliwości, jaką jest śmierć:
 
-1:05:15
+- mogę stanąć oko w oko z nią, zachować autentyzm istnienia jako czegoś 
+niepowtarzalnego
+- mogę dokonać ucieczki/próbu ucieczki, tutaj wchodzę w modi ucieczki w *się*, 
+to jest takie modi, które powoduje, że próbuję rezygnować z tego, co sumienie 
+nakazuje realizować jako swój byt, uciekam w nieautentyczność, chowam się między 
+innymi *Dasein*, zawierzam im i przyjmuje ich propozycje, rozwiązania: czytam 
+tak jak się czyta, wybieram to, co mam wybrać; tutaj Heidegger jest przenikliwym 
+prorokiem tego, co nastąpi jako kiltura masowa, a z drugiej strony pozbawienia 
+indywidualności z szeregu wyborów, które mają charakter świadomości, która 
+została ztotalizowana i poddana zbiorowemu charakterowi egzystencji
 
+Bycie w świecie jako podstawowy egzystencjał opisujący *Dasein* jest byciem 
+szczególnego rodzaju. Nie jest nam potrzebna wiedza (jak rozumie ją tradycja), 
+nie są nam potrzebne pojęcia, kategorie, sądy. Cała racjonalność, warstwa, która 
+nas od rzeczywistości odcinała, też nie jest nam potrzebna. Wręcz przeciwnie -- 
+musimy do rzeczywistości w którą zostaliśmy rzuceni, do świata codziennego 
+trzeba wejść. Ten świat pokazuje (tylko *Dasein* jest władne to zobaczyć 
+i osiągnąć wiedzę szczególnego rodzaju) swoją właściwą strukturę. Ta struktura 
+jest **strukturą wzajemnych odniesień**. Tak jak *Dasein* przebywając w świecie 
+jest z innymi (kategoria *bycia z innymi* -- jest to intuicja nieprzeparta 
+i oczywista, że świat jest dzielony przez inne *Dasein*), tak ta struktura samej 
+rzeczywistości, w którą zostałem rzucony, jest strukturą wzajemnych odniesień. 
+Spotykam to, co Heidegger nazywa przedmiotami danymi mi przed, obecnymi mi, albo 
+takimi, które służą, są poręczne -- one służą mi, abym realizował pewne 
+projekty, zaznaczał swoją obecność w tym świecie. Jest to po raz pierwszy z taką 
+prostotą i szczerością opisany świat narzędzi -- tego wszystkiego, co pokazuje 
+swoją strukturę/istotę nie przez badania teoretyczne, analizę pewnych pojęć, ale 
+w samym użyciu pokazują swoje możliwości, z których korzystam. Te możliwości są 
+przeze mnie uchwytywane. To jest młotek odsyłający do gwoździa, który odsyła do 
+ściany, która odsyła do domu. To jest to, co pasjonowało Husserla jako horyzonty 
+pewnych sensów, u Heideggera przyjmuje to postać *świata, który jest światem 
+ludzkim*, ale bez żadnego zadęcia teoretycznego, bez opisów w kategoriach sensów 
+czy znaczeń transcendentalnych -- to jest prosty świat, który człowiek poznaje 
+na zasadzie praktycznych wyborów, kiedy przenika, poprzez funkcjonowanie pewnych 
+narzędzi, w samo jądro rzeczywistości, która jest zawsze odsyłaniem do siebie 
+samej -- kategorii, które się ze sobą wiążą, ale w ostatecznym rozrachunku 
+centralnym punktem odniesienia jest *Dasein*, które musi o tę rzeczywistość 
+zabiegać, troszczyć się. Kategoria *troski*, która z kolei odsłania na nowo 
+kategorię ekstatyki czasu, jest utkwiona w pewnej tradycji, pewnej znajomości 
+zjawisk powszednich, teraźniejszości, wszystko jest kierowane na przyszłość.
 
+Kiedy coś w tym świecie nie funkcjonuje, to można powiedzieć, że istota młotka, 
+ta *młotkowatość* zostaje ukazana w innym świetle. Nigdy nie jest to wiedza, co 
+do której Heidegger oczekiwałby, żeby nią dysponować.
 
+Bardzo ważnym elementem przygody bycia człowieka w świecie, egzystowania 
+w świecie jest sposób dostępu do tej rzeczywistości. Tutaj Heidegger kładzie 
+całą tradycję na jedną szalę i mówi, że ona się myliła. Jeśli człowiek miał 
+świadomość, rozum, pewne pojęcia, kategorie, które miały charakter apriori 
+i umożliwiały poznanie, to tutaj Heidegger mówi, że mamy do czynienia zupełnie 
+z innym dostępem. To jest sławetne **nastrojenie**. Człowiek przede wszystkim po 
+pierwsze ustosunkowuje się do świata, w którym się znalazł, poprzez nastrojenie. 
+To jest trwoga, to jest nuda, to jest pokazywanie albo przyjmowanie 
+w rzeczywistości pewnych sygnałów takich jak coś niesamowitego, kiedy człowiek 
+czuje się obco to jest ta alienacja, albo też dostosowanie na tej zasadzie, że 
+jest współpraca z innymi *Dasein* zaangażowanymi w pewien naczelny projekt.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Podsumowując: można powiedzieć, że rozpoczynając swojąc przygodę z filozofią 
+jako swoistego rodzaju hermeneutyką, czyli próbą wytłumaczenia struktury 
+specyficznego bytu jakim jest człowiek, *Dasein*, Heidegger wskazuje na pewne 
+racje nadrzędne, które muszą zaistnieć, by w ogóle taka robota filozoficzna 
+mogła być potrzebna. Nie redukcje, jak chciał Husserl, nie czyszczenie pola 
+fenomenologicznego, nie dochodzenie do elementu pozornie pewnego i absolutnego 
+jakim było *ego transcendentalne*, ale właśnie powrót do tego żywiołu, który 
+jest żywiołem czysto ludzkim -- tej codzienności. Stamtąd trzeba wyjść, tam 
+trzeba ulokować byt, który posiada specjalny przywilej, specjalną moc, specjalną 
+projektowość ku zrozumieniu tego, co zostało dawno zapoznane a więc byciu. 
+Krótkie spotkanie, oczyszczenie umysłu z naleciałości całej tradycji pokazuje, 
+że istnieje internalny, konieczny wręcz związek (ontologiczna ścisłość) między 
+byciem, które jest byciem konkretnego bytu (każdy byt wskazuje na swoje bycie), 
+ale to nie dotyczy wszystkich bytów, tylko dotyczy przede wszystkim bytu 
+*Dasein* -- on posiada poprzez swoje własne nastawienie na własne bycie poprzez 
+próbę uchwycenia swojego bycia przez swój własny byt, możliwość przeniesienia 
+tej wiedzy na bycia wszystkich innych bytów. To nie będzie wiedza teoretyczna, 
+to będzie wiedza struktury *praktycznego przebytu w świecie*. Ten *praktyczny 
+przebyt w świecie*, to egzystowanie, ono pokazuje i ujawnia charakter 
+i strukturę możliwościową *Dasein*. Rozpada się to na dwa piony realizacji 
+możliwości, z których jedna wybija się na czoło: to jest możliwość realizacji 
+tej jednej jedynej dla mnie i dla ciebie i dla każdego innego jednostkowej 
+możliwości umierania -- śmierci jako podkreślenia autentycznego charakteru bytu 
+ludzkiego, jakim jest skończoność; albo też odejście od tego, czyli popadnięcie 
+w modi nieautentyczne, kasuje tę zasadę, że nie tylko istniejesz, ale masz 
+istnieć jako ty. To jest ucieczka w modi, które jest modi niepersonalnym, 
+wyalienowanym, nazwanym przez Heideggera *das Mann*. Bezosobistym, 
+zdepersonalizowanym byciem w rzeczywistości, która tak na prawdę jest jakimś 
+układem pewnych sił, mocy ciemnych, sił totalitarnych, cywilizacji. To, co 
+odbiera człowiekowi jego własne samostanowienie i nakazuje mu działać tak, jak 
+się działa, jak jest oczekiwane przez niego, żeby działał. Zestaw tych 
+wszystkich egzystencjałów -- tego, co charakteryzuje *Dasein*: jego podstawowego 
+bycia w świecie, jego mowy, jego nastrojenia -- to ma pokazać strukturę, 
+w której *Dasein* tkwi, ta struktura jest strukturą troszczenia się o świat, to 
+troszczenie się ujawnia pewne szeregi związków, relacji i odnoszenia się 
+poszczególnych przedmiotów (z których narzędzia są czymś najistotniejszym) do 
+tego, co jest związkiem tego całego sensu świata -- do jednostki, do *Dasein*, 
+do tego, co ma realizować swoje autentyczne możliwości.
 
 
 
