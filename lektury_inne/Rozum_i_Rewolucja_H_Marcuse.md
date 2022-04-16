@@ -42,10 +42,42 @@ stania się rzeczywistym *podmiotem*, jednak nie *pojmuje* ona tego procesu
 rozwoju. Nie może więc siłą rozumu przekształcić tkwiących w niej możliwości 
 potencjalnych w rzeczywistość. Takie *uświadamianie* sobie jest procesem, 
 któremu podlega prawdziwy podmiot i który może zachodzić dopiero, kiedy istnieje 
-człowiek.
+człowiek. Samo jego istnienie jest procesem urzeczywistniania tkwiących w nim 
+możliwości i kształtowania rzeczywistości zgodnie z pojęciami rozumu
+- Najbardziej podstawową kategorią rozumu jest **wolność**
+- Rozum z góry zakłada wolność (zdolny do tego taki podmiot, który panuje nad 
+swoim rozwojem i który uświadamia sobie swoje możliwości i możliwości tkwiące 
+w rzeczach); wolność zakłada rozum, gdyż tylko wiedza uświadomiona umożliwia 
+podmiotowi zdobycie i sprawowanie tej władzy
+- Kamień i roślina nie mają wiedzy uświadomionej -- nie są prawdziwymi 
+pormiotami. Człowiek wie kim jest i tylko dlatego istnieje rzeczywiście; rozum 
+i wolność są niczym bez tej wiedzy
+- Rozum jest obiektywną siłą i obiektywną rzeczywistością tylko dzięki temu, że 
+wszystkie postaci bytu są w mniejszym lub większym stopniu modusami 
+podmiotowości, formami urzeczywistniania się świadomości (przedmiot sam w sobie 
+jest jednak rodzajem podmiotu)
+- Rozum podstawową siłą działającą w historii -- jego urzeczywistnianiem się są 
+dzieje ludzkości
+- Rozum jako dzieje -- **Duch** (*Geist*) -- świat historii rozpatrywany 
+w związku z racjonalnym rozwojem ludzkości; historia nie jako łańcuch zdarzeń, 
+a jako ciągła walka o dostosowanie tego, co istnieje, do rosnących możliwości 
+człowieka
+- Historia, etapy rozwoju, lecz jeden rozum; jedna prawda: urzeczywistnione 
+wolność
+- Bezpośrednia jedność rozumu i rzeczywistości nie powstaje od razu -- jest 
+wynikiem długiego procesu -- dążenie do powstania najwyższej formy istnienia, 
+wolnego i rozumnego podmiotu; to, co rzeczywiste, nie będzie oddzielone od tego, 
+co potencjalne; dopóki rzeczywistość nie będzie zgodna z rozumem, nie będzie 
+rzeczywistością w najgłębszym tego słowa znaczeniu
+- To, co rzeczywiście istnieje -- *zjawisko*
+- *Rzeczywistość* -- to, co istnieje w postaci zgodnej z kryteriami rozumu
+- Koncepcja rozumu ma charakter krytyczny -- hegemonia każdej dominującej formy 
+istnienia podlega negacji, przeciwieństwa tę formę rozsadzają i zmuszają do 
+przejścia w inne formy -- *duch sprzeczności* siłą napędową w dialektycznej 
+metodzie
 
 
-s. 12 Roślina nie "pojmuje"...
+s. 15 W r. 1793
 
 
 
