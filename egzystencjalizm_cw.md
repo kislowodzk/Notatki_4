@@ -473,13 +473,170 @@ Tak samo na wstępie *Bycia i nicości* Sartre'a.
 Jest to jedyny chyba kierunek, który jeszcze żyje, dopóki nie powstanie coś 
 nowego. Powinniśmy wiedzieć co to jest fenomenologia po studiach filozoficznych.
 
+## Ćwiczenia 8 -- 20.04.
 
+### Heidegger -- List o Humanizmie
 
+Odpowiedź na list Francuza. To jest dzieło późnego Heideggera.
 
+Heidegger aspirował do stworzenia spójnego systemu przy pomocy licznych 
+terminów, które miały być precyzyjne.
 
+Heidegger zaangażowany w NSDAP. Ponoć było to spowodowane poglądami 
+filozoficznymi -- obawiał się bardziej amerykanizacji i sowietyzacji, które 
+miały pozbawić indywidualności.
 
+Sam Heidegger cieszył się dużym uznaniem. Każdy późniejszy filozof czuł się 
+zobligowany odnieść się do niego w jakiś sposób.
 
+Uczeń Husserla, jednak odchodzi od jego poglądów, przeformułowuje je.
 
+Analiza fenomenologiczna do analizy egzystencjalnej, jednak opowiada się 
+przeciwko redukcji -- zarzuca Husserlowi przesunięcie w stronę ego 
+transcendentalnego. Podstawowa ma być ontologia. Pytanie o bycie zamiast pytań 
+o naturę bytu.
 
+Każde bycie jest byciem jakiegoś bytu -- nie możemy tego oddzielać. Pytanie 
+o bycie jest tożsame z pytaniem o istotę człowieka. Dasein szczególnym typem 
+bytu, który może pytać o swoje bycie.
+
+Przez pytanie ontologiczne możliwe zdefiniowanie istoty człowieka na nowo.
+
+Nie możemy w człowieku wyróżnić cząstki duchowej i cząstki zwierzęcej, ponieważ 
+człowiek jest jednością, nie można go rozdzielić. To, co człowieka określa, jest 
+stosunek do bycia. Dasein, a nie podmiot, określa człowieka. Dasein jest 
+szczególnym bytem, który ma możliwość zapytania o swoje bycie, a także o bycie 
+innych bytów. Przekracza swój byt w stronę bycia. Byciem Dasein jest egzystencja 
+-- przekraczanie. Egzystencja jest właściwa tylko Dasein.
+
+Naistotniejsza jest czasowość. Dasein przekracza byt w kierunku bycia, ale jest 
+w świat wrzucone. Funkcjonuje więc w jakiejś rzeczywistości. Nie ma Dasein bez 
+świata. Dasein zawsze do czegoś się odnosi, jednocześnie projektuje coś na 
+przyszłość, a więc jest już przed sobą. Napięcie pomiędzy byciem w świecie, 
+a byciem tu i teraz. To napięcie jest czasowością. Faktyczność (związana 
+z warunkami zastanymi, w które Dasein zostaje rzucone), możliwość (bycie przed 
+sobą), to pomiędzy nimi składa się na egzystencję (troskę, troszczenie się 
+o napięcie, które się wytwarza między faktycznością i możliwością).
+
+Sama egzystencja nie jest przedmiotem wyboru -- tu mówimy o faktyczności. 
+Wolność, wolny wybór ulegają tu unieważnieniu.
+
+Egzystencja autentyczna/nieautentyczna. Dasein kierowany przez bycie -- wkracza 
+w przestrzeń nicości (bez bytu), więc bycie jest niebyciem -- status **bycia ku 
+śmierci** -- to odkrycie wywołuje trwogę, która skłania ku upadaniu, które jest 
+całkowitym zapomnieniem o byciu, skupienie się na bycie światowym, które wtedy 
+zdaje się oddzielone od Dasein. Przekroczenie tego stanu pozwala osiągnąć 
+egzystencję autentyczną (która oświetla sens bycie w ogóle), nieprzekroczenie 
+powoduje egzystencję nieautentyczną.
+
+Istotnym aspektem jest mowa -- ona jest *domostwem bycia*. Bycie w myśleniu 
+staje się mową. Mowa nie może opisać bycia (bo opis uprzedmiotowieniem), to 
+jednak mowa przestrzenią, w której bycie może się wydarzać. Poezja ma szczególną 
+rolę. (Jednak cała sztuka ma aspekty poetyckie).
+
+Szczególną rolę ma poezja Helderlina -- prekursor romantyzmu, bardzo zagmatwany 
+styl, niejasny. Poezja jako słowne stanowienie. Ma ona szczególny status.
+
+Dasein zostaje utożsamione z człowiekiem, przez to egzystencja staje się 
+sposobem bycia szczególnie ludzkim. Należy dbać o to, by człowiek pozostał 
+ludzki, a nie stał się nieludzki.
+
+Różnica ontologiczna -- propozycja interpretacji, która zdaniem Kutrzeby pozwala 
+obronić Heideggera przed nim samym. W bezpośredniej definicji sprawa wydaje się 
+mglista. Grecy przedsokratejscy bycie mieli rozumieć, teraz go nie rozumiemy, 
+trzeba zacząć z powrotem je rozumieć. Okazuje się to być problemem Kantowskim. 
+Tak, jak Kant uznał, że język filozofii trzeba napisać na nowo, tak Heidegger 
+uznał, że potrzebuje przepisania. Dlaczego różnica między byciem a bytem może 
+być Kantowska? Klasyczna filozofia od Sokratesa do co najmniej Kanta zajmuje się 
+wyłącznie bytami -- chce opisać rzeczy, określić prawdę tej rzeczy, opisać jej 
+właściwości. To może też być byt -- wtedy podstawowe właściwości. Konkretne 
+byty, które filozofia chce przedstawić. Heidegger pyta jak możliwe jest to, że 
+te byty jakoś istnieją, jakoś się prezentują. Jak przejść z poziomu 
+epistemicznego do pytania co w ogóle umożliwia poznanie. Heideggerowskie bycie 
+jest tym, co umożliwia byty, jest więc w jakiś sposób warunkiem możliwości dla 
+bytu. *Bycie jest transcendensem* -- cytat z *Bycia i czasu*. Pytanie 
+Heideggera: w jaki sposób istnieją byty -- jak się przejawiają.
+
+B/Vatimo utożsamia bycie u Heideggera z językiem. Opowiada o roli mowy, poezji. 
+Dasein to jest taki termin, który określa człowieka, ale nie jest człowiekiem; 
+określa podmiot, ale nie jest podmiotem. Drugim kontekstem (fenomenologia) -- 
+kontekst hermeneutyki. Koło hermeneutyczne -- ten przykład błędnego koła, które 
+ma nie być czymś złym. Będąc w świecie interpretujemy ten świat. To rozumienie 
+nigdy nie odbywa się w próżni -- mamy określone pojęcia, przesądy, zwyczaje, 
+wiedzę. Przez to budujemy kolejne przedsądy, które wpływają na rozumienie 
+świata. Dasein, jako bycie w świecie, oznacza, że zawsze jesteśmy w środku koła 
+hermeneutycznego, z którego nie możemy się wydostać. Jeśli w ten sposób 
+postrzegamy świat przez pośrednictwo jakichś kategorii, wysiłku rozumienia, 
+intepretowania, to być może rzeczywiście pozostajemy na kantowskiej pozycji. 
+Potrzebujemy przestrzeni pojęć (języka), zbioru naszych przedsądów, które jest 
+tym światłem, które rzuca możliwość zrozumienia bytu. Język, pojęcia -- to 
+sprawia, że byty stają się bytami. Język poetycki jest dość migotliwy -- poezja 
+jest przykładem tego, że próbujemy pokazać coś inaczej, w sposób nieoczywisty; 
+pokazanie jakiegoś przedmiotu w inny sposób, zobaczyć inny byt, spojrzeć na 
+niego z innej strony. Początkowo łączone z epifanią, objawieniem. Kutrzeba nie 
+naciska na taką interpretację, ale wydaje mu się ona wdzięczna, ponieważ nie 
+jest ona mistyczna. Pyta się o to *jak rzeczy się istoczą*, w jaki sposób się 
+krystalizują, są dla nas zrozumiałe.
+
+Jednak późny Heidegger mówi, że trzeba odejść tu od filozofii zorientowanej na 
+człowieka. Heidegger domaga się przeniesienia na jakieś bycie. Heidegger 
+podkreśla tu, że bycie poprzedza człowieka.
+
+Pytanie czy da się ten tekst czytać jeszcze w kategoriach *Bycia i czasu* -- 
+wtedy jest to rozszerzenie o ciekawy wątek aktywnej roli mowy, poezji. Język bez 
+ducha poezji nie ma aspektu innowacyjności. Wielu interpretatorów twierdzi, że 
+powstał tu rodzaj apofatycznego (mowa przez zaprzeczenie) bóstwa o nazwie 
+*bycie*, które jest tajemniczą siłą -- Derrida przykładem takiego 
+interpretatora.
+
+Heidegger kocha etymologia -- traktuje ją niemal jak odkrywanie języka, którym 
+napisany jest świat.
+
+Główne terminy, którymi posługuje się Heidegger:
+
+- egzystencja -- człowiek wychodzi z siebie
+- ekstaza -- człowiek nie jest zdefiniowanym i niezmiennym bytem
+
+Odwrócenie metafizyki to jeszcze nie jest zniesienie metafizyki -- to 
+odniesienie do stwierdzenie Sartre'a, że egzystencja poprzedza esencję. Człowiek 
+swoją mniej lub bardziej świadomą aktywnością wytwarza swoją esencję (Sartre).
+
+Heidegger odróżnia eg-isstencję od egzystencji. Człowieka nie można sprowadzić 
+do jego istoty, ani tym bardziej do jego faktyczności (egzystowania w takiej, 
+czy innej formie). Jak należy zadać pytanie o człowieka? O jego eg-sistencję 
+w prześwicie bytu. Pytanie o bycie ściśle łączone z myśleniem. Myślenie ma 
+dotrzeć do jakiegoś poziomu bycia. To jest ta aktywność, która się z byciem 
+łączy. Myślenie przeciwstawione działaniu. Przeciwstawienie *praxis* i teorii. 
+Myślenie może odnosić się do bycia jako takiego. Bycie nastawione na skutek. 
+Myślenie stara się Heidegger oddzielić od działania -- ma ono być kontemplacyjne 
+-- kontemplacja bycia. Myślenie sprowadzone do działania jest dla Heideggera 
+*techne*, myślenie staje się techniką -- to jest problem. To się łączy ze 
+znienawidząną *amerykanizacją* -- dążenie do osiągania konkretnych celów za 
+pomocą zdobyczy techniki. To mylenie działania i myślenia miało się zacząć już 
+z Platonem i Arystotelesem. Tak, jak mowa może być domostwem bycia, może też 
+ulec dyktaturze opinii publicznej. Może też stać się machinacją, gdy ludzie nie 
+są w niej naprawdę zakorzenieni, przez użytkowanie mowy do panowania nad bytem. 
+To również jest wycieczka Heideggera w stronę techniki, ale również nauki, jako 
+tej, która uzurpuje sobie prawo do wyrażania bytu w języku jednoznacznym, 
+intersubiektywnym. Mowa staje się mową katalogijącą, a nie mową istoczącą.
+
+Opinia publiczna, której ulega mowa. *Gramatyka* opinii publicznej -- mowa sama 
+miałaby potencjał nawet anarchijny, natomiast opinia publiczna narzuca pewne 
+schematy. To jest zagrożenie opinii publicznej/cywilizacji technicznej, która 
+odwraca się od prawdy bycia.
+
+Dlaczego Heidegger nie lubi terminu *humanizm* i mówi, że jeśli już trzeba je 
+zachować, to należy zmienić jego sens. Foucault też z tego powodu nie lubi tego 
+pojęcia.
+
+U Nietzschego mamy konieczność pracy nad sobą, nad światem. Tu zamienia się to 
+na kontemplację bycia przy niektórych interpretacji.
+
+Kilka stron tekstu Adorno -- zjadliwe komentarze odnoszące się do Heideggera. 
+Teodycea śmierci.
+
+*Czarne zeszyty* -- zapiski Heideggera. Adorno takim autorem, który będzie 
+twierdził, że filozofia Heideggera jest inherentnie nazistowska, że oddzielenie 
+tutaj dzieła od autora nic nie daje.
 
 

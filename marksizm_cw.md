@@ -837,4 +837,118 @@ procesów. Nadaje im inny charakter.
 Jak rozumieć ostatnie zdanie? *Niemiecki ruch robotniczy jest spadkobiercą 
 niemieckiej filozofii klasycznej*. Zastanowić się nad tym.
 
+## Ćwiczenia 8 -- 20.04.
+
+### Struwe
+
+Przez pewien czas współpracownik Lenina. Socjalista, który jednak w socjaliście 
+widzi problem. Przez Lenina i innych marksistów tego czasu został określony 
+*elegijnym marksistą*.
+
+Swoją interpretację marksismu rozpoczyna od określenia stanu marksizmu jako 
+teorii badania społeczeństwa. Myśli on o końcu marksismu, krytycznym rozkładzie 
+jako teorii -- system jest nie do utrzymania, wskazanie na sprzeczności, które 
+nie są do utrzymania, trzeba je odrzucić -- nie są *rzeczywiste* czy *realne*. 
+Jednak jeszcze we wstępie wskazanie, że marksizm jako teoria rozwija się. Sam 
+Struwe uważa się za marksistę.
+
+Zwrócenie uwagi na materialne postrzeganie historii oraz na przejście od 
+kapitalizmu do socjalizmu. Materializm historyczny zawężony do pewnych aspektów 
+badania historii.
+
+Trzy fakty u podstaw:
+
+1. Rozwój sił wytwórczych
+2. Postępujący ucisk klas ludowych i rozpad klas średnich
+3. Wystąpienie rewolucyjnego proletariatu
+
+Struwe będzie argumentował, że nie do pomyślenia będzie rewolucja. Jeśli 
+dokonuje się przemiana, *socjalizacja* kapitalizmu, to rewolucja będzie 
+niepożądana. Struwe zwraca jeszcze uwagę na to, na co nie zwracał uwagi Marks. 
+Koncepcja zubożenia nie ma racji bytu -- jak pokazuje historia nie ma dalszego 
+ubożenia proletariatu.
+
+Jednak dalej -- pojęcia są abstrakcyjne. Ciągłe ubożenie proletariatu, jego 
+degradacja, przeczy praktycznym ideałom. Zgodnie z tendencją rozwojową, na którą 
+wskazuje Marks, niemożliwy byłby przewrót społeczny. Alternatywa -- albo 
+zubożenie proletariatu, albo rozwój, przejęcie kultury burżuazyjnej -- nie ma 
+racji bytu. 
+
+Dwa schematy rozwoju:
+
+PIerwsza -- sprzeczności równocześnie narastają, aż w końcu muszą się znieść. 
+Struwe mówi, że nie jest tak w rzeczywistości.
+
+Druga -- do pewnego momentu sprzeczności narastają równolegle, ale potem jedna 
+zanika.
+
+Struwe jest zwolennikiem drugiego schamatu. Zgodnie z pierwszym schematem nie 
+byłoby wyjścia z tej sytuacji, nie byłoby nadziei na przemianę rzeczywistości. 
+Drugi schemat inaczej pojmuje rozwój społeczny. Jeden człon antagonizmu zaczyna 
+w pewnym momencie osłabiać drugi. Zamiast eskalacji sprzeczności mamy przejście 
+łagodniejsze -- bardziej *ewolucyjne*, niż *rewolucyjne*.
+
+Rewolucja polityczna jest konieczna zdaniem Marksa. Zdaniem Struwego jest to 
+wniosek wywiedziony jedynie z pojęć, nie ma on związku z rzeczywistością. Jeśli 
+rewolucja społeczna ma oznaczać całkowity przewrót, to musi nastąpić w formie 
+ewolucji. Jeśli rewolucja polityczna ma być zwieńczeniem, to nie jest 
+zwieńczeniem koniecznym. Abstrakcyjne pojęcia Marksa jest uproszczeniem procesów 
+historycznych. Te przeciwieństwa nie funkcjonują tak dobrze jak w teorii. Im 
+większa przemiana społeczna, tym mniej może być ona rewolucyjna. 
+
+Marks zakładałby przeskok kulturowy. Proletariat ciągle ubożeje -- degraduje się 
+kulturowo, umysłowo. Z drugiej strony utopia ma stanowić rozkwit kultury. 
+Konsekwencją nieciągłość kulturowa, dokonanie skoku od pogarszających się 
+warunków do rozkwitu kultury, co nie ma związku z rzeczywistością, w której 
+kapitalizm i socjalizm przeplatają się, nie dochodzi do całkowitej (sztucznej 
+zresztą) separacji tych dwóch rzeczywistości.
+
+Dalej analiza sposobu myślenia w kategoriach przeciwieństw. Krytykuje go podając 
+dwa przykłady, które świadczyby o tym, że ujęcie marksowskie jest niewłaściwe, 
+że w rzeczywistości zmiana następuje drogą reform.
+
+Marks ma rację przedstawiając stosunek bazy i nadbudowy. Natomiast modyfikacja 
+rozumienia tego stosunku. Realistyczna wizja. Obraz stopniowego przystosowywania 
+nadbudowy do bazy. Nie jest tak, że te dwie sfery są niezależne. Nie mamy 
+socjalizmu i kapitalizmu, które rodzą się niezależnie. To są przeciwieństwa, 
+które mają na siebie wpływ. Dochodzi do ograniczenia zakresu drugiego 
+z przeciwieństw. 
+
+Rewolucja polityczna jest tylko konsekwencją rewolucji społecznej. Jeśli władza 
+polityczna zostanie przejęta, to i tak można z niej zrobić pożytek tylko przez 
+wprowadzenie ustawodawstwa. To, co dotyczy prawa, jest dodatkiem, jest czymś, co 
+dostosowuje się do przemian, do tego, co rzeczywiste. W konsekwencji to pojęcie 
+jest drugorzędne w kontekście samych przemian. Realność jest po stronie bazy. 
+Jednak jeśli Struwe zakłada stopniową ewolucję, to można się zastanawiać jakie 
+rozstrzygnięcia są proponowane, czy w ogóle jakieś rozstrzygnięcia są 
+proponowane -- czy prace ustawodawcze nad reformą są prawdopodobne i możliwe, 
+czy jednak rewolucja polityczna Marksa nie byłaby koniecznym (w celu przejścia 
+od kapitalizmu do socjalizmu) elementem historii. 
+
+Jedyną drogą rozwoju społeczeństwa jest droga rozwoju w bazie, która dostosowuje 
+do siebie porządek prawny. Socjalizm nie będzie działać, jeśli przestanie 
+działać w ramach kapitalizmu -- jeśli będzie się opierał na fałszywych 
+przesłankach. Idea rewolucji politycznej jest dla Struwego nie do pomyślenia -- 
+jest czymś, czego nie da się pogodzić z przemianami społecznymi.
+
+Socjalizm jest z natury utopijny, nie może więc być *naukowy*. Jeśli doszukiwać 
+się już socjalizmu *naukowego*, *ewolucyjno-historycznego*, to byłby on jedynie 
+badaniem istniejących w ramach społeczeństwa kapitalistycznego tendencji 
+i faktów.
+
+Ważniejsza jest dla Struwego rzeczywistość historyczna, problem przemian, niż 
+sama doktryna -- ona jest drogą do przemian, a nie celem samym w sobie.
+
+Pytanie *heretyckie* -- czy *krach* społeczeństwa kapitalistycznego będzie 
+w rzeczywistości oznaczał zwycięstwo socjalizmu?
+
+Jeszcze zwrócenie uwagi na rozróżnienie *celu* i *drugi* -- wątek 
+rewizjonistyczny. Podsumowanie tekstu jest rewizjonistyczne.
+
+Co z tym stosunkiem utopii do nauki? Utopizm jest częścią ideału społecznego 
+i tą częścią powinien pozostać, ponieważ ma praktyczne znaczenie. Stanowisko, 
+któe ma porywać, skłaniać do działania na rzecz pewnego celu.
+
+
+
 
