@@ -559,3 +559,234 @@ podobają
 
 Za tydzień druga część
 
+##  Ćwiczenia 8 -- 25.04.
+
+### Rousseau cz. 2
+
+Teraz przejście od stanu natury do stanu *cywilizacji*. Trzeba tak to zrobić, 
+żeby wyszło, że to czynniki przypadkowe spowodowały, że człowiek uległ 
+zniewoleniu. Nie wynika to z ludzkiej natury. Spróbujmy  dokonać apologii 
+człowieka przed zarzutem, że jest on z natury niewolnikiem, chętnie zrzeka się 
+swojej wolności. Obrona przed oszczercami takimi jak Tomasz Hobbes, który 
+twierdzi, że jest odwrotnie.
+
+Rousseau uważał, że nie ma powrotu do tego stanu, o którym mówi część pierwsza. 
+Nie jest to możliwe choćby ze względów demograficznych. Receptą odtworzenie 
+człowieka naturalnego w procesie edukacji. Nowonarodzone dziecko przypomina 
+człowieka stanu naturalnego. Jeśli odpowiednio pokierujemy jego edukacją, 
+wychowaniem, to będziemy w stanie stworzyć nowych ludzi, którzy będą w stanie 
+stworzyć nowe społeczeństwo. Fiasko takich systemów, jak komunizm, pokazuje, 
+zdaniem Spryszaka, że nie jesteśmy w stanie od człowieka oddzielić tej części, 
+o której pisał Rousseau.
+
+Początkiem człowieka nowoczesnego odgrodzenie ziemii -- powstanie własności 
+prywatnej. Człowiek w stanie natury skupiony na sobie samym -- zaburzenie tego 
+przy powstanu ziemskiej własności prywatnej. Wcześniej była własność w ujęciu 
+własnego schronienia, które można było zmienić, co nie miało takiego znaczenie. 
+Ziemia jako coś, co można zagarnąć, aby uzyskać więcej dóbr. Podział ziemi, 
+nawet, jeśli na początku jest równy, prowadzi do nierówności. Dysproporcja 
+własności ziemskiej w ówczesnej Francji była bardzo duża w porównaniu z innymi 
+krajami.
+
+Własność prywatna -- ziemia --> nierówność majątkowa --> z niej powstanie 
+państwo (ludziom wydaje się, że państwo remedium na nierówność majątkową), 
+z niego nierówność polityczna. Jednak przed własnością już była gromada, 
+a jeszcze przed nią rodzina, którą stworzył człowiek samotny.
+
+#### Rodzina
+
+Miłość ojcowska i małżeńska ma źródło zewnętrzne -- pochodzą z przyzwyczajenia 
+mieszkania pod jednym dachem.
+
+Pierwsze jarzmo -- wygody, do których człowiek się przyzwyczaja, a na które nie 
+był czuły w życiu naturalnym. Dostrzega, że miejsce może być lepsze, że może 
+mieć lepsze jedzenie, posłanie. Miejsce dla pierwszych wygód.
+
+Podział na role społeczne zależne od płci -- nie tkwią one w naszej naturze, 
+stworzone są one przez okoliczności. Jeśli żyliby osobno, to tych óżnic by nie 
+było.
+
+Pojawienie się (a przynajmniej udoskonalenie się) mowy. Pojawienie się chyba 
+jeszcze w stanie natury, gdy czasem zebranie się w grupy niestale -- tylko dla 
+wspólnego chwilowego interesu.
+
+#### Gromada
+
+Doprowadza do jej stworzenia połączenie rodzin zachodzące przez bliskość 
+mieszkania. Młodzież sąsiadująca ze sobą -- czynienie porównań, pojawienie się 
+wartości moralnej, piękności. Pojawienie się miłości, zazdrości. W gromadzie 
+rozwija się rozum -- otrzymuje on trening za sprawą życia gromadnego. Pojawiają 
+się uczucia inne oprócz rodzinnych -- wyższe, pojawiają się pojęcia wartości 
+moralnej i piękności. Pojawiają się wartości inne niż wartość rozumiana wprost. 
+Rozum się tak wyćwiczyć w gromadzie. Pojawiają się uczucia *wyższe* -- chodzi 
+o miłość między dwojgiem młodych ludzi (w znaczeniu namiętności, silnego 
+afektu), to nie jest to samo, co miłość rodzinna. Cała mnogość uczuć -- 
+zazdrość, nienawiść. To nie jest jeszcze ta patologia, która pojawia się 
+w państwie.
+
+Ludzie w dawnych czasach za sprawą kontaktów byli związani w promieniu 
+odległości, którą byli w stanie pokonać -- ludzie spokrewnieni w obrębie kilku 
+wsi, w których mogli się poznać.
+
+W wyniku połączenia się z innymi pewne cechy charakterologiczne powstają (to 
+jest krytyka Hobbesa, który twierdził, że przez wartości ludzie się łączą -- 
+u Rousseau to te wartości są wytwarzane przez życie wspólne). To wychowanie 
+wytwarza szacynek.
+
+Rozszerza się rozum, paleta namiętności, rzeczy pożądanych, które jako takie nie 
+istnieją w stanie natury.
+
+Człowiek jest wewnętrznie tak nieokreślony, że może przyjąć pewne formy. To, kim 
+człowiek będzie, nie jest okreslone. Człowiek ma do wyboru swój los. 
+ 
+Tu pojawia się własność prywatna, z niej spontanicznie pojawia się nierówność 
+majątku. Wzrost ambicji, porównywanie się z innymi. 
+
+Rozwój metalurgii już musi zakładać istnienie gromad.
+
+Jeśli od tej gromady odjąć własność prywatną ziemi (jak w niektórych 
+społeczeństwach pierwotnych -- na przykład Słowian czy Celtów), to ku temu 
+skłania się sympatia Rousseau.
+
+Metalurgia i rolnictwo to dwie sztuki, które wywołały wielki przewrót. 
+Cywilizacja zaczyna się od tego. Tu mamy **cywilizację** -- tu mamy technikę, 
+umiejętności, to jest to, co zasługuje na to miano. Początek własności prywatnej 
+ziemi, metalurgii, również pojawieniem się wszystkich nieszczęść. Dobrze byłoby 
+zatrzymać się przed cywilizacją, na etapie gromady.
+
+Również tutaj zmiana diety -- od teraz przewaga białka roślinnego.
+
+Uprawa ziemi musiała dać początek jej podziałowi, to musiało dać początek 
+podziałowi. U każdego znajduje się coś do straconego -- nie ma już nikogo, kto 
+nie musiałby się obawiać utraty.
+
+Można dywagować nad porównaniem stanowiska Locke'a i Rousseau. U Anglika dowolna 
+praca (w sensie fizycznym) na przedmiocie naturalnym daje prawo do tej rzeczy. 
+Rousseau nie nazwie tego własnością, tylko posiadaniem. Wg. Rousseau własność 
+nie pojawia się w stanie natury -- pojawia się w stanie cywilizowanym. 
+Przynajmniej Spryszakowi tak się wydaje. Własność daje początek podziałowi. 
+Własność będzie jednak podlegać **nierównemu podziałowi**. Historia Rzymu, 
+państw feudalnych, zdają się to potwierdzać.
+
+Silniejszy dokonał więcej pracy, zręczniejszy, bardziej pomysłowy i tak dalej. 
+Przy pracy jeden ciągnął więcej zysków, drugi mniej, to się potęgowało. Te 
+nierówności nie miały znaczenia w stanie natury, natomiast w tym stanie mają 
+znaczenie -- stają się nierównościami. Nie tylko to, ale także takie cechy jako 
+kolor skóry. To jest stan patologiczny, którego nie zna stan naturalny.
+
+Nie należy Rousseau odczytywać tak, że to jest wina tych jednostek *słabszych* 
+-- chyba jednak należy odczytywać, że to, że ktoś ma jakieś cechy, to stanowi 
+pewne tło. Możemy zobaczyć jakie to ma przełożenie na politykę.
+
+#### Państwo
+
+Jest to nieprawdziwy wymysł.
+
+Krytyka Hobbesa i Lewiatana. Pojawiają się klasy społeczne, gdy granice się 
+zetknęły, nie można już rozszerzać swojego terenu bez zawłaszczania ich innym. 
+Ci, którzy już nie mogli znaleźć ziemi (środków) musieli te środki pozyskiwać 
+u bogaczy. Jednak bogacze ledwie zaznali władzy, musieli dbać o to, żeby nie być 
+stratnymi w wyniku grabieży. To doprowadza do wspólnoty politycznej.
+
+Jeśli mamy zaczyn społeczeństwa złożony z takich ludzi, którzy powstali w stanie 
+cywilizowanym, no to dobrego państwa z tego nie będzie. Jednak tych źródeł 
+należy szukac w czynnikach zewnętrznych, w tym, co zaszło, ale zajść nie 
+musiało.
+
+Jest to zmiana na niekorzyść. Jak wygląda założenie państwa. Bogacz (ludzie 
+bogaci) wchodzą ze sobą w zmowę. Okazuje się, że oni (bogacze) nie mają 
+legitymizacji do swojej własności -- oni zakładają społeczeństwo, by mieć 
+korzyść dla siebie. Twierdzą, że robią to dla interesów wszystkich ludzi. W tej 
+myśli rysuje obraz wojny, w której wszyscy tkwią, w której nikt nie czuje się 
+bezpiecznie. Jest to **zwodnicza racja** -- wprowadzenie przepisów traktujących 
+wszystkich jednakowo. Zamiast siły obracać między sobie skupmy ją w jedną siłę 
+biorącą pod protekcję wszystkich członków społeczności. Był to podstęp na który 
+inni dali się nabrać, nie podejrzewając, że jest wprowdzone na ich zgubę.
+
+Skoro państwo powstał nielegalnie... 
+
+Władza najwyższa, z której wiadomo co wynika.
+
+To, co było marzeniem Rousseau, to istnienie fundatora państwa, który nie byłby 
+tak wypaczony, jak ten bogacz. Który dla dobra wspólnego nadawałby ludziom ich 
+prawa. Skąd wziąć takich legislatorów? Takie pytanie w *o umowie społecznej*, 
+w *rozprawie o nierówności* jednak czysto pesymistyczna wizja.
+
+Państwo ugruntowało tę nierówność -- nastąpiła legalizacja tego, co było.
+
+Z drugiej strony założenie jednego państwa ustawiło wymóg ustanowienia 
+kolejnych, ponieważ nie ma innej możliwości stawienia państwu czoła.
+
+Jest to wielkie uproszczenie -- filozoficzna bajka. Pewnie dokonywało się to 
+w różny sposób w różnych państwach. Często państwo stanowił element obcy, który 
+podbijał okoliczną równość. Na przykład powstanie Francji, która została podbita 
+przez Franków. Tak jak Ruś będąca wielością gromad, która została metodycznie 
+podbijana/przekonywana przez drużyny wikingów, które przejęły władzę. W wieku 
+XIII porządki zmienione.
+
+Co do utopijnej umowy społecznej, to jest to pewna utopia, która ma zaistnieć 
+w przyszłości. Natomiast tu mamy opisywaną tę właściwą umowę, która rzeczywiście 
+zaistniała. Różnica taka, jak pomiędzy tym co jest (*rozprawa o nierówności*), 
+a tym, jak powinno być (*umowa społeczna*).
+
+Pamiętajmy o trzech rozprawach:
+
+- *Rozprawa...*
+- *Emil*
+- *Umowa...*
+
+Pewne nadzieje wiązane z procesem edukacji. Z założenia projekt jest 
+ograniczony, jednak ze stworzeniem nowego człowieka, który będzie zdolny do 
+zawarcia nowej umowy, wiązana jest nadzieja. Jeśli się rodzimy, to jako czysta 
+tablica (Locke), to jest nasz walor. Gdybyśmy dziedziczyli te wszystkie 
+zdolności, to już nic nie dałoby się zrobić. Możemy człowiekiem odpowiednio 
+pokierować wtedy, kiedy jeszcze da się go pokierować. Z tym wiązane pewne 
+(bardzo oświeceniowe) nadzieje. Jednak Rousseau przyjmuje, że człowiek rodzi się 
+jedynie ze skłonnościami, które są dobre. Wszystkie jego potrzeby są dobre. 
+Trzeba tym pokierować tak, aby człowieka nie zepsuć. Wszystko w rękach 
+odpowiedniego nauczyciela. 
+
+Nie ma tu słowa o tym, że skłonności są dziedziczone. Nie jesteśmy tu 
+dziedzicznie kształtowani. Jeśli są, to nie jesteśmy przez nie kształtowanil.
+
+Autor myślał, że Genewa jest tak stworzonym państwem, ale przeliczył się, ta 
+demokracja genewska była fikcją -- rządziła niewielka grupa najbogatszych rodów.
+
+Polemika z konkurencyjnymi koncepcjami.
+
+We wspólnocie politycznej następuje **pogłębianie się nierówności**. Ludzie są 
+wywyższeni w sposób zupełnie sztuczny. Okazuje się, że jedni są *lepsi*, potem 
+okazuje się, że są *lepsi z urodzenia*, potem okazuje się, że monarcia jest 
+dziedziczna. Pojawiają się patologie. Pojawia się *staranie o godność*, 
+zabieganie o nią. Wszystko to sprawia, że kto urodził się na niskim szczeblu 
+hierarchii społecznej, tego los jest przesądzony. 
+
+Z drugiej strony jedna rzecz: *contra* piśmiennicza -- biorąc to wszystko pod 
+uwagę, nie można odmówić ludowi jednego prawa, **prawa do buntu**. Lud ma prawo 
+wyrzeczenia się swojej zależności. Ta sytuacja jest możliwa do zmiany, która 
+jest moralnie uprawniona.
+
+Najwyższym wyrazem państwowej patologii jest stwierdzenia Ludwika XIV *Państwo 
+to ja*. Rousseau miał intuicję (naśladując Platona), że rządzić powinny prawa, 
+a nie ludzie. Rząd jest jedynie wykonawcą prawa. Suweren jest istotą, która 
+prawo powołuje do życia. Dzieje się to za sprawą woli powszechnej, która nie 
+jest ludzka -- jest wyrazem woli ogółu. Zawsze ja muszę czegoś chcieć dlatego, 
+że to jest prawem, nigdy nie może coś być prawem dlatego, że ja tak chcę.
+
+Mamy stan natury jako stan początkowy. Potem wspólnotę polityczną. Na końcu coś, 
+co nie jest ani wspólnota polityczną, ani stanem natury, ale czymś pomiędzy -- 
+tam nie rządzą prawa, ale nie ma też stanu natury w jej czystości. Jest to pewne 
+monstrum, z którym należałoby skończyć tak szybko, jak będzie to możliwe. Można 
+liczyć na nowego człowieka i z nim łączyć swoje nadzieje.
+
+#### Finał rozprawy
+
+Nierówność prawie nie istnieje w stanie natury, rozkwita wraz z rozwojem rozumu, 
+pojęć. Jest ona ze stanem natury sprzeczna. Ostatnie zmiany pokazane stanu 
+ówczesnej Francji -- pokazanie, że to wszystko jest sprzeczne ze stanem natury.
+
+Na następny raz czytamy Kanta
+
+
+
+

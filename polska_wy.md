@@ -842,3 +842,45 @@ Jednak jest różnica -- w promieniu jest światło od słońca, ale już w inny
 miejscu. W tym sensie Trójca jest i trójcy nie ma. Współistotność jest 
 i współistotności nie ma. Tak jak między słońcem i jego promieniem.
 
+## Wykład 6 -- 22.04.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

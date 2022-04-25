@@ -1561,3 +1561,247 @@ nad społecznym kreowaniem rzeczywistości. Zwłaszcza takiej socjologii.
 Poszukiwanie ukrytych znaczeń (psychoalaniza), Cały system Marksa, jeśli 
 o ideologię chodzi, oderwany trochę od jego nazwiska. Nie skojarzony z nim.
 
+## Wykład 7 -- 25.04.
+
+[pomocy, nie mam początku]
+
+Marks koncepcję samoalienacji Hegla przekłada na bazę materialną. Ale przez to 
+wraca do przedheglowskich skojarzeń. Skojarzeń ze sferą ekonomiczną 
+i gospodarczą.
+
+Alienacja u Rousseau. Oznacza tam zrzeczenie się praw przez jednostkę na rzecz 
+społeczeństwa. To jest utrata przez jednostkę pierwotnej wolności w wyniku 
+zawarcia kontraktu społecznego. Hegel z alienacji czyni koncepcję 
+teologiczno-antropologiczną.
+
+Marks bada alienację nie jako proces samoistny i niezależny, ale bada alienację 
+jako konsekwencję kapitalistycznego podziału pracy i prywatnej własności środków 
+produkcji. Bada alienację jako powszechnej sprzedajności i konsumeryzmu. Siłą 
+najpotężniej alienującą jest przede wszystkim pieniądz, który tworzy rynek. 
+Ostatecznie jednak zawsze przedmiotem alienacji jest człowiek żyjący 
+w określonych warunkach, wchodzi w relacje z przyrodą, człowiek oddany władzy 
+pieniądza -- kapitału. 
+
+Marks wywodzi własność prywatną z podziału pracy. Własność prywatna byłaby 
+wyrazem wyobcowania pracy. Stanu, w którym człowiek pracuje, bo musi, by 
+przeżyć, zaspokoić podstawowe potrzeby. Dalej pokazanie, że pieniądz jest 
+wyobcowanym wytworem pracy, który przejmuje władzę nad człowiekiem. W komunizmie 
+to człowiek ma panować nad tym, co sam stwarza.
+
+Alienacja pracy jest stanem, w którym bezpośredni wytrórca z góry zakłada, że 
+produkt nie będzie zaspakajał jego własnych potrzeb, być może nie będzie mu 
+nawet dostępny. Produkt trafia na rynek. Robotnik nie dysponuje środkami, które 
+pozwalałyby mu ten produkt nabyć. Im więcej robotnik produkuje, tym bardziej 
+pogłębia swoją własną biedę, tym bardziej przyczynia się do własnego wyzysku. 
+Ten stan też jest alienacją.
+
+Mogłoby się wydawać, że na tym historia pojęcia *alienacji* się u Marksa kończy. 
+Jednak wydaje się, że w późniejszych dziełach Marks przyjmuje te różne 
+kategorie, cały materializm historyczny jako niewypowiedzianą, 
+niezasygnalizowaną podstawową teorię, podłoże jego rozważań, które nie jest 
+obecne wprost, jednak ujawnia się, kiedy zestawimy opowieści wczesnego i późnego 
+Marksa. Opowieść jest o tym samym -- o tym, jak życie wymyka nam się z rąk. Jak 
+formy świata wymykają nam się z rąk, jak pozornie (ideologiczne skrzywienie) 
+przyjmują w naszej świadomości formę urzeczowioną. To, gdzie zawsze ludzie są 
+zaangażowani -- tu pozornie element ludzki znika. Mówimy o mechanizmach. Okazuje 
+się, że rzeczywistość opisywana przez ekonomię polityczną jest ważniejsza, że 
+mamy podporządkować się prawom wygłaszanym przez ekonomistów. To są prawa, które 
+wygłaszają prawidłowości. Chodzi o to, że produkty ludzkiej głowy mają pozór 
+istot obdarzonych własnym życiem. Chodzi o to, żeby przebadać mechanizmy 
+alienacji, jednak w taki sposób, aby ukazać najbardziej perfidne (bo 
+niewidzialne) i takie z którymi się zgadzamy (bo ich nie rozumiemy) formy 
+opresji obecne w obcowaniu z kapitalizmem.
+
+Człowiek wyzwolony z przyrody uznaje, że jest zależny od rynku, kiedy jest 
+zależny od ludzi, którzy przestają jawić się jako ludzie. To później pokazał 
+Lenin: komunizm jest zniesieniem gospodarki wolnorynkowej gwoli zapanowania 
+przez ludzi nad ich jednostkowym losem. Komunizm obiecuje pełną wolność.
+
+W przypadku Marksa musimy pamiętać, że tu nie wystarczy tylko intelektualna 
+krytyka -- aby ona się powiodła musimy zmienić materialną podstawę -- konieczne 
+głębokie przekształcenie społeczeństwa -- uspołecznienie pracy, środków 
+produkcji. Społeczeństwo komunistyczne będzie bezklasowe. Zniesienie klas, czyli 
+komunizm.
+
+Komunizm jest przede wszystkim pewną teorią wolności. Wyjaśnieniu tego, próbie 
+interpretacji utopii komunistycznej jako systemu implikowanego przez pozytywną 
+koncepcję wolności zawsze w swojej książce Andrzej Walicki. Pod tym względem 
+Marks okazuje się myślicielem konsekwentnym. Nie ma tu dychotomii, które 
+śledzimy w innych obszarach. Alienacja i komunizm aspektami tego samego 
+zjawiska. Alienacja opowiada jak tracimy wolność i jakie fikcje tworzymy, by 
+z tą utratą się pogodzić. Komunizm jest obietnicą odzyskania wolności.
+
+Jak Marks rozumie **wolność**? Nieintuicyjnie -- potocznie raczej koncepcja 
+negatywna: jestem wolny, kiedy mogę powiedzieć *nie*, gdy nie muszę tobić tego, 
+co ktoś mi każe. Marks pojmuje **wolność** jako **kontrolę** i **panowanie**. 
+Takie rozumienie komunizmu będzie w życie starał się wprowadzić Lenin. Same te 
+pojęcia zdają się stać w sprzeczności z naszym rozumieniem wolności.
+
+System budowany w imię wolności okazał się jedną z największych z możliwych 
+dystopii. Dlaczego tak się stało? W samym Marksizmie tkwią źródła totalizmu, czy 
+też mamy do czynienia z jakąś wagą rozwojową? (Na przykład związaną z faktem 
+zacofania Rosji, kiedy Marks domagał się rewolucji równoczesnej we wszystkich 
+najbardziej rozwiniętych krajach). Być może tak naprawdę Marksowska idea 
+komunizmu jako wolności została zniekształcona przez rosyjską, nieusuwalną 
+tradycję despotyczną. To jest interpretacja, którą obrazowo przedstawił Jan 
+Kucharzewski -- *od byłego do czerwonego caratu*. 
+
+Pytań bez liku, natomiast w myśleniu Marksa alienacja i komunizm są ze sobą 
+funkcjonalnie i genetycznie powiązane. Alienacja bierze się z podziału pracy, 
+z własności prywatnej -- w gruncie rzeczy bierze się po prostu z nierówności. 
+W wyniku alienacji pojawia się element wg. Marksa najbardziej istotny -- wartość 
+wymienna -- można ją interpretować jako skrajną formę alienacji pracy. 
+
+Spójną interpretację przedstawia książka *Marks -- dwie filozofie*. Wartość 
+wymienna (nie konkretny przedmiot, ale to ile za niego możemy dostać na rynku) 
+dominuje nad całym procesem produkcji i wymiany. To jest siła, która napędza 
+gospodarkę. Okazuje się, że gospodarka nie ma na celu zaspokajania ludzkich 
+potrzeb, ale nieustanne gromadzenie pieniędzy. 
+
+Jednak elementem gospodarki rynkowej jest również praca sprzedawana przez 
+robotnika. To znaczy, że ludzie zmieniają się w towary sprzedawane na 
+mocybezosobowych praw rynku. Alienacja rodzi wartość prywatną, która rodzi 
+podział społeczeństwa na pracy, które prowadzi do pojawienia się klasy 
+najbardziej uciśnionej, w której kumuluje się cała niesprawiedliwość tego 
+systemu, której członkom odebrano w zasadzie wszystko oprócz czasu, który mogą 
+sprzedawać. Klasa będąca esencją dehumanizacji.
+
+Jednak wraz z proletariatem pojawia się ideał komunistyczny. Sam Marks ma 
+skłonność interpretowania komunizmu jako realny ruch znoszący stan obecny, a nie 
+utopię. Komunizm jest wizją dezalienacji, ponownego zapanowania człowieka nad 
+światem, który tworzy. To jest też wizja społeczeństwa, z którego usunięto 
+wszystkie główne źródła konfliktu społecznego, drastyczne nierówności -- 
+czynniki alienujące. Najważniejsze jest to, że jest to społeczeństwo, w którym 
+procesy społeczne poddane są ludzkiej kontroli. Zależą od woli zrzeszonych 
+jednostek. Tu, być może, w tym przekonaniu Marksa, mamy zalążek, źródło 
+późniejszego autorytaryzmu czy totalitaryzmu -- systemów jawiących się jako 
+komunistyczne. 
+
+Jeśliby dalej wytrwać w marksowskiej skłonności do poszukiwania konkretów poza 
+sferą dobrze brzmiących słów, to musimy stwierdzić, że chodzi tu o jakichś ludzi 
+-- o władzę publiczną, O tych, którzy w wyniku jakiejś decyzji zajmują się 
+procedurami zarządczymi w gospodarce -- tak czy owak jest to jakaś forma władzy. 
+Co więcej, Marks jest totalitarny w tym sensie, że ta władza powinna mieć 
+nieograniczoną wolność ingerowania w życie społeczne. Marks twierdzi, że dla 
+człowieka bardziej dojmujące, wyniszczające jest zależność, od pozornie 
+obiektywnych, anonimowych sił, od zależności wprost. Prosta zależność od władzy 
+feudalnej jest lepsza, niż zależność od anonimowych sił (na przykład popytu 
+i podaży).
+
+Ta rozbieżność ze zdrowym rozsądkiem może być traktowana jako źródło 
+późniejszego despotyzmu. Komunizm miał być wizją doskonale zjednoczonej 
+ludzkości, w której czas pracy będzie redukowany a czas wolny będzie się 
+powiększał -- to jest najpóźniejsza wizja z końcówki III tomu *Kapitału*. Późny 
+Marks (stary Marks) wraca do bardziej zdroworozsądkowego myślenia: sfera pracy 
+zawsze będzie sferą zależności, natomiast kwestia autentycznej wolności leży 
+poza pracą. Wolność zaczyna się tam, gdzie kończy się praca, która nie jest 
+konieczna. 
+
+Być może mamy do czynienia z dwiema koncepcjami wolności: wolnością *na 
+człowieczą miarę*, która umożliwia nam ekspresję własnej osobowości, którą 
+cieszymy się w czasie wolnym od pracy, kiedy mamy już w co się odziać, co do 
+garnka włożyć, ponieważ w komunizmie mamy sprawiedliwą redystrybucję; z drugiej 
+strony *wolność komunistyczna* będąca panowaniem nad przyrodą -- każdy ma tyle, 
+ile chce. W socjalizmie człowiek dostaje tyle, na ile zapracował. W socjalizmie 
+pracownik dostaje wszystko, co wypracował. W komunizmie robotnik dostaje tyle, 
+ile chce, bez względu na pracę. Oznacza to przede wszystkim zaspokojenie 
+podstawowych potrzeb konsumpcyjnych (jedzenie, ubiór, mieszkanie), opieki 
+medycznej, edukacji. Niekoniecznie dotyczy to towarów luksusowych.
+
+Ludzie pracujący krócej, zarabiający więcej, mogą wolny czas poświęcić na 
+zdobywanie luksusu, zbytku, jeśli chcą. Jednocześnie mocne antropologiczne 
+założenie, że jednostki rozwijają się po to, by wspólnotę wzbogacać. Marks 
+zakłada nieobecność typów bezwzględnie aspołecznych (mogą pojawić się na 
+przykład typy, które będą uważać negację porządku za swój rozwój). Komuniści 
+uważali, że nieprawość, zbrodnie znikną, jeśli stworzymy optymalne warunki 
+rozwoju. Jeśli chodzi o jednostki aspołeczne, to uważano, że ośrodki 
+odosobnienia będą bardziej przypominały sanatoria. Zresztą uważano, że szkoła ma 
+być miejscem wychowania nowego człowieka.
+
+Mamy alienację i komunizm. Materializm historyczny jest jedynie *teoretyczną 
+narracją* na temat społeczeństwa, w którym dominantą jest alienacja. 
+W komunizmie materializm historyczny straci swoją funkcjonalną użyteczność. 
+Stanie się opowieścią o tym, co było i co doprowadziło nas do tego miejsca. Tak, 
+jak w czasie Marksa praca prekursorów etnologii. Komunizm wizją społeczeństwa 
+bezklasowego, gdzie człowiek nie jest niewolnikiem wyobcowanych procesów 
+gospodarczych -- ma władzę nad własnym losem. Materializm historyczny jest 
+teorią antropologiczną mówiącą o człowieku w świecie, który wymyka mu się z rąk. 
+Komunizm radykalnym przezwyciężeniem sytuacji opisywanej przez materializm 
+historyczny. Dlatego Róża Luxemburg opisywała ograniczoność czasową materializmu 
+historycznego. 
+
+Komunizm to marzenie o tym, że ludzie będą panować nad siłami, które sami 
+wytworzyli na swoje własne nieszczęście. On zakłada też panowanie nad przyrodą, 
+ale to dokonuje się na poziomie poprzednim -- kapitalizm zapewnia podstawę, 
+środki techniczne zapewniające produkcję na masową skalę. 
+
+To nie jest obraz lenistwa, konsumpcji -- to jest przede wszystkim wizja 
+człowieka (ludzkości) jako zbiorowej istoty prometejskiej, która uzyskuje swoją 
+podmiotowość. Odcięcie od ograniczeń, które człowiek sam na siebie nakłada. 
+Człowieczeństwo jako akt świadomej, zbiorowej autokreacji. Może urzeczywistnić 
+się ludzka podmiotowość -- ludzka istota gatunkowa. Człowiek jest wolny, o ile 
+panuje nad sobą, światem i przyrodą. W tym sensie Marks uważa, że cena, którą 
+płaci proletariat i ludzkość, jest konieczna i trzeba ją zapłacić. Ofiary są 
+konieczne, ale ma nadzieje, że nie są to ofiary próżne. Marks wie, że dojście na 
+ten etap rozwoju wytwórstwa jest koniecznie związana z ofiarami. Tak, jak 
+antagonizm jest konieczny, aby nastało społeczeństwo bez klas.
+
+Marks jednak chce za wszelką cenę nadać komunizmowi status empiryczny -- stąd 
+skłonność do ujmowania komunizmu jako już realnej siły. Komunizm różni się od 
+dotychczasowych ruchów, że po raz pierwszy traktuje wszystkie żywiołowo powstałe 
+przesłanki jako wytwory ludzkie. Komunizm podstawą wykluczającą wszystko, co 
+istnieje niezależnie od jednostek. Wyzwolenia dokona klasa, w której skupiło się 
+całe zniewolenie, odczłowieczenie -- proletariat. Wydaje się, że dwie cechy 
+predestynują proletariat do takiej roli (niektórzy twierdzili, że Marks jawi się 
+światu jako prorok, który obwieszcza nową apokalipsę, wskazując zbiorowego 
+Mesjasza).
+
+Jednak skoro ta klasa jest tak odczłowieczona, zdegenerowana, to jak może ona 
+być siłą, która zaprowadzi ideał, dokona spełnienia dzieła. Marks powiada, że 
+nie ma ona nic do stracenia, nie ma niczego, co musiałaby skrywać za zasłoną 
+społecznej obłudy. Dodatkowo fakt, że jest to pierwsza klasa o charakterze 
+uniwersalnym. Kapitalizm wytworzył globalnego adwersarza.
+
+Jednak dlaczego proletariat, a nie burżuazja, będąca również wytworem 
+kapitalizmu? Możę jednak burżuazja jest bardziej zintegrowana w wymiarze 
+globalnym. To jest jedno z tych pytań, na które Marks nie chce odpowiedzieć. 
+Klasa robotnicza ma urzeczywistnić nie jakieś ideały, lecz się rozwinąć. 
+Proletariat zniesie na skalę światową gospodarkę rynkową. Zniszczy fetysze 
+ukrywające się za PKB.
+
+Czym jest komunizm zwłaszcza pojmowany jako zniesienie podziały pracy. Rzecz 
+w tym, żę Bohun nie jest przekonany, czy Marks pisał to na poważnie -- czy ta 
+jego wizja może mieć charakter ironiczny skierowany przeciwko naiwnym oponentom. 
+Podział pracy bardzo istotny.
+
+Społeczeństwo komunistyczne -- gdy praca zaczyna być podzielona, to każdy ma 
+krąg działania, z którego nie może się wydostać, jeśli nie chce straciś środków 
+do życia. W komunizmie człowiek może dziś robić to, a potem owo. Czynić to, na 
+co akurat człowiek ma ochotę. Bohun uważa, że błędne jest literalne rozumienie 
+tego fragmentu o społeczeństwo, w którym każdy możę robić co chce. Mimo 
+zniesienia podziału pracy Marks zakłada organizację, sprawdzanie. Chodzi o to, 
+że każdy może stać się tym, kim chciałby być. Nikt nie może być skazany na 
+powtarzanie losu rodziców. Dziecko (dzięki edukacji) robotników może zostać 
+lekarzem. Społeczeństwo każdej jednostce rozwój predyspozycji. (Co z ludźmi, 
+którzy chcą władać, gromadzić własność? Mogą się wykształcać, wykonać pracę, 
+w której będzie to spełniać. Wierzy w to, że człowiek naturalnie chce pracować, 
+nie tylko dla siebie, ale także dla dobra ogółu. Praca dalej będzie w królestwie 
+konieczności. Państwo naturalnie obumrze, poprzez sprawiedliwse organizowanie. 
+Ludzie sami będą się organizować w ramach większych wspólnot. Kiedy przestępstwo 
+przestanie być problemem, zniknie policja, prokutatora. To mają być procesy 
+w skali globalnej -- obumrą społeczeństwoa najpotężniejsze, w końcu dokona się 
+zjednoczenei glonalne.). Druga uwaga:  fakt, że Marks wymienił tylko takie 
+funksje, które związkane są z rolnictwem (rybek, pasterz, myśliwy). Kiedy to 
+przeniesiemy do współczesnej gospodarki, to trudno jest utrzymać się 
+w klasycznej koncepcji podziału czasu pracy. Ze społecznego podziału pracy 
+zostaje to przeniesione na poziom jednostki i przestaje być problemem. Bohun 
+intepretowałby to w stronę banalną -- społeczeństwo równych klas, gdzie każdy 
+może się wykształcić, gdzie nie ma zniewolenia. Czy to jest w ogóle możliwe? Sam 
+Marks miałl wątpliwości. Być może wolność tylko wtefdy, gdy jesteśmy sami.
+
+Kolejny wątek (rozszeżający) wprowazi Engels, który stworzy kolejne 
+przeciwieństwo międyz komunizmem (interpretowany ako fabrykę) a kapitalismem 
+(rynkiem).  Za tym później pójdzie Lenin. O tym za 2 tygodnie.
+
+
+

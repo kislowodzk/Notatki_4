@@ -1,0 +1,25 @@
+## Konspekt tekstu *Losy narodów w dobie globalizacji* Urlicha Schradego
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
