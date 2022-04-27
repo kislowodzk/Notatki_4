@@ -1563,7 +1563,20 @@ o ideologię chodzi, oderwany trochę od jego nazwiska. Nie skojarzony z nim.
 
 ## Wykład 7 -- 25.04.
 
-[pomocy, nie mam początku]
+### Zagadnienie alienacji
+
+Utopia -- ideał komunistyczny
+
+Zniesienie alienacji -- ideał radykalnie wolnościowy, zapanowanie człowieka nad 
+sobą.
+
+Filozoficzna etymologia -- termin z rzymskieg oprawa cywilnego, części handlowej 
+-- przejęte przez teologię -- przejmuje Hegel, stąd młodohegliści.
+
+Wychodzenie podmiotu poza siebie, mowa -- alienacja świadomości, utrata 
+kontroli, stawanie się czymś innym, wyobcowanie.
+
+Wcielenie, stworzenie świata -- boska samoalienacja, utrata wielu atrybutów.
 
 Marks koncepcję samoalienacji Hegla przekłada na bazę materialną. Ale przez to 
 wraca do przedheglowskich skojarzeń. Skojarzeń ze sferą ekonomiczną 
