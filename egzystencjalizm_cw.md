@@ -639,4 +639,100 @@ Teodycea śmierci.
 twierdził, że filozofia Heideggera jest inherentnie nazistowska, że oddzielenie 
 tutaj dzieła od autora nic nie daje.
 
+## Ćwiczenia 9 -- 27.04.
+
+### Jaspers
+
+Jaspers studiował medycynę.
+
+Choroba Jaspersa -- przygotowywał się do śmierci od 18 roku życia. Ostatecznie 
+przeżył 80 lat, ale to widmo na nim ciążyło. Ledwie z żoną przeżył wojnę -- 
+mieli zostać wysłani do obozu, gdyby wojna trwała dwa tygodnie dłużej, to by tam 
+trafił. Trudna relacja z Heideggerem, znali się, ale potem ich drogi się 
+rozeszły między innymi dlatego, że Heidegger nie pomógł mu w czasie wojny, 
+natomiast Jaspers nie odesłał Heideggerowi recenzji *Bycia i czasu*.
+
+Jaspers miał serię wykładów w radiu niemieckim, sugerował, aby wziąć 
+*porządnego* filozofa i przerobić go od deski do deski. Ale nie Nietzschego. 
+Choć na jego temat napisał prace, to uważał go za nudnego.
+
+Filozofem, którego przerobił Jaspers, był Spinoza. Być może z tego koncepcja 
+życia, które jest wszechogarniające, nie da się poza nie wyjść.
+
+### Prezentacja kogoś:
+
+Był psychiatrą, miał krótki epizod studiowania prawa.
+
+Pierwszymi inspiracjami Spinoza i Kant, później Kierkegaard i Nietzsche. Wkład 
+myśli wschodniej.
+
+Nie opierał swojego systemu na Bogu, jednak wniósł wkład w teologię dzięki 
+transcendencji.
+
+Bóg ucieczką człowieka od tego, co materialne.
+
+Co do człowieka -- wyróżnienie roli jednostki, indywidualności. Wolność 
+człowieka mimo to, że jest on wrzucony w świat i po części jest przez świat 
+zdeterminowany (na przykład przez aspekt cielesny). Położenie akcentu, na 
+działanie. *Nie jesteśmy tym, czym myślimy, że jesteśmy, filozofując*.
+
+Człowiek jako jedyny może egzystować (świadomie), inne rzeczy po prostu 
+w świecie *są*.
+
+Wymiar sensu będzie kluczowy. Na każdą sytuacje możemy spojrzeć obiektywnie 
+(naukowo) i subiektywnie. Mamy osoby, które pozornie znajdują się w tej samej 
+sytuacji, jednak widzą w niej inne sensy, ograniczenia. Każda sytuacja istnieje 
+w sposób niedokończony, to my ją kończymy nadająć sensu.
+
+Jesteśmy częściowo zdeterminowani przez warunki zewnętrznie. Mamy jednak możność 
+działania, wyboru, tworzenia samego siebie. Egzystencja ma możliwość kreacji 
+bytu.
+
+Doświadczenie sytuacji granicznych -- one konfrontują jednostkę nie tylko 
+z ideałem życia, ale i z praktyką. Jesteśmy konfrontowani sami ze sobą, musimy 
+określić co czujemy w tej sytuacji. Odwołanie się do Boga jest ucieczką przed 
+naszą niemożliwością poznania w obliczu sytuacji, które nas przerastają, 
+w których wiedza nabyta na podstawie codziennego doświadczenia już nie pomoże.
+
+Łatwo jest się zanurzyć w codziennej rutynie, jednak gdy rozwiązania, które 
+stosujemy na codzień, aby odwrócić wzrok od samego siebie, przestają działać, 
+mamy sytuację graniczną.
+
+Podobne myślenie jak u Kanta, u którego nie jesteśmy wolni, ponieważ mamy jakieś 
+prawa, które sami sobie narzucamy.
+
+W sytuacjach trudnych możemy albo odwrócić wzrok, albo nie.
+
+Śmierć jest możliwością braku możliwości. Ten niebyt jest kwintesencją śmierci. 
+Jeśli boimy się śmierci jako piekła, to myślimy w takich kategoriach, w których 
+byt nie kończy się na śmierci -- mamy ciągłość. Musimy wybrać możliwość 
+niemożliwości. Autentyczni jesteśmy wtedy, kiedy nie próbujemy tego *zagadać*
+
+(Tutaj Skibowski poleca *Śmierć Iwana Illicza*, jako przykład, który pomoże 
+zrozumieć *trwogę*).
+
+To, jak podejdziemy do śmierci, rzutuje na to, jak będziemy myśleć o życiu. 
+Samobójstwo jest bewnym wyborem, przez który poddaję się lękowi -- nie jestem 
+*ja sam*, nie jestem sobą, uciekam przed możliwościami, na przykład przed 
+możliwością braku relacji miłosmych, straty pozycji społecznej.
+
+Sytuacje graniczne sytuacjami, które odsłaniają prawdę o świecie, ale też 
+o sobie samym. Sprawdzenie, czy moje wyobrażenie o sobie zgadza się z tym, kim 
+faktycznie okazuję się byc.
+
+Każdy człowiek jest w sytuacji, że komuś coś zabiera a komuś coś daje.
+
+Mamy sytuacje graniczne narzucone (śmierć, cierpienie) oraz walki, które sami 
+wybieramy.
+
+Kwestia winy ważna po wojny -- on był jednym z tych myślicieli, którzy rozważali 
+winę Niemiec. Uważał, że wszyscy Niemcy byli winni, bo albo nic nie robili, 
+a jeśli coś robili, to im się nie udawało. Cały świat, który nie reagował, jest 
+winny.
+
+Sartre -- determinuje nas coś, co jest przyjemnością (jesteśmy przez to 
+ograniczeni), co nie istnieje (jakiś ideał, przez co też jesteśmy ograniczeni). 
+Jeśli chcemy być autentycznie wolni, nawet nasze cele teleologiczne nie mogą nas 
+ograniczać. Sartre będzie mówił, że wszystko, nawet to, co jest naszą 
+nieświadomością, jest naszym wyborem.
 
