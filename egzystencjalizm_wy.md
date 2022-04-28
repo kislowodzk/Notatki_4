@@ -2634,6 +2634,77 @@ poszczególnych przedmiotów (z których narzędzia są czymś najistotniejszym)
 tego, co jest związkiem tego całego sensu świata -- do jednostki, do *Dasein*, 
 do tego, co ma realizować swoje autentyczne możliwości.
 
+## Wykład 8 -- 26.04.
 
+### Heidegger
 
+Heideggera przerobiliśmy dość schematycznie -- odwołując się do egzystencjałów. 
+Heidegger rozróżnia dwa typy badań -- ontyczne, dotyczące rzeczywistości danej, 
+rzeczywistej, rzeczowej. Heidegger odchodzi od głównego założenia Husserla 
+uznając, że wynawiasowanie, które chce badać jedynie martwe, pozaczasowe istoty, 
+jest badaniem wręcz szkodliwym, niewnoszącym wiele do tego, czego oczekiwałby 
+człowiek od badań filozoficznych, od swoiście przez Heideggera pojętej 
+hermeneutyki -- wyjaśnienia tego, co człowiek nie jest w stanie bezpośrednio 
+uchwycić, a jest w środku procesu bycia tym, co jest *najbliższe i najdalsze*.
+
+Ważne rozróżnienie, którego dokonuje Heidegger -- pomiędzy byciem a bytami. 
+Z bytami jesteśmy zaznajomieni od Platona, przez całą tradycję filozofii -- 
+wpłynęło to w znaczący i negatywny sposób na to, że pominęliśmy podstawową 
+kwestię bycia.
+
+Husserl -- jeśli się wchodzi w świadomość, to z tej świadomości trzeba wyjść 
+przez akty intencjonalne (percepcje, wyobrażenie, myśl, emocje, ...).
+
+Heidegger był uczniem niewiernym, który *udawał* przywiązanie do mistrza, ale 
+w rzeczywistości jest personalną i instytucjonalną historią transgresji (w 
+psychologii i filozofii, przekraczanie granic biologii, osobowości, granic 
+społecznych oraz norm społecznych, zwłaszcza moralnych -- wiki) w stosunku do 
+fenomenologii husserlowskiej. Ta transgresja polega na tym, że deklaruje on 
+wprost, że jeśli fenomenologia ma mieć uzasadnienie, to musi być ontologią -- 
+musi więc postawić pytanie o racje (nie w sensie Leibnizowskiej *racji 
+dostatecznej*), tą racją jest intuicja, obraz czegoś, co ledwo przybiera tę 
+nazwę, jak w teolgoii apofatycznej (negatywnej), można zwracać się do tego 
+czegoś jako do *bycia*. Nie jest to coś transcendentnego, absolutnego. Jest 
+*byciem* danego bytu. To bycie danego bytu jest sprzężeniem, synergią, który 
+odsyła jeden element do drugiego, a drugi do pierwszego. Bez żadnych decyzji co 
+do ważności stopnia tego czegoś.
+
+To jest intuicja pierwotna, dotyczy czegoś ważnego -- póżniej zastąpiono to 
+czymś, co jest *będące*. Dokonano zapomnienia zasadniczej różnicy między byciem 
+i bytami. Mówiono o byciu, ale poruszano się w domenie bytów.
+
+Egzystencjalizm, który wbrew obawom Heideggera dotyczy człowieka, rozwija się 
+poprzez pytanie fundamentalne o *jest*. *Jest* jest bliskie i zarazem dalekie. 
+Ono właściwie nie jest, bo jest jedynie to będące. Bycie wymyka się definicji -- 
+nie może być w żaden sposób definiowane, nie ma tożsamości uchwytywanej, gdyby 
+było, to doszłoby do paraliżu intuicji. To bycie jest byciem niesamodzielnym -- 
+wymaga odniesienie do specyficznego elementu, który posiada przywilej będący 
+bytem, przedmiotem badania antropologii, uchwytnym przez naukę (to powie 
+Jaspers). Ten drugi wskaźnik, druga charakterystyka to jest *ontologiczne*, to 
+co nakierowane na zrozumienie swojego bycia -- sposób i możliwość zrozumienia 
+swojego bycia przez skierowanie się na swoje własne bycie.
+
+Jeśli chcemy uchwycić bycie danego bytu, to należy rozpocząć od takiego obiektu, 
+który posiada możliwość uświadomienia sobie własnej pozycji, kondycji. Tą 
+kondycją bytu, *Dasein*, egzemplifikowanego przez każdego z nas (człowieka jako 
+nie przedmiotu badań, lecz człowieka który koncentruje się na próbie zrozumienia 
+bycia przez uchwycenia własnego bycia) -- to jest struktura *egzystencji*, 
+wrzucenia, skazania na bycie w danej rzeczywistości. Jest to *wrzucenie 
+w świat*, które jest faktem przypadkowym, który nie może mieć żadnego 
+uzasadnienia.
+
+To jest to, co Heidegger rozwija w odniesieniu do Dasein w odróżnieniu od 
+kategorii, które służą innym faktom poznawczym, nauce. Nazywa je (te, które 
+rozwija) *egzystencjaliami* jako tymi, które obejmują ten typ *bycia w świecie*, 
+ponieważ bycie w świecie jest podstawowym wyznacznikiem, jakie charakteryzuje 
+Dasein.
+
+To bycie w świecie jest przede wszystkim **struktury możliwościowej** -- 
+człowiek nie jest tożsamy z rzeczami, które są tym, czym są. Istota człowieka 
+leży w jego egzystencji. Z tego każdy egzystencjalizm XX wieku zrobi własny 
+kawał antropologii. Zasługa przynależy, jako inicjatorowi, samemu Heideggerowi. 
+Sama egzystencja tym, co stanowi o wybieranej, konstytuowanej, konstruowanej 
+istocie człowieka.
+
+12:10
 
