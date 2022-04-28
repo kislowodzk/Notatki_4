@@ -844,41 +844,216 @@ i współistotności nie ma. Tak jak między słońcem i jego promieniem.
 
 ## Wykład 6 -- 22.04.
 
+Dzisiaj temat gorąco dyskutowany na początku historii antytrynitaryzmu, ale 
+będziemy go obserwować po zakończeniu tej historii. Pod koniec XVII wieku 
+dyskutowano o ontologii i epistemologii po teorii zbudowanej przez Leibniza.
 
+Próba uchwycenia dyskusji, która kiedy w XVII wieku filozofia ma wielu 
+filozofów, na których dorobku może się opierać. Warto zauważyć problem, który 
+się otwiera w dyskusji XVI wieku, ponieważ to napędza filozofię wieku XVII.
 
+Chodzi o **Chrystologię**
 
+### Chrystologia
 
+Franciszek Stancar, który rozpętał namiętną dyskusję w Rzeczpospolitej, krajach 
+niemieckojęzycznych. To są te ciosy, które spowodują pęknięcie w obozie 
+kalwinistów i wytworzenie szkoły antytrynitarskiej. 
 
+#### Wstępne uwagi:
 
+- Pamiętamy decyzję Frycza Modrzewskiego, aby w interpretacji tekstów biblijnych 
+wstrzymywać się od zróżnicowań filozoficznych we wspólnej terminologii, która 
+łączy pojęcia z trzech obszarów:
+    - tekstu samej Biblii
+    - filozofia, które odpowiada za terminologię ontologiczną
+    - teologia, która odnosi się do biblii i nie wyczuwa różnicy między teologią 
+    a dyskursem biblijny; teraz sięga jeszcze po instrumenty filozoficzne 
+    roszcząc sobie prawo do wyższości nad filozofią
+- Frycz chce oddzielenia tych trzech sfer -- tam, gdzie dyskusja wychodzi od 
+Biblii, to należy odstąpić od języka filozoficznego, ponieważ w Biblii nie jest 
+on używany
+- W tle tej całej dyskusji mamy też konkurujące paradygmaty ontologiczne. XVI 
+wiek czerpie z dorobku średniowiecza. Renesans nie oznacza zerwania z nim. 
+Renesans oznacza odejście od autorytetów i odkrywanie na nowo dorobku 
+średniowiecznego. Odkrywa się go głównie w dwóch kierunkach:
+    - kierunek tomistyczny
+    - schemat Szkota -- bycie, które jest przedstawione jako ogarniające 
+    przeciwności (na przykład między przemijającym i wiecznym, niedoskonałym 
+    i doskonałym) dopiero połączenie obu połówek pozwala nam myśleć o byciu jako 
+    pewnej całości
+- Listy Stanisława Orzechowskiego pokazujące nowy kierunek w filozofii -- miał 
+połączyć na nowo filozofię z Tomaszem, co ważne, odejście od łaciny
 
+#### Spór Stancara
 
+Spór o trzech Osobach boskich -- jak opisać ich jedność. Chrystus musi znaleźć 
+swoje miejsce -- dyskusja zaczyna się się od *subordycjanizmu* 
+(podporządkowanie) -- w ramach Trójcy mamy ważniejsze i mniej ważne osoby. 
+Rozwój ontologii w późniejszym czasie, który ma swoje korzenie u Szkota -- żeby 
+nie rozbić jedności Trójcy można w pewnych granicach pojmować osoby nie jako 
+osobne substancje, osoby, byty; lecz jako aspekty, sposoby funkcjonowania, 
+modusy oddziaływania. Relacyjne aspekty -- to jest *modalizm*, on staje się 
+w pewnym momencie dość popularny. Modalizm nawet dzisiaj odgrywa pewną rolę. Tym 
+zasłużyli się antytrynitarze, że wymusili filozoficzne opracowanie myślenia 
+modalistycznego, które były obecne w myśli średniowiecznej.
 
+Sami antytrynitarze wywierali nacisk przez to, że kiedy odkryli te metody 
+modalistyczne, to przeszli na twarde pozycje porzucające trynitologię. Zaczęli 
+mówić o dwóch bogach, następnie pojawia się tryteizm, czyli przywrócenie Ducha 
+Świętego jako Boga, czyli mamy do czynienia z trzeba odrębnymi bogami. Od Socyna 
+faza unitaryzmu -- tylko Bóg Ojciec jest Bogiem, Jezus człowiekiem z pewnymi 
+metaforycznymi cechami boskimi, Duch Św. bez statusu boskiego.
 
+Chrystologia może być traktowana jako część Trynitologii. Jednak trynitologia 
+nie zajmuje się wewnętrzną kondycją każdej z tych osób -- na dalszym planie 
+pytanie o to, kim właściwie jest ta Osoba -- to nie jest punkt ciężkości 
+trynitologii, jednak w odniesieniu do Chrystusa takie rozważania muszą się 
+pojawić. Jest to człowiek urodzony i żyjący na tej ziemi, nie posiadający tak po 
+prostu wiecznego żywota, ponieważ został zabity. W centrum następujące pytanie: 
+Jeśli jest człowiekiem, to czy może być również Bogiem -- czy to się nie 
+wyklucza? Możemy wykluczyć któryś aspekt, na przykład aspekt ludzki i kłaść 
+nacisk na wymiar boski (Stancaro), można w drugą stronę (późniejsi 
+antytrynitarze, którzy redukują element boskości).
 
+Mamy postać, która ma być i człowiekiem i Bogiem. Kiedy mamy dyskurs, który ma 
+to uporządkować, to pojawia się problem.
 
+Jak w ogóle możemy rozumieć to, że człowiek-Bóg jest w jednej osobie? Gdzie 
+sięgnąć, po jakie formuły argumenty, obrazy? Pomysły uczestników wykładu.
 
+- przykład gąbki i wody -- gąbka nasączona służy do czego innego, niż gąbka 
+sucha -- jest tu nowa jakość
+- człowiek-Bóg to symbol -- to jest podobne do stanowiska antytrynitarzy, to 
+jest pewna opowieść, pewien symbol
 
+Jakie pojęcia filozoficzne mają z tym jakiś związek?
 
+- problem uniwersaliów -- ani za pomocą instrumentów średniowiecznych, ani 
+renesansowych (literackich, hermeneutycznych, filologicznych) nie da się tego 
+problemu rozwiązać; pojęcie Boga jako *universale*, pokusa, by traktować pojęcie 
+*Boga* podobnie, jak traktujemy pojęcie człowieka, konia, domu -- jako 
+określenie pewnej *klasy bytów*; to prowadzi do paradoksu: Bóg jest jeden, ale 
+jeśli to ma być powszechnik, to zakładamy jakąś wielość
+- transcendencja
+- Pierwszy Poruszyciel
+- jedność i wielość -- czym jest jedność, czym jest wielość, czy każda wielość 
+jest taka sama, czy każda wielość oznacza, że nie ma jedności, czy mamy takie 
+formy wielości, które nie kwestionują jedności, czy mamy takie jedności, które 
+wskutek pojawienia się wielości ulegają rozwiązaniu i inne, które nie ulegają
 
+#### Koncepcja Stancara
 
+Stanacr stawia problem na pewnej płaszczyźnie, na której to będzie dyskutowane 
+przez następne 100-150 lat.
 
+Francesco Stancaro urodzony na początku XVI wieku w północnych Włoszech. Ma 
+barwną biografię. Kilka miejsc, w których przebywał. W wieku 30-stu lat 
+opublikował gramatykę hebrajską -- język hebrajski daje nowe dojście do Starego 
+Testamentu -- to nie pozostaje bez skutków dla ontologii. Do tego czasu przekład 
+grecki, ale głównie vulgata.
 
+Powiązał się z reformacją. Aresztowany przez Wenecję. Pobyt w Szwajcarii -- tu 
+panuje tolerancja. W Wiedniu otrzymał profesurę w zakresie hebrajszczyzny, 
+jednak z Wiednia musiał wyjechać, ponieważ miasto było katolickie, a tam 
+zorientowano się, że Stancaro ma pewne pomysły teologiczne. Następnie Niemcy -- 
+rozmowy międzywyznaniowe.
 
+Podróż na wschód -- najpierw Siedmiogród, później Kraków, gdzie otrzymał 
+profesurę w zakresie języka hebrajskiego i studiów nad Starym Testamentem. Tu 
+trafił do aresztu, ponieważ czołowy przedstawiciel reformacji katolickiej 
+zorientował się co do jego pomysłów. Potem Pińczów. Wyjeżdża z Polski 
+i przyjmuje profesurę w Królewcu -- tam dochodzi do sporu związanego z pewnym 
+profesorem, który to spór dotyczy tryteizmu i tendencji subordynacjonistycznej. 
+Dalsza podróż do Siedmiogrodu, później znowu do Polski -- tu jako stary człowiek 
+spędził ostatnie 10 lat życia.
 
+Bardzo dużo pisał o Starym Testamencie, fascynował się kwestią Mesjasza w Nowym 
+i Starym Testamencie -- pytanie o tożsamość -- czy mamy do czynienia z jednym, 
+czy z dwoma Mesjaszami. Jego odpowiedź -- jest jeden Mesjasz 
+starotestamentowo-nowotestamentowy pod względem działalności w niebie, natomiast 
+na ziemi jest różność -- jeden w Starym, jeden w Nowym.
 
+Praca chrystologiczna -- najważniejszy druk ukazuje się w Krakowie. *O Trójcy 
+i pośredniku naszym -- Jezusie Chrystusie -- przeciwko Bulingerowi* -- czołowemu 
+teologowi kalwińskiemu.
 
+Argumenty Stancara
 
+![](./slajdy_polska/48.png)
 
+To jest końcówka pracy. Dzieło pełne bezpośrednich ataków na Kalwina.
 
+To jest wynik tej dyskusji.
 
+![](./slajdy_polska/49.png)
 
+Fragment z pierwszej części analizy -- uznanie podwójnej natury Chrystusa 
+i wyciągnięcie z tego konsekwencji.
 
+Chrystus ma dwie wole -- jedną boską i drugą ludzką. Tak samo posiada dwie 
+naturalne operacje -- sposoby działania. Inaczej działa jako Bóg, inaczej jako 
+człowiek, ale to wszystko w Jezusie.
 
+![](./slajdy_polska/50.png)
 
+Przejście do trynitologii -- jeśli jest jakaś boska natura w Chrystusie, to musi 
+ona być (w odróżnieniu od ludzkiej) wspólna Jemu i Ojcu. Jeśli tę naturę możemy 
+nazwać substancją/istotą, to możemy mówić o współistotności. Dość klasyczne 
+stanowisko w trynitologii.
 
+Natura ludzka się pojawia z Nim na ziemi i znika, gdy on umiera. Ma ludzką 
+naturę, którą przyjął nie od Boga, tylko od ludzi.
 
+Modalistyczna wersja trynitologii, lecz motyw dwóch natur w Chrystusie 
+zrewolucjonizowany do końca -- przełożony na psychologię (wola jako instancja 
+duszy -- wola musi być podwójna, zgodnie z dwoma naturami), różne sposoby 
+działania. Sam Stancaro nie rozwija do końca tej myśli. Wnioski będą wyciągać 
+autorzy zgromadzeni wokół Socyna (pojawi się konsekwencja, iż Jezus był 
+człowiekiem w szczególnej relacji z Bogiem i to tyle).
 
+![](./slajdy_polska/51.png)
 
+Arystoteles -- tekst, który już przez kilkaset lat uchodzi za podstawę 
+wykształcenia uniwersyteckiego: *Kategorie*, komentarz Boecjusza. Tekst, który 
+rozpoczyna drogę do fizyki i metafizykik od kategorii językowych.
+
+1. Stosunek -- pewna wzajemność, relacja. To, co jest podwójne nie jest połową.
+2. Przeciwieństwo -- w nim wyraża się mocniejsza tendencja, nie stosunek 
+matematyczny czy pojęciowy, ale tendencja, by jedno i drugie ujmować jako 
+samodzielne zasady, które działają. Zło i dobro przeciwne sobie -- nie wystarcza 
+powiedzieć, ze zło to tylko brak dobra, to jest w punkcie 3.
+3. Brak i posiadanie -- ślepota opisana po prostu jako brak wzroku.
+4. Twierdzenie i przeczenie -- siedzi, nie siedzi -- mówimy o jednym i tym samym 
+bycie w jednym i tym samym czasie. Jeśli mówimy o tym samym pod tym samym 
+względem, to nie możemy mówić o tym samym, pod tym samym względem, że nie.
+
+W 4 widzimy pewną tendencję, by od słabszych form przeciwstawiania się 
+przechodzić do coraz mocniejszych. Mamy tendencję do wykluczenia drugiego, gdy 
+zachodzi pierwsze.
+
+Ad 1. Muszą być obecne obydwa elementy. W 4-ce tak nie jest -- tu albo siedzi, 
+albo nie siedzi. Albo zapłacił, albo nie. Mówiąc najprościej albo jest, albo nie 
+jest.
+
+U Boecjusza przeciwstawianie to opozycja.
+
+![](./slajdy_polska/52.png)
+
+Zwróćmy uwagę na sformułowania Stancara. W tych wyrazach posługuje się on 
+terminologią nie boecjuszowską, szuka w innych miejscach.
+
+Najważniejszy wyraz *rozdzielone*. Jakie następstwo tezy, że mamy dwie natury? 
+Jeśli mamy dwie istoty, to musimy też mówić, że mamy do czynienia z dwoma 
+osobami, z dwoma subsystencjami, z dwiema rzeczami, jedno i drugie nie może się 
+znajdować w obrębie jednej osoby, jest to wykluczone -- to jest stanowisko 
+antytrynitarzy. Stancar nie przyjmuje takiego stanowiska, ale przyjmuje 
+terminologię, która pozwala takie stanowisko sformułować podkreślając, że to, co 
+jest oddzielone, rozdzielone, nie może być obecne w jednym jako natura. To jest 
+punkt dojścia całej tej historii. Dokładnie o to rozpęta się dyskusja w XVII 
+wieku -- czy to, co rozdzielone, jest również sprzeczne. I gdzie możemy określić 
+stopień przeciwstawności między naturą boską a naturą ludzką w terminologii 
+Arystotelesa. Nie ma jeszcze niezależności filozofii od religii.
 
 
 
