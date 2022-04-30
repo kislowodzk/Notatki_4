@@ -2706,5 +2706,101 @@ kawał antropologii. Zasługa przynależy, jako inicjatorowi, samemu Heideggerow
 Sama egzystencja tym, co stanowi o wybieranej, konstytuowanej, konstruowanej 
 istocie człowieka.
 
-12:10
+Człowiek może to różnie potraktować: zrezygnować ze struktury, która go 
+charakteryzuje -- on ma być, ma tak prowadzić swoją egzystencję, by była ona 
+czymś jego własnym. Muszę dokonywać takich wyborów, które na samym końcu 
+ukonstytuują mnie jako istotę, która wyrosła z egzystencji, która przeszła przez 
+różne horyzonty: od poznania po bycie wobec czegoś.
+
+Heidegger odrzucił ontologię bytu ludzkiego. Heidegger jest już po 
+transformacji. Zwrot Heideggera nie tylko jeśli chodzi o ontologię, ale też jako 
+człowieka. Ta historyczność, dzianie się człowieka w świecie zostaje obdarzone 
+sensem, który spłynął i został udzielony pewnemu narodowi -- narodowi 
+niemieckiemu.
+
+Analiza nad istotowością człowieka: dawniej myślałem, że wystarczy uświadomienie 
+sobie (staniu w obliczu) prześwitu, teraz muszę zmienić perspektywę, odwrócić to 
+zadanie, tę perspektywę. Trzeba zacząć nie od *Dasein* w świecie, *Dasein* 
+egzystującego w świecie, ale wyjść od tego, co ten świat czyni w ogóle możliwym. 
+Wyjaśnia go, daje mu poszczególne sensy, które są wypierana, przechodzą 
+z horyzontu na horyzont i muszą o *Dasein* mówić już w kontekście pewnej relacji 
+*bycia* -- odwraca ten związek i mówi, że to *bycie* nakazuje (każe wsłuchiwać 
+się w głos tego bycia). Wtedy dopiero ta istotowość człowieka może nabierać 
+jakiegoś sensu, ale musi być ten kontakt -- człowiek musi skromnie pełnić pewne 
+zadania, które Heidegger nazywa *zadaniami pasterzowania bycia*. To nie jest 
+idealizm, to nie jest filozofia pozytywna, która twierdzi, że wszystko może 
+zrobić. Heidegger jest tutaj filozofem pewnego milczenia i skromności. Trzeba 
+poddać się pewnej dziejowości bycia, otworzyć się na nią. 
+
+Otworzyć się, to zmienić podejście poznawcze, epistemologiczne. Wszystkie 
+ontologie skorelowane z naukami pozytywnymi, nie jest to jednak to *Dasein*, 
+które nawiązuje kontakt z byciem, a bycie z nim. Inne drogi dostępu do niego -- 
+na przykład nastrojenia, wtonowanie się w świat. Uczenie się tego świata na 
+zupełnie innej zasadzie, niż przez grę pojęciową, układ sądów.
+
+To, co człowieka może jeszcze w tym świecie czekać, albo inaczej: co człowiek 
+może *zadać* temu światu, jak może go zorganizować. Może to zrobić na wiele 
+sposobów -- dwa są zawsze otwartą możliwością. Jedna jest **możliwością 
+upadania** -- ona jest wpisana w los człowieka, w udział w historyczności, 
+dziejowości. To jest ta koncepcja opisana poprzez kategorie możliwości bycia 
+nieautentycznym, przyjęcia modi *das Mann* -- bezosobowe modi, które 
+przyjmujemy, gdy człowiek nie chce/boi się/jest głuchy na głos sumienia 
+przychodzący z nikąd -- przyjmuje sposób istnienia na wzór istnienia innych, to 
+jest to *się*, to co robią inni, żeby się nie wyłamywać. Heidegger sięga do 
+etymologii -- ona zatrzymała pewną głębię.
+
+Heidegger nie opisując tego z poziomu moralnej reprymendy, nie oburza się, 
+konstatuje fakt, że możliwość upadania w to modi bezosobiste, modi masowego 
+bytowania, jest wpisane w kondycję bytu ludzkiego -- jest wpisane w możliwości.
+
+Druga możliwość: *Eigentlich*, **to, co ma być mną**, stwarzanie sytuacji 
+w której stawiam czoło, dokonuję odważnego wyboru wobec tego, co charakteryzuje 
+moją egzystencję. **Skończoność bytu ludzkiego** -- wzięcie się znikąd i bycie 
+ku temu, co nazywa **Sein tum Tode**, zmierzanie do ostatecznej możliwości, 
+która kładzie kres wszelkim możliwościom -- do śmierci. Człowiek robi wszystko, 
+żeby to spotkanie oddalić od siebie, dla Heideggera ta chwila jest miarą bycia 
+tym, czego bycie może oczekiwać od człowieka.
+
+To wszystko odbywa się w czasie -- te opisy dotyczą kondycji konkretnego bytu. 
+To wszystko odbywa się w pewnym świecie, w pewnej rzeczywistości. Ta 
+rzeczywistość jest czymś niedomkniętym, będzie domykana przez nieodwołalność 
+Dasein. Dasein musi odnieść się do bytów *przed*. My jesteśmy służebni, 
+przyjmujemy tę służebność, musimy się orientować w tym, co pozwala się nam 
+rozwijać. **Pragmatyczna koncepcja wiedzy**. Heidegger nie lubi teorii.
+
+Zespół tych uzależnień, odniesień, tej struktury służebności i odnoszenia się 
+zarazem do naczelnego punktu rzeczywistości jakim jest Dasein i inne Dasein. To 
+zezwala nam te świat traktować w kategoriach daności. Przez przed-rozumienie, 
+intuicję, nastawienie, nastrojenie (co otwiera nas na przerażającą nicość 
+i dopadającą nas nudę i znużenie), a nie przez pojęcia.
+
+Dasein dążące do praktycznego uobecnienia siebie w pewnej rzeczywistości, do 
+osiągania pewnych rezultatów, które służą jemu jak i światu, który ustanawia, 
+buduje, który to świat ma podkreślić możliwościową strukturę Dasein 
+w odróżnieniu od bytów, które posiadają pewną już ustaloną istotę, która jednak 
+niewiele o nich mówi -- one dopiero wtedy nabierają znaczenia, gdy znajdują się 
+w horyzoncie działań jednostek -- działań Dasein
+
+
+29:00
+
+
+
+
+
+### Jaspers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
