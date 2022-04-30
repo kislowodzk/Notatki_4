@@ -2844,11 +2844,10 @@ W tym musi się gdzieś mieścić jednostka, która jest skończona, która jest
 możliwościowa, musi je realizować. Gdy od nich ucieka, jest narażona na 
 *bezosobisty byt*, staczanie się (i stoczenie się) ku temu, co jest tylko *się*, 
 strukturą przewidywalną, która charakteryzuje podmioty, które tak naprawdę 
-podmiotami nie są. (Choć Heidegger nie ma tutaj jakichś kategorii 
+podmiotami nie są. (Choć Heidegger nie ma tutaj jakiejś kategorii 
 antropologicznej).
 
 ### Jaspers
-
 
 39:25
 
