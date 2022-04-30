@@ -949,6 +949,62 @@ Co z tym stosunkiem utopii do nauki? Utopizm jest częścią ideału społeczneg
 i tą częścią powinien pozostać, ponieważ ma praktyczne znaczenie. Stanowisko, 
 któe ma porywać, skłaniać do działania na rzecz pewnego celu.
 
+## Ćwiczenia 9 -- 27.04.
 
+(Notatki Doroty)
 
+### Brzozowski
+
+Pojęcie praktyki, działania
+
+Krytyk literacki
+
+#### Materializm dziejowy jako filozofia kultury
+
+- Odrzucenie pewnej formy marksizmu -- zewnętrznego podejścia, nie wyłącznie 
+narzędzie opisu
+- Marksizm jako forma badania krytyki dziejowej, samowiedza twórczości, ??? 
+w istotę, integralna część procesów dziejowych
+
+Materializm dziejowy metodą pracy -- *filosofia della praxix*
+
+- Znaczenie społeczne, kulturowe
+- **Praca** bytowym podłożem
+- Zabicie upiora (Spuk), przezwyciężenie magii
+
+Problem Hegla: *Sein-Denken*, obiektywny proces przyrody, rozwój i dialektyka 
+kosmiczna
+
+Człowiek sam stwarzający swój byt, myślenie o rzeczywistości którą tworzymy
+
+Krytyka Engelsa -- ewolucjonista, Marks -- epigenetyk
+
+Wartość przedmiotowa świata idei -- ludzkość pracująca
+
+Pojęcie dojrzałości -- ludzkość gotowa wziąć los w swoje ręce, sama sprawczynią 
+swoich nieszczęść, problemy wynikają z dziejów ludzkości
+
+#### Epigenetyczna teoria historii
+
+Historia -- nie jest obiektywna, jest wyrazem twórczości historyka; wytworem 
+sztucznym i celowym
+
+Fakt -- interpretacja
+
+*Tak było*:
+
+- Ogólnie wartościowy punkt widzenia historii?
+    - krytyka wcielenia historii do przyrody
+- Historia jako idea -- *doświadczenie pomyślane jako nasze dzieło*
+
+Prawo -- podstawowe wartościowe stanowisko wobec wszechświata
+
+Punkt widzenia **pracy**
+
+Przeszłość staje się częścią realnej teraźniejszości
+
+Świadomy pracownik
+
+Prometeistyczna świadomość odpowiedzialności i walki -- sprawą ludzkości jest 
+samowychowanie i samowyzwolenie
 
