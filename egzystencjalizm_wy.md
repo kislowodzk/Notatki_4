@@ -2781,15 +2781,76 @@ w odróżnieniu od bytów, które posiadają pewną już ustaloną istotę, któ
 niewiele o nich mówi -- one dopiero wtedy nabierają znaczenia, gdy znajdują się 
 w horyzoncie działań jednostek -- działań Dasein
 
+Kwestia przygodności świata, kwestia Boga. Heideggerowskie milczenie o Bogu -- 
+*Sein* nie może być utożsamiane z żadnym Absolutem. Heidegger nie wypowiadał się 
+o Bogu, który byłby określony przez zespoły wierzeń. Jednak późnemu Heideggerowi 
+można przypisać pewnego rodzaju świętość/boskość -- szczególnie w estetyce, 
+tworzenia dzieła sztuki, szczególnie poetyckiego, które pozwala nam na obcowanie 
+z tym, co jest niebezpośrednio dane, znajduje się poza horyzontem. Heidegger 
+filozofem skończonych horyzontów.
 
-29:00
+Kwestia interpretacji tego, co utożsamia się z egzystencjalizmem. Heidegger 
+pierwszym myślicielem tak ostro wypowiadającym się przeciwko ujmowaniu Boga 
+w kategoriach egzystencjalizmu. *List o humanizmie* -- egzystencjalizm Sartre'a 
+czy Camusa jest tą samą metafizyką obecności, która jedynie dokonała 
+kontrapozycji -- najpierw egzystencja, później istota, jednak dalej jest to ta 
+metafizyka, którą Heidegger chciał przekroczyć.
 
+Nie możemy się do niczego nigdy odwołać, poza sytuacją, w której się znajdujemy.
 
+Ten schemat musi te elementy uwzględnić:
 
-
+- odejście od założeń filozofii Husserla, metody uprawiania filozofii jako 
+wiedzy ścisłej
+- odrzucenie redukcji Husserla, szczególnie, jeśli chodzi o neutralizację 
+istnienia -- Heidegger uważa, że nie da się tego zrobić, nie można filozofii 
+traktować jako badania czasowych eidos, koncentrować się tak, jak chciał 
+Husserl, nad pewną konfiguracją ułożonej w pewne struktury eidos, czyli istoty
+- musimy zrezygnować z redukcji bytu ludzkiego tylko do aparatu 
+świadomościowego, do tej matrycy, która dysponuje zespołem intencji, choć sam 
+w sobie fakt bycia człowiekiem, *Dasein*, jest intencjonalny, bo on nie jest 
+zamknięty w swojej solipsystycznej strukturze, on musi być w świecie, on jest 
+w ten świat wrzucony, on z tego świata nie może wyjść jakimkolwiek aktem 
+redukcji czy epoche, wynawiasowanie -- tego się nie da zrobić, Husserl popełnia 
+ten błąd
+- strukturą człowieka nie jest struktura *ego*, szczególnie *ego 
+transcendentalnego*, które jest poza czasem i przestrzenią, właśnie *Dasein*, 
+czyli bycie w świecie jest historyczne, jest byciem określonym przez dane 
+miejsce, czas, daną sytuacyjność
+- w odróżnieniu od Husserla Heidegger powie o przede wszystkim możliwościowym 
+charakterze egzystencji człowieczej, ale ta możliwościowa struktura bytowania 
+w świecie jest potraktowana przez niego jako przede wszystkim wyznacznik 
+autentyczności, a tym wyznacznikiem autentyczności jest ta jedna, jedyna -- moja 
+-- możliwość (nie -- konstytuowania świata, ale) zejścia ze świata w sposób 
+pełny (człowiek nigdy nie jest dokończony) -- to jest właśnie konfrontacja 
+z tym, co Heidegger nazywa ostateczną możliwością, czyli śmiercią
+- problem poznania -- zupełnie inaczej przedstawiony. Nieuznawane do przyjścia 
+Heideggera dojścia do rzeczywistości, poznania, które jest ateoretyczne. 
+*Wgląd*, *intuicja*, *tonowaniem się* w świat, który traktowany jest jako 
+wspólna domena działań różnych *Dasein*. Świat przyrodniczy nie jest istotny -- 
+będzie on należał do nauk, które mają roszczenia (zupełnie głupie) w stosunku do 
+filozofii -- chcą ją ograniczać. Ten motyw się pojawi przy Jaspersie -- inaczej 
+się traktuje procesy poznawcze, one mają w sobie coś z wiedzy *jak*, czyli ten 
+hydraulik, monter, stolarz posiada tę wiedzę w czynie -- potrafi ją przekuć na 
+konkretny efekt, na konkretny przedmiot. Ten przedmiot interesuje Heideggera. Ta 
+rzecz, która nie jest tylko wobec, nie jest tylko mi poręczna, ale ona przede 
+wszystkim służy temu, że świat zaczyna odnosić się do mnie, a ja do świata. 
+Wielki system powiązań fascynuje Heideggera -- to są te *odsyłania*, tak jak 
+pewien okres dziejowy odsyła do drugiego, jeden horyzont poznawczy zamyka się, 
+by otworzyć inny. To jest wszystko działanie *bycia*, które nie jest 
+wytłumaczalne, bo bycie się wymyka. Jednak nie może się wymknąć, bo ono jest. 
+Ono jest poza pytaniem, ale jest warunkiem i racją wszelkich możliwych pytań. 
+W tym musi się gdzieś mieścić jednostka, która jest skończona, która jest 
+możliwościowa, musi je realizować. Gdy od nich ucieka, jest narażona na 
+*bezosobisty byt*, staczanie się (i stoczenie się) ku temu, co jest tylko *się*, 
+strukturą przewidywalną, która charakteryzuje podmioty, które tak naprawdę 
+podmiotami nie są. (Choć Heidegger nie ma tutaj jakichś kategorii 
+antropologicznej).
 
 ### Jaspers
 
+
+39:25
 
 
 
