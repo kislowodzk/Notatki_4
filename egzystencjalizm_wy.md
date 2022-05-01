@@ -2849,7 +2849,83 @@ antropologicznej).
 
 ### Jaspers
 
-39:25
+W pewnym okresie bardzo blisko współpracował z Heideggerem. Autobiografia: pewne 
+fakty bulwersujące, jeśli chodzi o stosunek tych dwóch. Zdawałoby się, że 
+pozorna zblieżność, jednak rozbieżność zarówno jeśli chodzi o osobowość 
+i rozbieżność badań. Kiedy nie przetłumaczono jeszcze wszystkich pism, to 
+tendencje ich łączące były popularne.
+
+Jaspers psychiatrą. Najpierw inspirował się Kantem, później odkrywa Kierkegaarda 
+i Nietzschego, którego wprowadza na scenę filozofii europejskiej. Jest 
+wyposażony w narzędzie do rozstrzegania fałszywych sądów, egzystencjalizm 
+uważany jest za naukę nieopartą w rzeczywistości -- ten mit zostaje obalony. 
+Jaspers dokonuje ścisłego podziału między nauką i filozofią. Żyje wtedy jeszcze 
+pozytywizm, który chce zepchnąć jedynie do analizy pojęć, albo wprost odebrać 
+badanie, szczególnie co do *bytu*, którego, zdaniem pozytywistów, nie ma prawa 
+rozpatrywać filozofia.
+
+Jaspers zajmuje swoje własne stanowisko -- na swój sposób, systematycznie tę 
+problematykę stara się przełożyć. Wg. Mroza w koncepcje Jaspersa należy 
+wsłuchiwać się uważnie, bo mają one ugruntowanie w naukach empirycznych, 
+w naukach, znają swój zakres, nie chcą go przekraczać, jednocześnie nie są 
+*agresywne* w stosunku do refleksji filozoficznej.
+
+Punktem wyjścia jest *byt* -- rozumiany na sposób filozoficzny (nie jest to 
+*bycie*), nie na sposób bytów konkretnych, przedmiotów badawczych, którymi będą 
+się zajmowały nauki empiryczne -- one mają określony, ale i ograniczony 
+charakter i zakres działania. Chodzi o rozgraniczenie, dokonanie eliminacji, 
+żeby nie popadać w zamęty zakresowe. Byt jest kategorią *rządzącą*, jest 
+kategorią, która ustawia refleksję filozoficzną. Ten byt jest w pewnym sensiem 
+zrelacjonowany do tego, co stanowi pierwotne zainteresowanie Jaspersa, a więc do 
+bytu ludzkiego.
+
+Nazwa jest niemiecka, ona lubi wzbudzić niepokoje metodologiczne, doprowadzić do 
+błędu. Jaspers też mówi o bycie ludzkim posługując się terminem *Dasein*. Nie 
+nadaje specjalnych konotacji -- nie daje relacji odwróconej, że to jest 
+przytomność, istnienie, które poprzedza istotę, ze ta istota leży w istnieniu. 
+Jasper z punktu widzenia edukacji psychiatrycznej i jako filozof opierający się 
+na rzetelnych podstawach (które są czymś wymiernym) -- rozpatruje Dasein na 
+poziomie czystej empirii, czyli mówi o czymś takim, że Dasein, czyli byt ludzki 
+w wymiarze empirycznym, jest bytem cielesnym, który jest zindywidualizowany, 
+bytem, który wykazuje funkcje organiczne, który musi dbać, by dokonać 
+prokreacji, utrzymać się przy istnieniu, spełniać podstawowe potrzeby -- jest on 
+w pewnej określonej rzeczywistości, ale Jaspers już tu inicjuje swoją katerorię 
+(bardzo, zdaniem Mroza, twórczą, nośną) -- kategorię **sytuacji**. Mówi o tym, 
+że byt empiryczny, pierwszego poziomu Dasein, jest bytem usytuowanym, czyli 
+mieści się w określonej rzeczywistości, w określonym świecie. Byt, który nie 
+dokonuje żadnej refleksji, nie będzie się orientował na rzeczy, które jego 
+bezpośrednio nie dotyczą -- innymi słowy (w terminologii Jaspersa) będzie 
+pozbawiony **ruchu transcendencji**, wykraczania poza siebie. On jest 
+umiejscowiony, obszyty w określoną rzeczywistość -- tę rzeczywistość w tym 
+zakresie przeżywa.
+
+Drugi typ odnoszący się do człowieka to **Dasein świadomościowe** -- tam jest 
+kilka określeń, Jaspers czasem zmieniał zakresy pojęciowe, w drodze do mądrości 
+mówi o **ogólnej świadomości**, która się w każdym człowieku inaczej będzie 
+przejawiała, ale jest taka transcendentalna matryca a'la Kant -- zespół 
+kategorialny, czy form czasoprzestrzennych, naocznościowych -- przypomina to 
+tylko, który odbiera i daje inny wgląd, inne poznanie. Jaspers uczniem Kanta -- 
+jest wiele wykładni, które jeśli chodzi o wolność jednostki, uważają go za 
+kantystę, jednak jest to ograniczony punkt widzenia. W rozumieniu Dasein jako 
+świadomości jest motyw Kantowski -- świadomość, która jest zdolna do dokonywania 
+(w odróżnieniu od tej utopionej w rzeczywistości empirycznej cielesności 
+zindywidualizowanej na pierwszym poziomie fizjologii, zaspokajania podstawowych 
+potrzeb) refleksji wyrastającej poza ten świat -- to znamionuje późniejszą 
+kategorię filozofii Jaspersowskiej -- transcendencji, patrzymy na świat 
+z dystansu, patrzymy z pewnej perspektywy *góry*, dokonujemy uogólnień, uczymy 
+się świata na podstawie pojęć abstrakcyjnych -- nie ma to nic wspólnego 
+z praktycyzmem charakterystycznym dla pierwszego poziomu.
+
+52:28
+
+
+
+
+
+
+
+
+
 
 
 
