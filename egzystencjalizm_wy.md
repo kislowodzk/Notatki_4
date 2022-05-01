@@ -2916,27 +2916,141 @@ z dystansu, patrzymy z pewnej perspektywy *góry*, dokonujemy uogólnień, uczym
 się świata na podstawie pojęć abstrakcyjnych -- nie ma to nic wspólnego 
 z praktycyzmem charakterystycznym dla pierwszego poziomu.
 
-52:28
+Trzeci podział -- **podział duchowy**. Na tym poziomie większość interpretatorów 
+Jaspersa mówi o takich rzeczach jak *wolność*, która jest związana zawsze ze 
+strukturą możliwościową. Wolność w sensie Kantowskim jak i Heglowskim, ale 
+przede wszystkim wolność **do**. Człowiek jest strukturą możliwościową, Dasein 
+możliwościowe -- on dokonuje wyborów, takiej budowy, nadawania sensu temu, co 
+pierwotnie jest tego sensu pozbawione. Przebudowuje rzeczywistość, wychodzi poza 
+nią i następny motyw tej filozofii to jest kierunek tego wychodzenia.
 
+Podsumowując dotychczasowe -- lekar psychiatra, uważa, że człowiek nie może 
+zostać zamknięty w jakiejś jednej formule -- na przykład antropologii, która 
+traktuje go tylko w jednym aspekcie. Nie jest natomiast skłonny przyznać 
+idealizmowi racji, że człowiek to jest tylko duch, albo fenomenologom (zarówno 
+Husserlowi jak i Heideggerowi), że to jest świadomość i ona narzuca światu swoje 
+prawa, ten świat konstytuuje. On jest trzeźwo myślącym filozofem, który stara 
+się nie odchodzić od podstawowych faktów. Jest trójdzielna koncepcja Dasein, 
+czyli bytu ludzkieg jako bytu empirycznego, bytu świadomościowego, który potrafi 
+dokonywać uogólnień (pewien typ wiedzy) no i to, co człowieka będzie wyróżniało, 
+co stanowi o jego człowieczeństwie, to jest poziom trzeci -- poziom duchowy, 
+który jednym wskazuje na to, w kierunku czego człowiek będzie przekraczał świat  
+i siebie samego. Transcendencja w kierunku czego.
 
+Ten kierunek jest w różnych okresach różnie traktowany. Wykraczanie ku jest 
+przede wszystkim wykraczaniem ku bytowi jako takiemu. Tu by trzeba gwoli 
+rzetelności powiedzieć, że gdyby padło pytanie *Jaka byłaby różnica między 
+byciem u Heideggera a bytem u Jaspersa?*, to Mróz by zalecał ostrożność 
+i powiedział, że Jaspersowski byt jest całością, która jest niedosiężna, na 
+którą nakierowują się różne dyskursy i domeny działania człowieka w historii 
+i w dziejach. Że to nie tylko jest temat filozoficzny, ale głównie dla filozofów 
+pojęcie *bytu* się zmieniało (to jest myśl Jaspersa), jest ono różne od 
+propozycji nauk (czy to empirycznych, czy formalnych -- nauki nie mogą nic 
+o bycie powiedzieć, mogą powiedzieć o pewnych aspektach (rzeczowych, 
+psychicznych, fizjologicznych, ...), natomiast o bycie jako takim nie mogą nic 
+powiedzieć. Ale byt jest w jakiś sposób dostępny -- on stanowi strukturę, on tę 
+strukturę **obejmuje**. On obejmuje trójstopniowy byt ludzki, zarazem jest 
+w jego zakresie jak i w zakresie tego **wszechogarniającego** znajdujemy się my. 
+I Husserl i Heidegger mówili o tym związku, z tym, że Jaspers inaczej go 
+traktuje, bo uważa, że nigdy nie osiągniemy tego poziomu wiedzy 
+całkowitej/absolutnej, nie mówiąc o świadomości bytu -- zawsze on będzie czymś, 
+co nam umyka, ale jest dostępne w poszczególnych krokach, niewyczerpywalne. 
+Pewne ograniczenia, które w odniesieniu do bytu jako takiego Jaspers 
+przedstawia, ale z drugiej strony nie jest to pesymistyczna czy minimalistyczna 
+koncepcja bytu, bo on jednak nas zaprasza do tego, by w tym kierunku zmierzać -- 
+dokonywać transcendencji -- przeżywać w pełni unikalny związek, który obejmuje 
+mnie i ja obejmuję byt, czyli to, co jest wszechogarniającym, w którym ja jestem 
+sam i on jest w swojej własnej strukturze.
 
+Teraz wracając do struktury możliwościowej trójdzielnego bytu Dasein (od empirii 
+przed świadomość do ducha) Jaspers podobnie jak każdy egzystencjalista będzie 
+mówił o czymś autentycznym i o czymś nieautentycznym. Autentyczność polega na 
+tym, co jego jakiś uczeń nazwie *odwagą bycia* -- wyciągania konsekwencji 
+z samego faktu, że jesteśmy bytem usytuowanym, że znajdujemy się w tym 
+usytuowaniu. Konsekwencja posługiwania się własną niezależnością, 
+samostanowieniem, jak gdyby kreowaniem świata, który jest światem dla człowieka 
+(i świat nauki, i świat sztuki), ale z drugiej strony jest to też pouczenie 
+człowieka, że on napotyka pewne granice, osiąga pewien stan, który jest stanem 
+niemożności, nieprzeniknięcia -- to jest tajemnica. Ona jest różnie opisywana 
+w różnych pismach -- jest to przede wszystkim działanie jakiejś struktury, która 
+byłaby wszechoragniającym wszechogarniającego. Jaspers jest wytrawnym erudytą, 
+jest autorem pojęcia *okresów osiowych*, kiedy ludzkość niezależnie od siebie 
+wpada na pewne pomysły -- wszędzie znajduje się pewien ładunek wskazujący na to, 
+że człowiek od samego zarania z zagadką i problemem bytu zmagał się -- on przed 
+tym problemem czasem musi ustąpić, ale atakuje go. Nauka też to robi, ale 
+zajmuje się tylko pewnymi aspektami a nie bytem jako bytem. Natomiast filozofia, 
+myśl do tego bytu chce dochodzić w kategorii transcendencji -- ciągłego 
+przekraczania danych, stanu -- zmierzania do czegoś, co jest niewyczerpywalne, 
+co jest tajemnicą tajemnic. Natomiast gdzieś stamtąd, z tej rzeczywistości 
+(która ma może charakter teologiczny) płynie pewien przekaz -- dla Jaspersa ten 
+przekaz to jest pewien *szyfr transcendencji*. Nie jest on czymś metafizyczny, 
+-- nie jest on oddzielony od kultury, filozofii, sztuki -- on jest związany 
+z działalnością człowieka. On się *obiektywizuje* (mówiąc po heglowsku) -- 
+przyjmuje charakter czegoś niezależnego, ale niewyalienowanego -- on jest pewnym 
+zadaniem do rozszyfrowania. Tam są treści podstawowe, które człowieka 
+interesują: jaki jest sens rzeczywistości, czy istnieje Bóg, czy świat jest 
+przypadkowy, czy jest strukturą konieczną. Człowiek uczy się z tych tajemnic, 
+ale ucząc się z nich (tu najciekawszy rozdział, zdaniem Mroza) to jest nic 
+innego, tylko stanąć przed pewną ścianą. To jest sytuacja, w której się 
+znajdujemy, bo kondycja bytu ludzkiego jest mierzona przez bycie w sytuacji -- 
+nie da się jej uniknąć. Te sytuacje wskazują na nierozwiązywalne zagadki, które 
+objawiają się w tym, z czym nie może sobie poradzić rozum, może w pewnym sensie 
+może poradzić sobie z tym *wiara filozoficzna*, która jest takim 
+pojęciem-kluczem u Jaspersa. To są te sytuacje, które *testują* samego człowieka 
+-- one dają mu pewne ćwiczenie do bycia człowiekiem. Tych sytuacji jest kilka 
+(podstawowych jest 7). One nigdy nie zostaną przez człowieka przekroczone -- to 
+są **sytuacje graniczne**. One regulują naszą egzystencję, ale omijanie ich 
+(ignorowanie) powodowałoby to, że człowiek byłby ubogi -- spadałby na poziom 
+empiryczno-fizjologicznego, życzeniowego -- na pierwszy poziom. Świadomość ani 
+świadomość też sobie z tym nie poradzą, ale trzeba to ćwiczyć.
 
+Ćwiczenie duchowe polega na tym, że to wszystko musimy komunikować -- filozofia 
+Jaspersa jest **filozofią komunikacji**. Komunikacja z szyfrem, z tym, co jest 
+transcendencją, wolnością, wreszcie międzypodmiotową, z poszczególnymi 
+dziedzinami aktywności człowieka. Taką dziedziną na przykład filozofia, króra 
+nie rości sobie praw do podania ostatecznych rozwiązań, ale jest próbą 
+*ujaśniania*. Komunikacja, która ma wskazywać, że od stuleci jesteśmy 
+nakierowani na kierunek *tam*, na szyfry, które płyną, staramy się w jakiś 
+sposób je opanować. Takim sposobem jest filozofia. Takim sposobem jest wysoko 
+przez Jaspersa ceniona sztuka, twórczość -- pewne jej tematy, które są tematami 
+archetypicznymi. Człowiek zmagając się z tajemnicą bytu, będąc strukturą 
+wszechogarniająco nakierowaną na wszechogarniające, wykracza poza to, co jest 
+podane empirycznie -- sięga do różnych sposobów, by ogarnąć to. Sztuka, 
+filozofia są sposobem tego ogarnięcia. One żywią się na tym, co jest 
+nieprzekraczalne, co stanowi sytuacje graniczne. Sztuka sięga do tych tematów, 
+które tylko się uzmienniają historycznie -- są archetypami: motyw upadku 
+człowieka, temat buntu, wzlotu, wreszcie temat działania pewnych form, które są 
+formami historycznymi a tylko nas mogą przez pewien okres czasu i danej 
+dziejowości (wycinka historycznego) zbliżać do pewnego sposobu rozumienia, który 
+obowiązuje w danym momencie, bo Heidegger mówił o pewnej aczasowości przez 
+skończoność bycia, natomiast Jaspers będzie mówił o historyczności, która ma 
+określone kierunki, epoki, bo człowiek jest bytem historycznym -- tego się 
+nauczył od Kierkegaarda i Nietzschego, że nie możemy porzucać czasu, w którym 
+przyszło nam żyć -- ten czas musimy jakoś wykorzystać. Natomiast w każdym 
+czasie, w każdej dziejowości człowieka jest to, co jest ogólne, co jest 
+uniwersalne, archetypiczne -- to robi sztukę.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Podsumowując: Jest to koncepcja oparta na trójpoziomowym Dasein, na tym, że jest 
+konflikt między filozofią jako działalnością, refleksją nad bytem jako bytem, 
+a naukami poszczególnymi, które chciałyby filozofię wepchnąć w określone ramy 
+i kazać zajmować się tylko tym, co jest wymierne. Jaspers protestuje przeciw 
+temu. Jako lekarz psychiatra i filozof wierzy w coś takiego jak wyjątkowość bytu 
+ludzkikego -- poświęca temu pierwsze prace wskazując na przygodę z istnieniem na 
+przykładzie dwóch myślicieli, których właściwie udostępnia kulturze europejskiej 
+-- Kierkegaarda i Nietzschego. Uważa, że prawdziwym sposobem na istnienie 
+człowieka jest transcendencja, czyli przekraczanie tego, co znajduje się tu 
+i teraz. Udanie się w kierunku proponowanym i sterowanym przez wolność 
+i możliwość -- *poza*, czyli w kierunku tego, co nazywa wszechogarniającym, ale 
+wszechogarniający to jesteśmy my sami, bo inaczej nie moglibyśmy wejść w ten 
+*mariaż* z wszechogarniającym, które jest tam, poza nami. On nie rozstrzyga 
+problemu istnienia Boga, Absolutu, ale twierdzi, że to są wszystko sposoby 
+przejawiania się pewnej *nadrzeczywistości*. Po drugie jest to jeden wielki 
+proces wymiany, komunikacji. Komunikacji, która koncentruje się przede wszystkim 
+na tym, co nie może być do końca poznane, ale jednak płynie stamtąd. To jest tak 
+zwany szyfr transcendencji -- one nas otwierają na prawdziwy wymiar istnienia; 
+ten prawdziwy wymiar istnienia w naszej egzystencji jest objawiany przez to, co 
+Jaspers nazywa sytuacjami granicznymi. Ważną formą poznawania w sytuacjach 
+granicznych oprócz filozofii (opartej nie tylko na abstrakcjach, bezosobistej 
+refleksji, a przede wszystkim na wierze wilozoficznej) jest świat sztuki 
+sięgający do archetypicznych tematów uzmiennianych jednak hisotrycznie.
 
