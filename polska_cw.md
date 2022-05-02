@@ -1,3 +1,5 @@
+# Ćwiczenia -- Filozofia polska
+
 ## Ćwiczenia 1 -- organizacja
 
 - Konspekt z każdego przeczytanego tekstu, najlepiej zebrać je wszystkie 
