@@ -1057,5 +1057,3 @@ Arystotelesa. Nie ma jeszcze niezależności filozofii od religii.
 
 
 
-
-
