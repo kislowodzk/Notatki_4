@@ -736,3 +736,31 @@ Jeśli chcemy być autentycznie wolni, nawet nasze cele teleologiczne nie mogą 
 ograniczać. Sartre będzie mówił, że wszystko, nawet to, co jest naszą 
 nieświadomością, jest naszym wyborem.
 
+## Ćwiczenia 10 -- 04.05.
+
+### Organizacja
+
+- Zerowy termin egzaminu będzie 15-go czerwca
+- Wykład na kanale YT instytutu -- prof. Strzelecki o Heideggerze
+
+### Sartre -- *Przy drzwiach zamkniętych*
+
+#### Wstęp
+
+Byt-wolność. Byt nie *jest wolny*, byt *jest wolnością*. 
+
+Człowiek to *byt dla siebie*. Póki żyję, nigdy nie jestem czymś, czym jestem. 
+Wolność przekracza moją istotę, którą siebie określę. Bóg w filozofii Sartre'a 
+byłby zarazem bytem dla siebie i bytem w sobie -- jednocześnie jest 
+ukonstytuowany i nie jest, to jest dowód ontologiczny na nieistnienie Boga.
+
+*Spojrzenie* -- innego, które nas określa.
+
+Ktoś uważa siebie jako kogoś -- *duch powagi* -- ktoś konstytuuje siebie, jako 
+kogoś. Maska, którą na siebie nakłada. Bywa się tą rolą, ale się nią nie jest, 
+jest się w modusie. 
+
+*Fałszywa wiara* -- ja sam kłamię sobie i jednocześnie wiem, że kłamię, ale to 
+jest gdzieś w tle. Przykładem racjonalizowanie sobie -- dorabianie teoryjek, 
+które są wyobrażeniem.
+

@@ -1008,3 +1008,145 @@ Przeszłość staje się częścią realnej teraźniejszości
 Prometeistyczna świadomość odpowiedzialności i walki -- sprawą ludzkości jest 
 samowychowanie i samowyzwolenie
 
+## Ćwiczenia 10 -- 04.05.
+
+### Lenin
+
+#### Pierwszy rozdział 
+
+Pokazanie w jaki sposób został zniekształcony marksizm tak, że jest on 
+przywłaszczony przez burżuazję, przez oportunistów. Przez to marksizm zostaje 
+wchłonięty przez państwo kapitalistyczne, przez co zatraca się treść 
+rewolucyjna.
+
+Szereg cytatów z tekstów Marksa i Engelsa. Jak Lenin, za Engelsem, rozumie 
+państwo, jakie jest tego znaczenie dla przemian politycznych, treści 
+rewolucyjnych? Państwo powstaje tylko tam, wtedy i o tyle, o ile przeciwieństwa 
+klasowe nie mogą być uzgodnione. Państwo może istnieć tylko tam, gdzie 
+przeciwieństwa klasowe są nie do pogodzenia.
+
+Państwo jest więc związane z podziałem klasowy. Można wywnioskować, że wraz ze 
+zniknięciem klas zniknie też państwo. Państwo związane z przeciwieństwami, 
+jednak jest ono narzędziem, jest wtórne w stosunku do ekonomicznego panowania 
+jednej klasy, aby umocnić jej panowanie na poziomie wtórnym, czyli politycznym.
+
+Państwo zrelatywizowane do pewnej klasy społecznej. Służy ono przede wszystkim 
+do tego, aby jedna klasa mogła nad drugą panować, nie chodzi państwu o to, żeby 
+nierówności łagodzić. Państwo zawłaszczone przez burżuazję, przez ideologów 
+kapitalistycznych. Bardzo antypaństwowa interpretacja Marksa. Państwo odrywa się 
+od społeczeństwa, autonomizuje się, staje się siłą od społeczeństwa niezależną. 
+Ta autonomizacja nie jest  całkowita, bo dotyczy tylko części klasy uciskanej, 
+natomiast państwo dalej jest narzędziem w rękach klasy panującej. Lenin będzie 
+później pisał o państwie jako *pasożycie na organizmie społecznym*. Ma ono 
+utrwalać sprzeczności społeczne, przeciwieństwa, podział klasowy.
+
+Władza publiczna istnieje w każdym państwie, składają się na nią siły uzbrojone, 
+aparat więzienny. Państwo nie jest wynikiem spontanicznej organizacji 
+społecznej, nie jest związane z potrzebami ludzi. Władza państwowa, wyalienowana 
+nie pokrywa się z tym, jak ludność sama by się uzbroiła, jak sama 
+zorganizowałaby aparat przymusu, który jest nieodłącznie związany z państwem. 
+Władza publiczna nie pokrywa się z samorzutną inicjatywą.
+
+Jakie mogłyby być konsekwencje tego, że aparat przymusu byłby stopiony 
+w społeczeństwie. Czy to nie jest opis sytuacji, w której ludność sama sobie 
+jest policją i wojskiem, w którym sama się kontroluje. Państwo jako osobny twór 
+narzędziem ucisku politycznego. Powinniśmy sprowadzić państwo do funkcji 
+społecznych. Aparat państwowy, zdaniem Lenina, może przechodzić z rąk do rąk, 
+zmieniać wykonawców ucisku, nie dochodzi jednak do pokrywania się władzy 
+publicznej z tym, jak samo zorganizowałoby się społeczeństwo. Gdyby pozwolić 
+uciskanym na samorzutne zorganizowanie się, to doprowadziłoby to do walk 
+z instytucjami państwa. 
+
+Najpierw trzeba zniszczyć maszynę państwową, jako korzeń aparatu ucisku. Potem 
+należy przejść do zniesienia klas. Lenin twierdzi, że te instytucje byłyby nadal 
+konieczne. Musielibyśmy zrezygnować z władzy parlamentarnej, jednak urzędnicy 
+byliby potrzebni -- funkcjonowaliby oni jako włączeni do społeczeństwa jako 
+nieodłączna jego część. Mówi się tu o jakiejś formie państwa przejściowego. 
+Pewne instytucje w okresie przejściowym są konieczne do utrzymywania, ponieważ 
+społeczeństwo musi dojść do bezklasowości. Fala przymusu ma tracić charakter 
+instytucjonalny na rzecz kontroli społecznej.
+
+Jeden z problemów -- *dyktatura proletariatu*, która ma być formą przejściową. 
+Jednak jak długo miałoby trwać państwo przejściowe, aby nie doszło do utrwalenia 
+tej struktury. Punktem dojścia pewne państwo *obumierające*. Kiedy miałoby to 
+nastąpić, jakie perspektywy istnienia? Nie wiadomo.
+
+Kiedy zaostrzają się przeciwieństwa klasowe, to siła państwa rośnie, państwo 
+jako narzędzie służące klasie uciskającej musi rosnąć w siłę. 
+
+Urzędnicy, jako organy społeczeństwie, królują nad społeczeństwem. Z jednej 
+strony przymus, który sprawia, że urzędnicy są bardziej godni szacunku 
+społeczeństwa, z drugiej jest to nieporównywalne z szacunkiem, na który trzeba 
+zapracować.
+
+Skoro komunizm był możliwy w świecie pierwotnym, to będzie możliwy i teraz. 
+Lenin mówi o urzędnikach jak o kolejnej klasie, która zmawia się z burżuazją. 
+Postawienie urzędników ponad społeczeństwem. Dlaczego? Wątek łapówek. Żadna 
+zmiana nie może zachwiać tą władzą. Jaką rolę pełni demokracja w ruchu 
+kapitalistycznym. Jaki jest stosunek Lenina do woli większości? Stosunek do 
+powszechnego prawa do głosowania, które jest obroną burżuazji. Nie można go 
+przyjąć. Lenin krytykiem demokracji przedstawicielskiej, parlamentarne, Kiedy 
+będzie mówił do ludzi, to będzie mówił o dwóch demokracjach. To wskazuje na to, 
+że demokracja, którą on krytykuje.
+
+Pojawia się kontekst demokracji -- demokracja, która będzie stała w opozucji do 
+intuicji, która będzie bezwzględnie demokracją dla przyjaciół proletariatów, 
+narzędziem ucisku dla pozostałych.
+
+Obumieranie państwa, rewolucja -- w jaki sposób państwo burżuazyjne 
+konfrontowane z dyktaturą proletariatu. U Engelsa był rozwój klas, dojrzewanie 
+pewnych procesów. Rewolucja u Lenina jednorazowa. Państwo w pewnej formie musi 
+jeszcze jakiś czas pozostać, ono obumiera. Polemika z anarchistami, którzy 
+chcieli natychmiastowego przejścia. Lenin postuluje zniesienie państwa. Pewne 
+elementy -- te okazują się jeszcze społeczne. Inna organizacja społeczna -- 
+chodzi o zorganizowanie społeczeństwa, które jest w stanie wykorzystać przemoc 
+czy siłę, żeby nagle nie zapanował chaos związany z usunięciem ludzi ze 
+stosunków społecznych. Należy władzę skupić, scentralizować -- dopiero potem 
+zastanawiać się co z nią zrobić. Z jednej strony strony unicestwienie państwa. 
+
+Siła, która ma wprowadzić dyktaturę proletariatu.
+
+#### Drugi rozdział
+
+Cały czas przypomina zapomniane w Marksizmie słowa -- idea dyktatura 
+proletariatu. Państwo to *zorganizowany w klasę panującą proletariat*. 
+Połączenie dyktatury proletariatu z państwem, które obecnie ma narzędzia ucisku, 
+nie jest dobra decyzją.
+
+Dalej krytyka socjalizmu, który zmierza do poprawy państwa, polepszenie 
+kapitalizmu, bo co to znaczy polepszyć narzędzie własnego nacisku. Celem 
+zniesienie klas, przemontowanie gospodarki. Walka klasowa punktem wyjścia. 
+Prawdziwym marksistą ten, kto chce wprowadzenia dyktatury proletariatu. Ta 
+przemoc, która miała formę zawoalowaną w państwie kapitalistycznym, w państwie 
+rewolucyjnym będzie jasną, cielesną przemocą. Afirmacja przemocy, takie środki 
+są pożądane.
+
+Wątek proletariatu i jego roli dziejowej jako klasy, która ma prowadzić do czynu 
+rewolucyjnego. Wątek partii i jej miejsca w odniesieniu do proletariatu, 
+państwa, rewolucji, marksizmu. Lenin stara się opracować, wyznaczyć im rolę 
+społeczną, cenę.
+
+Wnioski Lenina -- uznanie istnienia innych klas, niż tylko burżuazyjna 
+i robotnicza, Podporządkowanie wielkich, uciskanych klas, proletariatowi. 
+Znaczenie produkcji usprawiedliwia dyktaturę -- usprawiedliwia wszystko, co się 
+wydarzy podczas rewolucji.
+
+Założenie, że istnieje proletariat chłopski, który pokazuje pozostałości 
+gospodarki feudalnej. Zależność chłopstwa. Zauważenie, że jest to warstwa, która 
+uniknęła wyzysku (przynajmniej w Rosji). Odpowiedzi na to *w jaki sposób można 
+to odczytywać* nie znajdziemy, jest tu bardziej zarysowanie i próba 
+schematycznego rozwiązaniu.
+
+Włączenie klas uciskanych do rewolucji. Przyznanie, że wypracowane wnioski 
+dotyczą społeczeństw i gospodarek zachodnich.
+
+Wątek partii -- Lenin pisze, że wychowując partię robotniczą, marksizm kreuje 
+nowy ustrój. Problem z tym kto właściwie jest podmiotem rewolucji. Zamiast 
+urzędników politycy, którzy mogą prowadzić te interesy? Jeśli człowiek ma 
+wychować sam siebie, to mamy tu napięcie.
+
+Praktyka okaże się decydująca. Zawodowi rewolucjoniści.
+
+W tekście wskazanie formy życia społecznego tworzącej się w sposób samoczynny, 
+a z drugiej strony potrzeba nadzoru, organizacji, może te funkcje pełnić partia. 
+
