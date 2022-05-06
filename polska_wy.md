@@ -1055,5 +1055,183 @@ wieku -- czy to, co rozdzielone, jest również sprzeczne. I gdzie możemy okre�
 stopień przeciwstawności między naturą boską a naturą ludzką w terminologii 
 Arystotelesa. Nie ma jeszcze niezależności filozofii od religii.
 
+## Wykład 7 -- 06.05.
 
+### Organizacja
+
+- Huber rozumie, że możemy nie dotrzeć na wykład. Kto nie będzie mógł być na 
+wykładach -- Huber prosi o kontakt, sam chyba też wyśle nam w tej sprawie maila
+- Zaliczenie -- spotkanie w małych grupach (2-3 osoby). Liczy się umiejętność 
+interpretowania tekstów, które omawialiśmy na wykładzie. Co tam jest zawarte, do 
+kogo pisane, przeciwko komu, jakie tradycje się ścierają, jakie są problemy 
+filozoficzne w tle
+- Na teamsach mamy wrzucone handouty
+
+### Szymon Budny
+
+Procesy, które wiążemy z Unią Brzeską i konfliktami na ziemiach wschodnich. 
+Szymon Budny, jako autor który zmodernizował polszczyznę i ruszczyznę, ma 
+kluczową rolę. Białorusini w Rakowie wydają szereg książek (Franciszek Skaryna 
+-- powiedzmy, że jest ojcem języka białoruskiego, choć ofc nie było czegoś 
+takiego jak język białoruski wtedy).
+
+Budny tłumaczył Biblię na podstawie antytrynitaryzmu. Bez elementów, które 
+tradycja katolocka czy luterańska traktuje jako pewnik. Trzeba było stosować 
+złożoną hermeneutykę -- to jest zasługa Budnego.
+
+Sytuacja związana z uchwaleniem kodyfikacji praw na Litwie -- czy powinien być 
+pisany po łacinie, czy w języku ruskim. Białoruszczyzna związana z kościołami: 
+prawosławnym i unickim, do których należą niższe warstwy społeczne. W wieku 
+XVIII przestano drukować po rusku, na korzyść języka litewskiego.
+
+### Faust Socyn
+
+Można powiedzieć, że jest to najważniejsza postać tego ruchu, który nazywa się 
+też *socynianizmem*. Następuje konsolidacja tego ruchu, stworzenie formalnych 
+struktur. Rakowska drukarnia, która staje się miejscem znanym w całej Europie -- 
+te rzeczy mogły być drukowane tylko w Polsce, bo za granicą była zbyt ścisła 
+kontrola tego, co się drukuje. Inna drukarnia przy klasztorze sprzyjającym 
+antytrynitaryzmowi pisała na okładce, że miejscem druku jest Raków, żeby się nie 
+narażać.
+
+Socyn urodzony w północnych Włoszech. Zmarł i pochowany został w Polsce. 
+W młodości nie przebywał na uniwersytetach. W wieku 30 lat pisze pierwsze dzieła 
+inspirowane poglądami jego wujka, który był politykiem, jednym z nielicznych, 
+którzy nie zostali przez Kalwina wygnani ze Szwajcarii. Trudno powiedzieć ile 
+jest pomysłem Fausta, a ile jego wuja.
+
+Pod koniec lat 70-tych znajduje się w Siedmiogrodzie, który był ostoją 
+tolerancji, otwrtości. Socyn odkrywa wschodnioeuropejski wymiar -- orientuje 
+się, że to jest przestrzeń, w której kwestie, których na zachodzie nie można 
+poruszać, mogą być dość swobodnie dyskutowane.
+
+Socyn dociera później do Polski. To się uważa za początek konsolidacji ruchu. 
+Pierwsza kwestia -- uporządkowanie relacji między tezą, że Chrystus nie jest 
+Osobą Boską (w sensie mocnej substancji), więc też nie egzystował przed 
+stworzeniem świata, a z drugiej strony ustosunkowanie się do sympatii 
+Judaistycznych, w których całkowicie odbiera się mu boskość. 
+
+Socyn później z Krakowa przeniesie się na wieś, założy tam rodzinę.
+
+Najważnejsze dzieła? Za istotne należą pisma, które pisał jeszcze we Włoszech 
+inspirowany wujkiem. Prace oparte na pracach Erazma, ale posunięte dalej. 
+Elementy uznane za sprzeczne. Można uznać to za interpolacje i usunąć tekst, 
+albo klasycznie uznać to za tekst literacki, który nie można powiązać 
+z pojęciami filozoficznymi.
+
+Stancaro: jeśli nawet Chrystus ma diwe natury, to dzieło zbawcze polega na 
+naturze ludzkiej. To powtarza się też u Socyna. Ta książka wydrukowana przez 
+jezuitę (sic!), który ukradł książkę Socyna, dodał jeszcze od siebie, że 
+objawienie jest niepotrzebne, że rozum sam może się zorientować w tych 
+zagadnieniach (teologia naturalna). Rozum uczy wszystkiego, co jest istotne 
+w odniesieniu do Boga. Bóg nie tyle usuwa się ze świata, gdy go stworzy -- On 
+nawet traci osobowość, zajmuje się jedynie myśleniem samego siebie, a on sam 
+jest jest myśleniem. Ten deistyczny Bóg jest bogiem do którego nie można się 
+modlić. To nie jest pozycja, która byłaby do przyjęcia dla antytrynitarzy -- oni 
+nie czynią kroku do deizmu. Gdyby zrobili ten krok, to zapewnie straciliby 
+zakotwiczenie w kulturze polskiej, litewskiej, nie mogliby tam funkcjonować, 
+najwyżej mogliby się przenieść do Anglii (gdzie w XVII wieku deizm był 
+popularny). 
+
+Socyn broni wolnej woli, dobrych uczynków jako relewantnych dla zbawienia, 
+pozycja pelagiańska jeśli chodzi o grzeszność człowieka, odrzuca pojęcie 
+*grzechu pierworotnego* jako sprzeczne -- wina jest zawsze indywidualna, nie 
+można jej przenosić, kara zawsze ma być adekwatna. Ta pozycja zaczyna 
+obowiązywać wśród socynian.
+
+![](./slajdy_polska/53.png)
+
+Wybrane fragmenty *katechizmu rakowskiego*. To jest praca pod jego redakcją 
+powiedzmy, wydany już po niego śmierci. Zbiera on pozycje doktrynalne 
+i przedstawia je językiem prostym. Pełen tytuł w plikach. 
+
+Uznanie, że Jezus jest jednorodzonym Synem bożym. Mamy kult Chrystusa, ale nie 
+jako Osoby boskiej. Pozycje teologiczne mają wyrastać z samej Biblii za pomocą 
+rozumu. Materialnie wszystko jest z Biblii, natomiast w interpretacji tego 
+działa przede wszystkim rozum. Rozum jak sędzia w sądzie, który słucha obu 
+stron. Myślenie jest antyspekulatywne. Podejście do Pisma jest hermeneutyczne, 
+Chrystus człowiekiem, równocześnie Syn boży (co wyklucza preegzystencję i bycie 
+Osobą boską). Uznanie wolnej woli, odrzucenie grzechu pierworodnego, pacyfizm, 
+który nie polega na tym, że nie odpowiadamy na przemoc przemocą, ale przede 
+wszystkim na tym, że należy zrezygnować ze wszystkiego, co w wojnie może 
+uruchomić aspekt religijny. W obronie własnej stosujemy przemoc, zgadzamy się na 
+funkcję sędziego, kata, ale nie ma mowy, aby przemoc czerpała energię z religii.
+
+Co jest źródłem tych treści, które czytelnik *katechizmu* ma przyjąć? Pismo 
+święte.
+
+Co do tego, co mamy w tekście -- liczby nieparzyste to pytanie, parzste to 
+odpowiedź. Pytający w pozycji ucznia.
+
+![](./slajdy_polska/54.png)
+
+*Pokaż mi też, jeśli te pisma są wszystkim pojętne i wyrozumialne*
+
+Są takie, zwłaszcza w tych rzeczach, które są do zbawienia potrzebne. Bóg dał 
+ludziom Pismo, więc nie może być tak, że ktoś nie może ich zrozumieć. 
+Apostołowie pisali do ludzi prostych. Rozbieżności w czytaniu pisma dlatego, że 
+za mało się ktoś wczuwa, albo nie szuka natchnienia Ducha św.
+
+Błędy w interpretacji wynikają z czytania z nieczystym sercem. Najpierw trzeba 
+zadbać o harmonię w sercu -- jeśli tego nie ma, to przekształcamy treści zgodnie 
+z naszą wewnętrzną tendencją. Ludzie nie szukają ponadto pomocy Ducha (ale nie 
+jako Osoby boskiej ofc), którą Bóg obiecał. Skoro obiecał, to nie może tej łaski 
+odmówić większości ludzi.
+
+Opozycja wobec Kalwinizmu, który twierdził, że Bóg ludzi chciał upokorzyć -- 
+pokazać, że Pismo nie jest zrozumiałe.
+
+![](./slajdy_polska/55.png)
+
+![](./slajdy_polska/56.png)
+
+*Dlaczego doszło do objawienia drogi wiodącej do zbawienia? Nie mógł poznać sam 
+z siebie?*
+
+Człowiek z przyrodzenia nic wspólnego z nieśmiertelnością nie ma, więc sam nie 
+może do tego dojść. Z ziemi ulepiony. Ta droga przewyższa rozum ludzki.
+
+Pozycja socyniańska samego Socyna -- objawienie jest niezbędne. Jego uczniowie 
+stępiają to, wprowadzają coraz więcej elementów teologii naturalnej. Socyn 
+uznaje, że człowiek został stworzony, dopuścił się grzechu, który sowodował 
+śmiertelność, ale nie był to grzech pierworodny.
+
+Objawienie nie jest nigdy sprzeczne z rozumem, ale czasami bywa ponad rozum, co 
+jest problemem filozoficznym nad którym będzie się zastanawiał uczeń Socyna -- 
+jak zrozumieć to *ponad rozum* -- czy to są rzeczy, które rozum może zrozumieć 
+po pomocy, naprowadzeniu, czy są to rzeczy, których rozum nie zrozumie, może 
+tylko zrozumieć, że nigdy nie zrozumie. 
+
+Chęć oderwania się od tradycji łacińskiej. Ousia -- *będącość*; substancja po 
+łacinie. Tu mamy pozycję filozoficzną, hermeneutyczną. To jest instrument 
+krytyki filozoficznej, która chce się oderwać od napięć. Tworzymy polską 
+terminologię filozoficzną przyjmując dystans wobec łaciny -- używamy rdziennie 
+słowiańskich  określeń takich jak *istota*. W tym okresie słowo *istota* bliższa 
+terminom *bytnoćś*, *jestestwo*.
+
+![](./slajdy_polska/57.png)
+
+![](./slajdy_polska/58.png)
+
+*Czemu wszystkie rzeczy o Bogu trzeba koniecznie znać do zbawienia?*
+
+Bo bez tej wiedzy nie możemy się trzymać drogi do zbawienia. Trzeba uznać, że 
+jest Bóg, tylko jeden, jest wieczny, doskonale sprawiedliwiy. Te rzeczy, które 
+nam obieacał, wypełnił.  Bóg doskonale mądry, wszechmogący. To są treści 
+koniecznie potrzebne -- kto to odrzuci ujmuje coś ważnego Bogu i nie dostąpi 
+zbawienia. 
+
+![](./slajdy_polska/59.png)
+
+![](./slajdy_polska/60.png)
+
+Kolejna grupa -- treści pomocnicze. One mogą być treściami pomocniczymi -- tu 
+można debatwać.
+
+Istność boska jedna jest w liczbie, więc w niej wielość osób być nie może. 
+**Osoba nic innego nie jest , niż istność rozumna nierozdzielna.** Takia też 
+definicja oosby otwiera traktat Boecjusza. I takie sformułowanie spowodowało 
+wielkie oburzenie.
+
+Dokończymy to za tydzień
 
