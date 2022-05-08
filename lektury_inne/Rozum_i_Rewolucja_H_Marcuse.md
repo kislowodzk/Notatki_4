@@ -255,8 +255,92 @@ doświadczeniem
     realizuje wszystkie właściwe sobie obiektywne możliwości -- to, co jest 
     prawdziwe, jest tożsame ze swoim **pojęciem**
     - Heglowskie **pojęcie**:
+        - dwa znaczenia:
+            - natura albo istota treści, a w związku z tym -- prawdziwa myśl 
+            o niej
+            - obecne urzeczywistnienie tej natury albo istoty -- konkretne jej 
+            istnienie
+        - (wszystkie podstawowe koncepcje Hegla odznaczają się taką samą 
+        niejednoznacznością)
+        - pojęcia nigdy nie są czystymi pojęciami (jak w logice formalnej), 
+        tylko formami lub modusami bytu ujętymi przez myśl
+        - nie mamy tu mistycznej tożsamości myśli i rzeczywistości, lecz słuszna 
+        myśl reprezentuje rzeczywistość, gdyż ta osiągnęła w swoim rozwoju etap, 
+        na którym jest zgodna z prawdą
+        - zasady i formy myślowe wywodzą się z zasad i form istniejących w samej 
+        rzeczywistości; prawa logiki odtwarzają prawa rządzące ruchem 
+        rzeczywistości
+        - jednoczenie się przeciwieństw wykryte we wszystkim, co istnieje
+    - jednoczenie się przeciwieństw -- przykładem sąd: "człowiek jest 
+    niewolnikiem"; człowiek (podmiot) został niewolnikiem (orzecznik), ale mimo 
+    to, że jest niewolnikiem jest również człowiekiem, a więc kimś ze swej 
+    istoty wolnym, więc przeciwstawnym w stosunku do orzecznika; sąd nie łączy 
+    więc orzecznika z niezmiennym podmiotem, ale wyraża to, że zachodzi proces, 
+    podczas którego ten podmiot staje się czymś innym, niż sobą; podmiot to 
+    właśnie proces stawania się orzecznikiem i negowania go
+    - rzeczywistość jawi się jako dynamiczny proces, wszystkie niezmienne formy 
+    okazują się być czystymi abstrakcjami
+    - w procesie myślenia, jeśli się myśli prawidłowo, stwierdza się, że jedna 
+    forma bytu przechodzi w drugą i że każda poszczególna forma może być 
+    określona tylko przez całokształt przeciwstawnych stosunków, w których ta 
+    forma istnieje
+    - Hegel nie uważa, że wszystko, co istnieje, istnieje zgodnie ze swoimi 
+    możliwościami, uważa natomiast, że duch osiągnął samowiedzę swej wolności 
+    i stał się zdolny do uczynienia przyrody i społeczeństwa dziedziną wolności 
+    -- urzeczywistnienie rozumu nie jest faktem, lecz zadaniem
+    - wszystkie formy ulegają rozkładowi w wyniku działalności rozumu, który je 
+    zmienia i przezwycięża dopóki nie staną się adekwatnie dostosowane do 
+    odpowiednich pojęć
+    - ten ruch myśl odzwierciedla w procesie *zapośredniczenia* -- jeśli zbadamy 
+    prawdziwą treść naszych percepcji i pojęć, to okaże się, że wyodrębnienie 
+    niezmiennych przedmiotów jest niemożliwe: są one rozdrobniona na mnogość 
+    stosunków, które wyczerpują treść tych przedmiotów
+    - filozofia Hegla *filozofią negacji* -- zrodziło ją przekonanie, że dane 
+    fakty, które zdrowy rozsądek uznaje za pozytywny wskaźnik prawdy, są 
+    w rzeczywistości negacją prawdy, tak że prawda może być ustalona dopiero 
+    wtedy, gdy się sprawi, że fakty te przestaną istnieć
+    - cała dialektyka związana z poglądem, że wszystkie formy bytu są ze względu 
+    na samą swą istotę przesycone negatywnością -- ta negatywność określa ich 
+    treść i determinuje ruch
+    - dialektyka przecistawia się każdej formie pozytywizmu
+        - pozytywizm skłania myśl do zadowolenia się faktami i do rezygnacji 
+        z każdej próby wyjścia poza nie, do uległego godzenia się z istniejącym 
+        stanem rzeczy
+        - Hegel nie uznaje autorytetu faktów samych w sobie -- są one 
+        *ustanawione* przez podmiot, który *zapośredniczył je* w toku procesu 
+        swojego wszechstronnego rozwoju, weryfikacja odbywa się w trakcie tego 
+        procesu, z którym wszystkie fakty są połączone w całość i który 
+        determinuje ich treść, wszystko, co jest dane, musi się usprawiedliwić 
+        przed rozumem, który jest całokształtem możliwości przyrody i człowieka
+    - choć ta filozofia rozpoczyna się od negacji tego, co dane, to w końcu 
+    następuje stwierdzenie, że w historii urzeczywistnił się już rozum
+    - filozofia osiągnie swój cel, jeśli sformułuje pogląd na świat -- świat, 
+    w którym zostanie zrealizowana wolność
+    - do osiągnięcia zgodności z prawdą obecnie potrzebna będzie praktyka 
+    historyczna -- jeśli w tym momencie w samej rzeczywistości istnieją warunki, 
+    by mógł się urzeczywistnić rozum, myśl może przestać zajmować się ideałem, 
+    myślenie krytyczne nie przestaje istnieć, lecz przybiera nową postać -- 
+    zwrócenie się ku teorii i praktyce społecznej
+    - Pięć etapów rozwoju filozofii Hegla:
+        1. Próba sformułowania religijnych podstaw filozofii
+        2. Krytyka współczesnych mu systemów filozoficznych, szczególnie Kanta, 
+        Fichtego, Schellinga
+        3. System jenajski -- najwcześniejsza postać pełnego systemu poglądów 
+        Hegla
+        4. Wydanie *Fenomenologii Ducha*
+        5. Tworzenie systemu w ostatecznej postaci
+        - oprócz tego podczas opracowania systemu filozoficznego Hegel stworzył 
+        szereg tekstów o charakterze politycznym
 
-s. 28
+## I. Wczesne pisma teologiczne Hegla (1790 -- 1800)
+
+- atmosfera -- wydaje się, że następuje złagodzenie despotyzmu
+- idee oświeceniowe przeniknęły do życia kulturalnego
+- kontrast między ideami oświeceniowymi a rzeczywistością
+- brak realnych zmian -- jedynie wyrazy protestu przeciwko niepokonanym potęgom
+- utęskienie ku przeszłości -- Hegel pisze pochwałę starożytnego miasta-państwa
+
+
 
     
 
