@@ -398,9 +398,73 @@ przeciwstawia się jego popędom i pragnieniom
     w rzeczywistości i wskazanie jak można je scalić
 - już w tym okresie pierwsze próby dokonania analizy dialektycznej, choć 
 przesłania ją jeszcze teologia
+- wszystkie sprzeczności są u Hegla rozwiązane, a mimo to istnieją, w *rozumie*
 - *życie* jako pierwsze pojęcie, które jest przykładem jedności przeciwieństw -- 
 życie jako istota, jako *duch*, który może objąć myślą i opanować 
 wszechogarniające sprzeczności bytu
+- chodzi o życie rozumnej istoty, o cechę właściwą jedynie człowiekowi
+- każdy nieożywiony przedmiot jest różny i ograniczony w stosunku do swojego 
+rodzaju (ponieważ ma ograniczoną formę), szczegółowe przeciwstawia się temu, co 
+ogólne, ogólne nie urzeczywistnia się w nim
+- życie oznacza istnienie bytu, którego różne części i stany są scalone 
+w jedność "podmiotu"
+- każda żyjąca jednostka jest manifestacją całości życia -- właściwa jest jej 
+pełna istota, wszystkie możliwości życia
+- żyjąca istota może przezwyciężyć swoją ograniczoność, zewnętrzne warunki są 
+nieustannie podporządkowywane trwającej jedności podmiotu
+- jedność życia wynikiem czynnego przezwyciężania tego, co się przeciwstawia 
+jedności
+- jedność staje się czymś dominującym w wyniku "zapośredniczenia" zachodzącego 
+między żywą istotą a obiektywnymi warunkami
+- warunkiem wolności jest doskonała jedność między podmiotem i przedmiotem
+- nie we wszystkich formach życia mamy do czynienia z taką jednością -- tylko 
+człowiek dzięki swej wiedzy może dojść do "idei życia"
+- jedność zakłada poznanie prawdy, pojmowane jako poznanie możliwości zarówno 
+podmiotu jak i przedmiotu; prawda, którą człowiek może posiąść, wyzwala jego 
+możliwości, jak i możliwości przyrody
+- człowiek jest zgodny kształtować świat zgodnie z rozumem
+- **świat w swojej istocie jest wynikiem historycznej działalności człowieka**
+- *Duch* jest w istocie takim samym czynnikiem jednoczącym jak życie -- 
+"nieskończone życie może być nazwane duchem, gdyż duch oznacza żywą jedność 
+wśród różnorodności... Duch jest żywym prawem [ogólnym], które jednoczy 
+różnorodność, tak że ta ostatnia staje się czymś żywym"; ostatecznie Duch jest 
+tylko życiem; "Duch" jest użyty jako termin do oznaczenia jedności podmiotu 
+i przedmiotu
+- **jedność jest tożsama z bytem** -- jak to rozumieć? To twierdzenie zakłada, 
+że mamy do czynienia z różnicą między tym, co istnieje (bytem określonym)a 
+"bytem" (bytem jako takim). Każdy byt, z którym mamy do czynienia jest 
+określony. Kiedy o takim bycie określonym mówimy, nadajemy mu atrybut istnienia 
+-- ten atrybut jest wspólny wszystkim poszczególnym bytom: to świadczy, że musi 
+istnieć byt jako taki, różny od każdego określonego bytu, tak że wolno go nazwać 
+"rzeczywiście jednym". Byt taki jest tym, co jest wspólne wszystkim bytom 
+jednostkowym i co jest niejako ich substratem. Gdy się za punkt wyjścia weźmie 
+tę tezę, to to już stosunkowo łatwo uznać ten byt za "istotę wszelkiego bytu", 
+za "substancję boską", "najwyższą rzeczywistość" i w ten sposób połączyć 
+ontologię z teologią. Ta tradycja jest wciąż żywa w logice Hegla.
+
+s. 43
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
