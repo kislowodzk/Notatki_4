@@ -302,7 +302,7 @@ doświadczeniem
     - cała dialektyka związana z poglądem, że wszystkie formy bytu są ze względu 
     na samą swą istotę przesycone negatywnością -- ta negatywność określa ich 
     treść i determinuje ruch
-    - dialektyka przecistawia się każdej formie pozytywizmu
+    - dialektyka przeciwstawia się każdej formie pozytywizmu
         - pozytywizm skłania myśl do zadowolenia się faktami i do rezygnacji 
         z każdej próby wyjścia poza nie, do uległego godzenia się z istniejącym 
         stanem rzeczy
@@ -338,12 +338,54 @@ doświadczeniem
 - idee oświeceniowe przeniknęły do życia kulturalnego
 - kontrast między ideami oświeceniowymi a rzeczywistością
 - brak realnych zmian -- jedynie wyrazy protestu przeciwko niepokonanym potęgom
-- utęskienie ku przeszłości -- Hegel pisze pochwałę starożytnego miasta-państwa
-
-
-
-    
-
+- Hegel studentem teologii
+- tęsknota za przeszłością -- Hegel pisze pochwałę starożytnego miasta-państwa, 
+próbuje ustalić dzięki czemu powstała i istniała jedność wszystkich dziedzin 
+kultury -- ma nim być *duch narodu*; historia narodu, jego religia i stopień 
+wolności politycznej, jaki on osiągnął, nie mogą być rozpatrywane oddzielnie, 
+splatają się one, łączy je wspólna więź
+- *duch narodu* nie jest mistycznym czy metafizycznym bytem -- stanowi 
+całokształt warunków naturalnych, technicznych, ekonomicznych, moralnych 
+i intelektualnych, które determinują historyczny rozwój narodu -- to bardziej do 
+koncepcji Monteskiusza *espirit general*
+- zainteresowanie relacją między jednostką a państwem, które wyzyskuje, nie 
+zapewnia możliwości rozwoju, jest *wyobcowaną* instytucją
+- państwo istnieje, bo jednostki się na to zgodziły, określa prawa i obowiązki 
+obywateli, chroni ich
+- jednostce przysługują niezbywalne prawa ludzkie, których nie powinna naruszać 
+ingerencja państwa
+- nie ma w tym moralnej i metafizycznej pochwały państwa, która pojawi się 
+u Hegla później
+- człowiek akceptuje stosunki polityczne i społeczne, które ograniczają 
+możliwość jego rozwoju, za *fatum*, krzyż, który musi dźwigać
+- koncepcja historycznej konieczności
+- *zabezpieczenie własności jest osią, wokół której obraca się całe współczesne 
+ustawodawstwo* -- historyczna forma własności (własność burżuazyjna) stanowi 
+przyczynę panującej dezintegracji politycznej
+- instytucje społeczne powodem, dla którego w relacje międzyludzkie wkrada się 
+coś niewłaściwego; do tego stopnia, iż *zdobycie własności i jej posiadanie tak 
+samo jak istnienie praw sprawia, że niemożliwa jest całkowita harmonia między 
+zakochanymi oraz jedność ich uczuć i myśli*, odrębność jednostkowa walczy z tym, 
+co wspólne w ich życiu, a polega na ty, że onx jest związanx z *martwymi 
+rzeczami*, które nie należą do drugiej strony i z konieczności pozostają czymś 
+zewnętrznym w stosunku do jedności obu tych istot ludzkich
+- związek między istnieniem własności a faktem, że człowiek żyje w świecie, 
+który chociaż jest przez człowieka ukształtowany (dzięki jego wiedzy i pracy), 
+to nie należy już do niego i urąga jego wewnętrznym potrzebom -- dziwny świat, 
+w którym człowiek nie osiąga swych celów
+- mamy tu pierwsze sformułowanie koncepcji alienacji
+- brak jedności i wolności to ogólne znamię ery nowożytnej
+- konflikt związany ze stosunkiem między człowiekiem i przyrodą uczynił tę 
+ostatnią wrogą potęgą, która ma być opanowana przez człowieka i zrodził 
+sprzeczność między ideą a rzeczywistością, między myślą a realnością, między 
+świadomością i bytem
+- człowiek stwierdza, że jest czymś wyobcowanym ze świata, który jest czymś, co 
+przeciwstawia się jego popędom i pragnieniom
+- jak więc ma zapanować harmonia?
+    - pierwsza odpowiedź odpowiedzią studenta teologii -- chrześcijaństwo tworzy 
+    nowy, *absolutny* ośrodek ludzkich zainteresowań i wskazuje ostateczny cel 
+    życia, jednak nie odnosi się do zagadnień społecznych, więc to nie religia 
+    ma dać odpowiedź, a filozofia
 
 
 
