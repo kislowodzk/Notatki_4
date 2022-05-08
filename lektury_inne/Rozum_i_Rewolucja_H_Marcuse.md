@@ -1,4 +1,3 @@
-
 # Rozum i Rewolucja -- Hegel a powstanie teorii społecznej -- Herbert Marcuse
 
 ## Wstęp
