@@ -385,7 +385,22 @@ przeciwstawia się jego popędom i pragnieniom
     - pierwsza odpowiedź odpowiedzią studenta teologii -- chrześcijaństwo tworzy 
     nowy, *absolutny* ośrodek ludzkich zainteresowań i wskazuje ostateczny cel 
     życia, jednak nie odnosi się do zagadnień społecznych, więc to nie religia 
-    ma dać odpowiedź, a filozofia
+    ma dać odpowiedź, a filozofia, której Hegel nie uznawał za odrębną, swoistą 
+    gałąź nauki, jest ona potrzebna, by zaradzić brakowi jedności i wolnośći
+    - zniknęła harmonia: przyroda czymś wrogim człowiekowi, rzeczywistość czymś 
+    dalekim od *idei*, świadomość czymś przeciwstawnym w stosunku do bytu -- 
+    wszystkie te sprzeczności mają ogólną formę konfliktu między podmiotem 
+    a przedmiotem -- to jest powiązanie problemu historycznego z filozoficznym
+    - wiedza i wola w świecie *podmiotowym* -- tutaj pewność, oczywistość, 
+    wolność
+    - świat *obiektywny* -- tutaj niepewność, konieczność fizyczna
+    - misją historyczną filozofii analiza sprzeczności istniejących 
+    w rzeczywistości i wskazanie jak można je scalić
+- już w tym okresie pierwsze próby dokonania analizy dialektycznej, choć 
+przesłania ją jeszcze teologia
+- *życie* jako pierwsze pojęcie, które jest przykładem jedności przeciwieństw -- 
+życie jako istota, jako *duch*, który może objąć myślą i opanować 
+wszechogarniające sprzeczności bytu
 
 
 
