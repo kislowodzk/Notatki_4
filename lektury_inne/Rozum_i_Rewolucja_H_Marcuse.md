@@ -169,15 +169,96 @@ podporządkować dyktatom nauki empirycznej. To równocześnie atak na warunki
 wolności ludzkiej, gdyż istotną ich częścią jest prawo rozumu do kierowania 
 doświadczeniem
 - Kant:
+    - jedynie doświadczenie dostarcza *materiału* pojęciom rozumu, poznanie 
+    początek bierze z doświadczenia i na doświadczeniu się kończy
+    - empirystom nie udało się wykazać, że doświadczenie dostarcza także środków 
+    i sposobów, za pomocą których materiał empiryczny zostaje uporządkowany
+    - niezależność i wolność rozumu zostaną uratowane, jeśli można wykazać, że 
+    zasady, zgodnie z którymi porządkujemy ten materiał, nie wywodzą się 
+    z doświadczenia -- wtedy samo doświadczenie stałoby się wytworem rozumu
+    - udowodnił, że umysłowi ludzkiemu właściwe są pewne uniwersalne *formy*, 
+    które organizują dane dostarczane przez zmysły
+        - formy zmysłowości (przestrzeń i czas)
+        - formy *rozsądku* (kategorie)
+        - formy te są uniwersalne, są warunkiem *a priori* każdego wrażenia 
+        i impresji
+        - te formy nie wywodzą się z doświadczenia
+    - świat przedmiotów jako porządek powszechny i konieczny jest wytworem 
+    podmiotu i to **nie podmiotu jednostkowego**; akty oglądu i pojmowania, 
+    które go kształtują, **są wspólne wszystkim jednostkom i stanowią warunki 
+    doświadczenia** -- te wspólną wszystkim strukturę umysłu nazywa 
+    **świadomością transcendentalną**: tworzą ją formy zmysłowości i rozsądku, 
+    które są **aktywnie funkcjonującymi** formami istniejącymi jedynie w aktach 
+    oglądu i pojmowania
+    - transcendentalne formy oglądu (formy zmysłowości), syntetyzują różnorodne 
+    dane zmysłowe, łącząc je w pewien porządek przestrzenno-czasowy; dzięki 
+    kategoriom wyniki tej syntezy zostają przekształcone w powszechne 
+    i konieczne stosunki: stosunek przyczynowo-skutkowy, stosunek wzajemnego 
+    oddziaływania i tak dalej; tym, co jednoczy cały ten zespół, jest 
+    **transcendentalna apercepcja**, która odnosi całe doświadczenie do 
+    myślącego *ego* sprawiając, że doświadczenie istnieje ciągle jako *moje* 
+    doświadczenie -- **transcendentalna apercepcja** *najwyższą* syntezą -- 
+    polega na zdawaniu sobie sprawy z tego, że *ja myślę*, dzięki niej *ego* 
+    uświadamia sobie, że jest tym, co istnieje ciągle i aktywnie w potoku coraz 
+    to nowych doświadczeń; stanowi ona (apercepcja) ostateczną podstawę jedności 
+    podmiotu jak również powszechności i konieczności wszystkich stosunków 
+    obiektywnych
+    - świadomość transcendentalna nie jest czymś niezależnym od materiały 
+    uzyskanego za pomocą zmysłów; mnogość impresji staje się spójnie 
+    zorganizowanym światem przedmiotów i stosunków tylko dzięki aktom 
+    świadomości transcendentalnej
+    - nie możemy się dowiedzieć, w jaki sposób istnieją i czym są 
+    przypuszczalnie niezależne od apriorycznych form *rzeczy same w sobie*, 
+    które wywołują impresje
+- Hegel:
+    - uważał, że ten element sceptycyzmu (rzeczy same w sobie) sprawia, iż próba 
+    obrony rozumu przed atakami empirystów może się nie udać -- dopóki rozum nie 
+    obejmuje rzeczy samych w sobie, dopóty jest tylko zasadą subiektywną, nie 
+    mającą władzy nad obiektywną strukturą rzeczywistości
+    - w ten sposób świat rozpadł się na dwie oddzielne części: na to, co 
+    subiektywne i na to, co obiektywne; na rozsądek i świat zmysłowy, na myśl 
+    i byt
+    - stosunek między podmiotem i przedmiotem, ich wzajemne przeciwieństwo 
+    oznacza istnienie konkretnej sprzeczności w tym, co istnieje -- jej 
+    rozwiązanie -- zjednoczenie przeciwieństw -- jest w równym stopniu sprawą 
+    praktyki, jak teorii
+    - później pewna historyczna forma tego konfliktu określona jako *alienacja* 
+    -- świat przedmiotów, będący pierwotnie wytworem pracy i wiedzy ludzkiej, 
+    staje się niezależny od człowieka, tak że zaczynają nim rządzić 
+    niekontrolowane siły i prawa, w których człowiek już nie rozpoznaje siebie; 
+    jednocześnie myśl oddala się od rzeczywistości a prawda staje się zachowanym 
+    w myśli bezsilnym ideałem nie mającym wpływu na świat rzeczywisty -- 
+    zadaniem filozofii wskazanie zasady, która przywróci jedność i całościowość
+    - tą zasadą przywracającą jedność i całościowość **koncepcja rozumu** Hegla 
+    -- to rozum jest prawdziwą formą rzeczywistości, w której wszystkie 
+    sprzeczności między podmiotem i przedmiotami są scalone, wskutek czego 
+    powstaje prawdziwa jedność i ogólność
+    - jego filozofia systemem, który przyporządkowuje wszystkie dziedziny bytu 
+    wszechobejmującej idei rozumu; duch sprawuje władzę tak nad światem 
+    nieorganicznym, jak i organicznym, przyrodą i społeczeństwem
+    - systematyczny charakter filozofii jest wynikiem sytuacji historycznej -- 
+    historia na etapie, na którym możliwość urzeczywistnienia ludzkiej wolności 
+    wkrótce może stać się czymś realnym, wolność jednak zakłada 
+    urzeczywistnienie rozumu, człowiek będzie mógł być wolny i będzie mógł 
+    rozwinąć wszystkie swoje możliwości tylko wtedy, gdy scalająca rozumna wola 
+    i wiedza uzyska władzę nad całym światem
+    - system Hegla antycypuje stan rzeczy, w którym ta możliwość już została 
+    zrealizowana
+    - optymizm ożywiający jego system stał się podstawą *panlogizmu* -- każda 
+    forma bytu jest formą rozumu
+    - przejście od logiki do *filozofii przyrody* a z niej do *filozofii ducha* 
+    dokonuje się na podstawie założenia, że prawa natury wynikają z racjonalnej 
+    struktury bytu i w sposób ciągły prowadzą do praw ducha
+    - królestwo ducha osiąga w warunkach wolności to, co królestwo natury osiąga 
+    w warunkach ślepej konieczności -- zrealizowanie możliwości tkwiących 
+    w rzeczywistości; ten stan jest **prawdą** -- coś jest prawdziwe, jeśli 
+    realizuje wszystkie właściwe sobie obiektywne możliwości -- to, co jest 
+    prawdziwe, jest tożsame ze swoim **pojęciem**
+    - Heglowskie **pojęcie**:
 
+s. 28
 
-
-
-
-
-
-
-
+    
 
 
 
