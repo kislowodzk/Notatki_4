@@ -1814,7 +1814,249 @@ Marks miałl wątpliwości. Być może wolność tylko wtefdy, gdy jesteśmy sam
 
 Kolejny wątek (rozszeżający) wprowazi Engels, który stworzy kolejne 
 przeciwieństwo międyz komunizmem (interpretowany ako fabrykę) a kapitalismem 
-(rynkiem).  Za tym później pójdzie Lenin. O tym za 2 tygodnie.
+(rynkiem). Za tym później pójdzie Lenin. O tym za 2 tygodnie.
+ 
+## Wykład 8 -- 09.05.
 
+### Engels
+
+Engels po śmierci Marksa zajął jego miejsce jako największego autorytetu -- nie 
+tylko teorii, ale i ruchu rewolucyjnego. 
+
+Pytanie o oryginalność i znaczenie? Myśl Engelsa jest do pewnego stopnia 
+samodzielna i oryginalna. Z jednej strony forma niezwykłej współpracy z Marksem 
+-- wszechstronna współpraca i przyjaźń. Engels nie był całkowicie wtórny, choć 
+mamy pewną współpracę, podział pracy badawczej. Próba eksplorowania różnych 
+terenów. Dla Engelsa były to tereny, dla których Marks miał mniej cierpliwości, 
+na przykład filozofia, nauki przyrodnicze, antropologia, Marks skupiał się na 
+kwestiach ekonomicznych, socjologicznych, historycznych.
+
+Kolejna rzecz -- fakt przejęcia roli przywódczej w marksizmie po śmierci Marksa 
+-- to wiązało się ze znaczącym przekształceniem koncepcji. To Engels nadał 
+marksizmowi sznyt pozytywistyczny, scjentystyczny, zorientowany na nauki 
+przyrodnicze. Taki sposób uprawiania marksizmu istotny w czasach pierwszej 
+międzynarodówki, potem w zwulgaryzowanej firmie kształtował losy 
+marksizmu/leninizmu w ZSRR. Choćby z tego powodu Engels jest ważny, choć ważny 
+jest sam w sobie. Choć niektórzy twierdzą, że Engels intelektualnie jest wtórny, 
+że pozostawał w tyle za Marksem -- wydaje się, że nie mają racji. 
+
+Engels nie interpretuje Marksa. On wypracowuje samodzielnie pewną wersję 
+koncepcji. Ze względów politycznych Engelsowi łatwiej było skrywać się za 
+postacią Marksa. Walicki twierdzi, że dzieła Engelsa powinny być studiowane 
+osobno od dzieł Marksa; że mamy istotne różnice, których obaj nie byli do końca 
+świadomi. 
+
+Engels nawet, kiedy występował samodzielne, to Marksowi przypisywał autorstwo 
+swoich koncepcji -- nie wiadomo, czy to skromność, czy nie. Marks nie do końca 
+uświadamiał sobie te różnice. U Engelsa odnajdujemy kanoniczny podział teorii -- 
+on wprowadził rozróżnienie, na:
+
+- materializm historyczny (tłumaczący przeszłość i teraźniejszość, społeczeństwo 
+klasowe produkujące stan alienacji)
+- materializm dialektyczny -- jest to pewna ontologia; naturalistyczna 
+interpretacja dialektyki Hegla. To, co Hegel myślał o procesach zachodzących 
+między przedmiotem i podmiotem poznania, Engels umieszcza w materiale 
+przyrodniczym. Lukasc będzie zarzucał, że Engels nie wie, co to dialektyka, że 
+musi ona odnosić się do człowieka, musi w niej być podmiot i przedmiot
+- socjalizm naukowy -- rozpoznanie przyszłości, teoria funkcjonowania 
+społeczeństwa bezklasowego
+
+Teorie, które mówią, że swoistość Engelsa polega na próbie dokonania syntezy 
+Marksa i Darwina. Engels porównał Marksa do Darwina nad jego grobem.
+
+Marks przeczytawszy Darwina w ogóle się nim nie przejął, nie dostrzegł analogii 
+do swoich koncepcji. Dopiero Engels pokazał Marksowi podobieństwa. Marks po 
+powtórnej lekturze dopiero te pokrewieństwo uznał. Darwin pomaga Engelsowi przy 
+wprowadzaniu istotnych korekt do heglizmem podszytego wczesnego marksizmu lat 
+40-stych. Dokonuje się przemiana w samym pojęciu dialektyki -- u Engelsa jest to 
+bezpodmiotowy proces rozwoju całej przyrody, coś, co odpowiadałoby zbiorowi praw 
+ewolucji u Darwina. Tymczasem u Hegla mamy podmiot -- rozum, który rozpoznaje 
+się w swoich obiektywizacjach. U Marksa podmiotem cała ludzkość rozpoznająca się 
+w swoich wytworach. U Engelsa nie ma podmiotu.
+
+Darwinowska, scjentystyczna interpretacja marksizmu, do jakiej zmierza Engels, 
+z jednej strony miała przesłonić antynomię między teorią i utopią, ale z drugiej 
+strony, *ex post*, ją ujawnia. Próbując odpowiedzieć na pytanie czemu komunizm 
+w wersji marksowskiej był tak bardzo pociągający dla milionów ludzi. Po pierwsze 
+dlatego, że został wyrażony językiem tamtych czasów -- odpowiadał masowym 
+skłonnościom pojawiającym się w kulturze Zachodu II poł. XIX w. To była 
+obietnica pogodzenia wiedzy ze szczęściem, pokazania, że teoria dochodzi do 
+wniosków, które mają moc przekształcania rzeczywistości tak, by była ona dla 
+ludzi lepsza. Porządek teoretyczny i praktyczny miały harmonijnie się łączyć 
+i znosić wszystkie antynomie ludzkiego życia. Uzasadniać ludzki trud 
+przekształcania świata -- wzmacniać ludzi w walce z niesprawiedliwością. Być 
+może najbardziej istotny wkład Engelsa do historii marksizmu polega na tym, że 
+on swoją scjentystyczną interpretacją zaciemnia tę podstawową antynomię, że 
+przekonał ludzi (na skalę masową), że socjalizm jest nauką. I to przekonał tak 
+mocno, że takie rozumienie marksizmu stało się dominujące. Próbowano to 
+rozumienie krytykować, zmiękczać, próbowali robić to marksistowscy rewizjoniści 
+poszukujący fundamentu dla marksizmu u neokantystów, Nietzschego i Bergsona; 
+próbowali wypracować nie-Engelsowską interpretację. Jednak nurt dominujący, 
+który potem przekształcił się w nurt urzędowo-obowiązujący, odgórnie narzucany 
+przez ZSRR: jego ideologię i funkcjonariuszy, to był marksizm z ducha 
+engelsowski: scjentystyczny, pewny swoich poznawczych rezultatów, uważający, że 
+znosi podstawowe antynomie ludzkiego życia. Materializm dialektyczny, który 
+w praktyce badawczej w pewnym momencie uznany za bardziej filozoficznie istotny, 
+niż materializm historyczny. 
+
+U Engelsa wraca filozofia w postaci podstawowej: ontologii i epistemologii. To 
+jest cofnięcie się do teorii przedmarksowskich. Brzozowski będzie twierdził, że 
+Engels wraca nawet do przedkantowskiej metafizyki *ubranej* w naturalistyczny 
+żargon. Engels też wieszczy kres filozofii, ale tak, jak wieszczą go radykalni 
+pozytywiści -- filozofia pozostanie co najwyżej jako teoria nauki, języka 
+naukowego. W engelsowskim przekonaniu, że filozofia będzie ewoluować w stronę 
+metanauki nauk szczegółowych -- tu widać założenie materializmu dialektycznego 
+-- o **jedności świata**. Istnieć powinna jedna metoda badania tego świata, 
+powinna istnieć jedna ludzka, uniwersalna wiedza. 
+
+Engels twierdzi, że to, co głosi, nie da się sprowadzić do materializmu 
+*mechanistycznego*. Jednak to jest poziom pewnych deklaracji, ponieważ i tak 
+całą historię ludzkiego myślenia Engels sprowadza do opozycji między idealizmem 
+a materializmem. To nie jest tylko koło zamachowe w filozofii, ale to jest to, 
+co napędza ludzką świadomość, który od starożytności napędza treść naszego 
+myślenia. (idealizm -- przyroda wtórna względem ducha albo wytworem ducha, 
+ludzkiej świadomości, Boga; materializm -- przyroda pierwotna, duch wtórny, 
+jedyna forma ducha, o której możemy powiedzieć, że istnieje, to świadomość, 
+która jest wysoce zorganizowaną materią, albo wydzieliną zorganizowanych 
+organizmów).
+
+Engels zatrzymuje się po to, by zachować pozytywistyczny fenomenalizm. Znamy 
+zjawiska -- nie kuśmy się o istotowe definicje. Jeśli chcemy myśleć na poważnie, 
+to tylko o tym, co jest -- a to są zjawiska badane przez nauki szczegółowe, 
+które radzą sobie bez filozoficznych uogólnień. Nadchodzi więc zmierzch 
+klasycznej filozofii.
+
+Jeśli z filozofii coś da się uratować, to logikę, którą pojmuje jako psychologię 
+poznania -- empiryczną naukę o poznaniu. Metodologia nauki również może być 
+zajęciem dla filozofów. Gdyby na tym się zatrzymał, to byłby klasycznym 
+pozytywistą. Ale dorzuca do tego jeszcze dialektykę, którą definiuje jako naukę 
+o analogicznych prawach myślenia i przyrody (taka scholastyczna wizja, że prawa 
+myślenia są takie same, jak prawa bytu). Różnica taka, że Engels twierdzi, że 
+scholastyka odkrywa te prawa jako niezmienne, nie dostrzegając ciągłej zmiany 
+i przez to fałszując. Dialektyka poheglowska odkrywa zmianę jako fundamentalny 
+element bytu. Idea dialektyki kładzie nacisk na procesualny charakter rzeczy -- 
+nie ma nic stałego.
+
+Dialektyka jest świadomością zmienności rzeczywistości i próbą ustalania zasad 
+tych przeobrażeń -- one nie są chaotyczne, mamy tu prawidłowości, które opisuje 
+dialektyka. Próba racjonalnego ujęcia procesualności rzeczywistości. 
+
+Engels dąży do zbudowania ogólnej teorii wszystkiego -- wnioski mają odnosić się 
+zarówno do sfery przyrodniczej, jak i społecznej. Dialektyka jest z jednej 
+strony teorią (analiza zmienności świata), z drugiej strony dialektyka jest 
+wewnętrzną, podstawową cechą rzeczywistości, że to są same te procesy, sama ta 
+zmienność -- Engels te dwa znaczenia miesza.
+
+Trzy prawa dialektyki,  które miały stanowić kościec dialektycznego myślenia (to 
+jest istotne o tyle, że później -- w marksizmie sowieckim, zwłaszcza 
+stalinowskim -- do nich się odnoszono jako do niezmiennych):
+
+- prawo przechodzenia ilości w jakość i jakości w ilość -- jest dość naiwne, 
+oparte na obserwacji, że na przykład zmiana temperatury prowadzi do zmiany stanu 
+skupienia, już wtedy fizycy zaczęli klarować, że w fizyce nie ma czegoś takiego, 
+jak zmiany jakościowe -- uniwersalizowanie naszych obserwacji jest naiwne
+- prawo przenikania się przeciwieństw (jedności i walki przeciwieństw) -- mniej 
+banalne, co nie znaczy, że prawdziwe; to jest próba ujęcia, w formie 
+przypominającej prawo myślenia/rzeczywistości, tego, że zmiana zachodzi poprzez 
+sprzeczności, przenikania się sił, które dążą jednak do jakiejś jedności; Engels 
+twierdził, że to prawo obala logikę klasyczną opartą na zasadzie 
+niesprzeczności, co miało skutki w ZSRR, kiedy w latach 30-stych zabroniono 
+badań filozoficznych, ale też zabroniono badań z zakresu logiki formalnej 
+uznając, że aksjomat niesprzeczności ma charakter burżuazyjny
+- prawo podwójnej negacji -- podwójna negacja prowadzi do afirmacji, rozwój 
+poprzez sprzeczności, pewien element wyłania z siebie pewne zaprzeczenie, które 
+wyłania z siebie swoje zaprzeczenie; teza-antyteza-synteza -- ten schemat miał 
+być uzasadniany przez zasadę podwójnej negacji; to prawo napędzało metafizyczną 
+wyobraźnię mówiącą o spiralnym schemacie samoznoszących się przeciwieństw; na 
+przykład pierwotny komunizm -- jego negacją społeczeństwo klasowe -- jej negacją 
+komunizm przyszłości; takie rozumowanie oparciem dla materializmu historycznego 
+w duchu Engelsa, który jest ściśle spleciony z jego rozumieniem komunistycznego 
+ideału
+
+Obecna antynomia między teorią i utopią (komunizmem, którego materializm 
+historyczny nie jest w stanie przewidzieć, bo jest opisem społeczeństwa 
+klasowego). Konflikt, który być może jest podstawowy. 
+
+Engels w swoim rozumieniu komunizmu staje się w pewnym sensie prekursorem 
+leninowskiej praktyki urzeczywistniania komunistycznego ideału. U Engelsa obecne 
+jest to w formie metafory przedstawiającej komunizm jako organizację zakładu 
+pracy (nowoczesnej fabryki) rozszerzonej na całe społeczeństwo. Będzie 
+planowanie, zarządzanie, administracja, kontrola -- to daje ludziom wolność, 
+panowanie nad światem. Jednak tak naprawdę tu pojawia się przeciwstawienie 
+komunizmu-fabryki i kapitalizmu, czyli rynku, który przypomina raczej rosyjski 
+jarmark -- chaos, brak kontroli i administracyjnych uporządkowań, wymiana, ten 
+chaos ludzi zniewala, panuje nad nimi.
+
+Walicki stwierdza, że Leninowi podoba się kapitalistyczny sposób produkcji (to 
+była gospodarka wojenna, gdzie wiele sfer podporządkowanych było państwu). 
+W czasie wojny duże sfery gospodarki uległy upaństwowieniu. Złem nie jest 
+kapitalistyczny sposób produkcji, nie podoba się rynek, czyli kapitalistyczny 
+sposób dystrybucji. Sąd, że produkcję i dystrybucję da się rozdzielić.
+
+Współczesny kapitalizm to kapitalizm zmonopolizowany, scentralizowany -- to jest 
+racjonalnie kontrolowany kapitalizm państwowy. Engels o tym jeszcze nie wiedział 
+-- dostrzegał monopolizację, ingerencję rządów w sferę gospodarczą. Engels 
+patrzy na gospodarkę przez pryzmat jednej fabryki. (Engels był menedżerem -- 
+zarządzał Manchesterskimi fabrykami swojej rodziny, widział racjonalną 
+organizację procesów pracy, sądził, że można to przenieść na całe 
+społeczeństwo). Dzieje się to, co stało się na samym początku przyjaźni Marksa 
+i Engelsa. Na początku to Engels, jako lepiej zorganizowany w sprawach 
+gospodarczych, był źródłem informacji, wskazówek dla Marksa. Później przemiana 
+-- to Marks ekonomistą, Engels pisał dialektykę przyrody, dzieła filozoficzne, 
+antropologiczne. Jednak przecież nadal Engels jest tym, który ma bezpośrednią 
+znajomość gospodarki. Engels nadaje rozumowaniu element konkretu -- pokazuje na 
+czym ma polegać urzeczywistnienie wolności. Handlu w klasycznym rozumieniu nie 
+będzie, bo nie będzie pieniądza. Będą co najwyżej bony pracy, będące 
+ekwiwalentem czasu pracy możliwe do zrealizowania w przyzakładowych kantynach. 
+Wszystkie potrzeby materialne robotnik będzie zaspokajał w swoim własnym 
+zakładzie pracy.
+
+Engels przykładem fabrykanta, aczkolwiek sam nie uważał się za kapitalistę. Od 
+lat 40-stych jest bardzo wyczulony na procesy, które zauważa. Engels opisywał 
+piekło życia robotników w angielskich miastach przemysłowych, jednak jak Marks 
+uważał, że to jest konieczna cena, którą trzeba zapłacić za rozwój. Kapitalizm 
+piekłem, przez które trzeba przejść, jest ważnym etapem rozwoju, który umożliwia 
+skok do królestwa wolności.
+
+Innym elementem przekonanie Engelsa, że socjalizm jest koncepcją naukową, że to 
+nie jest żaden ideał, a nauka. O jego naukowości ma świadczyć antywoluntaryzm -- 
+uznanie, że szereg procesów przebiega niezależnie od ludzkiej woli -- to nie 
+oznacza, że należy dążyć do rewolucji za wszelką cenę, tu i teraz. Społecznością 
+rządzą prawa, których nie możemy zmienić. Musimy czekać aż wydarzą się konieczne 
+procesy. Nie powinniśmy dążyć do jego przyspieszania.
+
+Kolejna rzecz -- Engelsowska koncepcja wolności. Engels akceptując marksowską 
+koncepcję wolności jako panowania i kontroli dodaje do niej to, że uznaje 
+koncepcję wolności jako uświadomionej konieczności, którą za stoikami rozwijali 
+Spinoza i Hegel. Uświadamiamy sobie konieczności świata przyrodniczego, aby nad 
+nim panować, aby nie działać wbrew niej tracąc niepotrzebnie energię. Komunizm 
+jest koniecznością historyczną, która nastanie. Po jego śmierci wybuchnie 
+dyskusja dotycząca roli jednostki w historii -- czy komunizm nastanie sam 
+z siebie? Jeśli tak, to po co ruch rewolucyjny?
+
+Marks i Engels uważali, że społeczeństwo musi dojrzeć do rewolucji -- na tym 
+polega zadanie partii rewolucyjnej na tym etapie historii. U Engelsa pojawia się 
+możliwość zastąpienia pojęcia rewolucji pojęciem *ewolucji* -- można sobie 
+wyobrazić, że te przemiany doprowadzą do formy gospodarki mieszanej obecnej 
+w państwie opiekuńczym, że do czegoś takiego można dojść za pomocą pokojowych 
+środków -- miało to być mało prawdopodobne, ale logicznie możliwe.
+
+Druga międzynarodówka od Engelsa przejęła przekonanie, że o naukowości teorii 
+świadczy determinizm. Determinizm umożliwia formułowanie prawidłowości -- jednak 
+to jest wizja historii, która toczy się wbrew ludzkim pragnieniom. Taka 
+możliwość interpretacji również istniała: ludzie (nie tylko jednostki, także 
+grupy zorganizowane na przykład w formie partii) mogą być bezwiednymi formami 
+postępu. Historia miałaby się rządzić prawami niezależnymi od naszych decyzji, 
+pragnień, co do których możemy zgodzić się na ich obowiązywanie. To jest obszar 
+uświadomionej konieczności. Engels zapowiadał spór, który będzie 
+charakterystyczny dla marksizmu kolejnego stulecia. 
+
+Druga międzynarodówka przez Kołakowskiego nazwana *złotą erą marksizmu* -- 
+jeszcze bez ortodoksji, otwarta na dyskusje. Koncepcje Engelsa stanowiły oś, 
+wokół której kształtowały się najważniejsze dyskusje -- powstała ona jeszcze za 
+życia Engelsa. 
+
+Kwestia polska w ramach drugiej międzynarodówki. Tutaj na przykład Róża 
+Luksemburg ośmielała się prowadzić dyskusje. Ale o tym za tydzień
 
 

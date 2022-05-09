@@ -787,6 +787,132 @@ pojęć. Jest ona ze stanem natury sprzeczna. Ostatnie zmiany pokazane stanu
 
 Na następny raz czytamy Kanta
 
+## Ćwiczenia 9 -- 09.05.
 
+### Cunt -- Krytyka czystego rozumu
 
+#### Przedmowa Spryszaka
+
+Dwa znaczenia krytyki -- z jednej strony forma opisu, z drugiej rozpoznawanie 
+jaki jest zakres rozpoznawania naszego rozumu. 
+
+Nauka o czystym rozumie czegoś szerszego -- filozofii transcendentalnej. Jest to 
+nauka, która ma mieć pewne ustalenia -- jej ustalenia są pewne.
+
+Co to znaczy **czysty rozum** -- jest to rozum minus doświadczenie. 
+
+Z drugiej strony rozum + doświadczenie - przykładem fizyka newtonowska.
+
+Filozofia Kanta ma nam dać odpowiedź jak są możliwe sądy syntetyczne a priori, 
+jaki jest ich zakres?
+
+Ważne jest połączenie myśli z naocznością -- myśl musi mieć egzemplifikację 
+w naoczności -- to jest posthume'owski wniosek. Okaże się, że nie ma naoczności, 
+która pozwalałaby formułować sądy metafizyczne. 
+
+#### Wstęp
+
+Metafizyka powinna być apriori. W szczególności ma dotyczyć Boga, wolności, 
+nieśmiertelności.
+
+Wygrana metafizyki polega na tym, że pewne jej twierdzenia nie mogą być 
+udowodnione, ale należy je przyjąć ze względu na praktyczne działanie.
+
+U Kanta to, co jest *metafizyką*, albo jest badaniem samego rozumu, albo 
+konstatacją, iż postulaty metafizyki powinny być przyjęte na zasadzie postulatów 
+praktycznych.
+
+Matematyka jest OK, fizyka newtonowska też. Jednakże metafizyka się nie rozwija. 
+Filozofia Kanta daje  odpowiedzi na pytania dlaczego rozwija się matematyka, 
+fizyka, jednak nie rozwija się metafizyka. My zdążymy dojść na tych zajęciach do 
+kwestii metafizycznych.
+
+Przewrót kopernikański -- to już się dokonało na gruncie matematyki i fizyki -- 
+teraz dokona się na gruncie metafizyki.
+
+Jak Kant patrzy na matematykę? Na czym polega przewrót, który tutaj się dokonał?
+
+*Tyle z rzeczy poznajemy *a priori* ile sami w nie wkładamy* -- wedle Kanta 
+matematyk wydobył z rysunku trójkąta nie to, co było z niego empiryczne, bo to 
+by nie dało wiedzy, ale to, co sam w ten rysunek włożył. W pewien sposób 
+komponenty *a priori* w rysunku. Naoczność mówi mi coś o rysunku, ponieważ jest 
+tam część *a priori*. Trójkąt tylko egzemplifikował pewną rzecz, której pojęcie 
+*a priori* już mieliśmy. Nic dziwnego, że *a priori* coś można było ustalić na 
+temat tego trójkąta. Ale z samego pojęcia trójkąta nic nie możemy wydobyć. 
+Jednak jeśli włożę do tego, co konstruuję, to pojęcie, to pojęcie *rozwinie się* 
+przez rysunek.
+
+To samo dotyczy fizyki -- ona wpadła na ten sam trop. Choć dla samego Newtona 
+nauka jest uogólnieniem doświadczenia. To samo tyczy się fizyki. 
+
+Teraz spróbujmy to zastosować do metafizyki. Mamy pewne zjawisko i komponent *a 
+priori*, które w to zjawisko jest wkładane. Co ważne -- nie wkładam komponentu 
+*a priori* w rzeczy same w sobie. Do zjawisk rzeczy zakładam, że mogę te 
+komponenty włożyć. To jest ten przewrót kopernikański. Jest on poczyniony 
+w imieniu metafizyki w celu sprawdzenia, czy da korzystne rezultaty. Okaże się, 
+że to się ładnie połączy z matematyką i fizyką, jednak nie jesteśmy w stanie 
+przebić się przez barierę zjawisk, by dojść do zjawisk *samych w sobie*. 
+Negatywny wynik, jaki daje jego krytyka czystego rozumu. Na pewno lepsze jest to 
+od posługiwania się rozumem *na oślep*, bezkrytycznie -- jeśli nie zbadam 
+rozumu, to snucie rozważań będzie snuciem kolejnych twierdzeń bez żadnego 
+uzasadnienia -- są one dogmatami w złym tego słowa rozumieniu -- przyjmowaniem 
+na wiarę, bez uzasadnienia.
+
+Według Kanta prawdziwości 2+3 nie da się wytłumaczyć metodami Hume'a. To nie 
+jest wynik tego, że wykonałem to działanie wiele razy na przykładach 
+empirycznych.
+
+Poznanie polega na aktywności podmiotu, nie jest rezultatem receptywności 
+podmiotu -- wtedy byłoby ono poznaniem *tu i teraz*, o zjawisku, nie byłaby to 
+ogólniejsza prawidłowość. Dodajemy rozum do naoczności tak, jak dodawali rozum 
+do naoczności matematycy i fizycy. 
+
+W przeciwieństwie do matematyki i fizyki metafizyka wchodzi na poziom czystych 
+pojęć -- jest to poznanie czysto spekulatywne.
+
+Naoczność intelektualna -- *oglądanie* rzeczy samej.
+
+Oglądanie czymś innym od myślenia -- jest bezpośrednim kontaktem z przedmiotem, 
+myślenie pośrednim. Oglądanie zmysłowe to jest oglądanie czegoś przez jego 
+przejaw, oglądanie czystej to oglądanie rzeczy samej. Nasz umysł nie jest 
+wyposażony w naoczność czystą -- gdyby był, to moglibyśmy stworzyć metafizykę. 
+Nie mamy naoczności czystej, w sumie nie wiadomo dlaczego.
+
+Trzeba wyjaśnić możliwość poznania matematycznego. Wyjaśnienie będzie się 
+później opierało na tym, że poznanie matematyczne opiera się na naoczności 
+zmysłowej.
+
+Sądy syntetyczne/analityczne, a priori/a posteriori. Cenniejsze są syntetyczne 
+i a priori.
+
+Orzeczenie zawiera się w podmiocie -- wystarczy analiza przedmiotu -- to jest 
+zdanie **analityczne**.
+
+Zdanie **syntetyczne** to takie, które nie jest analityczne. Mam podmiot, 
+orzeczenie, muszę znaleźć jakiś łącznik -- coś musi dać mi tę syntezę. Takim 
+łącznikiem może być doświadczenie. Cechami charakterystycznymi jest 
+przypadkowość i ogólność względna. Brak ogólności i konieczności.
+
+7 + 5 = 12 -- to jest zdanie syntetyczne a priori. Chyba chodzi tu o to, że 
+z pojęć 7, 5, + możemy wywnioskować tylko tyle, iż 7+5=7+5, a ile to jest? Żeby 
+odpowiedzieć na to pytanie trzeba w jakiś sposób to przeliczyć
+
+**a posteriori** -- coś uzasadniane przez odwołanie do doświadczenia
+
+**a priori** -- coś, co może być uzasadnione bez odwołania do doświadczenia
+
+Matematyka ma być zarazem syntetyczna, jak i a priori. Jak jest możliwe to, że 
+jest zarówno taka i taka? O tym za tydzień :)
+
+Dlaczego matematyka jest a priori? Uzasadnieniem Kanta jest to, że sądy 
+aprioryczne są ogólne i konieczne. Czy to nie przypomina dowodzenia tego, co się 
+założyło? Jakie jest inne uzasadnienie, że prawa matematyki nie są a posteriori? 
+(Tarski na przykład twierdził, że podstawowe twierdzenia i aksjomaty logiki są 
+a posteriori). 
+
+### Organizacja
+
+- egzamin stacjonarny
+- forma testowa -- forma porównywalna do egzaminu Miklaszewskiej
+- co do pracy zaliczeniowej -- wszystko w syllabusie
 
