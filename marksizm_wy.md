@@ -42,7 +42,7 @@ regułom. Mamy moc kreacyjną, przekształcania natury w świat ludzki. Nadawać
 wartość elementom świata natury. Na przykład tworzyć dzieła sztuki. Ale też (i 
 to jest główny przedmiot zainteresowania Marksa) tworzenie z elementów 
 naturalnych przedmiotów, które możemy konsumować lub wymieniać. Nadajemy pewnym 
-rzeczą wartość:
+rzeczom wartość:
 
 - wartość użytkowa (co możemy z tym przedmiotem zrobić? zjeść? wykorzystać do 
 stworzenia innych przedmiotów?) -- jest ona immanentnie wpisana w przedmiot 
