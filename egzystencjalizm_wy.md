@@ -3051,6 +3051,156 @@ zwany szyfr transcendencji -- one nas otwierają na prawdziwy wymiar istnienia;
 ten prawdziwy wymiar istnienia w naszej egzystencji jest objawiany przez to, co 
 Jaspers nazywa sytuacjami granicznymi. Ważną formą poznawania w sytuacjach 
 granicznych oprócz filozofii (opartej nie tylko na abstrakcjach, bezosobistej 
-refleksji, a przede wszystkim na wierze wilozoficznej) jest świat sztuki 
-sięgający do archetypicznych tematów uzmiennianych jednak hisotrycznie.
+refleksji, a przede wszystkim na wierze filozoficznej) jest świat sztuki 
+sięgający do archetypicznych tematów uzmiennianych jednak historycznie.
+
+## Wykład 9 -- 11.05.
+
+## Sartre
+
+Nie tylko nie odrzucił terminu *egzystencjalizm*, ale się z nim utożsamiał. Na 
+gruncie francuskim Sartre miał konkurenta -- nie wchodził z nim w bezpośrednie 
+polemiki -- chodzi o Gabriela Marcela. Marcel będzie zrobiony na innym 
+wykładzie. Przez wiele lat Marcel pozostawał w cieniu Sartre'a, który zdominował 
+scenę filozoficzną na dziesiątki lat.
+
+Początki filozofii egzystencjalistycznej we Francji są niejasne. Genezą jest 
+tekst dotyczący fenomenologii, w którym Sartre dziękuje Husserlowi za 
+dostarczenie instrumentarium pozwalającego na przeprowadzenia analiz, które go 
+interesowały -- związku świadomości ze światem. Dwa te człony zostały przez 
+Sartre opracowane.
+
+Żeby zrozumieć myśl Sartre'a trzeba sięgnąć do jego prac z późnych lat 20-stych. 
+Kiedy wyjechał na stypendium do instytutu niemieckiego (to był już okres po 
+przejęciu przez nazistów władzę), zaczął studiował Husserla i Heideggera. 
+Przyjechał do Berlina już uposażony w pewną wiedzę wstępną.
+
+Rozpoczynał od tego jak można fenomenologię wykorzystać, ale nie do opisu istot, 
+pewnych związków pozaczasowych, ale przede wszystkim do opisu rzeczywistości 
+żywej, dotyczy jego życia niemal codziennego. Sartre uważa, że fenomen życia 
+jako takiego jest wart przestudiowania. Jego nauczyciel uwrażliwił go na żywotną 
+tkankę życia człowieczego. Sartre przyjął wizję codzienności, jako czegoś, co 
+nas zastaje, jako czegoś, co nie jest przez nas wybrane, w co *zostaliśmy 
+wrzuceni* mówiąc językiem Heideggera.
+
+Sartre uważa, że świadomość jest charakteryzowana głównie przez związek 
+*intencjonalności* upatrując tego związku między matrycą aktu (świadomość) 
+i rzeczywistością, którą ona tworzy -- przedmiot intencjonalny. Sartre'owi nie 
+podoba się takie rozumienie intencjonalności. Jeśli świadomość pojawiła się 
+w świecie, nie ma jeszcze nic wspólnego z czymś osobistym, to nie może tylko 
+dokonywać aktów konstytutywnych -- musi nakierowywać się na coś, co jest realne, 
+co jest rzeczywiste. Husserl pozostawił wiele wątpliwości co do tego co jest 
+rzeczywiste. Uważał, że matryca świadomościowa rzeczywistość konstytuuje, nadaje 
+jej pewien sens. Natomiast dla Sartre'a między świadomością a światem 
+rzeczywistym (między świadomością jako pewnym typem bytowości utożsamionej 
+z egzystencją a światem utożsamionym z bytowością samą w sobie) zachodzi 
+związek, ale ten związek jest przede wszystkim związkiem różnic, protokołem 
+rozbieżności -- one nie są do siebie ontologicznie sprowadzalne, mało tego, one 
+stoją na dwóch różnych krańcach. To jest punkt wyjściowy -- pierwotna intuicja 
+świata jest zabarwiona pesymizmem -- świat jest nieprzenikniony do samego końca, 
+stanowi tkankę, która jest gęsta, wykazuje się przypadkowością (kontyngencją), 
+nie widać autora rzeczywistości, ten świat jest czymś przypadkowym. Świadomość 
+została skonfrontowana z tą rzeczywistością. Poprzez opisy jej różnych 
+nakierowań, prób skruszenia bytów nieprzejrzystych, nieprzeniknionych, będzie 
+koncentrował się egzystencjalizm w pierwotnej wersji.
+
+W pierwszych dziełach mamy do czynienia z opisem poszczególnych intencji, 
+nakierowań świadomości na świat. Jednak żeby przystąpić do opisu intencji musimy 
+powiedzieć jak Sartre pojmował samą świadomość. Podobnie jak Husserl w sposób 
+nie psychologiczny -- uważał, że psychologia empiryczna niewiele ma do 
+powiedzenia. Raczej to będzie filozofia nakierowana na pewien opis prac. Nie 
+taka, która będzie zajmowała się pojęciem świadomości, ale taka, która będzie 
+uchwytywała ją w jej działaniu. Seria prac, jest to filozofia świadomości, która 
+prowadzi do późniejszej wykładni tzw. ontologii radykalnej w *Bycie i nicości*.
+
+Świadomość jako twór zupełnie odrębny od świata musi się istotowo różnić. Nie ma 
+niczego wspólnego między istotą rzeczywistości a istotą świadomości. Ona jest 
+pewnego rodzaju przezroczystością. Jest siłą, która sama siebie reguluje. Sartre 
+nazywa to *siłą twórczą*, jest wirem, żywiołem, nie ma ustalonych cech. 
+Świadomość nie może być pojmowana tak, jak w tradycji kartezjańskiej, że gdzieś 
+jest to myślące, czujące *ego*, centrum. Sartre odrzuca ten projekt.
+
+Ego transcendentalne w dwóch znaczeniach: jako przekroczenie tego, co 
+rozumieliśmy przez ego; jako akt wykraczania ego poza swoją własną naturę 
+i udawanie się w kierunku świata. Ta niepersonalna moc, siła, przezroczysta, 
+zawsze dla siebie świadomość dysponuje paroma nakierowaniami na rzeczywistość (w 
+ramach świadomości nakierowanej na świat, a więc wychodzącej poza siebie):
+
+- nakierowanie percepcyjne -- percepcja czymś, co uznaje swój przedmiot jako 
+istniejący, ona się nakierowuje na pewne dane, dany obiekt, który zastaje 
+(obiekt transcendentny względem świadomości), ten obiekt próbuje objąć czymś -- 
+percepcją (percepcja nie ma tu nic wspólnego z tzw. *widzeniem*, to nie jest 
+percepcja wzrokowa). Percepcja szczególnym podejściem, które stara się badać 
+całość uposażeń przedmiotu -- ona nakierowuje się nie jednorazowo, tylko 
+w *kolejnych rzutach* -- zbliża się do obiektu, one ujawniają stopniowo pewne 
+aspekty wskazując na to, że ten obiekt wykazuje właściwie nieskończoną ilość 
+powiązań między sobą. Powiązań choćby jakości, dat wrażeniowych, pewnych sensów, 
+powiązań tego obiektu z wieloma innymi. Wyczuwalny skłon w kierunku Heideggera 
+wyróżniającego przedmioty służące Dasein -- siatkę odniesień się, centrum 
+odniesień miało być Dasein. Jedno prowadzi do drugiego. Sartre idzie podobną 
+drogą, ale jest konkretny. Percepcja, która nakierowuje się na to, co jest poza 
+świadomością (bo świadomość dysponuje zespołem nakierowań percepcyjnych), 
+świadomość zbliża się zawsze do tego, co jest na zewnątrz niej w kolejnych 
+rzutach, nakierowaniach. Sondowanie przedmiotu polega na tym, że dostajemy 
+jedynie część tych aspektów, powiązań, uposażeń jakościowych, część sensów, 
+horyzontów, które otwierają się, by inne mogły się zamknąć. Jeśli mamy pierwsze 
+spotkanie frontalne, to wiadomo, że ukryty będzie tył. Nigdy nie pokaże całego 
+bogactwa. To jest fenomen, który jest fenomenem do zbadania -- cechuje się 
+nieskończonością. Jeśli to się nie udaje, rzeczywistość okazuje się 
+przezroczysta, to możemy czuć się bezradni.
+- *wyobrażenie*, *wyobraźnia*, *intencja* (takie tłumaczenie) -- to jest coś, co 
+doprowadzi Sartre'a do koncepcji nicości, która jest bodaj najważniejszą 
+w egzystencjalizmie Sartre'owskim. Wyobraźnia będzie uchwytywała przedmiot nie 
+stopniowo, kolejno, ona go uchwytuje natychmiastowo, ale ten przedmiot jest 
+przedmiotem pozbawionym całego bogactwa nieprzebranego, które jawiło się 
+świadomości percepcyjnej. Ceną uchwycenia i konstytuowania przedmiotu 
+wyobrażonego jest ubóstwo. Sartre rozbija pewnego rodzaju mit, który był mitem 
+bardzo mocno ugruntowanym w kulturze europejskiej szczególnie w romantyzmie: że 
+wyobraźnia jest siłą, potęgą, wszystko może; ona jest w stanie przez uniesienia 
+tworzyć światy niewyczerpywalne. Sartre mówi, że jeśli wyobraźnię potraktujemy 
+jako specyficzne modi nakierowywania się świadomości na świat, to wyobraźnia 
+jest zubożeniem, koncentracją na wybranych aspektach konstytuowanego przedmiotu. 
+Nie traktujemy i nie zakładamy tezy o istnieniu, operujemy tezą o nieistnieniu. 
+Operujemy tezą **nicościującą**. Musimy przedmiot wyjąć z całej siatki 
+wszystkich współzależnień, całości danej we fragmencie świata, wyjąć, 
+wyizolować, odebrać mu pewne uposażenia, które przysługują mu z natury. Tak 
+ukonstytuowany przedmiot nazywamy przedmiotem wyobrażonym -- on daje nam się 
+w całości, jako coś, co jest skończone i zamknięte.
+
+22:50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1150,3 +1150,164 @@ Praktyka okaże się decydująca. Zawodowi rewolucjoniści.
 W tekście wskazanie formy życia społecznego tworzącej się w sposób samoczynny, 
 a z drugiej strony potrzeba nadzoru, organizacji, może te funkcje pełnić partia. 
 
+## Ćwiczenia 11 -- 11.05.
+
+### Róża Luksemburg
+
+Tekst napisany w więzieniu. Tekst nieukończony. W tekście krytyka rewolucji 
+październikowej.
+
+Początek -- krytyka niemieckiej socjaldemokracji, która w obliczu wojny 
+przestała być marksistowska.
+
+Rewolucja dojrzała wewnętrznie. Obraz rewolucji, która nie wymagałaby przesłanek 
+ekonomicznych, społecznych, żeby zaistnieć. Widoczny entuzjazm autorki jeśli 
+chodzi o ruch rewolucyjny. Jednak krytyka jego różnych aspektów.
+
+Analiza zagadnień praktycznych (na przykład narodowości). Dalej krytyka na 
+gruncie teorii stanowiska proletariatu międzynarodowego w obliczu wojny, samej 
+rewolucji. Bolszewicy nastawili rewolucję na skalę międzynarodową, natomiast 
+poglądy socjaldemokratów mają zwalniać proletariat międzynarodowy od 
+odpowiedzialności.
+
+W rewolucji bolszewickiej faktyczna nadzieja na to, że masy będą miały wpływ na 
+życie publiczne.
+
+Komponent partyjny obecny u Lenina zostaje zmarginalizowany. Sam fakt rewolucji 
+doceniany przez Różę Luksemburg. Doceniana radykalność -- rola partii polega na 
+tym, że najpierw musi być ona radykalna, dać przykład proletariatowi, a tym 
+samym zdobyć większość. Mamy odwrócenie porządku. Istotna jest żywiołowość, 
+zagadnienia związane z samym ruchem robotniczym. 
+
+Rewolucję 1917 uważa ona za kontynuację rewolucji 1905. Partia ma tu zupełnie 
+inne znaczenie, niż u Lenina. Proletariat ma być rzeczywistym podmiotem 
+rewolucji. Próba zminimalizowana ciała partyjnego, reprezentacji politycznej, 
+która mogłaby dążyć do wyodrębnienia się, do tworzenia nowej arystokracji 
+biurokratycznej. Prawdopodobnie jest to wynik obserwacji skłonności partii 
+Lenina.
+
+Zwrócenie uwagi, że w tych warunkach nie dałoby się urzeczywistnić socjalizmu. 
+Dlaczego jest niemożliwy w warunkach rosyjskich? Różne interesy grup -- 
+chłopstwo chce własności ziemi, żołnierze natychmiastowego zakończenia wojny. 
+Mamy oportunizm, przekonywanie do siebie grup społecznych bez dalekowzrocznego 
+planowania. To będzie przeszkoda wewnętrzna. Lecz dodatkowo aspekt 
+międzynarodowy. Nie jest możliwe przeprowadzenie rewolucji tylko w jednym kraju. 
+Niedojrzałość proletariatu niemieckiego do przeprowadzenia rewolucji na 
+zachodzie.
+
+Propozycja rozwiązania w skali światowej -- w skali proletariatu 
+międzynarodowego. Można się zastanawiać jaka jest rola rewolucji rosyjskiej 
+w odniesieniu do rewolucji światowe. Luksemburg stara się uznać rewolucję 
+rosyjską za początek rewolucji światowej.
+
+Poglądy Luksemburg stoi w przeciwieństwie do propozycji rewizjonistycznych. To 
+cel jest tu wszystkim Widzi doniosłość w radykalizmie bolszewików, którzy 
+chcieli przejść do dyktatury proletariatu. Jednak taktyka leninowska jest 
+z gruntu antydemokratyczna. Inaczej widzi to Luksemburg. Szereg zarzutów wobec 
+bolszewików.
+
+Mowa o naturze rewolucji rosyjskiej, która była podporządkowana celom partyjnym. 
+To, za czym opowiada się Luksemburg, to traktowanie partii nie jako 
+stowarzyszenie rewolucjonistów, ale demokratyzm jest podkreślany. Ta droga 
+powinna wieść *od dołu* nie wykluczając roli partii, która jest doniosła 
+i potrzebna. Taktyka partyjna powinna uwzględniać naturę procesu społecznego. 
+Powinna sprzyjać pojawiania się ruchu społecznego, który ma prowadzić do 
+większości. Nie jest to rewolucja przeprowadzana odgórnie (s będzie skutkowało 
+dławieniem wolności) -- partia powinna przewodzić, lecz nie zawłaszczać władzy. 
+Lenin odwrotnie do tego podszedł -- postanowił przeprowadzić rewolucję siłami 
+partyjnymi oczekując, że ten ruch da się odgórnie stworzyć. Z tym wiązały się 
+koniunkturalne posunięcia Lenina, które szły na pewne ustępstwa względem 
+postulatów, które z gruntu nie były marksistowskie. Według Luksemburg stają się 
+one przeszkodą na drodze do socjalizmu, będzie tworzyła przeszkody dla partii 
+leninowskiej i wzrost przemocy.
+
+W skali międzynarodowej Luksemburg nie krytykuje rewolucji dlatego, że odbyła 
+się w kraju, w którym kapitalizm nie rozwinął się. Mielibyśmy interpretację 
+rewolucji, w której kraje zacofane mogłyby ją przeprowadzić na podstawie 
+przywilejów, przeniknięte doświadczeniem krajów kapitalistycznych mogą szybciej 
+przesunąć się ku kapitalizmowi.
+
+Istotne to, że w samej rewolucji miałyby być zawarte elementy przyszłego 
+systemu. Rewolucja w sensie moralnym, strukturalnym sama przygotowuje przyszły 
+porządek społeczny. Moralna interpretacja rewolucji, która stwarza nowego 
+człowieka, właściwie nową społeczność. Partia powinna przewodzić rewolucji, ale 
+nie w tym sensie, że wprowadza do ruchu robotniczego idee z zewnątrz -- powinna 
+odzwierciedlać świadomość klasową proletariatu, jej rola powinna być pomocnicza 
+i dodatkowa, a nie rola awangardy proletariatu.
+
+Dalej analiza polityki bolszewików, z którymi się nie zgadza.
+
+Nadanie chłopom własności ziemi -- Luksemburg widzi tu realizację celów 
+politycznych a nie rewolucyjnych. Polityka bolszewików sprzeczna z celami 
+marksistowskimi. Próba zdobycia władzy, poparcia niektórych grup społecznych. 
+Ostatecznie zamiast właściwej reformy mamy podporządkowanie wszystkiego praktyce 
+politycznej. Dwa błędy tej polityki, które dotyczą przede wszystkim tego, że 
+mamy do czynienia z pogłębieniem nierówności i stworzeniem nowej hierarchii 
+społecznej, która powinna była zostać zniesiona. Co najgorsze potwierdzenie 
+instytucji własności prywatnej na wsi -- wykreowanie burżuazji ziemskiej, która 
+nie będzie skłonna (skoro osiągnęła swój cel) do zrzeczenia się swojej 
+własności. Masy, które miały być podstawą rewolucji, stają się reakcyjne. Chłopi 
+nie są skłonni uczestniczyć w rewolucji. Stają się kolejną przeszkodą na drodze 
+praktyki rewolucyjnej. To poskutkuje koniecznością wprowadzenia bardziej 
+radykalnych zmian.
+
+Kwestia narodowościowa -- rozbicie koncepcji rewolucji międzynarodowej. Krytyka 
+sloganu *samookreślenia narodu*. Rosja jest imperium, była zmieszana 
+narodowościowo. Trzeba było podejmować decyzje rewizjonistyczne. Zauważa, że 
+danie wolnej ręki prowadzi do wzrostu nacjonalizmów w Europie. Jak pogodzić to 
+z oddolnym rozumieniem antykolonializmu? Zawłaszczanie przez kapitalizm państw 
+niekapitalistycznych. Stąd sprzeciwianie się dążeniom niepodległościowym na 
+przykład w Polsce -- miały one pogłębić podziały rynku, a to ekspansja rynku 
+kapitalistycznego -- jego jednoczenie się, prowadzi do jego samozagłady.
+
+Przejście do samej logiki/struktur rewolucji. Problem być może najistotniejszy 
+-- problem demokracji. Powinno się zadbać o przedstawicielstwo władz ludowych 
+i dbać o to, żeby wywierać na przedstawicieli presję ludu, który mają 
+reprezentować. Twierdzi, że rewolucja sama powinna wytworzyć swoich 
+przedstawicieli. Stałe oddziaływanie ze strony wyborców na wybranych. Wpływ 
+ludzi na władzę. Doszłoby do zlania się społeczeństwa obywatelskiego 
+i jednostek. Miałoby to zapobiec wszelkim próbom oddzielenia partii/władzy od 
+samego ruchu robotniczego. W idealnym świecie mielibyśmy do czynienia ze 
+zmiennymi instytucjami, tak jak zmienne są ruchy ludzi -- następuje całkowita 
+dezalienacja instytucji. Jednak Luksemburg chciałaby rozszerzenia lokalnych 
+społeczności na cały kraj. Czy to nie jest oderwane od rzeczywistości?
+
+Negowanie wolności, równości, prowadzi do nierówności, do wyzysku.
+
+Akcent kładziony na kwestię wolności i demokracji. Głównym zarzutem pozbawienie 
+rewolucji spontaniczności. To może prowadzić do dyktatury kliki, oderwania 
+partii od mas, stworzenia formy instytucjonalnej, która będzie podlegała 
+skostnieniu. Marksiści nie mają wskazówek co do tego, jak społeczeństwo będzie 
+się organizować. Stawia tu na spontaniczności. Wydaje się, że Luksemburg wierzy 
+w rewolucję. To ona sama powinna wyłonić nowa formę społeczną, lecz warunkiem 
+zachowanie wolności, życia politycznego, pluralizmu. Jest przekonana, że takie 
+społeczeństwo w okresie przejściowym będzie zdolne do przedstawienia nowej 
+formy. To wszystko uniemożliwia praktyka bolszewicka, która zdławiła wolność -- 
+klika wypaczeniem idei dyktatury proletariatu. Luksemburg twierdzi, że 
+w dyktaturze proletariatu chodzi o demokrację -- tego nie są w stanie zapewnić 
+bolszewicy.
+
+Nacisk na demokrację. Jeśli chcemy dojść do demokratycznego społeczeństwa, to 
+nie powinniśmy zaczynać od ograniczenia wolności. Z tym wiąże się problem 
+z centralizmem demokratycznym -- to koresponduje z rozumieniem partii jako 
+organizacji politycznej. Celem organizacja całego tego procesu. To nie może być 
+partia taka, jak to postrzegał Lenin. 
+
+Jaki ostateczne jest stosunek Luksemburg do Lenina? Stwierdzenie, że sposób 
+uprawiania polityki rewolucyjnej wydają się kontrrewolucyjne. Droga rewolucji 
+nie jest drogą prostą. Praktyka wymusza pewne rozwiązania. Być może niektóre 
+rozwiązania są nie do uniknięcia, wydłużają drogą, są narzucane przez praktykę. 
+Wydaje się, że Luksemburg wierzy, że tych rozwiązań można uniknąć. Z drugiej 
+strony Luksemburg przestrzega przywódców rewolucyjnych przed ruchami, które być 
+może nie są konieczne. Wizja rewolucji, która sama stwarza swój porządek 
+społeczny, sama z siebie wyłania nową rzeczywistość, nie trzeba tu narzuceń 
+partyjnych. Jak ma się relacja świadomości klasowej do roli partii? Ważne jest 
+też to, że Luksemburg przestrzega przed doktrynerstwem, kierowaniem odgórnym 
+samą rewolucją, ponieważ ta droga prowadzi do oddzielenia władzy od tego, co 
+jest sercem samej rewolucji, przez to zabija tę rewolucję. 
+
+Wszystko wskazuje na to, że rewolucja przeprowadzona w bolszewicki sposób dąży 
+do samounicestwienia. Taką pozorną rewolucję krytykuje, odróżnia ją od takiej, 
+która wychodząc od zmian społecznych dochodzi do zmian politycznych. Ludzie 
+powinni sami się *wychować* na gruncie rewolucyjnym.  
+

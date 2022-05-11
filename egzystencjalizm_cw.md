@@ -764,3 +764,102 @@ jest się w modusie.
 jest gdzieś w tle. Przykładem racjonalizowanie sobie -- dorabianie teoryjek, 
 które są wyobrażeniem.
 
+## Ćwiczenia 11 -- 11.05.
+
+### Sartre -- *Egzystencjalizm jest humanizmem*
+
+Tekst zapisem wykładu, opublikowany bez zgody autora. Obrona egzystencjalizmu -- 
+klasyfikacja i własne ujęcie.
+
+*Byt dla siebie* -- nie ma określonej tożsamości, jest planem, wolnością
+
+*Byt w sobie* -- jest tym, czym jest, ma określoną tożsamość
+
+To są kategorie heglowskie.
+
+Odpowiedź na krytykę. Zarówno chrześcijański jak i ateistyczny egzystencjalizm: 
+*egzystencja poprzedza esencję* -- to ujęcie przeciwstawione technicznemu 
+obrazowi świata. Sartre uważa, że egzystencjalizm jest próbą wyciągnięcia 
+konsekwencji z istnienia Boga. Człowiek jest wolnością -- będzie tym, czym sam 
+siebie uczyni. Realizacja wolności nie polega na projekcie, marzeniu, tylko na 
+faktycznym działaniu, dzięki temu może się Sartre zbliżyć do środowisk 
+komunistycznych. Człowiek jest *zespołem związków, który tworzy 
+przedsięwzięcia*. Liczy się konkretna chwila, w której można coś zrobić. Pomimo 
+twierdzenia o ograniczeniu wolności, Sartre twierdzi, że człowiek jest pośrednio 
+odpowiedzialny za innych. Wybierając siebie afirmuje wartość tego, co wybiera, 
+jako dobrego dla wszystkich.
+
+Człowiek jest samotny, jego wybór będzie tylko jego wyborem. Człowiek nie szuka 
+punktu oparcia, sam kształtuje to, kim jest. Jeśli zwraca się do autorytetu, to 
+sam wybiera zwrócenie się do niego. 
+
+*Zła wiara* -- człowiek jako byt dla siebie twierdzi, że nie podjął 
+odpowiedniego działania ze względu na niesprzyjające okoliczności
+
+*Duch powagi* -- koncentracja na świecie i przypisaniu mu większej 
+rzeczywistości, niż samemu sobie; wyrzeczenie się siebie na rzecz świata.
+
+Człowiek skazany na wolność. Ucieczka przed wyborem również jest wyborem. Jedyną 
+ważną kwestią w tej sytuacji jest to, że ma to być realizacja wolności.
+
+Egzystencjalizm nie jest biernością. Nie jest pesymistyczny, bo człowiek sam 
+siebie tworzy -- całe znaczenie jest w nim. Także odpowiedzialność za to 
+działanie. Świadomość własnego cogito to jedyna pewność, nadaje człowiekowi 
+godność, także innemu, który może mi się przeciwstawić.
+
+Powszechność ludzkiej doli -- niezależne od okoliczności: istnienie, praca, 
+śmierć -- to są rzeczy niezależne od okoliczności.
+
+Humanizm -- człowiek jest celem, wartością najwyższą, uczestniczy 
+w odpowiedzialności innych ludzi. Człowiek może wykraczać poza siebie, stwarzać 
+własną istotę, realizować siebie jako wolność. Musi odnaleźć siebie, wytłumaczyć 
+sobie, że nic go nie uchroni przed nim samym, przed własną wolnością.
+
+*Kwietyzm* -- niepodejmowanie działania, zdanie się na łaskę bożą.
+
+Lukacs wyróżniał dwa rozumienia klas: klasa w sobie i klasa dla siebie. Pierwsza 
+jest obiektywnie mierzalna -- nie musi tu być świadomości, druga wtedy, gdy 
+klasa może się ująć.
+
+Humanizm? Przez ruch zwrócony w stronę odpowiedzialności, wolności, podkreśla 
+jego odróżnialność od przedmiotów.
+
+Człowiek działający, który się obiektywizuje w świecie. Nieistotne są intencje 
+czynów.
+
+Człowieczeństwo jest zadaniem. Czymś, co nieustannie się rozwija. W środku 
+*człowieczeństwo*, a nie człowiek jako gatunek, czy personalizm chrześcijański.
+
+Herder -- koncepcja historii jako rozwoju człowieczeństwa jako coraz bardziej 
+subtelnego rozwoju, wyciągania wniosków.
+
+Teza klasycznie humanistyczna -- wszyscy ludzie jako część ludzkości są w stanie 
+się zrozumieć.
+
+Pewne określenie słusznej realizacji swojego społeczeństwa. Zakłada, że pewne 
+doświadczenia są obiektywne i powszechne, wspólne każdemu człowiekowi.
+
+Oczywistość cogito daje nam powszechność. Adorno mówi, że ból wytwarza 
+intersubiektywne wrażenie.
+
+Znaleźć  swoją egzystencję w egzystencji drugiego człowieka. 
+
+Kant miał koncepcję zła *radykalnego* (od *radix* -- korzeń), to jest zło 
+codzienne. Jest to pewna kapitulacja wobec popędów albo niskich pobudek. 
+Pytanie, czy może istnieć *zło diaboliczne*, czyli jest czynione tylko dla 
+czynienia zła. Skorpion i żaba przepływający przez rzekę. Skorpion żądli dla 
+swojej natury. Człowiek, zdaniem Kanta, ma granicę, nie istnieje jego zdaniem 
+złem diabolicznym, które byłoby zupełnie niezrozumiałe.
+
+Esencjalizm (filozofia kultury) -- przeciwstawiany konstruktywizm; czy *kobieta* 
+jest jakąś esencję, czy jest konstruktem. Czy dany typ tożsamości jest 
+konstruktem społczenym, czy czymś, co tkwi w istocie rzeczy.
+
+Relacja humanizmu klasycznego i faszyzmu: dlaczego humanizm w stylu Comte 
+zmierza do faszyzmu? Mimo, że teoretycznie wychwala człowieka jako coś 
+doskonałego, to traktuje go jako niepodlegającego możliwości przekształcenia 
+się, niezmiennego -- to jest faszystowskie. Kult ludzkości, który miałby się 
+u Comte wytwarzać.
+
+*Dola* ludzka ma zastąpić pojęcie natury ludzkiej. Naturę ma przedmiot.
+
