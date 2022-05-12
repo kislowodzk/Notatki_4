@@ -3167,7 +3167,102 @@ wyizolować, odebrać mu pewne uposażenia, które przysługują mu z natury. Ta
 ukonstytuowany przedmiot nazywamy przedmiotem wyobrażonym -- on daje nam się 
 w całości, jako coś, co jest skończone i zamknięte.
 
-22:50
+Nowatorski tryb postępowania, jeśli  chodzi o ustalenie różnic między percepcją 
+a wyobrażeniem: przedmioty percepcji, które zakładamy jako rzeczywiste, muszą 
+być podporządkowane pewnym prawom, na przykład czasu i przestrzeni, przedmioty 
+są w konkretnym czasie w konkretnej przestrzeni, natomiast w porównaniu 
+z przedmiotami wyobrażonymi ta zasada zostaje unieważniona -- te przedmioty są 
+wszędzie, to znaczy nigdzie; są teraz, ale tak naprawdę są zawsze albo poza 
+czasem. Mają status pewnych *fikcji*, choć tego terminu Sartre nie używa -- 
+mówi, że ten czas nie istnieje jeśli chodzi o przedmiot wyobrażony -- one są 
+i cieszą się statusem czegoś pozaczasowego, czegoś, co jest ograniczone do tylko 
+pewnych wybranych cech. Jakie? Takie, które świadomość wyobrażająca uznaje.
+
+Dwa typy przedmiotowości: bogate, uposażone przedmioty wręcz tętniące istnieniem 
+w czasie i przestrzeni. Drugie są ubogie, nie tętnią życiem, są rażone tezą 
+nicościującą, zostały z tego świata wyjęte i tak jak sobie bytują bez czasu 
+i przestrzeni (rozróżnienie między istnieniem i bytowaniem). Przez analizę 
+przedmiotów wyobrażonych Sartre dochodzi do istoty samej świadomości.
+
+Skoro świadomość może działać na zasadzie tez urzeczywistniających (percypować) 
+i nigdy tej percepcji nie wyczerpać, oraz od percepcji może odchodzić, negować 
+ją koncentrując się na specyficznych bytach, to jest już ona wyróżniona 
+ontologicznie na tle wszystkich innych bytów w świecie, ponieważ posiada 
+możliwość odwrotu -- może się odwrócić od świata, inaczej go potraktować, niż 
+tak, jak traktowano go dawniej. Ona może ten świat opatrzeć tezą nicościującą. 
+
+Świadomość jest raczej procesem takim, który ma możliwość *prucia* 
+rzeczywistości -- to okaże się jej funkcją podstawową. Ona wprowadza porządek, 
+który nie interesował filozofów. Teraz będzie Sartre'a interesował stosunek 
+świadomości do świata taki, że od świada się odsuwa, aby realizować swoją *cechę 
+konstytutywną*, jaką jest zdolność do *neantyzacji == nicościowania*. To jest 
+zaczątek, geneza tego wszystkiego, co rozumiemy pod słowem *egzystencjalizm* -- 
+wskazanie na takie uposażenie świadomości, że jest ona ocieraniem się do 
+nicości. Z możliwości neantyzowania rzeczywistości przejście do analiz 
+w kategoriach bytu ludzkiego. Jest to byt, który został naznaczony (bez żadnych 
+autorów tego naznaczenia) podstawową nicością.
+
+Z innych modi, jak myśl czy emocje, Sartr też wyciągnie wnioski, najważniejszym 
+wnioskiem jest to, że byt ludzki jest związany ze świadomością i charakteryzuje 
+się on różnicą ontologiczną z rzeczywistością, bo tak naprawdę tego bytu 
+ludzkiego *nie ma* w takim sensie, jak są przedmioty -- jest on nicością, bo nie 
+może być traktowany w kategoriach pewnych definicji, że jest tym i tym. 
+Dynamiczna formuła -- on jest czymś egzystującym. Tu Sartre przedstawia 
+zasadniczą różnicę między bytem a egzystencją. To jest pierwotne odczytanie 
+Sartre'a.
+
+Rzeczywistość jest czymś, co jest przez człowieka zastane, co nas naraża na 
+pewien kontakt, którego nie możemy się wyzbyć -- musimy podjąć grę 
+z rzeczywistością i uświadomić sobie swoją własną nicość, że człowiek jest 
+pozbawiony cech istotowych, które przypisuje trwałym przedmiotom, czyli bytom 
+w sobie. Temu właśnie służyło pierwsze rozeznanie, jakiego dokonał Sartre na 
+podstawie odczytanych nauk Husserla o świadomości jako percepcji i jako 
+wyobrażeniu.
+
+Konsekwencje, które się pojawiły, które uchodzą za naukę o człowieku, wykładnię, 
+wizję bytu ludzkiego. Sartre również doskonałym artystą, świetnym dramaturgiem, 
+powieściopisarzem. Uczynił z filozofii pewnego rodzaju literaturę i odwrotnie. 
+Pierwszym jego sukcesem w skali europejskiej była książka *Mdłości* -- mdłości, 
+które znamionowały pewien stan świadomości, jaki charakteryzuje i powinien 
+charakteryzować autentyczną kondycję bytu ludzkiego niezakrywanego złymi 
+intencjami. Ukazanie pierwszego kontaktu świadomości percepcyjnej 
+i wyobrażeniowej. Sartre wie, że Husserla trzeba było przerobić, zbuntować się 
+przeciwko formalistyce. Fenomenologia, jeśli ma mieć sens, ma być opisem bytu 
+jednostkowego, czyli świadomości, czyli zdolności percepcji i wyobrażenia. One 
+mówią o dwóch różnych światach. Jeden to świat trwały, drugi nietrwały, o jednym 
+zakładamy, że istnieje, drugi rażony tezą neantyzującą. Aby to zilustrować 
+trzeba te idee przedstawić w formie takiej, która przemówiłaby do jak 
+najszerszego grona odbiorców. Powieść powinna do wielu dostrzec tym bardziej, że 
+Sartre świetnie zestraja formę z treścią. Tu uzupełnia wskazania Husserla co do 
+opisu świata -- jeśli da się tę wizję przedstawić, to trzeba przedstawić 
+jednostkowy świat, który jest czymś niepowtarzalnym, ale pokaże też inne cechy, 
+niż te, które zazwyczaj się utożsamia z rzeczywistością.
+
+Sartre nie jest zainteresowany uprawianiem czystej, formalnej fenomenologii -- 
+chce ją przekuć na koncepcję świata, który jest światem ludzkim. Egzystencjalizm 
+będzie wchodził w mariaże z różnymi kierunkami, na przykład z marksizmem. Efekty 
+są różne.
+
+Dwa modi badane przed Sartre'a -- modi percepcji i wyobrażenia. Sartre wykracza 
+poza czyste fenomenologiczne opisy przedmiotów intencjonalnych wyprodukowanych 
+przez jeden sposób nakierowywania się na świat i przez drugi. Sartre z teorii 
+przedmiotu intencjonalnego przechodzi do samych cech konstytutywnych 
+świadomości. Z nich natomiast do pytania: kim jest człowiek, jak możemy tego 
+człowieka opisać, co jest najistotniejsze, jest coś takiego?
+
+Zwrócenie uwagi na drugi sposób nakierowywania się na świat -- przez 
+wyobrażenia, przez zdolność odwracania się od tego świata, negowania go, 
+neantyzowania, unicestwienia. Powieść, które miała te tezy uplastyzcnić, 
+przedstawić w porządku narracyjnym, okazała się arcydziełem.
+
+Forma powieści -- dziennik, który pozwala w sposób plastyczny przedstawić pewne 
+stany świadomości, pokazać przygodę istnienia w świecie. Bohater jednostkowy 
+w rzeczywistości, która jest czymś konkretnym, ma parametry czasoprzestrzenne. 
+Francja lat międzywojennych. Człowiek, który jest bohaterem samotniczym.
+
+41:35
+
+
 
 
 
