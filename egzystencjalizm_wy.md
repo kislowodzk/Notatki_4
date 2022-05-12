@@ -3258,9 +3258,100 @@ przedstawić w porządku narracyjnym, okazała się arcydziełem.
 Forma powieści -- dziennik, który pozwala w sposób plastyczny przedstawić pewne 
 stany świadomości, pokazać przygodę istnienia w świecie. Bohater jednostkowy 
 w rzeczywistości, która jest czymś konkretnym, ma parametry czasoprzestrzenne. 
-Francja lat międzywojennych. Człowiek, który jest bohaterem samotniczym.
+Francja lat międzywojennych. Człowiek, który jest bohaterem samotniczym. 
+Egzystencjaliści lubią byt samotniczy. Bohater, który zamyka sobie rachunki, 
+chce jeszcze czegoś dokonać, chce napisać powieść faktów, powieść prawdziwą. 
+Wybiera temat markiza, którego spotkał w formie listów, relacji. Osiadł w małej 
+miejscowości, w niej okazał kosmos wydarzeń. Okazanie stosunku jednostki 
+wyczulonej na brak sensu. Przygoda. Zbliżanie nas kolejnymi krokami, odkrywanie 
+struktury rzeczywistości tak, jak ją pojmuje. Ważne nie to, że jest 
+nieprzenikniona -- cechuje się ona jedną kategorią, która jest kategorią 
+przerażającą -- tworzącą *mdłości* -- kategoria tego, że wszystkiego jest za 
+dużo, ponad miarę. Świat jest tym, co przekroczył *dobrą miarę*, stworzył to 
+wszystko, co jest nadmiarowe, niepotrzebne, bez racji istnienia, ociera się 
+o absurd. Siłą rozpędu jakiegoś biologicznego czy socjologicznego trwa i w tym 
+trwaniu jest dla takich jednostek przerażający.
 
-41:35
+Porządek jednostkowego istnienia. Tu wprowadzona po raz pierwszy kategoria 
+istnienia jako nierównowagi, czegoś, co wymaga specjalnej operacji, której nie 
+da się przeprowadzić w tym świecie -- to operacja poszukiwania racji istnienia, 
+usprawiedliwienie. Nie może ono płynąć ze strony świata, bo świat sam jest 
+nieusprawiedliwiony, nadmiarowy, po nic. Nie płynie też ze strony świata 
+ludzkiego (również nadmiarowość, bezprzyczynowość, absurd). Człowiek miota się 
+poza tymi dwoma sferami. Świat natury opisywany w kategoriach pesymistycznych, 
+nawet agresywnych -- to wszystko brzydzi, prowadzi do przesytu. Świat inny, 
+ludzki, nie można od niego oczekiwać pomocy -- człowiek jest skazany na 
+nieprzebraną i nieprzekraczalną samotność. Zostaliśmy w świat rzuceni, musimy 
+w nim tkwić, możemy próbować coś dokonać, ale to są wysiłki przewróconego na 
+grzbiet robaka.
+
+Sartre nie zamyka *Mdłości* takim przesłaniem. Promyk nadziei płynie z już przez 
+Platona odkrytej sfery -- pewnej rzeczywistości, która zostaje wyjęta z praw 
+rodzenia, przemijania, bezzasadnego rodzenia się i znikania w procesie gnicia 
+bytów. Jest rzeczywistość, która przypominałaby coś idealnego -- to jest sfera 
+sztuki przede wszystkim przedstawiona na przykładzie melodii jazzowej. Ta sfera 
+uspokaja, oddala sferę mdłości. To jest porządek obrany z mięsa rzeczywistości. 
+Twórcy zostają w ateistyczny sposób zbawieni, *obmyci z grzechu istnienia*.
+
+Powieść ukazana w roku 38', jednak Sartre nie chciał być mesjaszem, nie 
+przedstawiał stanu, który może nastąpić w wyniku kataklizmu, wojny, on opisywał 
+w kategoriach jednostkowych stan, w którym wiele egzystencji jednostkowych się 
+znalazło bez wyjścia. To było pierwsze ustalenie sytuacji człowieka 
+skonfrontowanego ze światem pozbawionym racji istnienia, będącego stanem 
+nadmiarowym.
+
+To pierwsze uderzenie egzystencjalizmu Sartre'owskiego. Następuje załamanie, 
+wojna, Francja traci niezależność, podział na Francję wolną i okupowaną, życie 
+intelektualne przygasa, ale nie dla Sartre'a, ponieważ to uderzenie historyczne, 
+absurd tego świata, powoduje, że Sartre bierze się do przedstawienia 
+wypracowanej wizji bytu ludzkiego -- podczas okupacyjnych dni stworzył *biblię* 
+literatury egzystencjalistycznej (ateistycznej): *Byt i nicość*.
+
+Rozpoczyna to opis banalnie prosty -- istnieje rozdział między dwoma typami 
+bytowości, poszerza on tę analizę; po dwóch stronach stoją, nazwane z heglowska:
+
+- byt-dla-siebie -- jest to taka rzeczywistość, którą utożsamiamy przede 
+wszystkim ze świadomością, a tę przede wszystkim z człowiekiem -- tylko on może 
+cieszyć się statusem bytu świadomego, czyli takiego, który jest sam dla siebie 
+przezroczysty, sam dla siebie jest bytem danym w pewnej immanencji, 
+bezpośredniości (nie ma czegoś takiego, jak miejsca ciemne, nieokreślone, jak 
+chciał Freud, człowiek jest od początku do końca świadomy, przezroczysty, 
+świadomy tego, że jest tym, nie czymś innym). Człowiek ma strukturę zupełnie 
+odmienną od tego, co jest względem niego transcendentne. Porządek opisu 
+jednostki ludzkiej musi się różnić od kategorii wszystkich innych bytów, wokół 
+których on się lokuje, z którymi zostaje on skonfrontowany. Opis rzeczywistości 
+ludzkiej -- świadomości -- jest oparty przede wszystkim na negacji, zaprzeczeniu 
+związków ze światem zewnętrznym, to jest stosunek konfrontacji. Wszystkie cechy 
+związane z człowiekiem charakteryzują się tym, że różnią się od tych stosowanych 
+do opisu innych typów bytowości. Dla tej właśnie bytowości rezonuje termin 
+byt-dla-siebie, który jest pozbawiony czegoś takiego, co filozofia nazywała 
+*istotą*, więc pełnym, trwałym uposażeniem, który świadczyłby o tym, że jesteśmy 
+ludźmi, tej *humanitas*, o której mówił Heidegger, która warunkowała bycie 
+człowiekiem. Byt-dla-siebie jest przede wszystkim serią negacji -- jego modus 
+istnienia to jest zadawanie pytań, kwestionowanie, wprowadzanie pewnych przerw, 
+miejsc rozkruszonych, by wprowadzić swój porządek: oddzielić siebie od tego, co 
+jest bytem-w-sobie, który otoczył człowieka
+- byt-w-sobie -- charakteryzuje się dwoma podstawowymi tezami: byt jest tym, 
+czym jest; byt jest po nic. Natomiast byt-dla-siebie nie jest tym, czym jest; 
+jest również bytem absurdalnym, jest po nic. Jeśliby się zaczynało robotę 
+filozoficzną i chciało opisać byt, który da się opisać choćby przez to, że on 
+sam jest sobie świadomy, to musi się wyjść od człowieka w konfrontacji z bytem 
+w sobie, pokazać rozliczne relacje, także pokazać relacje, które panują między 
+bytami-dla-siebie, czyli świadomościami. Sartre tego zadania się podejmuje, 
+konstatując, że jeśli każdy byt jest absurdalnym, nadmiarowym, to trzeba z tej 
+tezy wyjść i pokazać co z takim problemem można zrobić.
+
+Byt-dla-siebie jest nietożsamy ze sobą samym -- nie ma tej istoty, tej natury 
+(nie ma autora człowieka -- tak jak rzemieślnik stworzył stół, który był 
+zrobiony wedle odpowiednika, tak nie ma bytu ludzkiego w żadnym projekcie, nie 
+ma sił metafizycznych, jesteśmy faktem, od tego trzeba wyjść). Jest jedynie 
+formuła *bezsensu*, *bełkotu*, nic nie znaczy. W kategoriach definicji nie jest 
+to żadną definicją, co najwyżej jest to pewna *ekspresja*, która ma pokazać, że 
+człowieka jest ciężko scharakteryzować: *Jesteśmy tym, czym nie jesteśmy i nie 
+jesteśmy tym, czym jesteśmy* -- tak Sartre charakteryzuje byt-dla-siebie.
+
+59:50
+
 
 
 
