@@ -3056,7 +3056,7 @@ sięgający do archetypicznych tematów uzmiennianych jednak historycznie.
 
 ## Wykład 9 -- 11.05.
 
-## Sartre
+### Sartre
 
 Nie tylko nie odrzucił terminu *egzystencjalizm*, ale się z nim utożsamiał. Na 
 gruncie francuskim Sartre miał konkurenta -- nie wchodził z nim w bezpośrednie 
@@ -3348,45 +3348,106 @@ ma sił metafizycznych, jesteśmy faktem, od tego trzeba wyjść). Jest jedynie
 formuła *bezsensu*, *bełkotu*, nic nie znaczy. W kategoriach definicji nie jest 
 to żadną definicją, co najwyżej jest to pewna *ekspresja*, która ma pokazać, że 
 człowieka jest ciężko scharakteryzować: *Jesteśmy tym, czym nie jesteśmy i nie 
-jesteśmy tym, czym jesteśmy* -- tak Sartre charakteryzuje byt-dla-siebie.
+jesteśmy tym, czym jesteśmy* -- tak Sartre charakteryzuje byt-dla-siebie. Byt 
+świadomy, ludzki, oparty na poszukiwaniu raczej swojej tożsamości, niż na 
+opieraniu się na niej. Wieczna ucieczka i pogoń za sobą samym.
 
-59:50
+Sartre w jednym z wywiadów przedstawił to jako sytuację odbywającą się na 
+karuzelach z figurami, gdzie ludzie siedzą na konikach -- obracają się, ale tak, 
+że ani jeden do drugiego się nie zbliży, ani jeden nie złapie drugiego. Człowiek 
+takim pościgiem za sobą samym, ale ten wyścig zakończy się dopiero po 
+zakończeniu egzystencji.
 
+Ta formuła *Jesteśmy tym, ...* ma pokazać, że człowiek jest pozbawiony istoty, 
+ale także, że człowiek jest temporalny, czasowy -- żywiołem człowieka jest 
+przebywanie w czasie. Ale nie przebywanie niezależnie -- to my jesteśmy tym 
+czasem. Czas istnieje dzięki człowiekowi, a tak naprawdę dzięki świadomości -- 
+świadomości czasu. To pochodzi od Husserla (dwa terminy protencji i retencji -- 
+tego, co jest nakierowane na przeszłe akty konstytutywne, i na przyszłe, 
+projektujące -- tak u Husserla). U Sartre'a czas nakierowany na przyszłość. Czas 
+to jest nic innego, tylko projekt, który jest pewnego rodzaju możliwością 
+dokonywania pewnych wyborów, które ten projekt by umożliwiały.
 
+Jeśli rozważymy życie jednostki, to jest to byt usytuowany w pewnej 
+czasoprzestrzeni, który nie wybrał tej sytuacji, on się w niej znalazł. Ma on za 
+sobą pewną przeszłość, na to nie może wpłynąć. Ta przeszłość jest tą retencją 
+ontologiczną. Tej przeszłości nie ma.
 
+Formuła, że jesteśmy tym, czym nie jesteśmy pokazuje naszą przeszłość -- to jest 
+określony Pierre, ale już go właściwie nie ma -- nie ma go z przeszłości, on już 
+tam zyskał pewne cechy, on tam ukonstytuował pewien byt, zrealizował pewne 
+projekty, nabył jakiejś istoty. Coś można powiedzieć, ale jeśli on dalej żyje, 
+to nie można tamtego Pierre'a zestawić z tym, ponieważ istnieje *czas płynący 
+przeze mnie* i *możliwość*, czyli realizacja pewnych projektów, a to w sposób 
+konieczny odnosi się do tego, czym człowiek jest tak naprawdę -- do jego 
+wolności. Tak naprawdę sam Pierre decyduje kim był, kim jest, kim będzie, bo 
+strukturą bytu ludzkiego, oprócz tych wszystkich negujących możliwości 
+(rozkruszania bytu, wprowadzania ludzkiego porządku, kwestionowania), jest 
+przede wszystkim to, że jest to byt wolny, który sam podejmuje decyzje, a że 
+jest to byt świadomy, to te decyzje niosą za siebie konsekwencje 
+**odpowiedzialności** za to wszystko.
 
+Czas, projekt, brak istoty, możliwości wyboru i wolność, która okazuje się 
+wolnością dwuaspektową (sięga tu do koncepcji Heglowskiej): wolnością do 
+i wolnością od. Ale w każdym razie wolność dla Sartre'a wolność jest żywiołem, 
+która ze względu na skorelowaną z nią odpowiedzialność, stanowi przekleństwo. 
+Wolność jest czymś, na co zostaliśmy skazani. My tej wolności się boimy. 
+Świadomość tej wolności nas przeraża. Odczuwamy trwogę przed tym. Ona się 
+wzmaga, jeśli jeszcze uświadomimy sobie, że jeszcze za wszystko będziemy 
+ponosili odpowiedzialność. Człowiek wolałby stan przeszłości, że jest już tam 
+gdzieś ulokowany w przeszłości, nabył jakiejś istoty, żeby już nie móc walczyć 
+ze światem, o siebie, o to, kim się będzie na samym końcu. To jest niemożliwe, 
+bo to jest sytuacja, która nas skazuje na bycie w wiecznym projekcie.
 
+Są próby ucieczki od tej wolności. Analizy dwóch mechanizmów starających się 
+przytłumić tę wolność:
 
+- Mechanizm **ducha powagi** -- trick polegający na tym, że człowiek chce się 
+zamienić w rzecz i powiedzieć, że jestem biedny Pierre o takich uposażeniach 
+i nie wymagajcie ode mnie nic innego. Musiałem tak działać, ponieważ mam dane 
+cechy tak, jak przedmiot ma dane cechy. Uważanie, że człowiek jest bytem 
+zdeterminowanym i to go usprawiedliwia, bo urodził się w danym środowisku, miał 
+takich rodziców. Sartre mówi, że wolność jest wolnością aspektu negatywnego 
+i pozytywnego -- ona musi działać. **Człowiek nie może być wolny do tego, żeby 
+przestać być wolnym**. Ucieczki w *nie mogłem inaczej, bo taki jestem/ bo taki 
+jest świat* są fałszywym usprawiedliwieniem -- one nie mają żadnej mocy 
+eksplikacyjnej, one jedynie zaciemniają jego sytuację. Sartre walczy na przykład 
+z koncepcją behawioru, z determinizmem ekonomicznym, z dogmatycznym marksizmem.
+- mechanizm **fałszywej wiary** -- odpowiednik *nieświadomego* u Freuda. Sartre 
+antyfreudystą, nie lubił go na wczesnym etapie tworzenia swojego 
+egzystencjalizmu, uważał, że to jest oparte na paradoksie: jeśli się wprowadza 
+cenzurę, to jak może być cenzura możliwa w świecie przezroczystym świadomości -- 
+to jest sprzeczność, tam wszystko jest świadome samego siebie. Poziomy 
+świadomości Sartre'a to jest nauka sama w sobie. Na tym etapie niech nam 
+wystarczy, że świadomość jest tą strukturą transparentną, przezroczystą -- tam 
+nic się nie może ukryć. To, co ma być cenzorowane, jest tak samo znane, jak 
+poczynania cenzora, temu, temu, co ma być cenzurowane. Odpowiednikiem 
+nieświadomości u Freuda jest *kłamstwo* specyficzne. Musi być kłamca 
+i okłamywany. W tym przypadku fałszywa wiara to jest odgrywanie tej podwójnej 
+roli przez jeden podmiot. *Ja* sam kłamię i znam moje kłamstwo, ono jest 
+przekazywane innemu *ja*, które jest okłamywane. Doskonale zdaję sobie sprawę, 
+że coś staram się przed sobą zakryć. Świadomość tego zakrywania jest ukrywana 
+(choć znana mnie jako mnie, bo dzieje się to w kręgu jednej świadomości).
 
+Te mechanizmy mają przede wszystkim pokazywać siłę, z jaką jesteśmy atakowani 
+przez żywioł wolności. To jest skorelowane z odpowiedzialnością, próbujemy od 
+tego uciec. One przede wszystkim pogłębiają stan niepewności, trwożenia się, 
+tego, że ta wolność jest takim żywiołem, że nic ani nikt nie jest w stanie 
+zatrzymać, przedstawić racji, które sprawią, że nie wybiorę haniebnego czynu 
+albo że nie skoczę z tej skały -- ten zawrót głowy wolnością mnie przeraża, 
+chciałbym uciec, chciałbym spokoju, konstytucji czegoś, co byłoby pewne 
+i mógłbym się z tym utożsamić.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Druga formuła: *nie jesteśmy tym, czym jesteśmy* -- to jest przyszłość. Wedle 
+Sartre'a to jest prawdziwy kierunek projektowości bytu ludzkiego. Ciągle chodzi 
+o mnie, ale jeszcze tym nie jestem, jeszcze jestem w tym zawieszeniu, czekam 
+dopiero, aż zacznie się ten żywioł moich projektów, które mają mnie do 
+przyszłości doprowadzić i tam ma czekać na mnie to, co zostanie ze mnie -- tym, 
+kim będę, ale wtedy, w tym momencie, kiedy już mnie nie ma, bo przestałem 
+egzystować, zapadam się w tę absolutną niemożliwość możliwości -- to jest 
+śmierć. Zostaję przesunięty ze sferty egzystencji do sfery martwego 
+bytu-w-sobie. Wtedy dopiero można powiedzieć o tym, że to był człowiek taki 
+a taki, bo cała jego projektowość się zamknęła, wyczzerpała, ona się 
+*zamroziła*, taki człowiek nabywa cech, które charakteryzują świat, 
+bytu-w-sobie.
 
