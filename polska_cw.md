@@ -139,9 +139,13 @@ Filozof krzyżacki -- 2 warunki:
 
 Tyle jeśli chodzi o kontekst
 
-## Ćwiczenia _ -- 29.04.
+## Ćwiczenia 6 -- 29.04.
 
 *Lśni żołnierska broń niczym polskich kłosów łan* -- któryś prezydent do wojska za śpiernikiem powstańczym.
 
+## Ćwiczenia 7 -- 13.05.
 
+### Jeszcze o Dzielskim
+
+Pracował w tym instytucie. 
 

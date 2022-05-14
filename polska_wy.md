@@ -1235,3 +1235,178 @@ wielkie oburzenie.
 
 Dokończymy to za tydzień
 
+## Wykład 8 -- 13.05.
+
+![](./slajdy_polska/61.png)
+![](./slajdy_polska/62.png)
+![](./slajdy_polska/63.png)
+![](./slajdy_polska/64.png)
+
+Skąd skłonność Socynian do dzielenia słów? Oddzielamy denotat od konotatu. Tak 
+jest też z pojęciem Boga. W denotacie odnosi się tylko do Boga Ojca, w konotacie 
+przez skojarzenie, metafory, łączy się ze wszystkim, co prawdziwy Bóg może na 
+kogoś scedować (przekazać swoje prawa do czegoś lub obowiązki innej osobie): 
+uprawnienia, by ktoś mógł przemówić w imieniu Boga, pewne cnoty, umiejętności. 
+Słowo *Bóg* brane na dwa sposoby w Piśmie: panujący nad niebem i ziemię, nie ma 
+wyższzego nad siebie, pierwsza przyczyna; drugie znaczenie -- uczestnictwo 
+w bóstwie, uczestniczenie w idei.
+
+Jakie są treści konieczne w odróżnieniu od pomocnych i pożytecznych? Te pierwsze 
+obejmują wszystko, co może być powiedziane o Bogu pozytywnie (u socynian nie ma 
+mowy o teologii apofatycznej), po śmierci Socyna historia pokazuje, że przez 
+młodszych socynian to jest interpretowane w treści teologii naturalnej; u samego 
+Socyna treści biblijne, później Biblia traktowana jako ilustracja, treści 
+rozumowe -- nowa doktryna tworzona na podstawie rozumu sięgającego po pojęcia 
+Biblii. Kolejną treścią konieczną jest sprawiedliwość Boga -- pelagianizm 
+(pogląd teologiczny głoszący, że łaska Boża nie jest konieczna do zbawienia, 
+które można osiągnąć bez jej pomocy dzięki własnemu wysiłkowi kierowanemu przez 
+wolę). Ostatni ważny punkt to wiara w doskonałą moc, w to, że Bóg jest 
+wszechmogący, przy czym katechizm unika sporu między racjonalizmem 
+a woluntaryzmem w opisie tej mocy. To staje się treścią religijną, która nie 
+jest szerzej dyskutowana. 
+
+Treśli pomocne, pożyteczne -- są to formuły negatywne, różne uściślenia. Te 
+treści podlegają dyskusji, w przeciwieństwie do poprzednich. Do tych treści 
+zaliczają socynianie również definicję Boga jako absolutnie jednego -- definicja 
+Boecjusza. Zachowanie wcześniejszej filozofii i połączenie jej z trynitologią.
+
+Boecjusz: osoba -- jest substancją, która jest jednostkowa (nie daje się 
+podzielić). Niepodzielna istność natury podlegająca regułom racjonalności.
+
+Dlatego ta formuła Boecjusza w kwestiach niekoniecznych? Antytrynitarze 
+utrzymują, że trynitarze źle rozumieją Boecjusza -- przede wszystkim trzeba 
+zwracać uwagę na słowo *niepodzielna*. Ale to jest treść *dla specjalistów*, nie 
+wymagamy tego od prostego człowieka.
+
+W *pomocnych* treściach wszelkie przenośnie, które pomagają w interpretacji 
+Biblii. Warto też wiedzieć, że Duch święty nie ma potwierdzenia w treści Biblii.
+
+Ostatni punkt dotyczy wolnej woli. W tym punkcie pełna zgodność antytrynitarzy 
+i pelagiańskiej szlachty. Co więcej częściowa zgodność z katolikami.
+
+Katechizm zaczyna od pytania, czy jest to w naszej woli, abyśmy Mu byli 
+posłuszni. Czy człowiek po upadku może do nakazów dostosować swoją wolę? 
+U Augustyna teza, że tylko częściowo człowiek poznaje nakazy i zakazy, nawet jak 
+je pozna, to nie będzie w stanie ich spełniać. U antytrynitarzy odpowiedź jest 
+prosta: jest. Bóg dał człowiekowi pierwszemu dał wolną wolę, nie ma powodu, żeby 
+mu ją odebrał. To koresponduje z teorią, iż nie ma grzechu pierworodnego. 
+Argumentacja nie tyle w oparciu o świadectwa biblijne, ale raczej o brak 
+zaprzeczenia. Późniejsze pokolenia pominął ten punkt i będą to pojmować jedynie 
+na skutek racjonalnego myślania. 
+
+Pojęcie dobrowolnego przestępstwa -- kary stosowane tylko za zawinienia, które 
+ciążą na konkretnej osobie w sytuacji, kiedy ta osoba mogła postąpić inaczej, 
+nie można karać nikogo za jakiś sposób postępowania, jeśli nie mógł inaczej. 
+Zakazujemy kradzieży, ale jeśli możemy przeżyć tylko, jeśli ukradniemy żywność, 
+to nie mamy alternatywy, bo każdy człowiek ma prawo zadbać o swoje przeżycie. 
+Jeśli mógł przeżyć tylko dlatego, że ukradł żywność/zabił atakującego, to nie ma 
+przestępstwa. 
+
+Ta zasada jest żelazna, możemy ją traktować jako kulturowa podstawa. Jeśli 
+przestępstwo jest dobrowolną i świadoma decyzją, to wtedy pojęcie grzechu 
+pierworodnego traci sens, bo nie możemy karać za błąd innego człowieka.
+
+Psychologiczna strona: wola do czynienia tego jest z przyrodzenia, jednak ta moc 
+nie jest tak mała, by człowiek, gdy następuje wola boża, nie mógł postąpić 
+sprawiedliwie. Obserwujemy w człowieku słabą moc, by realizować nakazy i zakazy. 
+Jednak w człowieku jest wola, a moc nie jest tak mała, by człowiek nie mógł żyć 
+zgodnie z kanone, kiedy szuka pomocy bożej.
+
+Człowiek wie, że potrzebuje pomocy. Człowiek może chcieć nie skorzystać 
+z pomocy. Ta decyzja jest możliwa tylko wtedy, gdy człowiek chce sam sobie 
+zaszkodzić. Ten warunek w człowieku musi być spełniony -- nie można wpaść w tak 
+destrukcyjną dynamikę, ny chcieć sam sobie zaszkodzić. Jest to możliwe, ale 
+niewielu tak robi.
+
+Od strony Boga: Bóg mógłby odmówić tej pomocy? Nie. Nawet jeśli by nie chciał, 
+to nie może, bo obiecał, a czym bylby Bóg niedotrzymujący obietnic? To się 
+później stanie aksjomaatem. Doskonałość polega na tym, by także dotrzymywać 
+obietnic.
+
+Dwa pojęcia, na których to wszystko stoi:
+
+1. Przestępstwo, za które bezpośrednio należna jest kara
+2. Obietnica, od któej bierze się umowa
+
+Z tej inspiracji antytrynitarze, dokonując metamorfozy treści zawartej na 
+przykład prawa rzymskiego, stają się podwaliną pod myśl oświeceniową. Na 
+przykład inspiracja dla Spinozy.
+
+Jest wolna wola i to musimy jeszcze połączyć z tematem, który występuje 
+w katechizmie, który tam jest zbudowany w kontekście hermeneutyki, ale który po 
+aksjomatyzacji będzie wiódł *samodzielne życie*. Chodzi o przedwiedzę Boga, 
+*przedwidzenie* boże.
+
+Jeśli Bóg jest wszechwidzący, to widzi też przyszłość. Wydarzenia przyszłe, 
+które dlatego są nieprzewidywalne, bo mają cechę 
+przypadkowości/przypadłościowości. Nie zmieni się definicja substancji. Pytanie 
+o takie przypadkowe wydarzenia w przyszłości. To jest motyw *przejrzenia* 
+bożego. Bóg mając doskonałą wiedzę wie dokładnie jak potoczy się na przykład 
+moje życie. To nie jest granica dla Boga -- to jest pojęcie średniowiecza. 
+U antytrynitarzy powstaje pytanie: jeśli Bóg wszystko przewiduje, to jeśli raz 
+to przejrzał, to człowiek może jeszcze coś zmienić. Idąc za Kalwinem mogę chcieć 
+co innego, ale stanie się dokładnie tak, jak jest w umyśle boskim. Drugie 
+stanowisko -- Bóg zna to z indeksem przypadkowości i wolnosci, nie odbiera to 
+człowiekowi wolności.
+
+Pełną analizę znajdziemy u autorów późniejszych, ale u antytrynitarzy argument, 
+że jeśli przedwiedza oznaczałoby brak wolności, to nie istniałaby religia -- 
+polega ona na staraniu, a jeśli Bóg wszystko wie, to po co się starać? Druga 
+rzecz -- musielibyśmy Bogu przypisać niesprawiedliwość, więc jeśli człowiek nie 
+ma szansy zmienić swojego losu na ziemii i po śmierci, to byłoby to 
+niesprawiedliwe.
+
+To opiera się na pojęciu, które antytrynitarze odziedziczyli. W zasadzie na 
+trzech pojęciach, każde można przetłumaczyć jako *sprawiedliwość*: 
+
+- *iustitia* -- człowiek, o którym mówimy, że jest sprawiedliwy, ma cnoty. 
+Problem jest taki, że jest terminem raczej prawniczym. Opiera się na 
+racjonalnych regułach. Brakuje domieszki łaski.
+- *aequitas* -- słuszność, polega na tym, że stosujemy się do abstrakcyjnych 
+reguł, ale jest margines na tę łaskę, empatię. By nie wyciągnąć ostatecznej 
+konsekwencji wedle kogoś, kto zawinił, jeśli nie trzeba. Motyw, że nikt nie 
+powinien karać dlatego, że karanie sprawia przyjemność. Kara koniecznością. 
+Motyw, że nie powinno się karać w przypływie złości (np. u Platona). Inna 
+definicja starożytna, która mówi, że sprawiedliwość to karanie z opóźnieniem. To 
+są treści, dzięki której możemy rozróżnić od *justicii*. *Aequitas* ma w sobie 
+podwójną równość -- wiąże się z pojęciem *equalitas* -- równość. Chodzi 
+o dwojaką równość: równość czynu i następstwa (ale to się może skończyć na 
+zasadzie oko za oko); równość człowieka z człowiekiem -- ten, który karze ma coś 
+wspólnego z karanym, to polega też na staraniach resocjalizacyjnych. Żadna 
+z tych równości nie może być absolutyzowana. To jest tutaj w tle. 
+
+Czyli te trzy pojęcia (bo ostatnie ukryte w ostatnim cloku tekstu): iustictia, 
+aequitas, aequalitas
+
+(Jak u Spinozy -- racjonalizacja ludzkich afektów)
+
+Oświecenie stanie przed zadaniem aksjomatyzacji tego, nie opierania się na 
+treściach biblijnych.
+
+Antytrynitarze przygotowują tę aksjomatyzację, nie przeprowadzają jej. Zawierają 
+w tym dorobek prawa rzymstkiego, myśli humanistycznej.
+
+To był *Katechizm*, tekst mało stechnicyzowany. To tlo musimy troszku sami sobie 
+odczytać.
+
+Reakcja na tę myśl, która rodzi się równolegle do procesu powstawania katechizmu 
+i pokazuje od razu ciekawą cechę tzw. scholastyki w Polsca. Chodzi o Marcina 
+Śmiglecki -- logik, uchodzi na największy autorytet wśród scholastyków; był 
+jezuitą. Jego logika była mocno używana na uniwersytetach przede wszystkim 
+angielskich. Był filozofem, który przyswoił myśl iberyjską, w tym koncepcję 
+*bytu myślnego*, to nie jest rzecz istniejąca poza umysłem, *byt myślny*. Na 
+przykład przy patrzeniu na okno, jest coś między mną a realnym oknem -- jest 
+odpowiednik tego, co widzę -- to jest *byt myślny*. Druga możliwość, to są 
+wszystkie relacje, na przykład relacja *jest większe niż*. Także negacje. Suarez 
+kończy rozdziałem o bycie myślnym.
+
+Od tego pojęcia Śmiglecki rozpoczyna swoją logikę. Powiedzenie, że epistemologia 
+dotyczy bytów myślnych, równocześnie epistemologia oznacza ontologie, w gruncie 
+rzeczy epistemologia okazuje się być ontologią bytów myślnych.
+
+Śmiglecki był także polemistą.
+
+Twierdzi, że źle postępuje, kto twierdzi, że boskość Chrystusa nie jest związans 
+z bytem realnym. Jednak argumentacja oparta na patrologii. Argument, że Ojcowie 
+Kościoła byli bliżej czasów Chrystusa, więc wiedzieli lepiej.
+
