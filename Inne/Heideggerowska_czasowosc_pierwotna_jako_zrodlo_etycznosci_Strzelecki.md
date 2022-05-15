@@ -153,32 +153,172 @@ miejsca dla etyki, jeśli nie przy współbyciu. Heidegger unikał jednoznacznyc
 deklaracji. Powinniśmy tu zachować ostrożność. Najważniejsze to, co na styku 
 ontologicznego i ontycznego -- na styku bycia i bytu, który łatwo jest 
 przekroczyć
-    - Dasein zawsze jest wespół z innymi, określone przez innych.
-    - Kim jest byt *ja*? Trzeba by odpowiedzieć *wszyscy* albo *nikt*. 
-    Współistnienie oznacza silne zaangażowanie w bycie innego. O ile jestem, 
-    jestem w bycie z innym, o ile rozumiem siebie, rozumiem innego. Jeśli siebie 
-    okłamuję, to jego tym bardziej.
-    - To, co dzieje się we współbyciu, to budowa ponadjednostkowej struktury 
-    **się**. To rozciąga się na całe nasze rozumienie świata.
-    - O ile jesteśmy we współbyciu, już zawsze określa nas *się*.
-    - Trzeba powiedzieć, że Kierkegaardowski rodowód tego konceptu zdaje się 
-    wskazywać, że musi to byc koniecznie moment przekroczony, jest to moment 
-    nacechowanej pejoratywnie charakterystyki bytu ludzkiego.
-    - Możemy mieć trudność w zrozumieniu Heideggera, kiedy mówi on, że 
-    ukonstytuowanie w *się* jest najpełniejszym i pozytywnym ukonstytuowaniem 
-    ontologicznym, nie ma powodu, żeby się z tego uwalniać. *Się* udziela 
-    odpowiedzi na wszystkie pytania.
-    - Zadaniem *się*, które budujemy wszyscy razem, jest budowanie pewnej 
-    struktury rozumienia wokół nas, która ma oddzielić nas od nas samych. Czym 
-    jesteśmy? Naszymi możliwościami bycia, chodzi o to, żebyśmy ich nie widzieli 
-    w tym charakterze.
-    - Ale to nie jest źle. Dlaczego? Co to oznacza bycie na sposób *się*? Się 
-    daje nam kompletną wykładnię świata, mówi nam jak mamy rozumiec wszystko, co 
-    nas otacza, czym jest *skąd* i *dokąd* naszego bycia. Bez tego rodzaju 
-    wskazówki nie wiedzielibyśmy jak być, jak żyć i bylibyśmy w trwodze.
+- Dasein zawsze jest wespół z innymi, określone przez innych.
+- Kim jest byt *ja*? Trzeba by odpowiedzieć *wszyscy* albo *nikt*. 
+Współistnienie oznacza silne zaangażowanie w bycie innego. O ile jestem, 
+jestem w bycie z innym, o ile rozumiem siebie, rozumiem innego. Jeśli siebie 
+okłamuję, to jego tym bardziej.
+- To, co dzieje się we współbyciu, to budowa ponadjednostkowej struktury 
+**się**. To rozciąga się na całe nasze rozumienie świata.
+- O ile jesteśmy we współbyciu, już zawsze określa nas *się*.
+- Trzeba powiedzieć, że Kierkegaardowski rodowód tego konceptu zdaje się 
+wskazywać, że musi to być koniecznie moment przekroczony, jest to moment 
+nacechowanej pejoratywnie charakterystyki bytu ludzkiego.
+- Możemy mieć trudność w zrozumieniu Heideggera, kiedy mówi on, że 
+ukonstytuowanie w *się* jest najpełniejszym i pozytywnym ukonstytuowaniem 
+ontologicznym, nie ma powodu, żeby się z tego uwalniać. *Się* udziela 
+odpowiedzi na wszystkie pytania.
+- Zadaniem *się*, które budujemy wszyscy razem, jest budowanie pewnej 
+struktury rozumienia wokół nas, która ma oddzielić nas od nas samych. Czym 
+jesteśmy? Naszymi możliwościami bycia, chodzi o to, żebyśmy ich nie widzieli 
+w tym charakterze.
+- Ale to nie jest źle. Dlaczego? Co to oznacza bycie na sposób *się*? Się 
+daje nam kompletną wykładnię świata, mówi nam jak mamy rozumieć wszystko, co 
+nas otacza, czym jest *skąd* i *dokąd* naszego bycia. Bez tego rodzaju 
+wskazówki nie wiedzielibyśmy jak być, jak żyć i bylibyśmy w **trwodze**.
+- O tę trwogę chodzi, o właściwe położenie. To również termin 
+Kierkegaardowski. Żeby nie odczuwać trwogi odczuwamy **lęk**. On 
+w przeciwieństwie do trwogi lękiem o coś skonkretyzowanego. Obejmuje jakiś 
+byt o który możemy się bać, lub którego możemy się bać, a który 
+relatywizujemy do naszego bycia.
+- Nasze współbycie zawsze już nacechowane jest tym niewłaściwym położeniem, 
+w którym umieściło nas *się*.
+- Komentarz: ani trwoga ani lęk to nie są stany emocjonalne, natomiast stany 
+emocjonalne są możliwe na ich gruncie.
+- To była charakterystyka ontologiczna, charakterystyka warunków możliwości 
+tego, co dotyczy bytu samego. Jeśli się boję, to dlatego, że jestem 
+w położeniu lęku.
+- Jeśli wychodzimy wieczorem, jesteśmy w dobrym nastroju (położenie buduje 
+moją nastrojowość), świat do nas należy, opada nas 10 zbirów, mamy z nimi 
+jakąś szansę. Lecz jeśli we własnym domu będę się bał własnego cienia, jeśli 
+chrobot u sąsiada będzie mnie przyprawiał o bicie serca, wówczas nic mnie 
+nie uratuje. Jeśli nie pojawi się realne zagrożenie, to ja je sprowadzę, 
+ponieważ nastrój mój przygotowuje nadejście z wnętrza świata czegoś, co 
+mógłbym zrozumieć jako zagrożenie. Dlatego *się* mnoży wokół nas nie tylko 
+wyjaśnienia, ale i zagrożenia, sytuacje, w które musimy wejść, bo nie można 
+inaczej, bo wszyscy tak robią, z tego powodu ulegamy presji. To jest ciekawy 
+wątek ze względu na to, że mamy sytuację pierwotnego zniewolenia, który 
+mógłby być przezwyciężony, gdybyśmy od lęku przeszli w trwogę, gdybyśmy 
+mogli umieścić się w położeniu, które pozwala zrozumieć rzeczywistość. Ale 
+z jakiegoś powodu to jest trudne.
+- Najpierw jesteśmy w *się* i zwykle w nim pozostajemy. Dlaczego to jest 
+takie trudne? To wymaga wskazania na kolejne elementy analizy.
+- *Się* odmienia całą strukturę naszego bycia, odmienia naszą otwartość. Na 
+gruncie *się* jesteśmy niewłaściwie, co przesądza o tym, że niewłaściwie 
+konkretyzuje się również każdy z momentów *otwartości*. Nie rozumiemy czegoś 
+w inny sposób, jak tylko ten, który podsunęło nam powszechne rozumienie *się*. 
+Jesteśmy w nastroju, który się nam podyktowało.
+- To rozumienie i położenie artykułują się w mowie, która mową być przestała, 
+a stała się gadaniną, dlatego życie społeczne jest pełne takich fenomenów, które 
+przybliżają ten charakter gadaniny -- to jest pułapka, łatwo byłoby sprowadzić 
+problem do tego, co widzimy w telewizji. Tak, ale nie tylko. To nie jest 
+sprowadzalne do wymiaru plotki, obmowy, tchórzostwa. Gadaniną staje się 
+nieuchronnie każda mowa, która nie odnosi się do tego, o czym mówi. Każda mowa 
+niepieczołowita. O konieczności zabezpieczania mowy wiedzą tylko myśliciele 
+i poeci.
+- Dlaczego tak się dzieje? W gadaninę osunie się zawsze mowa, która odsunie się 
+od swojego przedmiotu. Nie dlatego, że ktoś tego chce, mowa nieuchronnie oddala 
+się od przedmiotu, zaczyna być zaabsorbowana sobą, odnosi się do tego, co 
+zostało wypowiedziane. Wypowiedzi krzyżują się i zaczynają zasłaniać to, do 
+czego powinny się odnosić. Nikt nie byłby od tego wolny.
+
+Sposób naszego odniesienia się do naszego bycia jako *się* może ulec zmianie 
+o tyle, że *się* wkroczyło między nas a nasze możliwości bycia. Jeśli te 
+możliwości bycia mogłyby zostać nam przywrócone, ten proces oddzielenia nas od 
+siebie moglibyśmy odwrócić i przejść z *niewłaściwości* we *właściwość*. Wtedy 
+*się* nie zniknie, ale zostanie oddalone, zmodyfikowane. Jak to się dzieje?
+
+Jest konkretny fenomen, który można wskazać, a który może pozwoliłby zupełnie 
+zamknąć dyskusję, ale nie możemy tego zrobić, bo musimy sięgnąć do jego 
+czasowego warunku. Tym fenomenem jest **śmierć**. To jest pewnego rodzaju 
+problem. Dlaczego właśnie śmierć?
+
+*Się* stwarza iluzję, że zawsze na wszystko mamy czas, że jesteśmy 
+nieśmiertelni, zamyka nas w bezczasowości, w której nie doświadczamy własnej 
+skończoności. O coś takiego będzie tutaj chodzić, ale z ontologicznego punktu 
+widzenia **śmierć jest taką możliwością, której się nie może nam odebrać, bo nie 
+może nas w niej zastąpić**. Wobec wszelkich ludzkich zajęć, projektów, możliwe 
+jest pewne przesłonięcie, oddzielenie człowieka od tego, czym jest on sam. 
+Jednak nikt nie może odebrać innemu jego umierania.
+
+Rzecz w tym, że kiedy przedstawimy tak sprawę, to umrę jako ja. Czy to 
+w jakikolwiek sposób przywraca mnie sobie? Dlaczego odpowiedzią na pytanie 
+etyczne *jak żyć* ma być samotność śmierci. Śmierć nie jest ontycznym faktem 
+z naszego świata, tylko naszą ontologiczną możliwością. Jest coś takiego jak 
+fakt śmierci, z którym będziemy musieli się zmierzyć, nie chodzi tutaj 
+o *memento mori* czy o umieszczenie się w lęku przed śmiercią, tylko 
+o zrozumienie, że istnieje możliwość, którą muszę podjąć, o podjęcie tej 
+możliwości jako możliwości ostatecznej. A skoro jestem nie do zastąpienia w tej 
+możliwości, to coś się przede mną odsłoniło, została zdarta zasłona *się*, które 
+sugerowało, że moje życie jest nieskończone, że mogę być wszystkim.
+
+O coś takiego by chodziło w doświadczeniu **trwogi**. To właściwe *bycie ku 
+śmierci* nie kieruje się na koniec. Koniec jest konceptem, który zakłada, że 
+mamy do czynienia z jakąś gotową całością, która znajduje swój koniec, a tutaj 
+jeszcze nie ma czegoś takiego. Rozumiemy człowieka jako otwartość, a nie jako 
+domknięty, statyczny byt, któremu śmierć w pewnym momencie wymierzy policzek.
+
+To *się* operuje naszym lękiem przed śmiercią, żeby nas od śmierci oddalić, od 
+właściwego *bycia ku śmierci*. Bać się śmierci to ulegać nadal dyktaturze *się*. 
+*Memento mori* postawą dyktowaną przez *się*, tak samo jak uspokajająca postawa 
+*na razie żyjemy*.
+
+Co się dzieje w trwodze? Heidegger mówi, że trwoga otwiera *Dasein* na 
+*nieswojość/niesamowitość* naszego bycia. Dopóki byliśmy w *się*, dopóty byliśmy 
+w tym *się* doskonale zadomowieni. Nie ma powodu, żeby *się* opuszczać, to jest 
+otulina, która ma nam pozwolić żyć -- wszystkie pytania zostały za nas 
+rozstrzygnięte, zanim jeszcze mogły zostać zadane. *Się* to jest religia, wiara, 
+przesądy i potoczne rozumienie rzeczywistości naszego czasu, prawa, 
+przynależność do kultury i subkultur -- nie ma takiego obszaru, którego *się* by 
+nie obejmowało. Jedyny problem polega na tym, że nie jesteśmy sobą, ale to jest 
+niekonkretne ontycznie.
+
+Kiedy więc chcemy nakreślić co takiego dzieje się w doświadczeniu 
+*nieswojości/niesamowitości*, które odsłania trwoga, to fakt, że nagle zniknęły 
+te wszystkie wskazówki, które izolowały nas od bytu jako takiego. W trwodze 
+odmienia się całkowicie kierunek naszego rozumienia rzeczywistości.
+
+- Wcześniej rozumieliśmy siebie jako przynależnych do rzeczywistości: są różne 
+fenomeny, które nas określają, jest Bóg, społeczeństwo, praca. Kiedy jesteśmy 
+w *się* kierunek rozumienia jest od nich do mnie, jako jednostki, a od nich do 
+siebie wzajemnie, tworząc system pozostający w powiązaniu ze sobą. Dzięki temu 
+wszystkiemu ja jestem sobie znany i zrozumiały. To nie znaczy, że muszę 
+wszystkie uznawać naraz. W *się* można nie być konformistą.
+- Jeśli odwrócimy kierunek myślenia: w trwodze będziemy mieć kierunek ode 
+mnie, jako źródła pojęcia Boga, pracy, filozofii, które miałaby ją 
+tłumaczyć, to ja rozumiem innych. Moje rozumienie odkrywa, bez kogoś 
+takiego, kto mógłby je rozumieć w tym charakterze, one same z siebie nie 
+miałyby ze sobą powiązania. Nie chodzi o osąd, że Boga nie ma, tylko że 
+nawet gdyby był, to nic by się nie zmieniło. Nadal to ja rozpoznaję jaką 
+rolę nadawałem Bogu w życiu. Bóg może być transcendencją osiągalną dla mnie, 
+dotykalną, ale sposób napotkania Boga w tej inności transcendencji nie 
+będzie się różnił od napotkania drugiego człowieka poprzez jego inność.
+
+Wszystko co rozumieliśmy jako wskazówki, to były pewnego rodzaju iluzje, które 
+my rozumieliśmy w ten sposób. To jest to położenie, z którego może nadany apel 
+do samego Dasein, by uwolniło się od tej iluzji.
 
 
-41:30
+
+
+
+
+
+
+
+1:00:20
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
