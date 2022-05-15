@@ -430,8 +430,8 @@ różnorodność, tak że ta ostatnia staje się czymś żywym"; ostatecznie Duc
 tylko życiem; "Duch" jest użyty jako termin do oznaczenia jedności podmiotu 
 i przedmiotu
 - **jedność jest tożsama z bytem** -- jak to rozumieć? To twierdzenie zakłada, 
-że mamy do czynienia z różnicą między tym, co istnieje (bytem określonym)a 
-"bytem" (bytem jako takim). Każdy byt, z którym mamy do czynienia jest 
+że mamy do czynienia z różnicą między tym, co istnieje (bytem określonym) 
+a "bytem" (bytem jako takim). Każdy byt, z którym mamy do czynienia jest 
 określony. Kiedy o takim bycie określonym mówimy, nadajemy mu atrybut istnienia 
 -- ten atrybut jest wspólny wszystkim poszczególnym bytom: to świadczy, że musi 
 istnieć byt jako taki, różny od każdego określonego bytu, tak że wolno go nazwać 
@@ -440,17 +440,139 @@ jednostkowym i co jest niejako ich substratem. Gdy się za punkt wyjścia weźmi
 tę tezę, to to już stosunkowo łatwo uznać ten byt za "istotę wszelkiego bytu", 
 za "substancję boską", "najwyższą rzeczywistość" i w ten sposób połączyć 
 ontologię z teologią. Ta tradycja jest wciąż żywa w logice Hegla.
+- Arystoteles pierwszy uznał ten byt za proces albo ruch, dzięki któremu byt 
+jednostkowy formuje się w to, czym jest rzeczywiście, bytem rzeczywistym 
+w ścisłym tego słowa znaczeniu jest istota, przez którą rozumie on konkretną 
+rzecz jednostkową
+- Włączenie przez Hegla koncepcji: Różne sposoby istnienia to bardziej lub 
+mniejcałkowite jednoczenie się (modi bytu to postacie jedności stosunków 
+antagonistycznych) -- jednoczenie się oznacza ruch, najwyższym ruchem ten, 
+w którym każda możliwość urzeczywistnia się w pełni -- byt, który tak by się 
+rozwijał, byłby czystą energią, jego istnienie polegałoby jedyne na myśleniu; 
+nie byłoby dla niego nic wyobcowanego, zewnętrznego -- myślenie *chwyta* swój 
+przedmiot jako myśl, ruch doskonałym jednoczeniem się podmiotu z przedmiotem -- 
+prawdziwy byt jest myślą i rozumem
+- Rozum-bóg u Arystotelesa nie jest ani przyczyną, ani twórcą świata, a pierwszą 
+przyczyną tego ruchu tylko dzięki skomplikowanemu systemowi bytów 
+pośredniczących; rozum ludzki niedoskonałą kopią, życie rozumne najwyższą formą 
+życia
 
-s. 43
+## II. Powstanie systemu filozoficznego (1800 -- 1802)
 
+### 1. Pierwsze pisma filozoficzne
 
+- Hegel rozpoczyna karierę uniwersytecką, tematem pierwszych artykułów Kant, 
+Fichte, Schelling
+- Hegel dochodzi do wniosku, że filozofia bierze początek ze sprzeczności, 
+z którymi ciągle człowiek ma do czynienia -- stąd historia filozofii historią 
+rozważań dotyczących przeciwieństw: ducha i materii, duszy i ciała, wiary 
+i rozumu, wolności i konieczności, analizą sprzeczności, które istnieją między 
+*rozumem i zmysłowością*, *inteligencją a przyrodą*, *subiektywnym 
+i obiektywnym* -- te pojęcia odgrywały kluczową rolę w *Krytyce...* Kanta -- 
+Hegel pooddał je analizie dialektycznej, przede wszystkim pojęcie rozumu
+- Kant odróżnił rozum (*Vernunft*) od rozsądku (*Verstand*)
+- Hegel nadaje tym pojęciom nowy sens: różnica między **rozsądkiem a rozumem** 
+taka, jak między zdrowym rozsądkiem i myśleniem spekulatywnym, między 
+niedialektyczną refleksją i dialektycznym poznaniem
+- **ROZSĄDEK**
+- Działalność rozsądku -- zwykły rodzaj myślenia, wyizolowana refleksja, 
+dominująca rola w życiu codziennym i nauce; pojęcia i sądy dotyczą 
+wyodrębnionych rzeczy i stałych związków między nimi; określenia jednostkowe 
+wykluczają się nawzajem jak atomy czy monady, jedna własność zajmuje miejsca 
+innej -- byt, który jest w ten sposób wyodrębniony i ograniczony, to **to, co 
+skończone**
+- Rozsądek obejmuje świat bytów skończonych, w którym rządzi prawo tożsamości 
+i prawo niesprzeczności (rzecz nigdy nie przestaje być tożsama z samą sobą, 
+nigdy nie może stać się czymś innym -- gdy mamy zmianę, to to, co istnieje tu 
+i teraz przestaje istnieć tu i teraz, ustępując miejsca czemuś innemu). Rozsądek 
+dzieli świad na nieskończoną ilość krańcowych przeciwieństw, których nie da się 
+ze sobą pogodzić. **Wyizolowana refleksja** jest sposobem, w jaki rozsądek 
+tworzy i łączy swoje krańcowo różne pojęcia.
+- To myślenie rozsądku wiąże się ze stosunkami, z którymi ma człowiek do 
+czynienia w swoim życiu, antagonizmy *wyizolowanej refleksji* wyrażają 
+antagonizmy rzeczywiste. Myśl mogłaby się zadowolić takim pojmowaniem 
+rzeczywistości, gdyby ten świat nie był rzeczywistością nie związaną 
+z pragnieniami i potrzebami ludzkości
+- Jednak jedność, kryjąca się za antagonizmami, musi być objęta 
+i urzeczywistniona przez rozum -- zadaniem rozumu pogodzenie przeciwieństw 
+i doprowadzenie ich do stanu prawdziwej jedności, jeśli to zadanie zostanie 
+wykonane, to przywtócona zostanie jedność społecznych stosunków między ludźmi
+- **Rozum**
+- Rozum jest pobudzany do działania przez potrzebę *przywrócenia totalności*
+- nie należy ulegać złudzeniu, że percepcjom i wynikom działalności rozsądku 
+można w pełni ufać; zdrowy rozsądek nakazuje *obojętność*, daje poczucie 
+pewności, prowadzi do zobojętnienia wobec nieurzeczywistnionych możliwości 
+wynikającego z poczucia pewności, do zadowolenia z danego stanu rzeczywistości 
+i akceptowania ustalonych i trwałych stosunków w niej istniejących; zdrowy 
+rozsądek mylnie bierze akcydentalne cechy zewnętrzne rzeczy za ich istotę 
+i uparcie wierzy w bezpośrednią tożsamość istoty i istnienia
+- Rozum tożsamość istoty i istnienia może stworzyć jedynie w wyniku wytrwałych 
+wysiłków, dzięki świadomemu wyzyskaniu wiedzy, której warunkiem jest rezygnacja 
+ze zdrowego rozsądku i zaufanie w pełni myśleniu spekulatywnemu
+- *Myślenie spekulatywne* porównuje zewnętrzne, bezpośrednio dane formy rzeczy 
+z potencjami tkwiącymi w tych rzeczach, w wyniku czego odróżnia ich istotę od 
+przypadkowych stanów, w jakich się one znajdują -- nie może tego zapewnić jakiś 
+mistyczny proces poznania intuicyjnego, lecz metoda **poznania pojęciowego**, 
+badającego proces, w którym każda forma staje się tym, czym jest
+- Myślenie spekulatywne ujmuje świat intelektu i świat materialny nie jako 
+całokształt stałych, niezmiennych stosunków, lecz jako stawanie się, a jego byt 
+jako wytwór i wytwarzanie
+- *Myślenie spekulatywne* jest pierwszą wersją metody dialektycznej
+- Rozum poddaje krytyce i eliminuje niezmienne przeciwieństwa, podważa poczucie 
+pewności i dowodzi, że to, co zdrowy rozsądek uznaje za pewne i oczywiste, 
+w filozofii wcale takie nie jest
+- **Nieufność w stosunku do autorytetu faktów** -- sceptycyzm, forma 
+rzeczywistości, która jest bezpośrednio dana, nie jest rzeczywistością 
+ostateczną
+- Nie można, za Kantem i Fichtem, apoteozować podmiotu kosztem świata 
+obiektywnego, przypisując autonomicznej jednostce całą wolność, której nie ma 
+w świecie zewnętrznym (twierdząc, że świat jest  domeną ślepej konieczności 
+sprawiamy, że wolność przekształcana jest w wartość wewnętrzną, która może być 
+realizowana tylko w duszy); w ostatecznej rzeczywistości wolny podmiot nie możeb 
+być odizolowany od świata przedmiotowego. Ten antagonizm również musi zostać 
+przezwyciężony
+- Ostateczna rzeczywistość, w której rozwiązane są wszystkie sprzeczności, Hegel 
+nazywa **absolutem** -- na tym etapie rozwoju myśli można go opisać jedynie 
+w sposób negatywny, jako coś przeciwstawnego rzeczywistości poznawanej przez 
+rozsądek, negującej ją tak, że nie ma w niej niczego, co przypominałoby świat 
+skończony
+- Rozum nie stwarza tożsamości w toku jakiegoś procesu łączenia przeciwieństw, 
+lecz tak je przekształca, że przestają one istnieć jako przeciwieństwa, mimo że 
+ich treść zostaje zachowywana w wyższej i bardziej *rzeczywistej* formie bytu -- 
+proces ten kończy się dopiero, gdy rozum tak *zorganizował* całość, że *każda 
+część istnieje już tylko w powiązaniu z całością* i że *każdy byt jednostkowy ma 
+sens i znaczenie tylko w powiązaniu z całością*
+- Absolut reprezentowany tylko przez całokształt pojęć i wyników poznawczych 
+aktów rozumu. Dlatego rozum ukazuje się nam w pełni jedynie w postaci 
+wszechobejmującej organizacji twierdzeń i intuicyj, czyli jako **system**
+- W pierwszych pismach Hegel podkreśla negatywną funkcję rozumu: burzy on 
+niezmienny i spokojny świat rozsądku i zdrowego rozsądku. Absolut nazywa 
+*mrokiem*, *noicością*, aby uzyskać kontrast z jasno określonymi przedmiotami 
+z którymi mamy do czynienia w życiu codziennym. Rozum oznacza *absolutne 
+unicestwienie* świata zdrowego rozsądku, utrata normalnego poczucia pewności to 
+początek filozofii.
+- Odniesienie do Kanta: uznawaną przez Kanta zasadę empiryzmu (rozum ma być 
+podporządkowany *danym* dotyczącym przedmiotów doświadczenia) Hegel całkowicie 
+odrzuca. Według Kanta rozum działa jedynie w granicach wewnętrznego królestwa 
+umysłu, co sprawia, ze jest bezsilny wobec rzeczy samych w sobie -- u Kanta to 
+rozsądek jest obdarzony władzą. Jednak Hegel zauważa też, ze Kant przezwycięża 
+ograniczoność tej koncepcji na przykład w tezie o *syntetycznej jedności 
+apercepcji*, która ma być zgodna z heglowską zasadą jedności przeciwieństw, gdyż 
+jedność syntetyczna jest w istocie wynikiem działania, dzięki któremu powstaje, 
+a jednocześnie jest przezwyciężana sprzeczność między podmiotem a przedmiotem, 
+dlatego u Kanta, przynajmniej w tej tezie, mamy mieć do czynienia z triadą: 
+podmiot, przedmiot, synteza
+- Po raz pierwszy pojawia się stwierdzenie, że triada jest prawdziwą formą 
+myśli, jest ona dynamiczną jednością przeciwieństw, jest właściwą formą 
+rzeczywistości, w której byt jest syntetyczną jednością antagonistycznych 
+przeciwieństw
+- Rzeczywistość rzeczy to całokształt dynamicznego procesu jej przeobrażania się 
+w coś innego i jednoczenia się z tym *innym* -- negatywność przenika świat, 
+schemat dialektyczny wyraża i tym samym stanowi *prawdę* tego świata, w którym 
+każda rzecz jest czymś innym, niż jest *naprawdę*, i w którym przeciwieństwo 
+i sprzeczność decydują o prawach rozwoju.
 
-
-
-
-
-
-
+### 2. Pierwsze pisma polityczne
 
 
 
