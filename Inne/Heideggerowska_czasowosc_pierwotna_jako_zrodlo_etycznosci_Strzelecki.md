@@ -295,8 +295,148 @@ dotykalną, ale sposób napotkania Boga w tej inności transcendencji nie
 będzie się różnił od napotkania drugiego człowieka poprzez jego inność.
 
 Wszystko co rozumieliśmy jako wskazówki, to były pewnego rodzaju iluzje, które 
-my rozumieliśmy w ten sposób. To jest to położenie, z którego może nadany apel 
-do samego Dasein, by uwolniło się od tej iluzji.
+miały znaczenie tylko dlatego, że my rozumieliśmy je w ten sposób. To jest to 
+położenie, z którego może zostać nadany apel do samego Dasein, by uwolniło się 
+od tej iluzji. Moment przebudzenia z Matrixa. Wtedy dopiero uruchamia się 
+*dialektyka sumienia i zdecydowania Dasein*.
+
+*Sumienie* jest ciekawym przypadkiem, bo bierzemy ontyczny fenomen, mamy 
+realność doświadczenia sumienia -- Heidegger dokonuje fenomenologicznej analizy 
+tego, co jest istotowe dla doświadczenia sumienia. Na gruncie tego tłumaczy jaką 
+rolę egzystencjalną miałby ten fenomen do odegrania.
+
+Dla sumienia charakterystyczne jest to, że jego głos płynie z nas, niczego 
+konkretnego nie obwieszcza, tylko coś zatrzymuje, że adresatem jesteśmy my 
+i tylko my. Głos sumienia nie może być powszechny ani przetłumaczony dla innych. 
+Sumienie uświadamia winę.
+
+To co ma sumienie, które płynie od Dasein w trwodze ku samemu Dasein w *się*, 
+jakby podejmowało samo ze sobą dialog (Dasein nie jest kartezjańskim podmiotem, 
+tylko rozłożoną strukturą), głos sumienia może coś odmienić w naszym byciu, ma 
+nas do czegoś przywołać. Sumienie wzywa Dasein, które jest w *się*, do bycia 
+sobą, do podjęcia własnych możliwości bycia. Ale tylko przez pokazanie winy.
+
+Wina jest pojęciem, które wymaga osobnego wytłumaczenia. Wina wiąże się z byciem 
+podstawą nieważności czegoś -- jesteśmy przyczyną jakiegoś braku. Jak miałoby to 
+być ważne dla etycznej roli? Nasze bycie jest nieuchronne unicestwianiem 
+możliwości. Możemy to scharakteryzować tak, że Dasein zawsze jest tym byciem ku 
+możliwościom. Możliwości jako rozgałęziający się labirynt możliwości. *Wolność 
+jest w wyborze tylko jednej ścieżki i sprostaniu temu, że nie wybraliśmy innej 
+i wybrać jej nie możemy*. Nieuchronnie zamykamy możliwości bycia, aby inne 
+podjąć i tak dalej. Wolność jest tyleż w wyborze, co w zniesieniu tego, że 
+czegoś wybrać nie mogliśmy. Wolność urzeczywistnieniem wyboru i zniesieniem 
+możliwości. Nasze sumienie może nam uświadomić to, że powinniśmy podjąć ten 
+rodzaj naszej winy. To nie jest wina związana z rozmyślnym zawinieniem (nie 
+możemy nie unicestwiać możliwości). *Się* podsuwa taką interpretację, że nic się 
+nie dzieje, bo nasze bycie jest nieskończone. To do czego nawołuje nas sumienie, 
+to jest wzięcie na siebie tej winy, której i tak nie możemy uniknąć.
+
+Jeśli zatem w doświadczeniu sumienia Dasein zostało wezwane do siebie 
+właściwego, to jeśli zbierzemy poszczególne momenty określenia przez sumienie 
+objawi nam się struktura otwartości, która źródłowo oznacza bycie sobą. Sumienie 
+milcząc przerywa zgiełk gadaniny, jest rażeniem gromem. Sumienie nie 
+nawoływanie, ale milczeniem, które zakłada też bierność w słuchaniu. Jeśli nie 
+jesteśmy w stanie zrezygnować z aktywności mówienia na rzecz bierności 
+w słuchaniu, popadamy w gadaninę. Jeśli pozwolimy dosłyszeć ten głos (który jest 
+znaczącym milczeniem), wówczas otworzy się pewnego rodzaju możliwość.
+
+Umilkłe, gotowe do trwogi, projektowanie się na najbardziej własne bycie winnym. 
+Tak Heidegger podsumowuje tę analizę. W milczeniu uwzględniona mowa, w trwodze 
+położenie, w projektowaniu się na bycie winnym rozumienie się. To mogłoby być 
+punktem dojścia, gdyby nie to, że brakuje nam tu jeszcze czasowego sensu. To 
+wprowadza nas w możliwość bycia winnym na swój własny sposób.
+
+To nie jest wina w sensie moralnym, ona jest tu warunkiem możliwości moralnego 
+zawinienia. To znaczy, że wszyscy tworzymy możliwość zawinienia, możliwość bycia 
+podstawą braku, która praktycznie może oznaczać na przykład moralną winę wobec 
+kogoś. Przedstawienie wizji auto-soteriologii, samo-zbawienia. Jesteśmy wobec 
+siebie, ale co z innymi? Byliśmy w *się*, nie byliśmy sobą. Teraz jesteśmy sobą, 
+ale w zasadzie co się zmieniło? Zwłaszcza w tych relacjach, w których Dasein 
+siebie rozpoznaje? Jak to się odnosi do troskliwości o innych i zatroskania 
+o narzędzia?
+
+Co do narzędzi, to w Heidegger w sposób indyferentny opisuje nasz sposób bycia 
+wobec narzędzi w **zdecydowaniu**, jakby to nie miało żadnego znaczenia, 
+szklanki tak samo używa człowiek wolny jak i niewolny. Natomiast co do relacji 
+z innymi, to bardzo silnie popycha nas troskliwe współbycie z innymi, dopiero na 
+gruncie **zdecydowania** możliwa jest właściwa wspólnota, podejmowanie troski 
+o innych jako innych, ich możliwości bycia. Wyzwoliliśmy siebie, co to oznacza, 
+jeśli jesteśmy w relacji z innymi. Gdzie jest ten moment właściwego nawiązania 
+relacji?
+
+Ja rozumiejąc swoje bycie w perspektywie właściwej otwartości, nie mogę inaczej 
+rozumieć bycia innego. A skoro zostałem wyrwany z gadaniny przez milczenie 
+sumienia, w które się wsłuchałem, nie mogę dłużej w gadaninie uczestniczyć. To 
+sprawia, że *zdecydowane Dasein może być sumieniem innych*. A nawet nie możemy 
+nie być sumieniem innych -- inni utrzymują nas w uległości i siebie nawzajem, 
+ponieważ wszyscy razem uczestniczymy w gadaninie. Jeśli ktokolwiek przestaje 
+w niej uczestniczyć, czyni wyłom w pewnej zmowie, którą *się* wokół nas 
+roztacza.
+
+Dostępne nam jest doświadczenie odebrania innych, jako głosu naszego sumienia. 
+Ja nie mogę mieć pewności, czy moja postawa komukolwiek zwróciła wolność, ale 
+mogę wiedzieć, że czyjaś postawa mi otworzyła oczy.
+
+Dlaczego zwróciliśmy uwagę na problem czasu? Ta czasowość, o której Heidegger 
+mówi jest rozumiana jako kolejny egzystencjał Dasein. Stoimy przed pytaniem jak 
+ten egzystencjał miał odnosić się do całości struktury, którą sobie 
+przedstawiliśmy, po drugie dlaczego mówimy właśnie o czasowości, choć 
+intuicyjnie każdy rozumie, czym czas jest.
+
+Należałoby zwrócić uwagę, że czas jest naszym narzędziem do segregowania 
+rzeczywistości. Narzędzie wtedy spełnia swoją funkcję, kiedy znika mi w ręce, 
+nie daje się zaobserwować, gdy nie absorbuje mojej uwagi, służy tylko określonej 
+czynności. Gdy ciągle daje mi o sobie znać, to jest wadliwe. Nie dostrzeglibyśmy 
+elementu świata, gdyby on nie był krnąbrny wobec mojego doświadczenia.
+
+Z tego punktu widzenia nie rozumiemy też czasu, jeśli odnosimy się do niego jak 
+do narzędzia. Albo raczej rozumiemy go posługując się nim, o ile *zadajemy czas* 
+światu, o ile na przykład patrzymy na zegarek, patrzymy na ciała niebieskie. To 
+są takie sposoby pojmowania czasu, które intuicyjnie uchwytują charakter 
+chronologicznego przepływu, w którym wszystko się mieści. Czas wyobrażany 
+w formie strzałki, ramy na wszystkie byty, które są wewnątrzczasowe. Dowolny 
+element rzeczywistości rozumiemy jako zajmujący miejsce w czasie.
+
+Czym jest czas? Rozumienie znika nam z oczu, bo zaczęliśmy rozważać jego naturę, 
+którą w sposób neutralny można przedstawić w postaci strzałki, a to nie jest 
+wiele. Może jednak nasza odpowiedź jest bardziej złożona. Heidegger stawia tezę, 
+że czas możemy rozumieć jako ramę/strzałkę, dzięki temu, że pierwotnie jesteśmy 
+byciem ku możliwością, że nasze bycie pierwotnie jest pewną dynamiką odnoszenia 
+się do siebie jako tego, który w pewien sposób może być i który w pewien sposób 
+zawsze już jest. Nie chodzi o to, że Heidegger zrywa z powszechnym rozumieniem 
+czasu, raczej pokazuje w jaki sposób ono jest możliwe. Nie moglibyśmy rozumieć 
+czasu jako chronologicznej sekwencji zdarzeń/idealnej teraźniejszości Augustyna, 
+bez gruntu naszego bycia ku możliwości.
+
+Nie tyle Heidegger odrzuca analizę, co pokazuje, że jest niewystarczająca, oraz 
+sama potrzebuje pewnego warunku możliwości w podmiocie. Już Arystoteles mówi 
+o konieczności uwzględnienia podmiotu w opisie czasu. Czasowość pierwotna nie 
+powinna być opisywana w sposób sekwencyjny, jak na strzałce, ale w sposób 
+ekstatyczny, odwołując się do greckiego słowa oznaczającego *stanięcie poza 
+sobą*, bo odnosi się do relacji między podmiotem a jego możliwościami.
+
+- Przyszłość -- możemy myśleć o czymś, co przyjdzie do nas, bo pierwotnie 
+jesteśmy przychodzeniem do siebie, jako do swoich możliwości bycia; nie ma 
+innych naszych siebie, niż jako już tych odniesionych do tego, czym zdążyliśmy 
+być. Jesteśmy wobec możliwości, do których przychodzimy
+- Współczesność
+- Byłość -- Dasein zawsze już jest swoją byłością; nie w sensie tego, co zdążyło 
+upłynąć w czasie (choć też -- ja z przeszłości jestem jakimś punktem 
+odniesienia), ale nie jestem tylko przeszłością, w sensie tego, co dokonało się 
+do tej pory. Zawsze już byliśmy rzuceni w te możliwości, do których 
+przychodzimy.
+
+Ontycznie mogę zostać tym, tym i tym, na gruncie tego, że jestem w odpowiedniej 
+epoce, miejscu i tak dalej. Byłość może nasz określić tylko o tyle, o ile zawsze 
+już w projekcie kierujemy się ku możliwością, które znajdują się pod nami.
+
+
+
+
+
+
+
+1:18:00
 
 
 
@@ -306,7 +446,21 @@ do samego Dasein, by uwolniło się od tej iluzji.
 
 
 
-1:00:20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
