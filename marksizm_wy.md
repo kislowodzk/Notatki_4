@@ -2059,4 +2059,184 @@ wokół której kształtowały się najważniejsze dyskusje -- powstała ona jes
 Kwestia polska w ramach drugiej międzynarodówki. Tutaj na przykład Róża 
 Luksemburg ośmielała się prowadzić dyskusje. Ale o tym za tydzień
 
+## Wykład 9 -- 16.05.
+
+### II Międzynarodówka
+
+Ta interpretacja marksizmu zaproponowana przez Engelsa stała się pod koniec 
+życia dominująca dla zwolenników marksizmu i socjalizmu w ogóle. Dzisjaj o tej 
+25 lat trwającej epoce II międzynarodówki.
+
+II międzynarodówka -- 1889r. Funkcjonowała do roku 1914r. Wtedy rozpadła się 
+a przedstawiciele partii głosowali w swoich krajach za wojną, a przynajmniej za 
+przyznaniem funduszy wojennych. Wydaje się, że wtedy wpływy marksizmu były 
+największe, to była teoria traktowana poważnie. Towarzyszył temu wzrost 
+znaczenia partii robotniczych. Najbardziej modelowym przykładem wzrost znaczenia 
+SPD, która urosła do roli jednej z najbardziej znaczących sił politycznych. 
+Także francuscy socjaliści rośli w siłę. 
+
+*Złoty* okres: dzięki Engelsowi marksizm uzyskuje spójny i systematyczny 
+kształt. Engels umierając zostawia pewną sformułowaną teorię. Czy domkniętą czy 
+otwartą? O tym toczą się dalej dyskusje. Sam marksizm różnorodny. To nie była 
+dogmatyczna skostniałość. Określenie złoty odnosi się również do tego, że 
+marksizm wciąż jest żywy, próbuje się uzupełnić go o nowe koncepcje. Marksizm 
+reaguje na to, co dzieje się w naukach, w filozofii.
+
+Obok nurtu ortodoksyjnego (o której dzisiaj, który też nie był monolitem) 
+powstawały nurty rewizjonistyczne. Próba ekstrapolowania marksizmu na nowe 
+tereny, na przykład estetyki, sztuki. Filozofów marksistowskich tej epoki można 
+podzielić na dwie grupy.
+
+Marksizm II Międzynarodówki:
+
+1. Nurt "rewizjonistyczny"
+- ortodoksja (tak samo jak prawda) miała być tylko jedna, natomiast mylić się 
+można na różne sposoby, stąd wielość rewizjonizmów. Dwa najważniejsze typy dla 
+przykładu:
+- POLITYCZNO-ORGANIZACYJNY
+- w wersji reformistycznej: Bernstein i SPD, "marksizm legalny" w Rosji
+- w wersji rewolucyjno-jakobińskiej: Lenin i bolszewicy (w ramach SDPPR)
+- FILOZOFICZNY: rewizje/uzupełnienia np. neokantyzm (austromarkizm, marksizm 
+legalny w Rosji); empiriokrytycyzm (bogostroitiel'stwo we frakcji bolszewików); 
+bergsonizm i filozofia życia (Georges Sorel, St. Brzozowski)
+2. Nurt "ortodoksyjny"
+- Wbrew pozorom "ortodoksja" nie była jednolita. Raczej mówić należy o głównym 
+(dominującym) nurcie w organizacji w warunkach pewnego pokrewieństwa 
+światopoglądowych fundamentów.
+- Karol Kautsky (SPD): od marksizmu ortodoksyjnego do zachodnich 
+(nierewolucyjnych) socjaldemokracji
+- Różą Luksemburg (SDKPiL, SDPRR, SPD; po rozpadzie II Międzynarodówki: Związek 
+Spartakusa, Komunistyczna Partia Niemiec)
+- Gieorgij (Jurij) Plechanow (Socjaldemokratyczna Partia Robotnicza Rosji; próba 
+mediacji między bolszewikami mieńszewikami)
+- Łączy ich przekonanie, że marksizm jest filozofią pełną, zawiera odpowiedzi na 
+wszystkie istotne pytania. Nie trzeba szukać poza murami doktryny, marksizm nie 
+potrzebuje wsparcia ze strony nowszych kierunków filozoficznych
+- Spór z anarchistami, z Bernsteinem (z rewizjonizmem marksistowskim, który 
+marksizm przekształcał w koncepcję reformistyczną), z ultralewicą, 
+z rewolucyjnymi jakobinami, przede wszystkim z grupą Lenina -- z bolszewikami
+
+Dla potrzeb dzisiejszego wykładu połączymy poglądy marksistów ortodoksyjnych nie 
+skupiając się na różnicach. Skupienie się na fakcie, że rewolucja jest faktem, 
+wynikiem naturalnego rozwoju. Z rewolucją będzie miał problem Kautsky, który 
+stwierdzi, że SPD jest partią rewolucyjną, która  nie dąży do rewolucji. 
+Socjalizm jako wynik konieczności historycznej, niezależny od woli jednostek 
+i partii. Luksemburg próbuje pogodzić rewolucyjny marksizm z prometeizmem 
+polskich romantyków. 
+
+Socjalizm to nie jest tylko przyszłość, to jest całościowy światopogląd 
+o charakterze naukowym. 100% pewność, że marksizm jest nauką, nauką nowoczesną, 
+nauką przyszłości, która o kilka kroków wyprzedza inne nauki społeczne.
+
+W odróżnieniu od Marksa i Engelsa teoretycy II Międzynarodówki już mniej-więcej 
+wiedzieli, czym będzie socjalizm. Będzie  to zniesienie własności środków 
+produkcji. Zniesienie tego, że ktoś jest lepszy, ktoś gorszy. Równe prawo do 
+edukacji, obieki zdrowotnej. Społeczeństwo będzie dążyć do bezklasowości. 
+Zmiejszać się będzie natężenie konfliktów społecznych, będą też zanikać problemy 
+kryminalne. Socjalizm to pokój wewnątrz społeczeństwa i pomiędzy państwami. 
+Zniknie nierówność na tle płci, rasy, ... .
+
+Mocne przekonanie, że o szczęście społeczne walczy obecnie tylko jedna klasa -- 
+proletariat. Chodzi o to, żeby tę walkę uczynić skuteczną. Zdecydowano się na 
+drogę polityczną, próby organizowania partii proletariackich. Jednocześnie 
+partie robotnicze nie są partiami, które akceptują burżuazyjny porządek 
+demokratyczny. Dla partii socjaldemokratycznych rewolucji uniknąć się nie da, 
+kapitalizmu nie zniesie się reformami, choć one są ważne. Kapitalizm upadnie, bo 
+będzie nie do zniesienia dla ludzi. Nierówności na skalę globalną doprowadzą 
+świat do rewolucji.
+
+Rewolucja, o której mówi Luksemburg i Plechanow (ale nie Kautsky), to nie jest 
+przewrót polityczny, zbrojne przejęcie władzy przez spiskowców. Rewolucja ma być 
+dziełem masowym. Większość społeczeństwa będzie zmuszona wystąpić przeciw. 
+Natomiast rewolucja leninowska przejuje władzę w formie zamachu stanu, to będzie 
+tylko zmiana reżimu, rozumowanie leninowskie musi prowadzić do terroru. 
+
+#### Karol Kautsky
+
+Bardzo krytycznie odpowiedział na to, co się stało w Rosji. Skrytykował leninizm 
+jako ideologię. Twierdził, że rewolucja w Rosji jest przedwczesna, Marks pisze 
+wyraźnie, że najpierw muszą być odpowiednie warunki. Kapitalizm musi się 
+*wyczerpać*, musi przestać się rozwijać. Rosja krajem chłopów, na wpół 
+feudalnym. Nie było wielu robotników, większość kapitału zagraniczna.
+
+Po drugie rewolucja miała być globalna.
+
+Najważniejsze, że prawdziwa rewolucja będzie miała charakter demokratyczny. Musi 
+dopuszczać do głosu opozycję. 
+
+Lenin *dyktaturę proletariatu* rozumie dosłownie. Kautsky kładzie przy 
+interpretacji kładzie nacisk nie na formę sprawowania władzy, ale na 
+demokratyczną treść. Wybieranie deputowanych, legitymizacja w społecznej 
+większości. Marks użył tego słowa tylko po to, by zaakcentować taką przewagę 
+w społeczeństwie, że kiedy nastąpi prawdziwa demokracja, to natychmiast przejmie 
+władzę.
+
+Zarzut w stosunku do Lenina, że jego terror jest ponad prawem. Bolszewicy są 
+terrorystami. Przeprowadzając zamach obalili rząd tymczasowy wybrany przez 
+demokratycznie wybraną Dumę. Na czele tego rządu stali socjaliści. Terroryści 
+obalili rząd a potem stali się terrorystami na masową skalę terror kierując na 
+cały kraj.
+
+Kautsky, jak Trocki, przewidywał, że to będzie przejęcie władzy przez jedną 
+osobę. 
+
+Być naukowym oznacza dla Kautskyego to, że rządzi tym konieczność. Marksizm 
+traktowany jako konieczność -- interpretacja naturalistyczna. Świadomość 
+kolejnym ogniwem ewolucji świata. Nie ma innego wyjścia, niż socjalzm. To jest 
+ten sam mechaznizmzzm, który sprawił, że na ziemi pojawia się corazwięcej osób. 
+Kapitalizm załamie się, bo jego formy społeczne nie nadążą za rozwojem 
+społecznym.
+
+Dla Kautskyego wybór jest pomiędzy socjalizmem albo barbarzyństwem. Jest to 
+wybór moralny. Ludziemają prawo a nawet obowiązek podejmować działania w celu 
+uniknięcia barbarzyństwa. Te działania oznaczają rewolucję -- przejąć władzę ma 
+proletariat, a nie partia.
+
+Problem polega na tym, że na razie demokracje burżuazyjne nie pozwala na 
+prawdziwie wolne wybory. Jeśli robotnicy uświadomiliby sobie swoje interesy, to 
+uczciwie przeliczone głosy w urnach powiedzią, kto wygrał.
+
+Ważne organizowanie robotników, edukacja, wyrabianie robotniczej świadomości.
+
+#### Róża Luksemburg
+
+W wielu punktach poglądy spójne z Kautskym, jednak zafascynowana zrywem klas. 
+Również podejście reformistyczne.
+
+Przeciwko niepodległościowym tendencjom PPS. Potem, kiedy Lenin rzucił hasło 
+samostanowienia narodów, była też przeciwko niemu. Nie była narodową nihilistką. 
+Raczej za odnalezieniem wspólnego ducha wspólnoty.
+
+To stanowisko opierało się również o jej bataliach. W ramach uprzemysłowienia 
+Polski wszystko jest wchłaniane przez Rosję. Gdyby Polska odzyskała 
+niepodległość, upadłaby gospodarka polska przez stratę wschodnich rynku zbytu. 
+Emancypacja narodowa ma następić **po** emancpacji społecznej. Nie można 
+podjudzać nastrojów separatystycznych.
+
+Pewnie gdyby nie fakt, że została zamordowana, to zapewnie albo zostałaby 
+potępiona przez Lenina.
+
+Krytyka Luksemburg przeprowadzone ze strony rewolucyjnej. Lenin 
+ultrarewolucjonistą, Luksemburg rewolucjonistką, nie zgadzała się na zniesienie 
+swobód demokratyczncyh.  
+
+Luksemburg przy całej krytyce mimo wszystko nie potępiła rewolucji bolszewickiej 
+jako takiej, że jest droga do przekształcenia jej w rewolucję proletariacką, 
+jeśli tylko Lenin się opamięta.
+
+Jej też zarzucano podejście ewolucjonistyczne, wiarę, że przemiany dokonają się 
+samoistnie.
+
+Kapitalizm, nawet gdyby nie sprzeciwiał się mu opór mas ludzkich, sam się 
+wyniszczy. Kapitalizm rozwija się, dopóki jest coś, na czym może żerować. Dopóki 
+istnieją rynki zbytu o niekapitalistycznym charakterze. W przypadku potęg są to 
+kolonie. To pasożytowanie niszy organizm, na którym żeruje. W końcu będzie 
+musiał zacząć zjadać sam siebie. To wnioski z pracy doktorskiej Luksemburg (na 
+ekonomii).
+
+Każda klęska, bunt Róży Luksemburg i tak wiedzie do zwycięstwa -- prometejskie 
+nastawienie. Cel, do którego dążymy, wart jest klęsk, porażek. To nie był 
+automatyzm, to nie była logika *opętanych zegarów*.
+
+Działaczka narodów polskiego, niemieckiego, rosyjskieg.
 

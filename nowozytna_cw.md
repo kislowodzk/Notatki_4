@@ -916,3 +916,88 @@ a posteriori).
 - forma testowa -- forma porównywalna do egzaminu Miklaszewskiej
 - co do pracy zaliczeniowej -- wszystko w syllabusie
 
+## Ćwiczenia 10 -- 16.05.
+
+### Organizacja:
+
+- egzamin -- 30 pytań zamkniętych z wykładów
+- praca, będzie się trzeba zgłosić
+
+### KCR
+
+Krytyka dzieli się na:
+
+- Naukę o elementach
+    - estetyka
+        - czas
+        - przestrzeń
+    - logika
+- Metodologia
+
+Musimy zmienić naszą optykę mówiącą, że czas i przestrzeń to coś obiektywnego. 
+Czas i przestrzeń dotyczą zjawisk, nie dotyczą zjawisk samych w sobie.
+
+Matematyka łączy się z naszą zmysłowością.
+
+Kant mówi o treści i formie zmysłowości. Treść jest aposteriori. Formy apriori.
+
+Czas jest czymś koniecznym w moim doświadczeniu. Przestrzeń też. To jest pewna 
+forma porządku. To są aprioryczne porządki. Jeśli matematyka będzie mówić 
+o przestrzeni, to będę rozumieć jak to jest, że jest ona nauką apriori.
+
+Dla Kanta forma jest ważniejsza od materii.
+
+Materia + Forma = Zjawisko. 
+
+Materia to jest pewne wrażenie. Nie musimy tego psychologizować. Chodzi o to, co 
+dochodzi do nas od przedmiotu, co uderza w naszą zmysłowość. Forma znajduje się 
+w podmiocie. Jest to pewien rodzaj idealizmu. Połączenie materii i formy. Wymyka 
+nam się rzecz sama w sobie.
+
+Kant wiąże pojęcie poznania z pojęciem zjawiska. U Kanta byt znajduje się poza 
+zjawiskiem i nawet czas i przestrzeń nie sięgają do tego czegoś. Tylko na takie 
+poznanie możemy sobie pozwolić: związane z materią, formą albo rzeczami z nimi 
+związanymi.
+
+Kantowi chyba zależy na tym, żeby uratować wiedzę matematyczną przed zarzutami 
+kierowanymi pod jej adresem. Chce, żeby pozostała aprioryczna i syntetyczna.
+
+Forma naoczności zmysłowej jest zmysłowością czystą. Mam świadomość empiryczną, 
+która jest umożliwiona przez wcześniejszą naoczność czystą. Czysta forma to jest 
+plansza -- możemy użyć *wrażeniowych kredek*, nasze rysunki będą niedokładne.
+
+Różnorodność też jest trudna do zrozumienia -- czym jest? Kant powie, że jeśli 
+istnieje element formalny, porządkujący, to musi istnieć to, co porządkowane. 
+Wrażeniem byłoby wszystko, co nie jest elementem formalnym, ani elementem 
+pojęciowym. Element wrażeniowy -- co to? Wiedziałbym najlepiiej bez pojęć czasu 
+i przestrzeni.
+
+W samej zmysłowości znajdziemy element formalny i jest to element aprioryczny. 
+Zmysłowość nie jest całkowicie czymś zewnętrznym. U empiryków angielskich 
+wrażenia się pojawiają, jesteśmy bierni. U Kanta element pochodzący od samego 
+podmiotu -- tym elementem jest forma.
+
+Kant odróżnia naoczność i poznanie, to są dwie różne rzeczy. Przykładem poznania 
+jest doświadczenie. Naoczność i poznanie, doświadczenie, to nie jest jedno i to 
+samo. Naoczność odgrywa istotną rolę w doświadczeniu, ale to nie wszystko. 
+W przypadku poznania ważną rolę będzie odgrywać też intelekt. Poznanie ma wiele 
+przyczyn (rozsądek, ...). Czymś początkowym, nieodzownym, jest naoczność. Nie 
+możemy mieć żadnego poznania, gdy nie mamy naoczności.
+
+Ta *maszyna poznawcza* ma wpisaną w siebie zawodność.
+
+Kant twierdzi, że czas i przestrzeń to są **tylko** formy, nic więcej (to 
+wyjaśnia moją wątpliwość co do fimk-u). Czy nie ratowałoby świata, gdybym 
+powiedział, że w świecie są relacje bardzo podobne do czasu i przestrzeni. Wiele 
+rzeczy może być do siebie podobnych przez funkcję, którą spełniają. Jest wiele 
+rzeczy podobnych do czasu i przestrzeni, być może można je odnieść do rzeczy 
+samych w sobie.
+
+Czy jest coś takiego jak forma? Czy nie można tego rozbić?
+
+Mogę spróbować pomyśleć o rzeczy oderwanej o wszystkih form. Dwa różne punkty 
+widzenia na tę samą rzecz.
+
+Myślę o tablicy jak się ona jawi z pewnego punktu widzenai, ale mogę myśeć 
+o niej jak by się jawiła z oebektywneo punktu widzenia.
+
