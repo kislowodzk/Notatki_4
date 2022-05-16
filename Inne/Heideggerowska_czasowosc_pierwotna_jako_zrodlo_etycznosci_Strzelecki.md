@@ -428,101 +428,60 @@ przychodzimy.
 
 Ontycznie mogę zostać tym, tym i tym, na gruncie tego, że jestem w odpowiedniej 
 epoce, miejscu i tak dalej. Byłość może nasz określić tylko o tyle, o ile zawsze 
-już w projekcie kierujemy się ku możliwością, które znajdują się pod nami.
-
-
-
-
-
-
-
-1:18:00
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+już w projekcie kierujemy się ku możliwością, które znajdują się przed nami. 
+Rzecz w tym, że nigdy nie mamy przed sobą możliwości, które nie byłyby 
+umożliwione w byłości. Jedno i drugie przechodzi przez płaszczyznę 
+współczesności.
+
+Odpowiednio te trzy płaszczyzny temporalne możemy odnieść do trzech momentów 
+konstytutywnych troski:
+
+- przyszłość -- **projekt**
+- współczesność -- **upadanie** inicjowane przez *się*
+- byłość -- **rzucenie**
+
+Projekt, upadanie i rzucenie razem tworzą troskę. Tak by się wyjaśniało czasowe 
+wyjaśnienie możliwości troski, czyli czasowe wyjaśnienie bycia całością przez 
+Dasein. Również tego, co stanowi etyczny sens tej analizy.
+
+Parę pytań, które sygnalizowane są na koniec:
+
+O ile jesteśmy we właściwym sposobie otwartości, o tyle zawsze jakoś jesteśmy 
+rzuceni, jakoś się projektujemy. Ale co z upadaniem, kiedy jesteśmy zdecydowanym 
+Dasein, kiedy wyzwoliliśmy się z *się*. To pokazuje, że współczesność, która 
+odpowiada za możliwość upadania, nie ma swojego bezpośredniego odpowiednika 
+w zdecydowanym Dasein. Dlaczego? Co takiego się dzieje we współczesności, że 
+w żaden sposób nie jesteśmy skrępowani?
+
+To wieczysta teraźniejszość była sposobem, w jaki tradycyjna metafizyka ujmuje 
+byt współczesny. We współczesności możemy zamknąć się w sferze bytów i zapomnieć 
+o dynamice bycia. Współczesność jawi się jako pułapka dla Dasein. Heidegger 
+mówi, że Dasein nie zatrzymuje się we współczesności, tylko podejmując swoje 
+możliwości bycia przechodzi przez współczesność w oka mgnieniu. Rola tego *oka 
+mgnienia*, tej chwili, jest tutaj decydująca. Musi zwracać uwagę fakt, że o ile 
+jesteśmy *się*, czyli w upadaniu i w związku z tym na gruncie niewłaściwie 
+uczasowionej współczesności, o tyle nie podejmujemy faktycznie żadnej możliwości 
+bycia. Nie podejmujemy tych możliwości, które moglibyśmy wybrać jako własne, 
+ponieważ nie mamy do nich dostępu. *Się* odebrało je nam. Jednak nie podejmujemy 
+tak naprawdę tych proponowanych przez *się*, bo nie rozumiemy ich w charakterze 
+możliwości.
+
+Jeśli wyzwalamy się, co może oznaczać to, że doświadczamy chwili? Egzystencja 
+niewłaściwa, ta, która nigdy nie podejmuje możliwości jako możliwości, nigdy nie 
+ma też czasu. Dla egzystencji niewłaściwej charakterystyczne jest przeciekanie 
+czasu przez palce, ciągła, bardzo zajęta ganianina. *Strajk włoski* przez całe 
+życie -- jesteśmy bardzo zajęci, ale naprawdę nic nie zrobiliśmy, niczego nie 
+osiągnęliśmy. Przeciwieństwem egzystencja właściwa, która zawsze ma czas na to, 
+czego chwila się od niej domaga. To wskazuje na to, że Heidegger rozumie moment 
+tego doświadczenia chwili, w której kierujemy się ku możliwościom jako rzuceni 
+ku możliwością, jako pewien moment otwierający, który toruje drogę 
+urzeczywistnieniu naszej własnej egzystencji. Stąd propozycja prowadzącego, że 
+to przesłanie Heideggerowskie brzmiałoby jak imperatyw: *czyń w każdej chwili 
+dokładnie to, czego ta chwila od Ciebie wymaga*.
+
+Rodzaj interesującej bierności, *domagania się* ze strony chwili musi być 
+odczuwany. I rzeczywiście wydawałoby się, ze charakter współczesności 
+potwierdzałby rolę tego właśnie doświadczenia.
+
+1:36:10 -- czas na pytania publiczności
 
