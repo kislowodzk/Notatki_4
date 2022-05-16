@@ -1,5 +1,7 @@
 # Heideggerowska czasowość pierwotna jako źródło etyczności -- dr Strzelecki
 
+[Nagranie wykładu](https://www.youtube.com/watch?v=Y4XZqdn1PJQ)
+
 To zagadnienie z jednej strony sygnalizuje, że będziemy mówić o etyce, z drugiej 
 strony, że jej źródłem będzie czasowość. To wymaga sensownego metodologicznie 
 postępowania. Jednak kiedy myślimy o etyce u Heidegger, to mamy następujący 
