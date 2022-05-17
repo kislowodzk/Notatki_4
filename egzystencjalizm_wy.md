@@ -3451,3 +3451,117 @@ a taki, bo cała jego projektowość się zamknęła, wyczzerpała, ona się
 *zamroziła*, taki człowiek nabywa cech, które charakteryzują świat, 
 bytu-w-sobie.
 
+## Wykład 10 -- 17.05.
+
+### Sartre i Gabriel Marcel
+
+Podstawą klasyfikującą Sartre'a jako egzystencjalistę. Większość filozofów, 
+których omawiamy, nie chciała mieć z tą nazwą niczego wspólnego. Natomiast 
+problematyka i metoda ich z egzystencjalizmem łączyła.
+
+Sartre rozpoczął od studiów opartych na nauce Husserla. Sartre ochoczo 
+przystąpił do destrukcji poglądów filozoficznych, z którymi nie mógł się 
+utożsamiać. Skłony idealistyczne nazywał pajęczą siecią, która więziła 
+przedmiot. Tak jak pająk rozpuszcza ofiarę, tak też wszystkie systemy zostały 
+odegnane jako te, które straciły kontakt z rzeczywistością konkretną 
+(neokartezjanizm, neokantyzm).
+
+Próby poszukiwania konkretnego związku z rzeczywistością.
+
+Podczas gdy Sartre studiuje w Berlinie, rozwija się tam system totalitarny. 
+Ataki totalitaryzmu na kulturę, palenie książek.
+
+Wysiłki filozoficzne, które należą do pewnego przełomu. Sartre wrócił uposażony 
+w metodę, która pozwalała na nawiązanie kontaktu ze światem -- w centrum uwagi 
+byt szczególnego rodzaju. Nie był tutaj samotniczym myślicielem niczym 
+Kierkegaardowska sosna. Wziął za punkt wyjścia tradycję kartezjańską. Znał całą 
+tradycję wielkich systemów metafizycznych, które lubił. Orientował się 
+w Spinozie, Leibnizu, Kancie, Heglu.
+
+Tam się wyłonił koncept podmiotu najpierw utożsamianego ze świadomością, która 
+trochę przypominała Husserlowskie ego transcendentalne -- później się od tego 
+stanowczo odżegnał. Ustanowił relację świadomość-przedmiot w swój właściwy 
+sposób. Nawiązał do zasady intencjonalności Husserla, którą pojął jako szanującą 
+obiektywność świata. Sartre powiedział, że świat jest czymś niezależnym, ma 
+strukturę, której nie da się na tyle przybliżyć do świadomości, by ta druga 
+strona utraciła swą niezależność.
+
+Musi istnieć, jako właściwy, stosunek podmiot-przedmiot, ta różnica, ta 
+przepaść, coś, czego nie da się przekroczyć. Nie da się przekroczyć pola 
+podmiotowo-świadomościowego i tego, na co to pole się nakierowuje, w czym to 
+pole się znalazło jako świadomość usytuowana. To jest różnica nie do pogodzenia. 
+Ta formuła wygląda tak, że jeśli przyjmuję ten niepodważalny związek cogito ego 
+i cogitatum, więc związek trzech jedności (jest świadomość, ona prawem 
+intencjonalności jest świadomością czegoś), to okazuje się, że jeśli działa 
+prawo kartezjańskie i zasada intencjonalności Husserla, to mojemu oglądowi, 
+mojemu nakierowaniu *ja* będzie dany przedmiot bliski mi, to będzie będzie to 
+już *ja nakierowane* jako swoistego rodzaju przedmiot. Przedmiot, który musi się 
+charakteryzować pewnym uposażeniem jakościowym, on jest mi dany *jako*, on ma 
+uposażenie, jest w pewnym stopniu opisywalny. W tym jednym przypadku chodzi 
+o dwa rodzaje, typy *ja*.
+
+To niby jestem ja sam, ale to też jest to moje, na co ja się nakierowuje.
+
+To jest nawiązanie od Kartezjusza do Pascala. Dla Pascala ja było czymś 
+nienawistnym, czego się nienawidziło, godne pogardzenia. To jest to, co stanowi 
+pewnego rodzaju *rzeczowość*, jeśli chodzi o mnie, a ja przecież nie utożsamiam 
+się z rzeczą. Sartre'owi chodzi o to, by wprowadzić rozróżnienie, wprowadzić 
+radykalną różnicę, przepaść, niesprowadzalne jedne do drugiego. Niech te 
+przedmioty pozostaną niezależne, ale niech świadomość uświadomi sobie swoje 
+własne granice działania, a przez nie niech pojmie, że jest ona bytem 
+specyficznym, nie tak jak Heidegger mówił o Dasein, że jest bytem o przywileju 
+ontologicznym, bo zadaje sobie pytanie o bycie, a przez swoje bycie nakierowuje 
+się na bycie innych bytów. Sartre idzie drogą świadomości, która musi być bytem 
+całkowicie sobie znanym, przezroczystym. Ona nie może mieć niczego apriori. To 
+jest wielka jego teoria -- ona jest czymś żywiołowym, spontanicznym, ruchem, 
+eksplozją, ona idzie w ten świat po to, żeby ten świat poznać, żeby go 
+doświadczyć jako świata, jako to, co jest niezależne od świadomości.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
