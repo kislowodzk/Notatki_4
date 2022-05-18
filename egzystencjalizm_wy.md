@@ -3675,53 +3675,206 @@ przykład przez wartość piękna. Tam się będzie rozwijał dramat ludzki, je�
 sztuka wyjdzie z pomocą, by człowieka ontologicznie w jakiś sposób 
 usprawiedliwić, nadać mu przynajmniej częściową rację istnienia.
 
-Opowieść z innej perspektywy, aby lepiej zrozumieć antagonistę Sartre'a. 
-Paryżanina. Gabriela Marcela.
+Opowieść z innej perspektywy, aby lepiej zrozumieć antagonistę Sartre'a 
+- Paryżanina - Gabriela Marcela.
 
 ### Gabriel Marcel
 
-43:30
+Marcel nie cieszył się wielką popularnością.
 
+Egzystencjalizm teistyczny. Urodził się w rodzinie żydowskiej. Ojciec dyplomatą, 
+Marcel mówił kilkoma językami, grał na fortepianie, studiował filozofię, znał 
+się na filozofii. Studiował bez perspektyw podjęcia pracy zarobkowej, ale ją 
+wykonywał, był nauczycielem, chociaż nie zrobił kariery akademickiej. Podobnie 
+jak Sartre (pokolenie wyżej) był utalentowanym dramaturgiem. Te sztuki nie są są 
+poznane.
 
+Marcel uważał, że na pierwszym miejscu jest dramaturgiem -- tak pojmował sens 
+bytu ludzkiego, relacji -- jako swoistego rodzaju dramaturgię. Coś pełne napięć, 
+tajemnic, dramaturgii, ale i nadziei.
 
+Uważał, że tezy filozoficzne można demonstrować przez sztukę, jednak Marcel 
+odwraca kolejność -- uważa, że to filozofia ma eksplikować tezy ze sztuki. 
+Dramaturgia stawia pytanie o sens, kondycję bytu człowieka w obecności drugiego 
+człowieka, a to wszystko na tle zastanego świata.
 
+Marcel ciężki do przedstawienia, jako myśliciel programowo asystemowy. On 
+poszukuje, jednak nie lubi opowiadać o rezultatach, które miałyby być 
+ostatecznym wynikiem poszukiwania.
 
+Stosuje metodę prawdziwej fenomenologii, ale nie tej opartej na Husserlu. 
+Metodologii, która jest jego prywatna. Notowanie doświadczeń konkretnego świata, 
+który jest światem konkretnej osoby. Później zostaje on przeniesiony na relacje 
+z konkretnymi osobami. To jest fenomenologia Marcelowska jako 
+badanie/poszukiwanie wewnętrzne. Taka *robota sokratejska*, poszukiwanie, ale 
+bez rozwiązań, raczej zmuszanie do ich poszukiwań.
 
+Wieczne poszukiwanie, które nie może mieć zapisanego w przyszłości rozwiązania 
+i nie jest dążeniem do jednego rozwiązania.
 
+Da się w pewnym stopniu usystematyzować filozofię Marcela. Filozofia konkretu, 
+*Sokrates chrześcijański*, filozofia przybliżeń. Analiza tego, co jest dane, 
+jednostkowe i konkretne.
 
+Oparcie światopoglądu na tym, co wynika się oglądowi. Jest to filozofia wiary 
+umocowanej w transcendencji.
 
+Wyjście, od tego, że pierwszym naszym kontaktem jest *coś* poznawczego. Teorię 
+prawdy będzie przekładał na terminy swoiście pojętej metafizyki.
 
+Pierwsze uderzenie o charakterze poznawczym/doświadczenia. Rozpoczyna się 
+w podmiocie ludzkim od konstatacji świata, który jest dany w świecie 
+empirycznym. Człowiek jest bytem **usytuowanym**, znajdującym się w konkretnym 
+odniesieniu czasoprzestrzennym, które narzuca mu pewne modi postępowania. Musi 
+się orientować, spełniać podstawowe potrzeby. Można to przyrównać do świata 
+wartości witalnych, pewnej codzienności u Heideggera, jako pierwotnej danej 
+podmiotu, o usytuowaniu które opisywał Sartre. Jednak u Marcela jest to 
+niezależne, on nie podlega wpływom innych.
 
+Jestem bytem empirycznym w pewnej określonej sytuacji, czasie i miejscu. To 
+narzuca mi pewien sposób podejścia do świata. Spełnienie życiowych potrzeb, 
+poznania, które umożliwia realizację pewnych zadań, projektów. Nie wychodzę poza 
+ten świat, pozostaję na pierwotnym poziomie życia w świecie.
 
+Drugi poziom (o charakterze poznawczym), jest poziomem refleksji pierwszej. Tu 
+mamy do czynienia z czymś, co Marcel rozumie przez nastawienie oparte na naukach 
+szczegółowych, empirycznych. Jest to stara krytyka wszelkiego rodzaju 
+pozytywizmu. Nie jest to krytyka druzgocąca -- poziom refleksji pierwszej to 
+poziom nauk, które dążą do pewnych uogólnień, abstrakcji. Muszą materiał tak 
+organizować, by pewne cele zostały osiągnięte na poziomie wyższym -- chodzi 
+o grupy społeczne, o ludzkość -- ona potrzebuje takiego poznania, musi się 
+orientować w świecie, ten świat zmieniać.
 
+Takie podejście opiera się na definicjach, które są oparte na założonym systemie 
+przyczynowo-skutkowym. Nauka jako pewna władza, pewien sposób organizacji świata 
+naturalnego i społecznego. Definicje. Twory określone w pewnym celu.
 
+Człowiek w tym świecie nie czuje się dobrze -- ten świat podpada pod kategorię 
+**posiadania**. Nauka dąży do zawłaszczenia rzeczywistości, rządzi nią, będzie 
+ją przedstawiała tak, żeby osiągnąć pewne korzyści. To jest zatrzymanie pewnego 
+ruchu, pewnej dynamiki.
 
+Marcel mówi, że tej siły witalnej nie da się w ten sposób zatrzymać, a nauka ją 
+zatrzymuje. Wyrzuca się poza nawias intuicję -- za Bergsonem. Tego podejścia 
+Marcel nie aprobuje. To nie tylko zmienia świat, ale przede wszystkim zmienia 
+tego, kto uczestniczy w takiej refleksji, w podejściu obiektywizującym, ma do 
+czynienia z obiektywizowanymi przedmiotami i procesami, które zostają 
+zatrzymane, aby lepiej je poznać -- posiadać je.
 
+Trzeci poziom -- on zezwala nam na przedostanie się na wyższy poziom -- to jest 
+**refleksja wtórna**. To jest już kwestią ducha -- nie tyle świadomości, ile 
+wolnego ducha, który będzie tak oglądał rzeczywistość, aby przepuścić ją przez 
+swoje własne wnętrze, przez swoją doświadczeniowość. Dostrzegać ją nie jako coś, 
+co może być zawłaszczone, ale za to, co może być **przeżyte w kategorii jedności 
+tego, co jawi się jako dar**. Ta refleksja przepuszcza wszystkie doświadczenia, 
+dokonuje refleksji przez skupienie -- widzi się te aspekty, które na poprzednich 
+etapach nie można było dostrzec; aspekty wskazujące na to, że właściwie mamy do 
+czynienia z czymś, co nie może być tak skategoryzowane, przedstawiane, bo jawi 
+się nam przede wszystkim jako coś, co płynie, jako **dar**, czym zostaliśmy 
+obdarzeni i w stosunku do tego musimy być **wierni** i **wdzięczni**.
 
+Tym darem jest pojęcie **bycia** u Heideggera, **bytu** u Marcela. On tu nie 
+wprowadza rozgraniczeń jak Heidegger. Byt jest tym darem, który mi się jawi, 
+jako coś, co wykracza poza świat dany na dwóch podstawowych poziomach. Trzeci 
+poziom pozwala dostrzec coś więcej niż nauka/porządek zniewolenia 
+rzeczywistości.
 
+Ten dar, za który powinienem być wdzięczny, któremu powinienem być wierny, jako 
+czemuś, co nie może mi być bezpośrednio dane. Paralela do Jaspersa. W takim 
+razie moje podejście musi być zupełnie inne w stosunku do tego daru, tej 
+transcendencji, która mi się jawi, gdy porzucam pierwotne zaangażowanie, 
+usytuowanie w świecie.
 
+Wprowadza tu Marcel dwie kategorie: ta, która Marcela ma ustawić na wyższym 
+poziomie, to kategoria **tajemnicy** i **sekretu**. Ten poziom refleksji 
+pierwszej, przedmioty, utylitaryzm życiowy, skategoryzowanie, posiadanie, to 
+jest świat **problemu**. Problem to jest coś, co znajduje się w sferze ludzkich 
+możliwości -- może zostać rozwiązany, jeśli nie dzisiaj, to jutro. Tutaj fizyka, 
+zagadnienia biologiczne. To jest kiedyś do rozwiązania -- ten problem pomaga 
+w życiu, pomaga przetrwać, osiągnąć pewne cele, ale nie jest dla nich 
+fundamentalnie istotny, by nawiązać kontakt z **darem**. Nie da się 
+skategoryzować rzeczy znajdującej się w tajemnicy, w innej kategorii. To 
+podejście to jest **tajemnica**, ona wymaga całkowitego zaangażowania się całej 
+osoby ludzkiej. Jeśli naukowiec rozwiązuje pewien problem, to może przekazać go 
+swojemu koledze i nie nastąpi nic, co by ten problem umniejszało, bo problemy są 
+po to, by były rozwiązywane. Problemy nie angażują ducha, osobowości człowieka. 
+Jeśli natomiast sięgamy do wyższej rzeczywistości (której istnienia nie można 
+udowodnić, trzeba na poziomie drugiej refleksji to, czego nie możemy zrozumieć, 
+ale nam się jawi). To jest dar, który płynie z transcendencji. To wymaga 
+zaangażowania mnie całego. Muszę wejść -- nie rozwiążę tego, ale mogę jakoś się 
+zbliżyć. Przybliżanie do spraw, które stanowią fundament istnienia człowieczego.
 
+To jest traktowane jako przygoda opisywana przez fenomenologię dnia codziennego. 
+To jest przygoda świadomości, która jest świadomością pewnej cielesności, to 
+cielesność jest uświadomiona. Pierwszą tajemnicą jest stosunek mnie jako mnie do 
+własnego ciała. Nie mogę powiedzieć, że posiadam ciało. Nie mogę też powiedzieć, 
+że nim jestem. To jest tajemniczy związek, który rzutuje na całą rzeczywistość, 
+której nie mogę w sposób bezpośredni poznać. To jest pierwsze uderzenie, które 
+Marcela prowadzi poza niedefiniowalną definicję bytu ludzkiego. Jesteśmy *nad 
+tym* czym jesteśmy. Człowiek nigdy nie jest z sobą samym tożsamy (analogia 
+z Sartrem). W przypadku Marcela to *nadbycie* sobą jest kierunkiem określonym, 
+w stronę, która nie jest bezpośrednio dana. Projekt Sartre'owski jest 
+niewykonywalny, projekt Marcelowski jest dokonywalny na zasadzie zbliżeń. 
+Człowiek przez pojęcie tajemnicy, która go angażuje, może się zbliżać do tego, 
+co jest racją, co udzieliło mu daru istnienia.
 
+Tyle Marcel bierze z całej tradycji teologiczno-mistycznej. Gdzieś za 
+horyzontami płynie promień oświetlający mrok naszego istnienia -- on jest 
+**wezwaniem**, na które mogę, nie muszę, odpowiedzieć. Jeśli odpowiem, to obiorę 
+kierunek ku transcendencji, jako byt usytuowany, który z usytuowania wychodzi 
+przez poziom pierwszej i kolejno drugiej refleksji. To usytuowanie i formuła 
+bycia świadomością ucieleśnioną, powoduje, że robię to jako człowiek, nie jako 
+abstrakcyjny duch, zmierzam do bytu najwartościowszego.
 
+Mogę zacząć od świata, w którym się urodziłem. Przez stosunek do siebie, 
+stosunek kogoś do przedmiotu -- on może na mnie wpłynąć destruktywnie, mogę 
+przyjąć strategię uprzedmiotowiania, czyli posiadania. Mogę to robić nie tylko 
+z narzędziami, ale również próbować robić to z ludźmi. Mogę przyjąć też inny 
+kierunek: tajemnicy, która nic nie może konkretnie rozwiązać, ale angażuje ona 
+mój cały byt, który nakierowuje się na to, co jest mi niebezpośrednio dane -- na 
+dar, za który muszę być wdzięczny: to jest transcendencja sama, która otwiera mi 
+się jako *mnie* konkretnemu, ucieleśnionemu bytowi, który musi wejść 
+w specyficzny stosunek z innym bytem. Stosunek **miłości**. Nie ma czegoś 
+innego, co by mogło ten stosunek przewyższyć.
 
+Nastawieniem człowieka do drugiego ucieleśnionego bytu, który jest również 
+nakierowany na tę transcendencję, jest miłość. Ta miłość jest oparta nie na 
+czymś, co kieruje się od podmiotu do przedmiotu, ale od podmiotu do podmiotu: od 
+*ja* do *ty*. Motyw nawiązania jest motywem wspólnoty bytu. Jest partycypacją 
+w bycie, który jest darem, tajemnicą, transcendencją. To jest sytuacja 
+autentyczna człowieka.
 
+Wszystko, co jest złe, czego doświadczyliśmy jako dramat istnienia. Nastąpiło 
+coś w naszej cywilizacji, co straciło kontakt z transcendencją, bytem jako 
+darem. Stało się coś takiego, że porządek poznawczy, numeryczny, pożyteczny dla 
+nauk, zaczęliśmy sprowadzać do świata ludzkiego. Jeśli zestawimy podejście 
+Sartre'a, który człowieka drugiego chce traktować w kategoriach bytu, który jest 
+dany, zdefiniowany, jest ponumerowany, bo taki jest charakter złej, agresywnej 
+wolności; to u Marcela ten porządek zostaje przywrócony na właściwe tory. To 
+jest porządek zrozumienia. Świat ludzki nie może być światem przedmiotowym. To 
+jest świat *ty*, więc w miłości ja mogę Cię zapewnić, ze na pewno nie umrzesz, 
+ja Ciebie kocham. To pokazuje ten inny wymiar TY ogromnego, dużego. To być może 
+jest Bóg (tak tłumaczy to Jaspers), to może być Tao, transcendencja, do której 
+zmierzamy. Ona z nas czyni byty, które są w pełni ludzkie, nie uciekają od 
+tajemnicy, które angażują się w tę tajemnicy żyjąc *normalnie*. O tej 
+codzienności bycia w świecie Marcel pisze przede wszystkim w kategoriach 
+świadomości ucieleśnionej -- to nie jest świat duchów, to świat ludzi 
+z potrzebami, obawami, projektowi. Rządzi przede wszystkim relacja, której 
+Sartre nie mógł przyjąć. Miłości, która jest wspólną drogą, bo człowiek nie jest 
+tożsamy ze sobą. Człowiek w drodze (Jaspers). Człowiek w tej drodze potrzebuje 
+towarzysza.
 
+Żeby droga miała sens, to musi wystąpić ponad byt ludzki. Otwarcie się na dar, 
+który jest darczyńcą. Ten darczyńca jest nieuchwytny, niezrozumiały, ale jest, 
+daje się wyczuć jako pewnego rodzaju obecność.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ta filozofia nigdy nie rościła sobie praw do bycia systemem. Nigdy nie 
+przekonywała nikogo do jej przyjęcia. Marcel nigdy nie narzuca swojego punktu 
+widzenia tak, jak nie narzuca się darczyńca. Możemy tylko przy pełnym 
+zaangażowaniu w fenomen tajemnicy, która wymaga całkowitego zaangażowania, 
+doświadczyć tej obecności. Jednak już opisać tej obecności możemy nie być 
+władni. Pomaga w tym poezja, sztuka. Ona się zbliża do tego doświadczenia. 
+Dramaty Marcela pokazuje odcienie bytu człowieka na różnych poziomach. 
+Bezpośrednim, pierwszej refleksji, drugiej refleksji, która wymaga zaangażowania 
+całą osobowością, byciem w kierunku transcendencji.
 
