@@ -3453,7 +3453,7 @@ bytu-w-sobie.
 
 ## Wykład 10 -- 17.05.
 
-### Sartre i Gabriel Marcel
+### Sartre -- ciąg dalszy
 
 Podstawą klasyfikującą Sartre'a jako egzystencjalistę. Większość filozofów, 
 których omawiamy, nie chciała mieć z tą nazwą niczego wspólnego. Natomiast 
@@ -3515,12 +3515,172 @@ się na bycie innych bytów. Sartre idzie drogą świadomości, która musi być
 całkowicie sobie znanym, przezroczystym. Ona nie może mieć niczego apriori. To 
 jest wielka jego teoria -- ona jest czymś żywiołowym, spontanicznym, ruchem, 
 eksplozją, ona idzie w ten świat po to, żeby ten świat poznać, żeby go 
-doświadczyć jako świata, jako to, co jest niezależne od świadomości.
+doświadczyć jako świata, jako to, co jest niezależne od świadomości, ale 
+w związku ze świadomością.
 
+Sartre jest fenomenologiem, który ją przekracza, który specyficznie rozumie 
+zasadę intencjonalności: rozpisuje te intencjonalności, percepcja i wyobrażenie. 
+To go prowadzi do koncepcji metafizycznej -- do ontologii radykalnej.
 
+Świat i świadomość.
 
+Główne narzędzie: negacja -- ustanawianie takiego stanu, którego jeszcze nie ma, 
+a być może będzie i go jeszcze nie było. To są wszelkie pytania, wątpienie. 
+Kruszenie wielkiej masy bytu. Ten świat jest wysławialny w tradycji 
+parmenidesowskiej, że jest. Ale on jest po nic -- struktura nadmiarowości. Nie 
+ma żadnych racji.
 
+Świadomość zaczyna się do niego zbliżać na wiele negatywnych sposobów. To 
+Sartre'owi pozwala wymienić kilka poziomów świadomości. Dwie są niezależne 
+partie, dwa rozgrywające płaszczyzny, dwa rozgrywające byty:
 
+- byt dla siebie -- świadomość
+- byt w sobie -- jest antagonistą; on w jakiś sposób nam zagraża
+
+Świadomość jest zawsze świadomością czegoś. Jest ona strukturą negatywną, 
+wprowadzającą porządek, który bez bez świadomości nie mógłby zaistnieć. Porządek 
+ustanawiania różnicy między tym, na co się nakierowuje i tym, co jest elementem 
+nakierowującym. Z tego Sartre (z koncepcji świadomości jako negującej) wysuwa 
+kilka istotnych cech:
+
+- brak tego, co filozofia uwielbiała przypisywać bytowi ludzkiemu -- brak 
+jakiejkolwiek istoty; najpierw egzystencja, później esencja, była zasadą twórczą 
+dla Sartre'a, która tłumaczyła relację świadomość-świat i odwrotną
+
+Przeszłość -- coś już ukonstytuowane, ale z tym nie jestem się w stanie 
+utożsamić -- nie ma Pierre'a z przeszłości, bo ten Pierre ma strukturę przede 
+wszystkim rzucenia w świat, usytuowania; strukturę wolnościową, 
+spontanicznościową, wybór, który jest oparty na niczym, braku racji.
+
+Jeśli ten świat jawi się jako monolit do skruszenia, jako coś, co muszę 
+zanegować, to muszę zadać pytanie: *pojawienie się drugiego*. To jest największy 
+dramat -- drugi wykazuje cechy, które są cechami hybrydalnymi.
+
+Przez to, co Sartre rozwija w koncepcji antyhusserlowskiej. Jest obleczony 
+w ciało, które przypomina bardziej masę bytu w sobie niż świadomość. Sartre 
+właściwie nie uznaje nauk empirycznych, doświadczalnych, uważa, że fenomen dla 
+drugiego jest problemem złożonym. Daje się jako świadomość, wolność, 
+spontaniczność, przezroczystość, intencjonalność; z drugiej strony jest bytem 
+skończonym, ograniczonym, w czasie i przestrzeni, cielesnym. Opisane relacje 
+między świadomościami/bytami dla siebie/dwoma wolnościami/spontanicznościami 
+stanowią dramatyczny wykład umieszczony w bycie i nicości -- to są **relacje 
+międzyludzkie, międzypodmiotowe**.
+
+Istotą tych relacji jest konflikt, zmaganie. Mówi o pewnym upadku, grzechu 
+pierworodnym. Sięga do metaforyki okrucieństwa. Mówi o *krwawieniu świata*, 
+kiedy inny pojawia się w moim świecie, ten świat zaczyna krwawić. Cechą 
+nadrzędna (nie w sensie apriori) jest to, że dążymy do naznaczenia swojego 
+własnego sensu, nadania go rzeczywistości. Wszystkie wartości płyną ze 
+spontaniczności działalności świadomości -- ja jestem ich przyczyną, tak jak 
+czas przeze mnie płynie i przestrzeń jest przestrzenią ludzką.
+
+W tym wszystkim spotkanie -- to jest moment dramatyczny. To jest osławiony 
+fenomen *oglądu*, *spojrzenia*. To spojrzenie jest spojrzeniem meduzy. Meduza 
+robiła z czegoś żywego martwy posąg. Ten byt zostaje bytem *zamrożonym* -- my 
+podobnie stosujemy takie podejście do drugiego, że jeśli go obrzucamy oglądem, 
+to chcielibyśmy zatrzymać to, co Sartre nazywa transcendencją: to wyjście poza 
+to, czym jestem, ku temu czym będę, ale także wyjście poza to, czym byłem -- to 
+jest filozofia człowieka jako dynamizm -- nigdy nie utożsamiam się ze sobą aż do 
+momentu, w którym nie będę mógł się wymykać -- nadejdzie kres wszelkich 
+możliwości -- śmierć.
+
+Jeśli znajdę się w polu oglądu drugiego, to chcę tak zrobić, żeby potraktować 
+mnie jak byt w sobie. Nadać mi cechy, które są mu *na rękę*, chce we mnie coś 
+widzieć, co mu odpowiada -- to jest pogłos koncepcji Feuerbacha i Hegla -- 
+koncepcja alienacji. On mnie z mojego świata alienuje, on chce, żebym znalazł 
+się na jego łasce, żebym stał się tym, czym on widzi, że jestem. Tu jest cała 
+gama opisów jak te cechy, które są na mnie rzucane, do mnie się przyklejają -- 
+ja muszę je odrzucać i płacić pięknym za nadobne.
+
+W sytuacjach dnia codziennego Sartre widzi, jak ludzie potrafią urzeczowić 
+siebie, żeby jakoś ten byt próbować poznać, zdefiniować.
+
+Jest tu jeszcze historia tego trzeciego. Relacja podmiot-podmiot-podmiot. To 
+jest fenomen tak zwanej dziurki od klucza. Małe hoteliki, bardzo wścibskie 
+sprzątaczki -- lubiły podsłuchiwać i zerknąć przez dziurkę od klucza. Sartre 
+opisuje ten fenomen dziurki od klucza. Oglądająca czuje się panią sytuacji -- 
+może opowiedzieć o moralności, o wszystkim. Jednak nagle okazuje się, że ona też 
+nie jest wolna, bo uświadamia sobie, że jest też obserwowana. I cały ten układ 
+się zamraża. Tak Sartre ujmuje ten fragment życia społecznego, jako serię 
+*oglądów*, nadawania sobie cech, z którymi nie możemy i nie chcemy się 
+utożsamiać, bo pomimo tego, że jesteśmy poddani żywiołowi wolności, na którą 
+jesteśmy skazani, to jednak tej wolności chcemy bronić.
+
+Sartre przechodzi do **uczucia ontologicznego**. Analiza **wstydu** -- to nie ma 
+nic wspólnego z kategorią etyczną (związaną z postawieniem w obliczu wartości, 
+praw, norm i uczuciem dyskomfortu spowodowanym złamaniem tych norm). To jest 
+uczucie, że ja nie chcąc się utożsamiać, czuję jako człowiek, że tracę swoje 
+bycie podmiotem, swoją świadomość. Zostałem uchwycony, nie mogę tego zwalczyć, 
+odrzucić. To mnie napawa wstydem w tym sensie, że niewiele z tym mogę zrobić 
+i mogę to jedynie przeżywać. Oglądy sprawiają, że jestem zdefiniowany jak rzecz 
+-- to powoduje, że ja się tego wstydzę. Muszę uruchomić cały aparat 
+transcendencji, aby to przekroczyć i odeprzeć to -- użyć tej samej metody.
+
+Ta dialektyka oglądu i jego odrzucania połączona ze wstydem, fenomen 
+powszechnego urzeczowiania, krwawienia świata ludzkiego, on wszystkie 
+właściwości świata podmiotowego przeniosły na relacje międzyludzkie.
+
+Sartre bierze się za rzeczy, które w tradycji francuskiej były opisywane -- 
+przerzuca to wszystko do góry nogami -- nagle uświadamiamy sobie, że na prawdę 
+nie wiedzieliśmy nic o miłości, o języku, o pierwotnym usytuowaniu 
+i rzeczywiście Sartre'owska fenomenologia opisuje to tak, że mamy ciągle nowe, 
+mroczne i świeże analizy.
+
+Bardzo rozpowszechniony fenomen miłości jako poświęcenia, miłości która dokonuje 
+cudów, gdy sytuacja wydaje się beznadziejna. Miłość równopartnerska, podzielona 
+na miłość matczyną, kochanków. Wszystko to mimo tragedii, która towarzyszy 
+relacji miłości, jest opisane w kulturze. Sartre bierze się za destruowanie 
+tego.
+
+Miłość tak jak wszystkie relacje świadomości przezroczystej, wolnej, opierającej 
+swoje wybory na nicości, jest oparta na konflikcie -- ten konflikt musi się 
+zrodzić wtedy, kiedy chcemy w miłosny sposób posiąść, zdobyć drugi obiekt. 
+Obiektem jest inna świadomość. Mogę pożądać pewnych rzeczy materialnych, ale 
+nigdy ich nie kocham.
+
+Polega to na tym, że ja działam jak traszka-modliszka. Przywabiam. Stroję się 
+w piórka, staram się być atrakcyjny. Ubieram wolność w pewne cechy, które nie 
+muszą mieć pokrycia w mojej projektowości bytowej, po to tylko, by przywabić 
+obiekt. Sartre pisze o miłości nie jako o atrakcji seksualnej -- to nie leży 
+w jego sferze zainteresowań. Jeśli rzeczywiście staram się uatrakcyjnić, to 
+robię to tak, żeby pochłonąć drugą wolność, bo ona mnie interesuje.
+
+Ta odpowiedź, jeśli już przeprowadziłem tę wstępną grę *przywabiania* (opisywaną 
+w kategoriach świata zwierzęcego), ten przedmiot wpada w moje ręce, jest to 
+przedmiot miłości, ale okazuje się, że nie o to mi chodziło. Ja nie chciałem 
+tego obiektu -- ten obiekt, jeśli on mi się oddał, okazuje się on obiektem tylko 
+dla mnie, dla mojej miłości, to w takim razie go nie chcę. Byłem zainteresowany 
+tylko wolnością, ale jej nigdy nie mogę pokonać, bo ona dzięki swojemu 
+charakterowi, dzięki wytwarzaniu trwogi, pokazuje mi, że mimo tego, że jestem 
+prawie nicością, to ona właśnie jest czymś bezcennym. Gra polega na tym, że tak 
+naprawdę te dwa obiekty, które wydają się kochać się, one nigdy nie mogą się 
+spotkać, one muszą się rozejść. Każda miłość jest już skazana na rozejście. 
+Podobnie jest z nienawiścią, z językiem, z innymi relacjami.
+
+Natomiast jest jeszcze jeden istotny motyw -- **projekt generalny**. Człowiek 
+prowadzi życie, które nie ma wytyczonych celów, o ile on ich sam sobie nie 
+wytoczy, nie będzie ich realizował. Jest od nicości do nicości, jest grą sił 
+wolności. Te mechanizmy nam nie pomogą, nie możemy liczyć na drugiego człowieka. 
+Czujemy coś, co czyni z nas byty niezakorzenione, które nie posiadają racji 
+istnienia. Bóg niemożliwością -- niemożliwa fuzja bytu w sobie i dla siebie, to 
+byłby absurd.
+
+Stworzona przez Sartre'a psychoanaliza, która nie dysponuje i nie chce 
+dysponować pojęciem nieświadomego/podświadomego. Sartre uważa, że to byłoby 
+nadużycie, natomiast wszystkie inne rzeczy, które chce wytłumaczyć, są 
+wytłumaczalne na poziomie psychoanalizy, na poziomie świadomym. To pokazuje, że 
+zmierzamy do jednego -- do realizacji czegoś, czego nie da się zrealizować -- do 
+ukonstytuowania *bytu w sobie dla siebie*. Można się do tej fuzji zbliżać na 
+przykład przez wartość piękna. Tam się będzie rozwijał dramat ludzki, jeśli 
+sztuka wyjdzie z pomocą, by człowieka ontologicznie w jakiś sposób 
+usprawiedliwić, nadać mu przynajmniej częściową rację istnienia.
+
+Opowieść z innej perspektywy, aby lepiej zrozumieć antagonistę Sartre'a. 
+Paryżanina. Gabriela Marcela.
+
+### Gabriel Marcel
+
+43:30
 
 
 
