@@ -3878,3 +3878,151 @@ Dramaty Marcela pokazuje odcienie bytu człowieka na różnych poziomach.
 Bezpośrednim, pierwszej refleksji, drugiej refleksji, która wymaga zaangażowania 
 całą osobowością, byciem w kierunku transcendencji.
 
+## Wykład 10 1/2 -- 18.05.
+
+### Marcel dodatkowy, przez prowadzącego ćwiczeń ból głowy
+
+Egzystencjalizm teistyczny (chrześcijański, katolicki).
+
+Sama denominacja jest słuszna, choć wśród egzystencjalistów XX wieku nie było 
+zgody co do utożsamiania się z nalepką *egzystencjalista*, Jaspers i Heidegger 
+się odcinali.
+
+Marcel figurą skromną. Nie profesor, krzykliwy sprzedawca idei, a myśliciel 
+pozostający na uboczu. Zainicjował w sposób niezależny *egzystencjalizm* bez 
+wpływów Kierkegaarda czy Heideggera. Jego droga niezależna, prywatna, intymna 
+refleksja filozoficzna.
+
+Egzystencja człowieka, osoby, której nie da się rozłożyć na problemy poznawcze 
+związane z takimi przedmiotami, jak fizjologia, antropologia, psychologia. Osoba 
+to jest coś więcej, coś, co wykracza poza zobiektywizowane, wąskie ramy.
+
+Filozofia niesystemowa. Intymny dziennik przeznaczony dla wyrafinowanych 
+czytelników. Filozofię Marcelowską często zestawia się z równoległym niezależnym 
+ruchem -- personalizmu.
+
+Personalizm -- szkoła, która przełamywała to wszystko, co narosło w złej, 
+pozytywistycznej, materialistycznej socjologicznej, psychologicznej (Freud 
+wrogiem numer 1) tradycji. Problematyka jedyna licząca się dla autentycznej 
+filozofii -- problematyka osoby.
+
+Marcel bliski temu nurtowi, ponieważ upomina się o jednostkę, człowieka 
+traktowanego jako niezależny, duchowy byt. Różnice między personalistami, którzy 
+wyróżniają pomiędzy:
+
+-- *indywiduum* -- postromantyczny mit jednostki, której wszystko wolno, która 
+lokuje się ponad normami społecznymi, która jest twórcza wtedy kiedy chce, nie 
+poddaje się żadnym prawom, jest anarchiczna, to jest mit buntowników, ten bunt 
+prowadzi czasami do tego, co egzystencjalizm chrześcijański chciałby 
+przepracować -- solipsyzm, zamykanie się w świecie własnych przeżyć. Zapatrzenie 
+się tylko na prywatną sferę istnienia
+-- *ludzkie, którzy wychodzą na zewnątrz* -- uczestniczą bardzo aktywnie, ale 
+czasem bezmyślnie, w tym, co pojmują jako historię, jako *dziejowość*, po 
+Heideggerowsku mówiąc
+
+Marcel też wpisuje się w nurt personalistyczny, ale wątki osoby, jej 
+zaangażowania w świat, opracuje nieco inaczej.
+
+Wracając do filozofii Marcelowskiej -- jest ona personalistyczna, ponieważ na 
+kanwę wzięła sobie badanie jednostki świadomej, poszukującej *sensu swojego 
+istnienia* i ten sens chciałaby przekazać innym. Punktem wyjścia jest próba 
+pewnej rekonstrukcji, ponieważ celowo nie tworzy on systemu, był niechętny 
+kategoryzacji myśli, która była intuitywna, która działała na wielu 
+płaszczyznach (na przykład artystycznej, dramaturgicznej, krytycznoliterackiej). 
+On stawia wszystkie te dyskursy, podkreśla swoją przynależność do ruchu 
+egzystencjalistycznego. Punktem wyjścia jest człowiek traktowany przede 
+wszystkim jako przedmiot i podmiot badań filozoficznych. Marcel ustawia 
+*metodologię* podejścia.
+
+Jaki jest opis tej kondycji bytu ludzkiego? Marcel tak jak Jaspers, rozpoczyna 
+analizę świata ludzkiego od tego, co jest pierwotne. Od **usytuowania**. To jest 
+byt traktowany początkowo jako pewne datum empiryczne, pewne datum, które jawi 
+się w świecie, jest cielesność, jest określenie czasu i przestrzeni, w której 
+jednostka się pojawiła. Są próby opanowania rzeczywistości, w której jednostka 
+się znajduje.
+
+Pierwsze próby Jaspers nazywa *refleksją*, *doświadczeniem pierwszym*. Jest to 
+coś, co człowieka ustawia w relacji do świata, ale także ustawia jego stosunek 
+do rzeczywistości. Z pierwszej refleksji człowiek wynosi pierwotną orientację 
+w rzeczywistości, ale tą rzeczywistością chciałby kierować, wykorzystać ją -- 
+tak ją przetransponować, by móc nią rządzić.
+
+Tu wyłania się fundamentalna kategoria filozofii Marcela: kategoria 
+**posiadania**, **zawłaszczania**. Człowiek chciałby fragmenty przynajmniej 
+rzeczywistości, w której się znalazł, opanować -- tak ją kontrolować, by być 
+w stanie w swobodny sposób zarządzać ku swoim własnym celom. Tu się wyłania 
+niebezpieczeństwo *egoizmu*, *narcyzmu* dostrzeżonego przez personalistów. 
+Człowiek chciałby posiąść nie tylko świat przyrody, ale też świat drugiego 
+człowieka. Tutaj Marcel mówi, że to jest od pewnego czasu już zauważalny zły, 
+negatywny zwrot, że nasza cywilizacja idzie w kierunku zawłaszczania, 
+posiadania. W kategoriach poznawczych będzie się to nazywało *problematyzacją*.
+
+Problemy to *zadania*, które ludzkość wypełnia, bierze je na swoje barki, używa 
+wszelkich możliwych środków, paradygmatów, które zmierzają do tego, żeby 
+rzeczywistości odjąć jej całość, *pokawałkować* ją na odpowiednie problemy i te 
+problemy przedstawić tak, że są one do zrozumienia.
+
+Marcel był, zdaniem Mroza, znakomitym pisarzem; człowiekiem, który pozostawił po 
+sobie wiele dalej aktualnych dramatów. Uważał, że twórczość dramaturgiczna stoi 
+na pierwszym miejscu, a wszystko, co przedstawia w swoich dziełach 
+*filozoficznych*, to jest tylko eksplikacja problemu dramaturgicznego, tego, co 
+przedstawia na scenie. Tam jest pokazana postawa pazerności -- nie tylko 
+pazerności skąpca, czy ludzi opisanych przez Dostojewskiego <3, Balzaca czy 
+Dickensa -- ludzi którzy chcą zawłaszczyć. Zawłaszczenie jest pewnego rodzaju 
+postawą, postawą ontologiczną jednostki, która dąży do podporządkowania 
+wszelkich możliwych fragmentów świata, przyrodniczego, ale co gorsza, świata 
+ludzkiego.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

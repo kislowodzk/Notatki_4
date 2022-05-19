@@ -863,3 +863,48 @@ u Comte wytwarzać.
 
 *Dola* ludzka ma zastąpić pojęcie natury ludzkiej. Naturę ma przedmiot.
 
+## Ćwiczenia 12 -- 19.05.
+
+Zamiast niego wysłany wykład z Marcela
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
