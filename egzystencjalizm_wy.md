@@ -3973,56 +3973,122 @@ postawą, postawą ontologiczną jednostki, która dąży do podporządkowania
 wszelkich możliwych fragmentów świata, przyrodniczego, ale co gorsza, świata 
 ludzkiego.
 
+Problematyzacja i posiadanie jest czymś, co inicjuje przygodę ludzką w świecie 
+i zarazem odbiera *ludzkość*. Człowiek staje się tym samym, co problem, który 
+rozwiązuje. Ten problem jest zawsze w jakiejś perspektywie rozwiązywalny 
+i zawsze jest czymś zewnętrznym w stosunku do egzystencji jednostki. Posiadanie 
+jest posiadaniem naznaczonym tym, co Bierdiajew nazywa *obiektywizacją*. To miał 
+być niegdyś ideał poznania. Tu się Marcel nie może zgodzić. To jest coś, co może 
+być początkiem, ale jeśli będzie końcem poznania, to prowadzi tylko do 
+katastrofy. Taką katastrofą była na przykład I wojna światowa.
 
+Druga postawa -- **refleksja druga** w odróżnieniu od pierwszej, to jest 
+refleksja, kiedy wznosimy się na poziom wyższy, kiedy zaczynamy obserwować 
+siebie w aktach poznawczych i dochodzimy do wniosku, że na nic nie zda się 
+posiadanie, zawłaszczenie, rozbicie całości na części i ustanowienie porządku 
+zewnętrznego. Musimy przejść na wyższy poziom nie tylko poznania, ale i sposobu 
+życia. Ten poziom będzie stawiał inne wymagania jednostce. To jest refleksja 
+druga, która kojarzy się z naczelną/opozycyjną kategorią Marcela: kategorią 
+**bycia**.
 
+Można było by się zastanawiać jak Marcel w zestawieniu z Jaspersem, Heideggerem, 
+Sartrem, rozumie to bycie. **Bycie** jest niejednorodne. Jest zadaniem/pewną 
+obecnością, która powinna jednostkę wrażliwą niepokoić. Nie będzie niepokoiło 
+bycie fizyka nuklearnego albo ideologa (szczególnie jeśli chodzi na przykład 
+o socjologizm, marksizm w formie wynaturzonego materializmu historycznego, czy 
+wszystkie wiedze społeczne skażone ideologicznie) -- nie będzie w nich 
+niepokoju, lęku, ponieważ tam jest stosunek sproblematyzowany -- problemy da się 
+zobiektywizować, rozwiązać albo poczekać na ich rozwiązanie.
 
+Natomiast przybliżenie się do sfery tego, co niepokoi jednostkę. Jednostka 
+zaniepokojona pewnymi zjawiskami, tym, czego nie da się wytłumaczyć. To jest 
+**tajemnica**, która wymaga ode mnie zaangażowania nie sił intelektualnych, ale 
+całej mojej egzystencji. Tutaj po raz pierwszy pojawia się termin 
+**zaangażowania**, wejścia w sferę, która wymaga całego mojego jestestwa. 
+Tajemnica takim problemem, który angażuje mnie całego. To nie tylko moje 
+poznanie, to przede wszystkim sposób nakierowania się na to, gdzie ten byt mi 
+się przejawił. Można tu szukać pewnych analogii z koncepcją Dasein, choć jeśli 
+ktoś był na gruncie egzystencjalizmu XX wiecznego niezależny i raczej wpływał na 
+innych, to właśnie Marcel. On tworzył niezależnie od fenomenologów, od innych 
+egzystencjalistów, nawet od Kierkegaarda, którego bardzo późno poznał.
 
+To raczej intymne zapiski przygody z własnym istnieniem, które domaga się 
+uzupełnienia relacji do czegoś innego. Do czego? Do **bycia**/**bytu** i do 
+świata, w którym się ta przygoda odbywa. Tutaj Marcel próbuje rozwiązać problem 
+istnienia jednostkowego. Ten problem zawsze musi być powiązany z problemem 
+**innego**.
 
+Jeśli będziemy się zastanawiać nad koncepcjami relacji międzyludzkich 
+w filozofii I połowy XX wieku, to Marcel i personaliści zajmują nienaruszalne 
+miejsce. Po raz pierwszy tak jaskrawie postawiony jest apel do tego, że człowiek 
+będąc w świecie, w sytuacji, skonfrontowany z byciem przejawiającym się na wiele 
+sposobów, z tajemnicą, musi swój byt zrelacjonować do bytu innego.
 
+Dla Sartre'a było to źródło zagrożenia, oparte na konflikcie, pierwszej 
+kategorii Marcelowskiej -- problematyzacji i kategorii zawłaszczenia. 
+U Heideggera problem jest neutralny, przynajmniej moralno-etyczne. Heidegger 
+mówi o egzystencji, ale nie mówi, co mamy zrobić.
 
+Marcel idzie innym torem. Jeśli człowiek jest w świecie, to człowiek jest 
+konfrontowany i angażuje się w tajemnicę bycia, ale nie robi tego sam. Jest 
+zawsze z innym. Ja jestem o tyle, o ile Ty jesteś i naszą wspólną sytuacją jest 
+to, że jesteśmy. Nie może być tutaj mowy o takich relacjach międzyludzkich jak 
+nienawiść, obojętność, język, który przejmuje innego, który go mami. Ta relacja, 
+nawet jeśli jest daleka od perfekcji, to jednak jest oparta na pewnym 
+samostanowieniu.
 
+To samostanowienie to jest ten świat, którym musimy się podzielić. Ten świat ma 
+trzy wymiary. Marcel uważa, że orientacja człowieka jest orientacją w równej 
+mierze idącą ku przyszłości (tam się problem istnienia będzie rozwiązywał), 
+zamknięcie stanu zawieszenia, który uczyni mnie bytem w sobie, kiedy odejdę 
+(jednak moje odejście jest tak samo absurdalne, jak moje przyjście na świat -- 
+odejście jest tylko podkreśleniem tego, że świat jest zbędny), Marcel uważa, że 
+przyszłość jest przyszłością pewnej wspólnoty, tych egzystencji, które są 
+zaangażowane, biorą za ten świat odpowiedzialność, są wolne, tworzą (kultura 
+ludzka jako wytwór serii ekspresji). Jest to świat, który w nieunikniony sposób 
+musi nawiązywać do tego, co jest przeszłe. Świat jednostek zawsze przepełniony 
+jest tymi, którzy są nieobecni, ale jednak są w naszym życiu -- to są te 
+przeszłe egzystencje, które nie umierają.
 
+Marcel myślicielem konkretu.
 
+Człowiek nie tylko usprawiedliwia byt drugiego, ale też może stanowić dla niego 
+fundament. Te wszystkie relacje, które podkreśla Marcel.
 
+Tam, gdzie się pojawia sfera transcendencji, wskazywanie na to, co w tym bycie 
+nie jest przejrzyste, jawne, za każdym zjawiskiem idzie coś, co to zjawisko 
+przerasta. Wtedy człowiek nabiera większej wartości. Skonfrontuje się on z tą 
+tajemnicą, musi się on całkowicie zaangażować, nie żeby wyjaśnić tę tajemnicę 
+(tego się zrobić nie da), ale żeby jej doświadczyć. Doświadczając jej widzi, że 
+ten świat wymaga pewnego innego odniesienia, że nie jest on końcem i początkiem 
+samym w sobie. On wskazuje na to, co później Marcel nazywa **darem**, co płynie 
+z transcendensu, bytu absolutnego, jako takiego. Marcel nie mówi tu o Bogu, nie 
+chce uprawiać taniej teologii. On jest w sferze tajemnicy, angażując jednotkę 
+otwiera mnie na to absolutne **Ty**, bo podstawą świata nie tylko wypełnienie 
+żyjącymi egzystencjami, ale też tymi, które kiedyś istniały -- one nie umierają, 
+ponieważ my podtrzymujemy je w ich istnieniu.
 
+Człowieka nie da się zdefiniować -- to jest zawsze coś więcej. Człowiek jest 
+ponad sobą, on zawsze jest w drodze. W drodze nie tylko do siebie, ale w drodze, 
+gdzie spotyka innych. Spotka innego też w absolutnym innym, w transcendencji. 
+Musi doświadczyć czasami nieeksplikowanych fenomenów. Nie zabiera się za nie, bo 
+nie chce ich redukować do problemów nauki, ideologii, czy niepełnych doświadczeń 
+narzucanych innym. Chce zostawić tę tajemnicę tak, jak jawi się ona mnie, jak 
+jawi się innym.
 
+Następną kategorią jest **wierność**, wierność tajemnicy i wierność innemu, 
+transcendencji, temu, który czyni pewien dar. Można powiedzieć, że ten świat 
+wtedy, nie mając bezpośredniego sensu, nie jest bezsensowny. Marcel pozostaje 
+poza płytkim optymizmem, jego optymizm wymaga najwyższej próby -- nie możemy 
+ulegać rozpaczy, choć niepokój jest podstawą naszych działań i czynności 
+poznawczych. Przede wszystkim jest coś, co jak w zakończeniu *Mitu o Syzyfie*, 
+jest ten *uśmiech* człowieka, który pozornie został pokonany, ale tak naprawdę 
+idzie do siebie, zmierza do tego, co może być ostatecznym zwycięstwem, choć na 
+pewno nie będzie to krzykliwe, ewidentne zwycięstwo. Może być ustawieniem 
+wnętrza człowieka przyjmującego na siebie coraz większą ilość tajemnic 
+cząstkowych, żeby osiągnąć tę najwyższą. To jest element może nie teologiczny, 
+ale religijny.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Marcel człowiekiem, który przeszedł konwersję, przyjął katolicyzm będąc 
+dzieckiem protestantyzmu i judaizmu.
 
