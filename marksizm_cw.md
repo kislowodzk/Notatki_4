@@ -1311,3 +1311,37 @@ do samounicestwienia. Taką pozorną rewolucję krytykuje, odróżnia ją od tak
 która wychodząc od zmian społecznych dochodzi do zmian politycznych. Ludzie 
 powinni sami się *wychować* na gruncie rewolucyjnym.  
 
+## Ćwiczenia 12 -- 18.05.
+
+### Gramsci
+
+(btw. notatki Doroty)
+
+- grono zachodniego marksizmu, Włochy
+- jedność teorii i praktyki
+- duża część życia w więzieniu
+- kontynuacja interpretacji myśli leninowskiej
+- filozofia spontaniczna -- każdy człowiek jest filozofem
+- marksizm jako praktyka każdego człowieka
+- naukowość wprowadzona w filozofię kultury
+- światopogląd praktyczny i pozorny
+- hegemonia kulturowa, narzucanie ideologii przez burżuazję
+- rola intelektualistów w ruchu robotniczym
+- intelektualiści *organiczni* pochodzący z klasy robotniczej -- realizują 
+światopogląd swojej klasy
+- partia -- wykuwanie światopoglądu
+- historyczność procesów społecznych
+- aktualna rzeczywistość a praktyka
+- *wiedza umiejscowiona*
+- filozoficzność działań mas ludzkich, filozoficzność historii, historyczność 
+filozofii
+- dialektyka: masy-intelektualiści
+- polityka -- akt zmieniania rzeczywistości i siebie
+- krytyczny wybór światopoglądu faktem politycznym, świadoma praktyka
+- bierny uczestnik historii --> twórca, podmiot
+- filozofia praktyki -- utożsamiona z marksizmem
+- postawa polemiczna wobec rzeczywistości, przezwyciężenie hegemonii kulturowej, 
+oddolne uświadomienie które nie jest narzucane z zewnątrz
+- poznanie, ludzka wiedza, prawda, postęp naukowy
+- próba przezwyciężenia idealizmu
+
