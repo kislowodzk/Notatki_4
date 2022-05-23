@@ -2280,12 +2280,49 @@ i wykorzystać jako aparat ucisku, bo państwo nie może być niczym innym.
 
 Rewizjonizm miał wiele twarzy. Rewizjonizm filozoficzny postulował uzupełnianie 
 doktryny Marksa o solidny fundament filozofii, najlepiej naukowej (pozytywizm, 
-krytyczna), ale także o idee Nietzschego, Bergsona. To nie był jedyny rodzaj, 
-ani nawet najważniejszy.
+krytyczna), ale także o idee Nietzschego, Bergsona. To nie był jedyny rodzaj 
+rewizjonizmu, ani nawet najważniejszy.
 
-9:20
+Rewizjonizm to taki zestaw postaw i przekonań, który twierdzi, że różne elementy 
+doktryny Marksa trzeba zmieniać, bo świat się zmienia. Pewne twierdzenia 
+i hipotezy niekoniecznie muszą być prawdziwe po 50 latach. 
+
+Rewizjoniści twierdzą, że Marksizm nie jest zamkniętą skarbnicą mądrości, którą 
+trzeba strzec przed zmianami. Przeciwnie -- jest to doktryna naukowa, a więc 
+pewne jej elementy są falsyfikowalne. Niektóre elementy trzeba zmieniać reagując 
+na zjawiska społeczne i kulturalne. Trzeba brać pod uwagę różne okoliczności 
+polityczne jak na przykład legalna działalność parlamentarna partii 
+socjalistycznych -- najbardziej wyrazistym przykładem SPD.
+
+Spór między ortodoksją i rewizjonizmem można określić jako wewnątrzpartyjny. 
+Z jednej strony reprezentujący ortodoksję Kautsky i Luksemburg, z drugiej strony 
+przywódca skrzydła rewizjonistycznego -- Bernstein.
 
 #### Eduard Bernstein
+
+Polityczna strona rewizjonizmu, choć u Bernsteina widać pewien element rewizji 
+filozoficznej. Bernstein większy nacisk kładzie na zdroworozsądkowy empiryzm, 
+z drugiej strony na pewne uzupełnienia wywodzące się z myśli Kanta.
+
+Bernstein świadomie i programowo umniejsza wagę Heglowskiego dziedzictwa 
+uznając, że to Hegel otworzył w marksizmie furtkę, przez którą przeniknął 
+niebezpieczny żywioł ultrarewolucyjny. To jest spore uproszczenie, ale chcemy tu 
+zasygnalizować pewne problemy.
+
+Znajdziemy u Bernsteina elementy rewizji filozoficznej, jednak ciężar sporu 
+dotyczył kwestii społeczno-politycznej i ekonomicznych, przede wszystkim 
+zasadności marksowskich prognoz rozwoju kapitalizmu, który miałby prowadzić do 
+wybuchu rewolucji socjalistycznej w skali światowej.
+
+Jednym z zasadniczych błędów Marksa (co do którego był on świadomy, ale nie 
+chciał się do niego przyznać, niektórzy oskarżają go o fałszowanie danych 
+statystycznych, czy pomijanie niewygodnych dla jego teorii) dotyczył zasadności 
+proroctwa dotyczącego nieuchronnej degrengolady kapitalizmu wynikającej 
+z polaryzacji klasowej. Z jednej strony miało się dokonywać wywłaszczenie, 
+z drugiej koncentracja kapitału. Będzie coraz większa masa wywłaszczonych 
+proletariuszy i coraz mniejsza, za to dysponująca coraz większymi zasobami 
+w skali światowej, warstwa globalnych posiadaczy -- światowej oligarchii. Klasa 
+średnia zaniknie. Polaryzacja.
 
 Jedną z podstawowych pomyłek Marksa, na której oparł swoją koncepcję Bernstein, 
 jest zanik klas pośrednich. Wg. Marksa kapitał miał się koncentrować -- coraz 
@@ -2297,7 +2334,7 @@ Między innymi dlatego, że byli w stanie się zjednoczyć i wywalczyć pewne pr
 
 Globalnie struktura społeczna zamiast upraszczać, zaczynała się komplikować. 
 Okazało się, że dobrze wykwalifikowani robotnicy zarabiają więcej niż 
-właściciele małych zakładów -- przedstawiciele niższej burżuazji. Pojawiłą się 
+właściciele małych zakładów -- przedstawiciele niższej burżuazji. Pojawiła się 
 klasa średnia, ale nie drobnych posiadaczy.
 
 Co więcej, dzięki wprowadzeniu funduszy emerytalnych, gry na giełdzie, rynki 
@@ -2361,7 +2398,7 @@ wyjaśnić wszystko w oparciu o prostą zasadę.
 Bernstein zaczyna od odrzucenia marksowskiej prognozy zaniku klas społecznych, 
 rewolucji jako jednorazowego, gwałtownego aktu znoszącego porządek 
 kapitalistyczny. Reformista, który uważa, że socjalizm da się osiągnąć na drodze 
-reoform. Stopniowa zmiana form własnościowych -- sukcesów odnoszonych przez 
+reform. Stopniowa zmiana form własnościowych -- sukcesów odnoszonych przez 
 gospodarstwa państwowe, spółdzielcze, zwłaszcza w przemyśle ciężkim 
 i infrastruktury. Tutaj własność państwowa opiera się bardziej sprawna, na 
 drodze konkurencji rynkowej wypiera prywatne przedsiębiorstwa. Pokazanie, że 
@@ -2371,7 +2408,7 @@ Marks się pomylił twierdząc, że kapitalizm jest niereformowalny, więc nieod
 jest rewolucja. Kapitalizm wykazuje się niezwykłymi zdolnościami adaptacyjnymi. 
 De facto w gospodarce zachodzą procesy odwrotne do tych, które przewidział 
 Marks. Trzeba przeformułować sens idei socjalistycznej pozbawiając jej 
-Heglowsko-rewolucyjnych elementów. Sensem socjalizmu jest socjalizm, czyli 
+heglowsko-rewolucyjnych elementów. Sensem socjalizmu jest socjalizm, czyli 
 uspołecznienie procesów gospodarczych, uspołecznienie zasobów finansowych dla 
 dobra obywateli, ale też uspołecznienie polityczne w sensie takiego ustroju, 
 które nikogo nie wyklucza. Demokracja, system wyborczy o charakterze 
@@ -2384,7 +2421,7 @@ walki robotników przeciwko reszcie społeczeństwa. Stopniowe przemiany
 polityczne, społeczne, gospodarcze. Socjaldemokracja walczy o dobro całego 
 społeczeństwa. Socjalizm wspólnotą, która nie wyklucza nikogo.
 
-Bernstein swoje stanowisko zawarł w aforyźmie: "to, co zwykło nazywać się celem 
+Bernstein swoje stanowisko zawarł w aforyzmie: "to, co zwykło nazywać się celem 
 ostatecznym socjalizmu jest niczym, ruch jest wszystkim". Jednak Bernstein 
 wierzył, że działanie reformistyczne doprowadzi w końcu do socjalizmu. Trzeba tu 
 i teraz podejmować wysiłki.
@@ -2396,10 +2433,10 @@ prowincjonalny charakter nie doprowadziło to do wielkiego sporu.
 
 Wystąpienie Bernsteina -- przyjaciela Engelsa, współpracownika Kautskyego, 
 doprowadziło dyskusji. Jednak po rozwiązaniu II Międzynarodówki poglądy 
-Bernsteina zostały przyjęte przez SPD na miejsce rewolucyjnego marksismu.
+Bernsteina zostały przyjęte przez SPD na miejsce rewolucyjnego marksizmu.
 
 Spór pomiędzy Bernsteinem a Kautskym próbował ktoś przedstawić za pomocą 
-metaffory rzeki. Socjalizm na drugim brzego. Kautsku zatrzymał się na brzegu, na 
+metafory rzeki. Socjalizm na drugim brzegu. Kautsky zatrzymał się na brzegu, na 
 którym jesteśmy, pewny, że kiedyś znajdziemy się na drugim brzegu, na razie 
 trzeba ułożyć sobie życie tutaj, gdzie jesteśmy. Bernstein w wodzie widzi 
 kamień, skacze na niego, widzi kolejny i tak dalej. Dokądś zmierza, jednak 
@@ -2411,7 +2448,7 @@ trudne było wypracowanie trzeciej drogi.
 
 Podsumowując ten wątek sporu ortodoksji z rewizjonizmem. Wymiar, który umyka 
 bezpośrednio zaangażowanym uczestnikom sporu. Gdyby przebić się przez wierzchnią 
-warstwę dyskusji, przez kwestie orgaznizacyjne, polityczne, to widać, że jest to 
+warstwę dyskusji, przez kwestie organizacyjne, polityczne, to widać, że jest to 
 spór, który dotyczy tego, co najbardziej fundamentalne -- pojmowania historii 
 przez Marksa. Nie wiadomo, czy jesteśmy twórcami historii, czy tylko jej 
 narzędziami. Marks, a za nim Kautsky, twierdzili, że to pytanie nie ma sensu -- 
@@ -2422,8 +2459,8 @@ samo bez oparcia w faktach.
 Kautsky twierdzi, że odróżnienie między wolnością a koniecznością zanika 
 w świadomości proletariatu, ponieważ on działając subiektywnie działając zgodnie 
 z porządkiem historycznym. Z tego wynika, że rewolucja jest jednocześnie 
-nieuchronna, ale też jest inicjowana przez ludzi. Neceseryzm i aktywizm mają się 
-pogodzic.
+nieuchronna, ale też jest inicjowana przez ludzi. Neseserkom i aktywizm mają się 
+pogodzić.
 
 Rzecz w tym, że taka neutralizacja, unieważnienie sporu przez odwołanie się do 
 nieuchwytnej instancji, że to nawet wbrew intencjom Marksa i Kautskiego mogło 
@@ -2438,9 +2475,9 @@ utopia, albo mit.
 Marksizm II Międzynarodówki rozpięty między antynomiami powinności-wolności, to 
 w tym samym czasie pewien myśliciel rozróżniając utopię i mit uznał, że jako 
 jedyny przeniknął w głąb marksowskiej koncepcji i jako jedyny jest jego wiernym 
-uczniem. Tym myślicielem był Georges Sorell.
+uczniem. Tym myślicielem był Georges Sorel.
 
-#### Georges Sorell
+#### Georges Sorel
 
 Przykład rewizjonizmu. Wpływy Bergsona i Nietzschego.
 
@@ -2456,13 +2493,13 @@ Międzynarodówki z daleka.
 Pokazuje marksizm jako mit, który intelektualizowanie znosi w rewolucyjnym 
 czynie.
 
-Sednem marksismu jest walka klas. Stroną czynną jest proletariat. Skoro walka, 
+Sednem marksizmu jest walka klas. Stroną czynną jest proletariat. Skoro walka, 
 to trzeba atakować. Jak ktoś jest wrogi względem burżuja i inteligenta, który 
 jest wyzyskiwaczem robotnika przez to, że uważa, że partia wie lepiej, czego 
 chce robotnik, niż robotnik.
 
 U Sorela nacisk na działanie, praktykę. To jest również paradoks -- ci, którzy 
-najmocniej wystąpili przeciw racjonalizmowi, uczynili zo za pomocą znakomicie 
+najmocniej wystąpili przeciw racjonalizmowi, uczynili to za pomocą znakomicie 
 ułożonych traktatów. Częsty paradoks myśli tego typu -- na przykład Brzozowski.
 
 Dla Sorela marksizm ma sens, o ile jest ruchem społecznym, który ma na celu 
@@ -2471,11 +2508,11 @@ utopii -- potrzebuje mitu, który da sens.
 
 Impulsem I wojna światowa i to, co po niej. Nazizm, bolszewizm.
 
-Wątek bergsonowski charakterystyczny. Walka permementna, ciągły bój do którego 
+Wątek bergsonowski charakterystyczny. Walka permanentna, ciągły bój do którego 
 pobudza nas mit -- coś, co nas mobilizuje, zbroi, a nie utopia, która daje 
 nadzieję co do przyszłości. Walka jedynym sposobem zerwania ze stanem, w którym 
 jesteśmy, a który jest nie do zniesienia. Marksizm mitem dla kipiących energią 
-proletariuszy. Myśl Sorela jest w tej fazie bojowa. Wartości, które Soren głosi, 
+proletariuszy. Myśl Sorela jest w tej fazie bojowa. Wartości, które Sorel głosi, 
 to: siła, autentyzm, duma, wielkość -- bardzo Nietzscheańskie. Sorel nie myśli 
 jeszcze wtedy o wojnie takiej, jak w 1914 r. Myśli o wojnie, jaką proletariat 
 wytacza reszcie świata -- jest to strajk powszechny. Jeśli strajk generalny się 
@@ -2493,7 +2530,7 @@ W socjalizmie człowiek potwierdza swoją wielkość.
 Bolszewicy w tym wierni Marksowi, że nie dążą do państwa idealnego -- chcą 
 urzeczywistnić mit, który jest świadomością walczącej grupy.
 
-U Sorela świadomość walki i sama walka ulegajązatarciu. Mit strajku generalnego 
+U Sorela świadomość walki i sama walka ulegają zatarciu. Mit strajku generalnego 
 zaciera wszystko. Sorel mówi, że robotnicy tylko strajkując stają się klasą -- 
 tam rodzi się solidarność, odwaga, pomoc towarzyszom broni. Sorel wierzył, że 
 właściwie poprowadzony strajk generalny doprowadzi do upadku państwa 
