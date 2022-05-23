@@ -1001,3 +1001,60 @@ widzenia na tę samą rzecz.
 Myślę o tablicy jak się ona jawi z pewnego punktu widzenai, ale mogę myśeć 
 o niej jak by się jawiła z oebektywneo punktu widzenia.
 
+## Ćwiczenia 11 -- 23.05.
+
+### Logika transcendentalna
+
+Mamy już omówioną naoczność
+
+Intelekt -- to dzisiaj 
+
+Będzie nas czekał jeszcze rozum
+
+Intelekt nie jest tym samym, co rozum.
+
+Intelekt w połączeniu z naocznością dostarcza nam poznania. Formę czasu 
+i przestrzeni otrzymujemy od naoczności. Kategorie, myśli otrzymujemy od 
+intelektu. Dotatek ze strony rozumu -- podciągnięcie pod idee świata, Boga 
+i duszy -- idee transcendentalne, które służą do organizacji naszego poznania. 
+Bez tego mielibyśmy tylko mnóstwo porozrzucanych puzzli.
+
+Funkcją rozumu jest ogarnięcie tego, co intelekt mówi o świecie. Rozum mówi coś 
+o Bogu, duszy, świecie, jednak nie do tego służy -- on ma zorganizować poznanie 
+z dwóch innych źródeł.
+
+Jednak nasz rozum zbudowany tak, że ciągle będzie wyprowadzał twierdzenia. 
+Intelekt sądzi o naoczności zmysłowej -- to jest doświadczeniem.
+
+Jednak czy nasz rozum ma jakąś własną naoczność? Gdyby miał, to miałby własne 
+poznanie. Ale u Kanta nie ma. Jest jak *skryba* -- redaguje, ale nie dodaje 
+treści, sam z siebie nie ma nic do powiedzenia.
+
+Kant będzie głosił istnienie wielu rodzajów kategorii. Formy intelektu -- na 
+jakie zostają budowane pojęcia. Nasza myśl ma z konieczności pewną formą, od 
+której nie jesteśmy w stanie abstrahować. To, że świat nam się jawi w taki 
+sposób, w jaki się jawi teraz, jest rezultatem tego, że mamy kategorie, które 
+wraz znaocznością tworzy poznanie.
+
+Świat musi nam się jawić, kategorie współworzą to, jak się jawi.
+
+Kategorii mamy 12. Dzielą się przez ilość, jakość modalność, stosunek. To są 
+kategorie sądów.
+
+Obsesją Kanta znajdywanie myśli przewodniej, klucza, sposobu na powiązanie 
+danych. Kant uważa, że jego podział jest systematyczny, nie jest nagromadzeniem 
+tego, co się zbiera w doświadczeniu.
+
+Logika formalna dotyczy każdego zdania. To Kanta nie interesuje -- interesuje go 
+logika wiążąca zdania a priori.
+
+Logika transcendentalna
+
+Mamy do czynieniaz pojęciami a priori i te podstawowe pojęcia a priori to są 
+kategorie. Jeśli istnieje poznanie apriori, to muszą istnieć jakieś pojęcia 
+a priori.
+
+Mogę łączyć pojęcia w sądach a priori tak, jak robię to w zwykłe logice. 
+Otrzymuję pewną mnogość rodzajów pojęć, które mają charakter a priori. To daje 
+się sprowadzić do pytania, czy istnieje wiedza konieczna.
+
