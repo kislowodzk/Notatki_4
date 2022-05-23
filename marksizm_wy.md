@@ -2238,13 +2238,54 @@ Każda klęska, bunt Róży Luksemburg i tak wiedzie do zwycięstwa -- prometejs
 nastawienie. Cel, do którego dążymy, wart jest klęsk, porażek. To nie był 
 automatyzm, to nie była logika *opętanych zegarów*.
 
-Działaczka narodów polskiego, niemieckiego, rosyjskieg.
+Działaczka narodów polskiego, niemieckiego, rosyjskiego.
 
 ## Wykład 10 -- 23.05.
 
-(20 minut ;--;)
+### Rewizjonizm
 
-### Eduard Bernstein
+Ostatnio dwie postaci związane z głównym nurtem II Międzynarodówki, dzisiaj 
+chyba najważniejsza dyskusja, która toczyła się w 25 historii II 
+Międzynarodówki. Pomiędzy nurtem ortodoksyjnym a rewizjonistami.
+
+Ostatnio rewizjonizm przedstawiony był przede wszystkim z perspektywy ruchu 
+bolszewickiego. Jednak najważniejszymi przeciwnikami rewizjoniści sensu stricto. 
+Bo oczywiście sam rewizjonizm pojęciem szerokim -- chodzi o kontestację nurtu 
+głównego.
+
+To w polemikach z rewizjonizmem kształtowały się i dojrzewały poglądy 
+przedstawicieli nurtu głównego. Bez rewizjonizmu obraz zachodniego marksizmu 
+przed I wojną światową byłby niepełny. Co więcej, wydaje się, że bez niego nie 
+da się zrozumieć historii zachodnich socjaldemokracji po wojnie, ani 
+współczesnych losów idei socjaldemokratycznych. Ten spór określa status 
+intelektualny II Międzynarodówki.
+
+Pierwsza faza sporu -- na plan pierwszy wysuwa się anarchizm 
+i anarchosyndykalizm. W drugiej fazie -- rewizjonizm i spór z rewizjonizmem 
+politycznym; sensu stricto. W trzeciej, przedwojennej -- spór z radykałami, 
+z ultrarewolucjonizmem.
+
+Pierwsza fala -- wrogami są woluntaryści, anarchiści, którzy są przeciwnikami 
+państwa jako takiego
+
+Druga fala -- nie należy myśleć o rewolucji, która przyjdzie kierowana 
+ponadludzkimi prawami rozwoju dziejów. Trzeba reformować i zmieniać stosunki 
+społeczno-gospodarcze na ile się da tu i teraz. Współpracować, negocjować, iść 
+na kompromisy, bo inaczej się nie da. Współpraca partii socjalistycznej z innymi 
+partiami -- w tym z partiami burżuazyjnymi i burżuazyjnym rządem. Należy ulżyć 
+ludziom tu i teraz. Walka jako strajki, walka polityczna, nie walka radykalna.
+
+Trzecia faza -- rewolucja po to, żeby państwo przejąć; należy je zachować 
+i wykorzystać jako aparat ucisku, bo państwo nie może być niczym innym.
+
+Rewizjonizm miał wiele twarzy. Rewizjonizm filozoficzny postulował uzupełnianie 
+doktryny Marksa o solidny fundament filozofii, najlepiej naukowej (pozytywizm, 
+krytyczna), ale także o idee Nietzschego, Bergsona. To nie był jedyny rodzaj, 
+ani nawet najważniejszy.
+
+9:20
+
+#### Eduard Bernstein
 
 Jedną z podstawowych pomyłek Marksa, na której oparł swoją koncepcję Bernstein, 
 jest zanik klas pośrednich. Wg. Marksa kapitał miał się koncentrować -- coraz 
@@ -2280,7 +2321,7 @@ Bernstein do pewnego stopnia swoją wizję rewizji marksizmy oparł na
 doświadczeniu angielskiego socjalizmu -- nierewolucyjnego, niemarksistowskiego. 
 Dzięki zmianom rzeczywistość zachodniej Europy zmienia się.
 
-Barnstein jako pierwszy powiedział, że rzeczywistość rozwija się inaczej, niż 
+Bernstein jako pierwszy powiedział, że rzeczywistość rozwija się inaczej, niż 
 przewidział Marks. Teoria musi dogonić zmieniającą się rzeczywistość. Nie był on 
 buntownikiem względem Marksa. Był najbliższym przyjacielem Engelsa.  
 
@@ -2295,7 +2336,7 @@ Taka wizja nie mogła działać w miejscach, gdzie nie było organizacji
 demokratycznej i kapitalizm nie był rozwinięty. Dlatego rosyjscy marksiści szli 
 inną drogą.
 
-Berstein musiał szukać pogłębionych argumentów na rzecz rewizji. Bernstein 
+Bernstein musiał szukać pogłębionych argumentów na rzecz rewizji. Bernstein 
 nominalnie odżegnywał się od marksizmu jako filozofii, jednak musiał sięgnąć do 
 jakichś filozoficznych źródeł. Uznał, że koncepcja teoretyczna Marksa została 
 zniekształcona przez system Hegla. Zamiast systematycznie analizować fakty, 
@@ -2313,7 +2354,7 @@ z Bernsteinem, jako przywódca SPD działał tak, jak Bernstein by sobie życzy�
 ubierając swoje działania w rewolucyjną, ortodoksyjno-marksistowską narrację.
 
 Bernstein był pozytywistą w jeszcze większym stopniu niż Engels. Był 
-zdynsansowany, krytyczny wobec spekulatywnych aspektów doktryny. Bernstein 
+zdystansowany, krytyczny wobec spekulatywnych aspektów doktryny. Bernstein 
 sceptycznie podchodził do wszystkich teorii, które twierdziły, że są w stanie 
 wyjaśnić wszystko w oparciu o prostą zasadę.
 
@@ -2399,7 +2440,7 @@ w tym samym czasie pewien myśliciel rozróżniając utopię i mit uznał, że j
 jedyny przeniknął w głąb marksowskiej koncepcji i jako jedyny jest jego wiernym 
 uczniem. Tym myślicielem był Georges Sorell.
 
-### Georges Sorell
+#### Georges Sorell
 
 Przykład rewizjonizmu. Wpływy Bergsona i Nietzschego.
 
