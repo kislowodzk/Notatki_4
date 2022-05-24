@@ -4092,3 +4092,288 @@ ale religijny.
 Marcel człowiekiem, który przeszedł konwersję, przyjął katolicyzm będąc 
 dzieckiem protestantyzmu i judaizmu.
 
+## Wykład 11 -- 24.05.
+
+### Albert Camus
+
+Należał raczej do eseistów filozoficznych. Jest nośnikiem uniwersalnych 
+wartości, nie zestarzał się jako autor. Pochodził ze skromnego środowiska 
+społecznego -- człowiek, który z racji pochodzenia był pozbawiony dostępu do 
+edukacji i awansu społecznego. Był Algierczykiem, dzieckiem w zasadzie 
+pozbawionym domu, rodziny, pochodził z kolonii francuskiej. To miało wielkie 
+znaczenie, wojna algierska, Camus staje po stronie tych, którzy doznają opresji.
+
+Jako młody chłopak doświadcza jaspersowskiej sytuacji granicznej -- jest 
+gruźlikiem. To eliminuje go z bardzo czynnego życia. Spotyka ludzi, którzy 
+formują jego duchowość. Nauczyciel, który przekazuje mu miłość do kultury 
+antycznej.
+
+Ideał jasności poznawczej, jasności jako takiej.
+
+Filozofia Camusa (niesystemowa, nieakademicka) będzie przesiąknięta trzema 
+kategoriami, w których kategoria jasności jest bardzo ważna. To jest pewien 
+projekt poznawczy człowieka, który nie da się oddzielić od projektu 
+egzystencjalnego. Jeśli chcemy widzieć rzecz w jasności, by nie błądzić.
+
+Poglądy filozoficzne. Przyjmuje się jego filozofię jako próbę przede wszystkim 
+uchwycenia zjawiska/doświadczenia tego, co Camus nazywa doświadczeniem absurdu. 
+Już jako młody człowiek poświęca temu zagadnieniu uwagę, co później próbuje 
+opisać w esejach i powieściach.
+
+Dla Camusa to, co rozumie on pod pojęciem *absurdu* jest swoistego rodzaju 
+**relacją**. Intuicyjnie zdaje sobie sprawę, że to, co pisano o absurdzie było 
+o tyle błędne, że eliminowano ważki człon -- absurd zachodzi, rodzi się wtedy, 
+kiedy staje się swoistego rodzaju relacją między świadomością, człowiekiem, jego 
+byciem, a tym, czego ta świadomość doświadcza, w co została zaangażowana, 
+wrzucona. To jest teza par excellence egzystencjalistyczna. Camus będzie ją 
+skutecznie na przestrzeni eseistyki rozwijał.
+
+Jeśli mówi się o absurdzie, to trzeba wskazać zawsze na relację między członem 
+podmiotowym, świadomościowym, człowieczym, a tym, co ów człowiek spotyka, wobec 
+czego się znalazł.
+
+Od Camusa nie będziemy wymagali posługiwania się żargonem filozoficznym -- mamy 
+tu przede wszystkim do czynienia z tym, co z życiem człowieka można jeszcze 
+zrobić.
+
+Ta relacja jest sytuacją nie do usprawiedliwienia. Ona już została naznaczona 
+potępieniem. Ta relacja będzie wytyczała wszystkie nasze postanowienia, będzie 
+doprowadzała do nieuskutecznienia naszych postanowień, wyborów, wartości.
+
+Camus dokonuje w jednym ze wczesnych pism dokonuje próby analizy językowej. 
+Podłożem tego terminu jest łacińskie *surdus*. Nasze pragnienie jasności jest 
+też pragnieniem wysławiania naszych doświadczeń. Przez tysiąclecia takim słowem 
+było słowo *boskie* -- człowiek miał być otwarty na wszystko, co jest boskie. 
+Pierwsze uderzenie w człowieka i uświadomienie tej relacji między świadomością 
+dążącą do jasności i tym, co ona zastaje w świecie, jest *porażenie języka, 
+mowy, wysławiania, możliwości nadawania komunikatu*. 
+
+*Surdus*, to jest ten, który nie posiada zdolności słyszenia. Człowiek, który 
+nadaje pewną informację i stara się coś przekazać, będzie człowiekiem odbieranym 
+jako jedynie poruszający wargami. On mówi, ale dla nas jest to przekaz niemy, 
+niewysławiany. Tu się rodzi pierwsze doświadczenie/doznanie absurdu w świecie, 
+na który zostaliśmy skazani.
+
+Możemy w tym świecie przebywać na dwa różne sposoby. Ta relacja, wg. Camusa, 
+obejmuje dwa *typy*:
+
+- typ świadomy absurdu, człowiek, który posiada świadomość -- wyrafinowana 
+jednostka
+- typ nieuświadomionego absurdu -- przeczy pierwszemu
+
+Camus nawiązuje do koncepcji Heideggera *bytu autentycznego i nieautentycznego* 
+oraz druga świadomość: świadomość przebywania w danej sytuacji, która jest 
+świadomością przepełnioną trwogą. Camus operuje tymi pojęciami -- to jest ten 
+wyższy tym próby objęcia tego doświadczenia. Jednak jak mogę to doświadczenie 
+objąć?
+
+Camus wyklucza podejście rozumowe. Jeśli absurd rodzi się na styku 
+świadomość-człowiek, życie-świat, to trudno mówić, że pierwszy człon jest 
+absurdalny, albo że drugi człon taki jest. Absurd wymaga złączenia, relacji, 
+między-między. Gdzieś tu, w tym napięciu człowiek-świat, rodzi się takie 
+doświadczenie, które mówi o braku pełni, zrozumienia, logosu, o braku 
+jakiejkolwiek racji -- ale mówi o czymś jeszcze: o tym, że tego doświadczenia 
+nie da się w żaden sposób wysłowić.
+
+Tu Camus sięga do koncepcji Kierkegaardowsko-Szestowiańskiej. Próba zrozumienia 
+jest sparaliżowana, absurdu nie da się zrozumieć, próba wysłowienia go nie 
+dochodzi do skutku, ponieważ absurd jest poza możliwością sformułowania o nim 
+sądu. On po prostu jawi się, niepokoi nas, jednak każda próba uchwycenia go, 
+opowiedzenia w słowach, rozmija się. Jest niespełniona. Człowiek, który jest 
+tego stanu rzeczy świadomy, naraża się na straszne cierpienie; nieświadomy 
+poddaje się temu i tak przeżyje życie do samego końca.
+
+Co takiego jest u Camusa, co powoduje, że ta relacja może w ogóle zajść? 
+Marzeniem/projektem człowieka (jego *żądza*) jest *objęcie* rzeczywistości, żeby 
+ją zrozumieć -- to jest niemożliwe -- mówi Sartre. Człowiek przede wszystkim 
+doświadcza czegoś, co jest brakiem pełni, co naraża go na niezrozumienie 
+elementów, które chciałby pojąć, ale nie jest w stanie. Nauka tutaj nie pomaga, 
+ale oprócz nauki istnieją jeszcze inne zagrożenia, na przykład *ideologia*, albo 
+filozofie, które roszczą sobie pretensje. Te pretensje, te fałszywe idee, są 
+przez Camusa nazywane **ideami metafizycznymi**.
+
+Ile tych idei metafizycznych jest? Od początku cywilizacji śródziemnomorskiej 
+dwie idee były przeważające:
+
+- idea Boga
+- idea historii
+
+Co się stało z Bogiem? Był tym gwarantem, który tę relację nam w jasny sposób 
+próbował przedstawić, narzucał pewne określenie, jedną interpretację -- świat 
+miał sens. Camus podejmuje polemikę z Heglem -- historia jest równie 
+przypadkowa, jak my sami. Pierwszym doświadczeniem niepokoju jest to, co według 
+Camusa deklaruje Nietzsche.
+
+Filozofia Nietzschego pojawia się w esejach Camusa często. Przede wszystkim *Bóg 
+umarł*. Camus poświęca trzy eseje próbie eksplikacji tej formuły. Śmierć Boga 
+nie może być traktowana dosłownie, jest to nic innego, tylko coś pozytywnego, 
+dlatego, że człowiek absurdu, będący czynnikiem tej relacji, stoi przed dwoma 
+*dialektycznymi* naprężeniami:
+
+- afirmacją -- to jest przyznanie, świadomość bycia członem absurdu
+- wieczna negacja -- nie rozumiejąc nie godzenie się na to
+
+Śmierć Boga wypuszcza podstawę, która znosi to naprężenie między *tak* i *nie*. 
+Śmierć Boga to jest nic innego, jak nałożenie pewnych obowiązków na człowieka -- 
+innymi słowy jeśli Bóg umiera w formie idei, nakazu, kodu moralnego, to człowiek 
+musi zająć jego miejsce. To jest humanizm, który w historii filozofii nazywa się 
+**humanizmem ateistycznym**, jest reprezentowany przede wszystkim przez Camusa. 
+Śmierć Boga wymusza aktywność, zaangażowanie człowieka.
+
+To zaangażowanie musi być zaangażowaniem afirmatywnym w tym sensie, że przyjmuje 
+on stan owej relacji bycia absurdalnym. Między tym członem świadomości ludzkiej, 
+jej praw, moralności, tego, co ona wie, a tym, co zastaje ona, nie zachodzi 
+żadna zbieżność. Jest to *brak uzgodnienia między aktorem a dekoracją*. 
+Znaleźliśmy się na scenie świata jako aktorzy, którzy grają nie w swojej 
+scenografii, nie wedle własnego scenariusza i nie wśród takich dekoracji. To 
+jest rozbieżność ja-świat.
+
+Ten obowiązek płynący z faktu śmierci Boga wymusza na mnie **postawę 
+afirmatywną**. Wiedza niewiele mi daje, filozofia jest czasem niebezpiecznie 
+zbliżona do ideologii. Jestem właściwie sam, to jest moja kondycja, zrozumienie 
+z innym jest bardzo utrudnione, ale żeby żyć w pełni życiem człowieka nawet 
+absurdalnego, muszę dokonać aktu strasznego -- aktu afirmacji tego stanu 
+i działać, wybierać.
+
+Ten stan afirmacji absurdu jako relacji między mną a światem, a ta relacja jest 
+brakiem zwrotności między aktorem a dekoracjami, ta świadomość prowadzi mnie do 
+trzeciej, naczelnej kategorii filozofii Camusa -- **buntu**.
+
+Jeśli moje pierwotne pragnienie uzyskania jasności sytuacji własnej i świata 
+prowadzi mnie do wrót tej relacji ja-świat, braku zgodności, do świadomości, że 
+w sposób metafizyczny jestem sam, to rodzi się wyostrzone i wręcz neurotyczne, 
+psychotyczne dążenia do powiedzenia *nie*, do kategorii **buntu**.
+
+Camus dokonuje uściśleń -- **bunt** nie ma nic wspólnego z rewoltą, z rewolucją. 
+Z jakimiś gwałtownymi zmianami. Bunt jest czymś indywidualnym, jednostkowym, 
+ograniczonym do pewnego typu świadomości. Typy buntowników: dzieci Kaina, 
+buntownicy na niwie moralnej, metafizycznej, ale przede wszystkim na niwie 
+artystycznej; to są ci, którzy chcieliby do końca, do wyostrzonej świadomości 
+doprowadzić ową relację braku zgodności ja-świat.
+
+Bunt jest przeprowadzany zawsze na poziomie świadomości indywidualnej, jest on 
+tą mocą, która porządkowi zastanemu będzie zawsze mówiła *nie*. A mówiąc *nie* 
+nie pociąga to za sobą czegoś pozytywnego, afirmatywnego. Bunt może być 
+przeprowadzany dla samego siebie, dla samej siły destrukcji, zniesienia pewnego 
+stanu, braku możliwości, chęci, umiejętności wprowadzenia czegoś pozytywnego. 
+Żeby wprowadzić coś pozytywnego do buntu, to musi się wyjść z poziomu 
+indywidualnego i przejść na poziom społeczny, międzyludzki, interpersonalny. 
+I to jest trzecia w egzystencjalizmie zmiana *cogito* kartezjańskiego.
+
+Sartre mówił o próbie konstytucji natury, która nie jest dana. Mówił o tym, że 
+*cogito* powinno zostać przesunięte w sferę przeszłości. Dla Camusa buntowanie 
+się zawsze zakłada **innych**. Buntujemy się, więc jesteśmy. Bunt to jest nic 
+innego, tylko uświadomienie sobie, jakieś wspólne, kondycji tych, którzy muszą 
+doświadczać pewnej historii, którzy się jednoczą w tym doświadczeniu i których 
+*nie* w sposób konieczny musi wskazywać na jakieś *tak*.
+
+Camus nie byłby egzystencjalistą, gdyby nie powiedział czegoś takiego: *ta 
+afirmacja nie może zakładać czegoś obiektywnie wartościowego; *tak* jest tylko 
+pewnego rodzaju propozycją wyboru*. Jeśli to *tak* ma być tak mocne, umocowane 
+na przykład w systemach politycznych, to jeśli odrzuciliśmy jako nieadekwatną 
+kategorię Boga, to możemy za Boga podłożyć coś, co jest szalenie popularne -- 
+historię. Robimy wszystko w imię *sprawiedliwej* historii, dążymy do wyzwolenia, 
+wtedy człowiek otwiera się na to, co prowadzi go do następnego stanu 
+zniewolenia. Z tego, z czego chciał się wydobyć siłą protestu.
+
+Dla Camusa to zawsze będzie protest moralny, nie w imię jakichś gotowych, 
+zastanych wartości. Te wartości są *czymś zależnym od pewnego wywołanego 
+instynktu jednostki*.
+
+Jeśli człowiek wychodzi z pozycji uświadomionego człowieka absurdu, zdającego 
+sobie sprawę, że ta relacja będzie wykluczała całą jego egzystencję, musi 
+wreszcie, powinien, zbuntować się. Powiedzieć *nie* sięgnąć do takiego stanu, 
+gdzie pociąga się innych galerników i im proponuje wspólną walkę; walkę, która 
+ma nieokreślony finał. Bo jeśliby miała, to pokłonilibyśmy się innemu bożkowi, 
+innej kategorii metafizycznej -- historii. A przecież historia to nic innego, 
+jak nasze wybory, projekty, dążenia.
+
+Nie jest to myśliciel akademicki. Kilka kategorii/metafor, które się przebijają 
+przez jego twórczość eseistyczną. Absurd, gdzie porażony zostaje przede 
+wszystkim zmysł komunikacji, człowiek staje się głuchy, stracił możność 
+przekazywania dramatycznych doświadczeń. Człon subiektywny daje o sobie znać. 
+Zna kilka chwytów fenomenologicznych. Świat jest zawsze czymś niepełnym, 
+strukturą, która nie ma sensu, ten sens trzeba dopiero konstytuować. Gorsze 
+jeszcze są ideologie, które człowieka niszczą, prowadzą z jednego zniewolenia 
+w inne. Wreszcie jeśli człowiek nabiera świadomości absurdu, czyli bycia 
+w sytuacji, w którą został wrzucony, dokonuje swoistego rodzaju afirmacji, ze 
+świadomości absurdu rodzi się świadomość powiedzenia *nie*. Buntownik, który ma 
+różne formy, najważniejsze jest to, że mój bunt, na poziomie indywidualnym, musi 
+zakładać bunt innego. Dla Sartre'a człowiek jest jednostką skazaną na samotność 
+i bycie w relacji konfliktu z innym; dla Camusa nasza sytuacja *galerników*, 
+ludzi zniewolonych absurdem, ale starających się pokonać ten absurd bez nadziei 
+na jego pokonanie, jest zawsze apelem w stronę drugiego. Ten drugi ze mną razem 
+będzie tę kondycję przeżywał. Nie w imię jakichś wartości, nie można ich nam 
+narzucić -- tu jest przeklęta Sartre'owska wolność -- my za to będziemy 
+odpowiadali. Uwaga, żeby z porządku boskiego nie przejść do historii. Dlaczego 
+ludzie ze wschodu mają mieć rację, a nie ludzie z zachodu? Wszystkie jego 
+zmagania, wychodzenia i wchodzenia do różnego rodzaju partii, wiązania się 
+z pewnymi pasmami, zerwanie z Sartrem, charakteryzują przede wszystkim 
+człowieka, który sam swoją postawą życiową pokazuje, że mówi z pewnym pokryciem, 
+że to nie jest tylko jakaś filozofia, tylko przeżyte doświadczenie 
+i zaproponowane inne.
+
+Mowa noblowska -- zachęta Mroza, żeby do niej sięgnąć. Człowiek został wrzucony, 
+a wybiera umieszczenie, musi również swoją postawą pociągnąć innej. Jeśli nie 
+wybiera, to wybiera również (tutaj Camus mówi po Sartre'owsku), bo brak 
+dokonania wyboru jest już określonym wyborem. To jest struktura wolności 
+w świecie, który z istoty/z natury jest pozbawiony jakiegokolwiek sensu i czeka 
+na tych ludzi, którzy wpierw doświadczą, a później muszą mu się przeciwstawić. 
+Przeciwstawić się, to znaczy nie liczyć na żadne zwycięstwo.
+
+36:40
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
