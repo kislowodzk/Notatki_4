@@ -4321,7 +4321,22 @@ w świecie, który z istoty/z natury jest pozbawiony jakiegokolwiek sensu i czek
 na tych ludzi, którzy wpierw doświadczą, a później muszą mu się przeciwstawić. 
 Przeciwstawić się, to znaczy nie liczyć na żadne zwycięstwo.
 
-36:40
+Wbrew Camusowi jest wpadanie w pewien rytm. Przyzwyczajenie wedle Camusa będzie 
+czymś druzgocącym. Przyzwyczajenie jest tym *oswojeniem* a absurd oswojony nie 
+traci swojej mocy. Człowiek, wedle Camusa nic nie jest w stanie zrozumieć tak na 
+prawdę, do końca, a chciałby. To jest ta rozbieżność. Zawsze ma wiedzę cząstkową 
+i zawsze spotka nie tych, których chciałby na swojej drodze spotkać. Zawsze 
+gdzieś się musi to rozdzielić: intencja projektu i to, co jest w stanie 
+zrealizować. Chyba, że jest bohaterem milczącym tej gry.
+
+
+
+
+
+
+40:00
+
+
 
 
 
