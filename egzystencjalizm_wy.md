@@ -4329,66 +4329,34 @@ i zawsze spotka nie tych, których chciałby na swojej drodze spotkać. Zawsze
 gdzieś się musi to rozdzielić: intencja projektu i to, co jest w stanie 
 zrealizować. Chyba, że jest bohaterem milczącym tej gry.
 
+### Camus -- część ćwiczeniowa nagrania
 
+Etyka bez metafizyki?
 
+Bunt metafizyczny usuwa wszystkie podpórki metafizyczne. Camus mówi, że nasza 
+kultura miała mnóstwo takich podpórek i na wszystkich się przejechaliśmy. Camus 
+jest synem kultury francuskiej z pewnym dystansem -- kondycja młodego chłopaka, 
+który ma mit centrum -- Paryż, do którego chce się dostać. I tam się dostaje, 
+ale wtedy, kiedy Paryż się *szmaci* (sic! Panie Mróz!). Przychodzą chłopcy 
+w mundurach mówią, co można drukować a co nie. To jest dla Camusa, który 
+obserwuje to z pewnego dystansu, szok.
 
+Jeśli ludzie są w stanie zawierzyć jednemu porządkowi, który ich doprowadził 
+wręcz do zguby, to teraz nie mogą ci sami ludzie proponować innego porządku, bo 
+one też się takie okażą.
 
+Kiedyś była rewolucja pod hasłami wolności, równości i braterstwa, wszystko 
+okazało się nie tak, więc po co w to wierzyć. Człowiek ma instynkt moralny, wie, 
+że dzieje się coś złego. Ale on tego nie umie powiedzieć, bo nie ma władzy 
+powiedzenia tego. Poststrukturaliści będą mówili, że moc to jest wiedza. Ale na 
+razie on jest sam -- to jest ta relacja, ta świadomość. To wszystko jest 
+absurdalne, nie ma zgodności. Absurd to niezrozumienie, wszystko, co jest 
+milczeniem. Co wiem, ale nie umiem tego przekazać.
 
-40:00
+Zmienia się język, systemy, żyjemy w innej religii, ale problem pozostaje ten 
+sam -- brak zgodności.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Camus rozumiał doskonale Dostojewskiego. Według Mroza sztuka jest czymś 
+nieśmiertelnym, co pokonuje absurd. Czasy się zmieniają, ale najprawdopodobniej 
+absurd pozostanie ten sam.
 
