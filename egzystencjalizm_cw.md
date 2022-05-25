@@ -867,44 +867,29 @@ u Comte wytwarzać.
 
 Zamiast niego wysłany wykład z Marcela
 
+## Ćwiczenia _ -- 25.05.
 
+### Camus -- Upadek
 
+Ostatnia nowelka wydana przed śmiercią.
 
+Wojna w Algierii. Konflikt z Sartrem -- Sartre popierał jedną ze stron -- 
+nacjonalistyczny ruch wyzwolenia Algierii, Camus był przeciwny wojnie w ogóle. 
+Przez to wyrzucony z socjety.
 
+Hazel-Barnes -- egzystencjalistka amerykańska, na YT odcinki.
 
+dr Kałuża -- sporo pisał o Camusa
 
+Camus sam nie określał się ani jako egzystencjalista, ani jako filozof.
 
+Nawiązanie do Procesu, Dantego
 
+Camus mówi, że chętnie byłby chrześcijaninem, gdyby tylko wszystkie uczynki nie 
+były przez zmartwychwstanie pewną transakcją, handlem.
 
+W plikach jest *Wzlot* Iwaszkiewicza, który jest poniekąd *odpowiedzią* 
+Camusowi, przełożeniem na polskie realia.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dwie główne interpretacje: jako jednostkę, albo jako pewna zbiorowość.
 

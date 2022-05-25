@@ -1345,3 +1345,162 @@ oddolne uświadomienie które nie jest narzucane z zewnątrz
 - poznanie, ludzka wiedza, prawda, postęp naukowy
 - próba przezwyciężenia idealizmu
 
+## Ćwiczenia 13 -- 25.05.
+
+### G. Lukacs
+
+#### Wstęp
+
+Postać kontrowersyjna. Zaangażowanie w rewolucję na Węgrzech. 56' -- był 
+członkiem rządu. Znany przede wszystkim jako autor "Historii i świadomości 
+klasowej", która została bardzo krytycznie w kręgach komunistycznych odebrana. 
+Lukacs wielokrotnie odżegnywał się od tej pozycji. Z historycznego punktu 
+widzenia książka odegrała ważną rolę w kształtowaniu się myśli socjaldemokracji 
+zachodniej.
+
+W tej książce własna interpretacja filozofii marksistowskiej. Myśliciel formatu 
+europejskiego, który (słowa Kołakowskiego) zaprzęgł swój rozum do służby 
+dogmatu. Intelektualista, który wpisuje się w stalinizm? Tak powiedzą niektórzy. 
+Inni twierdzą, że jest to krytyka stalinizmu jako skrzywienia marksizmu.
+
+Próba odczytania na nowo myśli marksowskiej. Kluczowe zagadnienie reifikacji (?)
+
+#### Problem świadomości klasowej
+
+Mówiąc o marksowskim krytycyzmie podkreśla, że mamy do czynienia 
+z "przeciwstawieniu teorię teorii" -- chodzi tu o krytykę historyczną. 
+Rzeczywistość historyczna jest tą, od której wychodzimy i jednocześnie w której 
+jesteśmy. Jest to na wskroś historyczne. Krytycyzm ma rozpraszać to, co 
+w tworach społecznych zastygłe. Dynamiczna propozycja myślenia historycznego, 
+którą jednocześnie należy postrzegać jako wyraz procesów historycznych. Mamy 
+podkreślone to, iż właściwie nie ma czegoś takiego, jak możliwość wyjścia poza 
+historię. Zawsze w historii jesteśmy osadzeni. Myślenie jest wyrazem owych 
+przemian społecznych. Historia jest historią samych form społecznych, co pozwala 
+nam osadzić nasze myślenie w wymiarze historyczno-społecznym.
+
+Formy należy ujmować od stosunków ekonomicznych (bazy). Na tym poziomie 
+rozgrywają się procesy, które decydują o całokształcie form społecznych. Od tych 
+form zależy jaki społeczeństwo przybierze konkretny kształt. Problem ekonomiczny 
+punktem wyjścia.
+
+Całość społeczeństwa podporządkowuje się stosunkom określonym przez ekonomię. 
+Reifikacja, urzeczowienie stosunków społecznych. Ekonomia wchodzi tak głęboko, 
+tak ofensywnie kształtuje stosunki społeczne, iż przybierają one charakter 
+stosunków ekonomicznych -- stosunki społeczne ulegają urzeczowieniu, 
+zapośredniczeniu poprzez wartość wymienną. Stosunki społeczne przyjmują 
+urzeczowiony charakter. Świadomość społeczna przesłonięta przez rzecz, towar, 
+wartość. Marks pokazał tę strukturę, po drugie jego myślenie pozwoliło na 
+odzyskanie społecznego życia ludzkości. Zasługą Marksa było *rozpuszczenie 
+całokształtu przedmiotowości w stosunkach między ludźmi*. 
+
+Świadomość klasowa kształtuje się w procesach historycznych. Podkreślenie, że 
+świadomość klasowa burżuazji nie jest w stanie rozwiązać własnego problemu przed 
+jakim stoi, nie jest w stanie wejrzeć w swoją sytuacją. Są tutaj obiektywne 
+przeszkody.
+
+Świadomość fałszywa, jaką możemy dostrzec .
+
+Odniesienie się do całości -- nie może abstrahować od procesu. Należałoby to 
+odnosić do całości procesu w jego historycznym rozumieniu. Lukacs przez pojęcie 
+całości stara się ukonkretnić myśl marksistowską i jest przekonany, że dzięki 
+temu możemy w sposób rozumiejący uchwycić całość procesu. To myślenie, żeby nie 
+było abstrakcyjne, musi samo być częścią owej rzeczywistości. Figura marksisty 
+teoretycznego jest wewnętrznie sprzeczna. Teoria jest praktyką, łączy się z tym 
+wymiarem. To rozumienie uczestniczące w mocnym sensie tego słowa. Jest wyrazem 
+zakorzenienia i zaangażowania w sam proces. Proces wyraża się poprzez myśl. 
+Myślimy procesem. To chroni nas przed niebezpieczeństwem odejścia od konkretu 
+historycznego. Badać coś w sposób konkretny oznacza odnosić to do społeczeństwa 
+jako całości.
+
+Umieszczenie klasy w procesie ekonomiczno-społecznym, co powinno wyznaczać ową 
+świadomość. Istotne jest odniesienie do całości. Opis sytuacji typowej, która 
+prowadzi do zdefiniowania świadomości klasowej. Odniesienie do całości pozwala 
+na odebranie wszystkich aspektów. Świadomość subiektywna -- ludzie jakoś 
+odczuwają swoją sytuację. Fałszywa świadomość -- to, co się w sposób 
+automatyczny narzuca, co sprowadza świadomość do tych problemów. W świadomości 
+społecznej mamy również świadomość fałszywą. To, co nieuświadomione będzie 
+również istotne. Dzięki odniesieniu do całokształtu stosunków 
+ekonomiczno-społecznych, umiejscowienia pewnej grupy, klasy w całokształcie 
+procesu ekonomiczno-społecznego możemy jeszcze wyróżnić to, co w sposób 
+nieuświadomiony klasa również realizuje w historii. Z jednej strony przez 
+nieuświadomiony charakter klasa rozmija się z obiektywnym procesem, z drugiej 
+strony w sposób świadomy może realizować te procesy. W obu przypadkach jest to 
+działanie nieuświadomione.
+
+*Typiczność* jest również ważna. Ten opis nie wyczerpuje całej sytuacji. Dzięki 
+odniesieniu do konkretnej totalności/całości dialektyczny sposób ujęcia tej 
+sytuacji wyprowadza nasze myślenie poza ten opis. Mamy też do czynienia ze 
+świadomością potencjalną. Gdy świadomość zostaje odniesiona do całości 
+społeczeństwa, to pojmuje się te myśli, uczucia, które ludzie mieliby, gdyby 
+byli odniesieni do całości. Również to, co powinno wejść w obręb świadomości 
+klasowej, gdyby ta klasa mogła spojrzeć na swoją sytuację z punktu widzenia 
+ogólności.
+
+Burżuazja tego poziomy *samorozumienia* nie może osiągnąć. Interesy klasy stoją 
+na ich drodze. To byłoby dla burżuazji aktem samobójczym. Skaza partykularności, 
+która wiąże się z sytuacją klasy burżuazyjnej, skazuje ją na niezrozumienie 
+własnej sytuacji. Dlatego w przypadku burżuazyjnej mamy świadomość fałszywą. 
+
+Owa świadomość klasowa wciąż jeszcze nie jest w pełni urzeczywistniona. 
+W związku z tym świadomości towarzyszy nieświadomość klasowa. Dopiero 
+zrozumienie charakteru świadomości klasowej proletariatu jako klasy panującej, 
+umożliwi rozwiązanie kwestii świadomości klasowej. Klasie proletariackiej 
+dopiero będzie dane wejrzenie i porzucenie skazy partykularnej. Jednak wtedy 
+będzie ona reprezentować interes ogółu, przestanie to być świadomość *klasowa*, 
+będzie już bezklasowa świadomość. Ta świadomość utożsami się z całością, 
+z interesami tego tworu społecznego. W związku z tym wszystkie sprzeczności, 
+które są charakterystyczne dla tego etapu rozwoju kapitalistycznego, zostaną 
+zniesione.
+
+Świadomość klasowa obarczona jest aspektem nieuświadomienia owych relacji, jest 
+więc ograniczona przez warunki kształtujące ją. Z tego powodu nie uświadamia 
+sobie również szerszych uwarunkowań.
+
+Intelektualny wyraz zawierzenia doktrynie przez Lukacsa. 
+
+Uświadomiony sens historycznej sytuacji tej klasy. Z tego wynikają dalsze 
+konsekwencje. Interes chwili może stanowić krok do celu albo ten cel zakrywać. 
+Sens to sens głębiej rozumiany, niż sens faktyczności historycznej. To przekłada 
+się też na sposób rozumienia taktyki partii komunistycznej. To też może do 
+pewnego stopnia usprawiedliwiać potknięcia, wypaczenia partii komunistycznej. 
+Mamy pewne zabezpieczenie intelektualne, które jest głęboko osadzone 
+w świadomości dziejów.
+
+Stare formy, takie jak chłopstwo, są skazane na zanik -- wyłania się sytuacja 
+dwuklasowa. Właściwym środowiskiem jest kapitalizm. Problem reifikacji jest 
+zasadniczy dla rozumienia kapitalizmu. 
+
+Kapitaliści nie uświadamiają sobie faktycznej sytuacji, albowiem ich świadomość 
+jest ograniczona przez samą naturę procesów kapitalistycznych. Ten fałsz narasta 
+z czasem w trakcie działalności i rozwoju formacji kapitalistycznej. Proletariat 
+odgrywa ważną rolę w uświadomieniu burżuazji. Odkrywanie tego również 
+w świadomości subiektywnej przez burżuazję i fałszowanie tej świadomości przez 
+ideologię, wprowadzanie *moralnej* legitymizacji.
+
+To, co dochodzi do głosu w formie uświadomienia jest wprost odniesione do 
+procesów ekonomiczno-społecznych. Jest to część tych procesów.
+
+Wulgarny marksizm -- Lukacs polemizuje z wersjami marksizmu, które uważa za 
+wypaczające myśl marksowską, nie ujmujące tej myśli w oparciu o faktyczną myśl 
+Marksa. Te stanowiska empiryczno-pozytywistyczne, gdzie mamy do czynienia 
+z podmiotem i przedmiotem historii. Krytyka ukryta  z teorią odbicia -- naiwną 
+epistemologią Lenina. Ta wersja marksizmu właściwa dla II Międzynarodówki, to to 
+myślenie dialektyczne (może również Engelsa należałoby rozróżnić). To jest jakiś 
+reakcyjny sposób rozumienia działań marksizmu, kształtowania się świadomości 
+klasowej. To byłaby ta warstwa polemiczna. 
+
+Dla Lukacsa nie ma podziału na podmiot i przedmiot historii. Podmiot jest 
+przedmiotem i na odwrót w procesie historycznym, bo to jest całość, totalność. 
+Te rozróżnienia są rozróżnieniami dialektycznymi. Nie ma czegoś takiego jak 
+*zewnętrzność*.
+
+Co do reifikacji, urzeczowienia relacji społecznych. Proces zmierza do 
+*odrzeczowienia* relacji społecznych. Tych relacji, które są charakterystyczna 
+dla relacji kapitalistycznych, gdzie całość tych relacji społecznych jak 
+i jednostki były urzeczowione, traktowane na podobieństwo towarów. Powraca wątek 
+*fetyszyzmu towarowego*, które dobrze, zdaniem Lukacsa, opisują stosunki 
+kapitalistyczne. Wskazanie drogi, którą należy iść, aby odzyskać 
+niezapośredniczone więzi międzyludzkie. To oznacza przejście do królestwa 
+wolności, które oznacza, że urzeczowione stosunki między ludźmi zaczynają 
+oddawać swoją władzę -- człowiek odzyskuje siebie w społeczeństwie.  
+
