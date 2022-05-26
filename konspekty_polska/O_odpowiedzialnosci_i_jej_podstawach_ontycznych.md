@@ -103,5 +103,66 @@ go sprawia, że sprawca obciąża się nową winą.
 
 ### IV. Podejmowanie odpowiedzialności
 
-str. 93
+Oznacza uznanie obciążenia siebie samego przez swoje przewinienie, prawo 
+pokrzywdzonej przez to osoby do powetowania za uzasadnienie oraz obowiązek 
+rekompensaty. W następnie tych aktów obowiązuje podjęcie kroków, które do 
+zadośćuczynienia ma doprowadzić.
+
+Jeśli dokonany czyn, za który podejmuje się odpowiedzialność, polegał na 
+zrealizowaniu pozytywnej wartości, podjęcie odpowiedzialność oznacza gotowość do 
+ręczenie za tę wartość i uprawnienie do dokonania czynu.
+
+Podjęcie odpowiedzialności i spełnienie tego, czego się od sprawcy żąda, odciąża 
+go od winy i pozwala anulować lub osłabić ponoszoną odpowiedzialność.
+
+### V. Odpowiedzialne działanie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
