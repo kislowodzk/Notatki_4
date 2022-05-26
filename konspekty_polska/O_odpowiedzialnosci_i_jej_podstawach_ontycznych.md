@@ -117,6 +117,24 @@ go od winy i pozwala anulować lub osłabić ponoszoną odpowiedzialność.
 
 ### V. Odpowiedzialne działanie
 
+Odpowiedzialność wyrasta w działaniu, które podejmuje się z góry zważywszy na 
+to, że wypływa z niego określona odpowiedzialność działającego. Uwzględnia się 
+przy tym jeszcze, że samemu działającemu może być przypisana wina lub zasługa. 
+Sprawca musi utrzymywać przy tym spojrzenie na wartościach, które zostaną 
+przezeń zrealizowane lub unicestwione.
+
+Odpowiedzialne działanie grozi tym bardziej ciążącą odpowiedzialnością, kiedy 
+działający realizuje wartość zwalczaną przez innych lub zakazaną przez prawo 
+jako zło. W działaniu podkreśla się wartościowość tej wartości. Działający może 
+sobie przypisywać bohaterstwo obrony słusznej wartości. Jeśli jednak okaże się, 
+że działający nie ma racji, że wartość, której broni, nie jest wartościowa, to 
+w dalszym ciągu jest w wysokim stopniu odpowiedzialny za swoje postępowanie 
+i nie zostaje mu odjęta należna wartość bohaterskiego trwania przy swoim ideale.
+
+### VI. Wartość jako ontyczny fundament odpowiedzialności
+
+
+
 
 
 
