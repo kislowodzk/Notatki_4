@@ -1410,3 +1410,204 @@ Twierdzi, że źle postępuje, kto twierdzi, że boskość Chrystusa nie jest zw
 z bytem realnym. Jednak argumentacja oparta na patrologii. Argument, że Ojcowie 
 Kościoła byli bliżej czasów Chrystusa, więc wiedzieli lepiej.
 
+## Wykład 9 -- 27.05.
+
+Sprawa centralna. Przejście od mieszanki F. Socyna zakorzenionego w XVI wiecznej 
+hermeneutyce do XVII wieku wymaga zmiany w definicji rozumu. XVI w. jest okresem 
+hermeneutyki.
+
+Hermeneutyka, jak Hermes od Bogów zanosi wiadomości, tak hermeneuta przekazuje 
+treść tekstów. Stara się nie dodać niczego od siebie. Chodzi o pojęcie tego, co 
+ma się przed sobą (tekst, struktura społeczna, problem w świecie przyrody 
+w kontekście filozofii) -- wszystko to traktuje jako *tekst*.
+
+Tekst jako mowa, w której pojedyncze wyrazy są powiązane, tworzą sens, ale wręcz 
+konstytuują swój sens we wzajemnych relacjach -- to jest przełom, bo możemy 
+przyjąć po platońsku, że każde słowo wskazuje realną rzecz; każde słowo ma 
+ukonstytuowany sens w związku z realną rzeczą, tekst tylko to łączy, ale nic się 
+nie zmienia w związku z ujęciem w tekst -- tej wizji broią zwolennicy kultury 
+vulgaty, od tego odchodzą hermeneutycy.
+
+Dla hermeneutycy sens słów w istotnej mierze konstytuuje się we wzajemnych 
+relacjach w tekście, najpierw to rozumienie rozszerzamy do całego tekstu, żeby 
+zrozumieć słowo musimy zrozumieć tekst. Potem odkrywamy, że aby zrozumieć tekst, 
+musimy zrozumieć inne teksty.
+
+Hermeneutyczne rozumienie: tekst, kontekst, relacje tekstualne 
+i intertekstualne. Zaczynamy traktować struktury świata jako tekst. Przykładem 
+mówienie o księdze objawionej -- jednocześnie mówimy o księdze przyrdoy. Szukamy 
+intertekstualnych relacji między nimi. Theologia naturalis -- uważamy, że te 
+księgi muszą być zgodne. Znika lęk przed badaniem przyrody (od Augustyna, który 
+mówi, że musimy badać ducha).
+
+Eksperyment naukowy polega na tym, że burzymy porządek natury i obserwujemy 
+powrót natury do porządku -- to jest przełom. Już w XVII wieku nie mówi się, że 
+księga przyrody musi być zsynchronizowana z księgą objawiioną. Nowe pojęcie 
+natury, nowa ideologia. To od Bacona.
+
+Spinoza radykalizuje pojęcie substancji, odkrywa, że jeśli ją radykalizujemy, to 
+musi być jedna substancja.
+
+Łączy się to z aksjomatyzacją: tworzymy zasady ogólne, które jaśno określamy. Co 
+nie jest jasno określone nie ma racji bytu. Ostoi się tylko to, co w jasnych 
+aksjomatach, definicjach i wnioskach może być przedstawione.
+
+To samo w obozie antytrynitarzy. Koniec ery hermeneutycznej, w której metafizyka 
+naturalna była tylko możliwością, a wszyscy się wzdrygali od pójścia tą drogą. 
+To się zmienia po śmierci Socyna.
+
+### Iohannes Crellius (Johan Crell)
+
+Niektórzy mówią, że jest najwybitniejszym teologiem i najpełniej wyraża tę 
+teologię, inni twierdzą, że jest dowodem na to, że nie ma jednego socynianizmu.
+
+Po Socynie scalenie ruchu. Jeszcze na gruncie hermeneutyki. Miejsce dla młodego 
+pokolenia.
+
+Crell -- żył krótko. Urodził się w 1590 roku w dzisiejszej północnej części 
+Kraju Związkowego Bawarii. Ojciec luterańskim pastorem. 
+
+Studia koło Norymbergi. Tam działał profesor Sonner, który jako pierwszy zaczął 
+eksperymentować myślą arystotelesowską -- stawia tezę, że świat i materia są 
+wieczne, nie zostały stworzone. Jeśli tak, to albo wyklucza to kreacjonizm (Bóg 
+przyszedł później, zastał materię wcześniej uformowaną -- istnieć znaczy mieć 
+formę -- i zaczyna lepić), albo jest współwieczny jak materia, albo Bóg sam jest 
+materialny.
+
+Soner otwiera nową beczkę. Wpływ myśli Sonera. Ten wpływ jest wpływem ex 
+negativo -- ludzie rzucili się na Sonnera, nie panowali nad hermeneutycznymi 
+konsekwencjami. Myśl żyła, bo budziła sprzeciw.
+
+Crell uczniem, który wyjechał do Polski, bo tam była wolność słowa. Dociera do 
+Rakowa. Rektor Akademii Rakowskiej.
+
+Pisze bardzo wiele, organizuje zbiorową pracę nad dziełami. TO dotyczy przede 
+wszystkim fundamentalnej ontologii i metafizykę. W sprawach etycznych zostawia 
+wolne pole innym. 
+
+*O jednym Bogu Ojcu księgi dwie* -- uchodzi za najbarziej dojrzałe dzieło tego 
+okresu, krok w stronę racjonalizacji.
+
+W pierwszej księdze o Ojcu jako o jedymym Bogu, w drugiej o trzech osobach. 
+Różnica między dwoma księgami leży w metodzie. W pierwszej zebrane cytaty 
+z Biblii, które świadczą o tym, że Bóg jest jeden, że Chrystys zyskuje 
+właściwości boskie jako cechy, ale nie substancjalne. Crell wykazuje, ze te 
+miejsca niwiadczą o boskości.
+
+Rozdział II -- logika. Cały warsztat polega na arystotelesowskiej dialektyce -- 
+analizie przeciwstawności  -- na ile dana forma przeciwstawności jest 
+sprzecznością. Tendencja, by wszystko, co jest przeciwstawnością, nie było 
+sprzeczne logicznie pod względem materialnym. Łączenie dzieli względem 
+numerycznej tożsamości.
+
+Coś, co jest w akcie, oddziałuje na to w możności. Nawet jeśli mówimy, że ja 
+oddziałuję na samego siebie, to Arystoteles używa formuły *oddziałuje na coś 
+innego jako coś zewnętrzngeo*. Nawet jeśli oddziałuję na samego siebie, to 
+zakłada to podział we mnie. To wyklucza jedność Boga, którą ortodoksi przyznają.
+
+Problem, który leży w samej strukturze pojęcia substancji. Zdaniem ortodoksów 
+w pojęcia nie mogą być tak stosowane do Boga -- w tym tajemnica.
+
+Wprowadzenie naturalizmu -- jeśli mamy Ojca i Syna, to te pojęcia są 
+zdefiniowane przez księgę życia, które mówi nam czym jest rodzina. Stosujemy to 
+1 do 1 do Osób boskich.
+
+Opis paradoksów. Nawet jeśli się zgodzimy, że jest jedność, to wynika z tego 
+tylko tyle, że Ojciec jest własnym Synem i tak dalej.
+
+Również arystotelesowski schemat aktu i możności. Bóg jako czysty akt, ale 
+przecież płodzenie oznacza, że musi być jakaś możność -- taki byt, który 
+aktualnie nie istnieje, ale zaistnieć może wskutek pewnego aktu. Kiedy łączymy 
+te trzy osoby w jednym bycie, to importujemy do tego możność. 
+
+![](./slajdy_polska/65.png)
+
+Ogólna konstrukcja -- w samym tytule słowo kluczowe. Cała książka dotyczy natury 
+Boga, Syna i Ducha. W odróżnieniu od hermeneutyki XVI wieku pojęcie natury jest 
+radykalizowane.
+
+Księga pierwsza -- materiałem Biblia, narzędziem hermeneutyka.
+
+![](./slajdy_polska/66.png)
+
+Ten cytat wskazuje na metodę -- trzeba wykazać wewnętrzną sprzeczność, że 
+przyjęte tezy się wykluczają. Mamy to robić, by dopuścić drugi rodzaj dowodu. 
+Nie tylko obalamy, ale też będziemy budować własną doktrynę. To już nie jest 
+hermeneutyka, ale podążanie drogą rozumu.
+
+![](./slajdy_polska/67.png)
+
+![](./slajdy_polska/68.png)
+
+Realnie różne -- różnica realna (pojęcie scholastyczne), oznacza to, że mamy dwa 
+byty, które realnie istnieją i są realnie różne. Przeciwieństwem różnica 
+uczyniona tylko przez rozum, która nie ma realnej podstawy. To jest 
+najmocniejsza forma różnicy między bytem a bytem.
+
+Idziemy po Tomaszowemu -- od niższych, przez średnie, po najwyższe. Stosujemy 
+analogię. Logiczne pod warunkiem, że zakładamy, że substancja pierwsza, do 
+której się odnosimy, zachowuje się na wszystkich stopniach tak samo. To jest 
+założenie wyciągnięte z heterodoksyjnego arystotelizmu.
+
+![](./slajdy_polska/69.png)
+
+![](./slajdy_polska/70.png)
+
+Jeśli w pewnym sensie przyznajemy, że 3x1=1. Z fałszywej tezy wynika cokolwiek. 
+Zasada znana ze scholastyki i kultury debatowania. Jeśli przyjmujemy, że 3x1=1, 
+to z tego wynika, że 1x1=3, a jeśli to jest to samo, to przecież 3x1=9 itd. 
+Każda liczba jest możliwa.
+
+![](./slajdy_polska/71.png)
+
+![](./slajdy_polska/72.png)
+
+Problem z jednością, wielością, tożsamością, różnicą. Jeśli tym samym są rzeczy 
+różniące się, to tym samym jest jedność i wielość; o drugie tożsamość jest 
+tożsamością bytu z samym sobą, różnica jest tożsamością z czymś, czym się nie 
+jest.
+
+Jeśli mówimy, że osoby różnią się od siebie realnie, to równocześnie realnie 
+różnią się od siebie i nie różnią.
+
+![](./slajdy_polska/73.png)
+
+![](./slajdy_polska/74.png)
+
+Jedność Boga może się albo rozbić (tryteizm), albo wpadamy w modalizm lub 
+esencjalizm. Nie można sobie radzić bez przedstawiania Syna i Ducha jako 
+modalnych interpretacji Boga Ojca. Scholastyka spiera się, czy może istnieć 
+różnica modalna -- coś pośrodku między różnicą realną a myślową.
+
+Jeśli Bóg jest tego rodzaju substancją pierwszą, to ma i formę i materię 
+(stanowisko Sonnera przeziera).
+
+Pierwsza substancja konkretnym bytem, który myśli. Jeśli tak, to Trzy Osoby 
+możemy interpretować tylko jako trzy substancje myślowe.
+
+Pojawia się problem z abstrakcą. Przecież Ojciec, Syn i Duch nie są 
+*osobowościami*, lecz osobami. 
+
+Problem -- możemy się odnieść do pierwszej substancji, ale tylko przez 
+substancję drugą. Co pozwala oddzielić substancję od istoty,
+
+Chodzi o spełnienie definicji osoby.
+
+Może się pojawić błąd -- nieodróżnianie bytu od jego abstrakcyjnej definicji. 
+Jeśli jestem człowiekiem, to po śmierci definicja człowieka nie umrze. 
+
+Crell zarzuca, że ortodoksi tę różnicę rozmazują, że wiadomo, czy mówią 
+o Pataer, czy pataernitas. Jeśli na tym się złapiemy, to konkrety będą 
+abstraktami. W drugą stronę też -- hipostazujemy powszechniki. Mówimy, że 
+powszechniki istnijeą jako realne byty. Jeśli tak, to mamy 6 osób boskich. Boga 
+Ojca i Boga Ojcostwo. 
+
+![](./slajdy_polska/75.png)
+
+![](./slajdy_polska/76.png)
+
+Problem istnienia w czasie. Czym jest wieczność? Czy jest czasem otwartym na 
+obie strony, czy wieczność się zaczyna w jakmś punkcie? Czy ma w ogóle strukturę 
+jak czas, czy ma *wcześniej*, *później*, czy jest w ogóle ponad to. Ten problem 
+Crell odkrywa w substancji jako bycie tym, czym się było.
+
