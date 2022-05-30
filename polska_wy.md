@@ -177,8 +177,8 @@ należy stosować przemocy.
     związane z relacą do drugiego obywatela. (...) Mam się posługiwać swoją 
     wiarą, a nie wiarą drugiego obywatela, który żyje obok.*
     - Wiara kwestą indywidualną, wręcz prywatną.
-    - *Jeśli Kalwin hełpi się tym, że zabił Serveta, to nie oznacza to, że zabił 
-    heretyka. Znaczy to tyle, że zabił człowieka.*
+    - *Jeśli Kalwin chełpi się tym, że zabił Serveta, to nie oznacza to, że 
+    zabił heretyka. Znaczy to tyle, że zabił człowieka.*
 
 ![](./slajdy_polska/18.png)
 

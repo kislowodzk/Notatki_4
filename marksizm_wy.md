@@ -2546,3 +2546,193 @@ budować utopii. Jednak wydaje się, że mit bez jakiegoś elementu utopii obyć
 nie może. Perspektywa celu nadal jest istotna i to ona skłania ludzi do 
 działania.
 
+## Wykład 11 -- 30.05.
+
+### Egzamin
+
+- egzamin ustny stacjonarnie lub zdalnie, jeśli ktoś musi mieć
+- egzamin rozmową o wybranej książce
+- skany książek będą dostępne na teamsach
+- co do terminu, to ustalimy za tydzień, ale raczej w czasie wykładu, czyli 
+jakieś poniedziałki w sesji
+
+### Dzieje marksizmu polskiego
+
+Temat ten nie jest marginalny. Pokazuje charakterystyczną dla recepcji marksizmu 
+kwestie. Teoria narodziła się w wyniku analiz społeczno-gospodarczych 
+w najbardziej rozwiniętych krajach świata. Natomiast myśl Marksa trafiła, 
+ugruntowała się i rozwinęła w krajach, których nie dotyczyła.
+
+Brytyjski ruch socjalistyczny, tak samo amerykański, nie był ruchem wpływowym. 
+Natomiast zainteresowani przedstawiciele narodów peryferyjnych, zacofanych, 
+kolonialnych. Tutaj marksizm trafił na podatny grunt. To oddziaływało też na 
+polityczne wpływy i praktykę. Dlatego warto powiedzieć kilka słów o marksiźmie 
+polskim.
+
+Kolejny powód to zainteresowanie Marksa i Engelsa kwestią polską. Zwłaszcza 
+u Marksa sprzyjanie kwestii niepodległościowej w Polsce, ponieważ Polska miała 
+być wentylem bezpieczeństwa odgradzającym rewolucyjny zachód od reakcyjnej 
+monarchii rosyjskiej.
+
+W latach 80-tych pierwsza polska partia odwołująca się do marksizmu.
+
+Najbardziej wpływowi, najbardziej oryginalny:
+
+#### Kazimierz Kelles-Krauz
+
+Wpływał na partię socjalistyczną. Wywierał też wpływ na światową socjologię.
+
+Jeden z pierwszych nowoczesnych socjologów
+
+Pojęcie retrospekcji rekonstruktywnej
+
+Żył 33 lata, zmarł na gruźlicę.
+
+Kołakowski odnosi go do nurtu ortodoksyjnego, ale nie w sensie Kautskyego, czy 
+Luksemburg. Był marksistą twardym. Był rewizjonistą w sensie filozoficznym -- 
+próbował łączyć Marksa z Kantem.
+
+Charakterystyczne przystawianie do przeszłośći. Stwierdzamy, że socjalizm, do 
+któreo zmiarzamy. Co przycczynia się do ideologizacji dawnych epok? Powoływanie 
+się na psychologistyczną socologią. Analiza marksistowska miałaby mieć 
+odpowiednik w nowoczesnym społeczeństwie. Jak sposób produkcjia wywołuje pewne 
+ludzkie zachodznia potrzeby. Powracają dawne potrzeby i odpowiadające im ideały.
+
+Kwestia narodowa. Próba pogodzenia socjalizmu z programem niepodległości Polski.
+
+Jego spór o to z Różą Luksemburg doprowadził do rozłamu partii. Luksemburg 
+twierdziła, że ważniejsza jest rewolucja protetariatu. Starała się to udowodnić. 
+Nie była przeciwko narodowi, ale uważała, że nie można już cofnąć rozbiorów, 
+ponieważ poszczególne obszary są już gospodarczo ujednolicone z krajami 
+zaborców.
+
+Była przekonana, że nacjonalizm zaburza czystość dążeń socjalistycznych. 
+
+Kelles-Krauz próbował zbijać te argumenty. Nie zgadzał się, że tylko 
+przynależność do Rosji zapewni polskiemu przemysłowi rozwój gospodarczy 
+i społeczny. Dostęp do rynku rosyjskiego jest wynikiem dekretu caratu, a nie 
+rozwoju. Natomiast Luksemburg argumentowała, że polska ma zamknięte rynki zbytu 
+i zostaje rosyjski. Kelles-Krauz mówi, że naiwne jest robienie sobie nadzieii na 
+wiązanie się z rynkiem autorytarnego rynku rosyjskiego, który jest zacofany.
+
+Kelles-Krauzowi chodziło o rewolucji podwójnej dokonanej jednocześnie, w której 
+dla każdego będzie miejsce, polsce niewykluczającej, demokratycznej, 
+socjalistycznej.
+
+Dopóki żył, to miał jednoczyć prawe i lewe skrzydło PPS-u. Być może gdyby żył, 
+PPS by się nie rozpadł. To jest zdanie jakiegoś interpretatora, natomiast Bohun 
+uważa, że to przesada.
+
+Postać wybitna, niesłusznie zapomniana. Socjolog wykształcony i wykładający 
+w Paryżu i Brukseli. Przedwczesa śmierć ucięła także karierę naukową.
+
+Teoretyk nowoczesnego nacjonalizmu, podczas gdy większość ideologów II 
+Międzynarodówki o tym nie mówiono. Z jednej strony teoretyk narodu, z drugiej 
+strony działacz, który uważał, że postultem także postulat ustanowienia państwa 
+narodowego.
+
+Zdawał on sobie sprawę, że nowoczesna socjologia nie kopiuje biologii, jest krok 
+dalej, dlatego trzeba badać tradycję, systemy wartości, ideologie. Traktuje 
+marksizm przede wszystkim jako teorię socjologiczną. Nie uważał się za filozofa. 
+Uznawał, żę marksizm jest teorią wyłącznie społeczną. Że to nie jest uniwersalny 
+system filozoficzny, który wszystko wyjaśnia.
+
+Badania nadbudowy -- ludzkiej świadomości, indywidualnej i zbiorowej.
+
+Bada alienację, dlaczego ludzie źle się czują w świecie. Badają procesy 
+alienacyjne w nowoczesnym społeczeństwie kapitalistycznym.
+
+I Krzywicki i Kelles-Krauz rozpoczynają od marksizmu jako narzędzia badawczego 
+nowoczesnej socjologii. Ewidentnie wykraczają poza pozytywizm. To jest myśl 
+społeczna w momencie zwrotu antynaturalistycznego.
+
+Snajder uważa, że tę myśl trzeba przeciwstawić nie Luksemburg czy Kautskiemu, 
+ale bardziej Lukacsowi i Gramsciemu. 
+
+####  Brzozowski
+
+Próba łączenia Marksa z Kantem, Nietzschem, Bergsonem. To nie jest rewizjonizm 
+polityczny, ale filozoficzny.
+
+Myśliciel bardzo intensywny, różnorodny jeśli chodzi o zainteresownia.
+
+Można wyrobić sobie przekonanie, że jest myślicielem zmiennym. On musi 
+funkcjonować w dialogu -- wypowiada się zazwyczaj w formie krytyki. Wnika 
+w poruszaną materię bardzo głęboko, część akceptuje. Można odnieść wrażenie, że 
+*skakał z kwiatka na kwiatek*. Już za życia mówiono, że to człowiek gąbka -- 
+wchłania wszystko, by wycisnąć na papier.
+
+Też żył 33 lata, też gruźlica.
+
+Jest też stały element w jego filozofii. Przy wszystkich różnych inspiracjach, 
+sposobach myślenia, jest temat wiodący -- to jest **twórczość**. Jest on 
+filozofem twórczości. Pojmuje ludzkie życie, każdy jego moment, jako akt 
+stwórczy. Chce pokazać człowiekowi, że to jest to, co świadczy o wielkości 
+człowieka, ale zarazem jest powodem frustracji. Za twórczość, lub nie tworzenie, 
+ponosi odpowiedzialność.
+
+Bohun twierdzi, że jest to myśliciel monoidealny, Mamy jedną ideę, która 
+organizuje wszystkie jego polemiki. Jest to czyn, twórczość, walka, 
+przekształcanie świata.
+
+Brzozowski Marksa interpretuje przede wszystkim przez Kanta. Twierdzi, że to 
+Marks dokończył Kantowską rewolucję kopernikańską. Marks uważał, że postawił 
+Hegla z głowy na nogi, to Brzozowski twierdzi, że o Heglu można zapomnieć -- 
+istotny jest Kant, a Marks pokazał, że nie chodzi o czynną rolę podmiotu 
+poznającego, ale czynnym stosunkiem do rzeczywistości jest praca.
+
+Drugie źródło -- przeniknięcie rewolucji 1905. Uznanie, że to klasa robotnicza 
+stworzy nową Polskę, że nie potrzebuje on pomocy.
+
+Zwrócenie się przeciw inteligencji.
+
+Okres autoidentyfikacji z marksizmem okresem najbardziej twórczym. Był marksistą 
+oryginalnym, wyprzedzającym swoją epokę.
+
+#### Ludwik Krzywicki
+
+Marksizm pozytywistyczny, więc antyfilozoficzny. Oparty na badaniach 
+socjologicznych.
+
+Pokazuje w jaki sposób pewne idee mogą być przyjmowane w środowiskach, gdzie nie 
+ma dla nich materialnego przygotowania. Chce pokazać jak możliwa jest recepcja 
+w Polsce. Pokazuje, jak idee mogą przyspieszać przemiany społeczno-gospodarcze.
+
+#### Główne cechy polskiego marksizmu
+
+Cała trójka próbuje podważyć podział na bazę i nadbudowę, próbując pokazać, że 
+ludzka myśl, idee, są względnie niezależne od procesów zachodzących 
+w materialnej bazie, co więcej, mogą na bazę wtórnie oddziaływać.  
+
+Trzy główne obszary działalności:
+
+- metafilozofia marksizmu -- popularyzacja, próby wyjaśniania czym jest 
+marksizm; rozprawy Krzywickiego o materialistycznym pojmowaniu dziejów, choć 
+słowo *materializm* nie ma tutaj znaczenia metafizycznego, oznacza rzeczywistość 
+społeczno-gospodarczą. Materializm oznacza tu po prostu *ekonomizm*. 
+Najważniejsza jest determinacja naszego myślenia wynikająca z przemian 
+zachodzących w sposobach produkcji.
+- marksistowska socjologia wiedzy (choć ten termin jeszcze wtedy nie 
+obowiązywał) -- badania nad społecznym warunkowaniem świadomości, nad 
+światopoglądami, świadomością społeczną, która mimo że determinowana przez 
+zjawiska społeczne, jest jednak względnie niezależna. Nie jest bierką. 
+Świadomość czynnikiem aktywnym, który może prowadzić do realnych przemian. Idee 
+mają znaczenie, konsekwencje. Mogą zmieniać świat.
+- marksistowska krytyka kultury (zarówno mieszczańskiej, nowoczesnej, ale też 
+ideałowej, robotniczej, którą stworzy wyzwoląca ludzkość)
+
+Wypadałoby jeszcze wspomnieć Różę Luksemburg
+
+Jest to marksizm odległy od marksizmu II międzynarodówki. Na przykład Polaków 
+nie interesują zagadnienia materializmu historycznego, recepcja Engelsa 
+niewielka, przeciwnie, skłonność do krytyki Engelsa. Nie ma też skłonności do 
+kodyfikacji marksizmu, ubierania go w spójny system. Marksizm jest praktyką 
+badawczą.
+
+Krzywicki i Kelles-Krauz uważają, że marksizm nie może izolwać się kultury 
+politycznej. Nie może znajdować się w heglowskiej dialektyce. Był to dla nich 
+przede wszystkim neokantyzm. Apriori naszego myślenia to jego społeczny 
+konteskst, tradycja, miejxsce, jakie podmiot zajmuje w społeczeństwie klasowim.
+
+Kwestia narodowa -- potrzeba społecznego opracowania. 
+

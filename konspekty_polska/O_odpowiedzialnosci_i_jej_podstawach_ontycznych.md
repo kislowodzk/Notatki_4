@@ -133,7 +133,37 @@ i nie zostaje mu odjęta należna wartość bohaterskiego trwania przy swoim ide
 
 ### VI. Wartość jako ontyczny fundament odpowiedzialności
 
+Z odpowiedzialnością wiążą się wartości. Ich istnienie i relacje określają sens 
+i możliwość odpowiedzialności.
 
+Wartości:
+
+#### A
+
+1. Wartość wywołana przez czyn
+2. Wartość czynu prowadzącego do wyniku
+3. Wartość woli/decyzji i zamiaru
+4. Wartość przysługująca sprawdy w następstwie spełnienia czynu
+
+#### B
+
+1. Wartość w powetowaniu, co usuwa szkodę albo ją wyrównuje
+2. Wartość sposobu zachowania się (np. skruchy), która anuluje ciążącą na 
+sprawcy negatywną wartość postępku
+3. Wartość nagrody dostosowywanej do zasługi
+
+W grupie **A** zachodzą generyczne powiązania bytowe: A1 => A2 => A4 (wartość 
+**rodzi** nową wartość), oraz powiązania określania: materia wartości wyniku 
+określa z siebie materię wartości czynu, która określa materię wartości sprawcy. 
+W grupie **B** wartości pełnią funkcję *derealizacji* wartości grupy **A**.
+
+Ponad tymi wartościami **sprawiedliwość**, która domaga się wszystkich 
+*wyrównań* wartości.
+
+Gdyby nie istniały wartości pozytywne i negatywne, związki bytowe i określania, 
+**nie mogłaby istnieć żadna prawdziwa odpowiedzialność**.
+
+Teraz strona 100
 
 
 
