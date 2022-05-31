@@ -4636,9 +4636,35 @@ fenomeny, które starają się opisać. To, co jest najbardziej twórcze u pewny
 świadomości ucieleśnionych, to jest **sposób** tej ekspresji, sposób opisywania 
 w danym, zastanym już na przykład języku i mowie.
 
-44:30
+Człowiek jest twórcą, ale nie tak, jak chciał Sartre (istniejącym w abstrakcji 
+i niczym nie związanej rzeczywistości), ale jest ukorzeniony w świecie po to, by 
+ten świat, jawiący mu się w rzutach świadomości percepcyjnej, uporządkować 
+i twórczo usensownić.
 
+Przyjęcie koncepcji narzędziowości od Heideggera. To jest jakaś forma 
+*wypowiedzi* jakiejś innej ucieleśnionej świadomości. To jest ich *wrzutka*, 
+partycypacja w ten świat, w którym się znaleźliśmy. Ekspresja, która została 
+zmaterializowana w tym oto tu przedmiocie. On nie jest ze mnie, on pojawia się 
+na tle innych tego typu -- służących jakimś celom -- przedmiotów.
 
+MP odpowiedział Sartre'owi, że spotkaniem z drugim jest seksualność. U Sartre'a 
+przenoszenie ciała kochanki do sfery w sobie zamkniętej, unieruchamianie jej 
+i rozstanie (bo wolność nie może się zespolić z bytem w sobie nie tracąc 
+samoistności). U MP przy jego koncepcji ciała świadomego jest partycypacja 
+w tych samych elementach i w tej samej afektywności. Tam nie ma myśl wiele do 
+czynienia, nie ma refleksji nad miłością. To jest doświadczenie pierwotne. To 
+jest doświadczeniem dwóch ucieleśnionych świadomości, teraz poziomu afektywnego. 
+Nie ma tu konfliktu. Nie ma tu skazania na antagonizm -- człowiek jest skazany 
+na dzielenie pewnej ekspresji, właśnie tej afektywnej. To jest ten drugi. On nie 
+jest wrogiem. Może mi przeszkadzać, zasieki budowane przez wroga ma mi coś 
+utrudnić, bo świat kryje wiele pułapek, wiele intencji sprzecznych z moimi, 
+z innymi ekspresjami, jednak jest to świat dla człowieka, nawet jeśli jest to 
+świat wroga i przyjaciół.
+
+Ważna korekta jeśli chodzi o neokartezjanizm francuski. Nigdy nie osiągniemy 
+pewności, lecz ta dwuznaczność jest czymś twórczym, to jest to *niedokończenie*.
+
+51:00
 
 
 
