@@ -4664,52 +4664,63 @@ z innymi ekspresjami, jednak jest to świat dla człowieka, nawet jeśli jest to
 Ważna korekta jeśli chodzi o neokartezjanizm francuski. Nigdy nie osiągniemy 
 pewności, lecz ta dwuznaczność jest czymś twórczym, to jest to *niedokończenie*.
 
-51:00
+Kompetencja, jeśli chodzi o ówczesną psychologię. Rozbił behawioryzm, wszystkie 
+psychologie oparte na relacji bodziec-odpowiedź 1 do 1. Niejasny stosunek do 
+psychoanalizy. Podniósł rangę Gestalt (dotyczy relacji pomiędzy całością 
+a częściami, które się na nią składają, a przede wszystkim dotyczy tego jak 
+całość i jej części są postrzegane przez umysł oraz jak całość jako figura 
+wyłania się z tła. Podstawowe przesłanie teorii Gestalt zawiera się w zdaniu: 
+„Całość to coś innego niż suma jej elementów”) -- rozpracował twórczo pojęcie 
+formy i tła. Działamy już w pewnych całościach, które zastajemy. Nie jest to 
+stworzenie z niczego. Ten świat jest już czymś sensownym. My tylko korygujemy 
+tam, gdzie uznajemy możliwość i potrzebę takiej korekty przez własną ekspresję.
 
+MP nie ulega mitowi nauki, ale łączy poznanie płynące z fenomenologii źródłowej, 
+ze światem, który jest światem autentycznego doświadczenia. Moje ciało jest 
+podstawową ścieżką dostępu do rzeczywistości i do mnie samego, który jest 
+w świecie, jest częścią tego świata. Częścią, która jest czynnikiem dającym 
+znaczenie i sens.
 
+Pojęcie świata samego w sobie bez Boga jest bez sensu -- to tylko Bóg może 
+wiedzieć, choć ten Bóg nie wchodzi w to. MP w latach 30-stych zostawia Boga. To 
+jest uznanie niemocy. Po co zajmować się czymś, czym nie jestem w stanie się 
+zająć.
 
+Percepcja to jest pojęcie niesamowicie pojemne. To jest cały zestaw. Ten świat 
+wymaga też cudu objęcia go. Percepcja jest opisana na tysiące sposobów. Ja 
+*mogę* układać te elementy, poznawać je kolejnymi rzutami. To nie jest 
+olśnienie, ja się mozolnie tego uczę. Świat się jawi w pewnych rzutach. Sens 
+tego domu, transfenomen (jak mówił Sartre), sens, jak mówił MP, to jest całość 
+możliwych oglądów przeszłości, teraźniejszości i przeszłości. To jest ta całość. 
+Ona nigdy nie będzie dana, mogłaby być dana tylko w oglądzie boskim. Bóg byłby 
+*spełniaczem* wszystkich aktów, bo Bóg wie czego my nie wiemy. Koncept wiedzy 
+medialnej u Leibniza -- wiedzy środkowej -- nawet możliwości, które mogłyby być, 
+a nie były, są w wiedzy boskiej.
 
+MP zna tę tradycję. To jest wiedza niespełnionych możliwości. Husserlowi się 
+wydawało, że jak on wyczyści, to zobaczy on ego transcendentalne. MP mówi, że 
+chodzi on po ziemi jako świadomość ucieleśniona. To ucieleśnienie jest 
+ograniczeniem, dwuznacznością, niejasnością, wiarą percepcyjną, która zawsze 
+jest czymś zakładającym i może zostać zniesiona.
 
+Dlaczego egzystencjalizm? Jestem źródłem wszystkiego, ale to źródło jest 
+niecałkowicie moje.
 
+Kiedy Husserl uświadomił był sobie, że nie da się przeprowadzić redukcji takiej, 
+żeby wystartować od zera. Fenomenologia miała być bezzałożeniowa, nie dało się 
+tego zrobić taką drogą, jaką szedł Husserl, coś musiało pozostać. MP mówi, że 
+chciałby cofnąć się do momentu (transcendentalnego), w którym pokaże on 
+możliwości zaistnienia pewnych pojęć. Świat przedpojęciowy. To jest to, nim się 
+zacznie ustawiać mapę usymbolizowaną. Trzeba najpierw zobaczyć, nawet w bardzo 
+limitowanym zakresie: rzekę, łąkę, górę. Nie jestem w stanie tego objąć, 
+zmapować, najpierw muszę tego doświadczyć -- to jest to *przed*pojęciowe.
 
+Dziecko nigdy nie godzi się na to, co jest zastane. MP cenił tę psychologię 
+dziecka, która jest świeża. Później przyswajają mowę mówioną -- mowę systemów, 
+mowę matematyki, mowę ideologii itd. Zniewalamy się. Nie jest tak, że zniewala 
+nas drugi -- to jest nasz wybór. Chcąc wyłożyć MP też trzeba dokonać koncesji na 
+rzeczy języka powszechnie zrozumiałego.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Możliwość, źródłowość samego doświadczenia jest pierwotna. Od tego wszystko 
+bierze swój początek.
 
