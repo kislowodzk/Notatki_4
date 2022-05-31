@@ -4449,11 +4449,85 @@ Marcel był pierwszy, jeśli chodzi o fenomenologię cielesności, która jest
 obdarzona afektywnością, myśleniem, refleksyjnością, autorefleksyjnością. To 
 jest **świadomość ucieleśniona**.
 
+Ten problem pojawi się u myśliciela, który zaważył nie tylko na losach XX 
+wiecznego egzystencjalizmu, ale na całej filozofii. *Sklamrował* problematykę 
+Francuzów i Niemców. Rozpoczął z innego punktu badanie rzeczywistości 
+człowieczej. Był to Maurice Marleau-Ponty.
+
 ### Marleau-Ponty
 
+Kolega Sartre'a. Właściwie MP formułował na początkowym etapie twórczości swoją 
+myśl nijako w opozycji do ustaleń Sartre'a. Z przyjaźni zrodziła się polemika, 
+gdy obaj już odkryją straszny wymiar dziejowości, który ignorowali przed wojną. 
+Później ta historyczność ich zaangażuje aż do czasu przedwczesnej śmierci MP 
+w roku '62.
 
+W odróżnieniu od Sartre'a nie odrzucał kariery akademickiej -- był wykładowcą.
 
-16:00
+Fenomenologia **genetyczna** -- taka, która sięgnie do **podstaw wszelkiej 
+możliwej doświadczeniowości**. Husserl pokazał drogę jak poprzez redukcję 
+dochodzić do tego, co nas interesuje najbardziej (redukcja ejdetyczna -- 
+pokazanie istoty fenomenów, racje ich pojawiania się; czy badanie Dasein 
+u Heideggera -- bycia, które jest byciem pewnego bytu, jego ostatecznym sensem), 
+ale to za mało, to jest połowa drogi -- to nie jest redukcja całkowita. 
+Krytykuje Husserla, nie chce go rozgrzeszyć z braku konsekwencji, redukcja 
+poszła w złym kierunku, zostaliśmy z tym, co uniemożliwia nam autentyczne 
+poznanie filozoficzne -- **doświadczenie świata przeżywanego jako pewnej 
+źródłowości** -- świat doświadczeniowy, przeżyciowy, który stanowi pewną 
+źródłowość wszelkich możliwych doświadczeń, sensów.
+
+Czy to nie jest zmiana czysto werbalna? Czy nie jest to jakiś wybieg? MP widzi 
+stan poznawczy jako obciążony tymi samymi ciężarami, które zauważali Husserl 
+i Heidegger -- całym dziedzictwem pozytywizmu, scientyzmu idącego ku stronie 
+przedmiotowej: rozdział między włazami poznawczymi podmiotowymi a przedmiotem 
+jest ciągle nie zniesiony, uniemożliwia dotarcie do źródeł.
+
+Te naleciałości (idealistyczne, z drugiej strony obiektywistyczne, oparte na 
+nauce) powodują to, że w doświadczaniu rzeczywistości jesteśmy rozszarpywani 
+przez sprzeczności, staramy się służyć dwóm dziedzinom. Ciągle człowiek 
+pozbawiony jest pewności, którą obiecał Husserl.
+
+Gdzie jawią się fenomeny? Muszą się zjawiać w pewnym świecie, który jest pewnym 
+horyzontem, który jest horyzontem bytu, który został postawiony w pewnym polu -- 
+on się pojawił (nie możemy wskazać na racje ostateczne naszego pojawienia się), 
+jesteśmy wrzuceni w rzeczywistość, która jednak nigdy nie jest tak absurdalna 
+jak chciał Sartre -- ona po prostu jawi się jako pewnego rodzaju pole 
+fenomenalne, obejmujące swoim zakresem mnie samego, moją świadomość, która jest 
+świadomością ucieleśnioną, intencjonalnie na rzeczywistość zastaną nakierowaną. 
+Te spotkanie/doświadczenie, z którego rodzi się coś, co **nigdy nie było, nie 
+jest i nie będzie jasne i pewne**.
+
+MP rozstaje się z mitem czystości poznawczej płynącej od Kartezjusza. Nie ma 
+kategorii, które produkują prawdy uniwersalne. Człowiek w stanie wiecznej 
+dwuznaczności, ma do czynienia z tworami niedopracowanymi do samego końca, które 
+jeśli objawiają pewien aspekt, to muszą zakryć drugi. I to jest wyjściowa 
+kondycja tego, co nie jest czystą świadomością, ale świadomością ucieleśnioną, 
+wrzuconą w rzeczywistość i tę rzeczywistość **doświadczającego na zasadzie/w 
+terminach percepcji**.
+
+Percepcja nie jako doświadczenie czy porządkowanie danych zmysłowych. 
+**Percepcja** jest stosunkiem świadomości ucieleśnionej do rzeczywistości, którą 
+współkonstytuuje i przez którą jest współkonstytuowana. Egzystencjalizm posunął 
+się tu o krok dalej.
+
+Dla Sartre'a rzeczywistość jest w rękach skazanej na wolność, przezroczystej dla 
+siebie samej, zawsze siebie świadomej, intencjonalnie nakierowanej na wrogi 
+i obcy zewnętrzny byt w sobie, który ta świadomość zastaje. To jest tragedią 
+i dramatem ludzkiego istnienia dla Sartre'a.
+
+MP mówi, że nie można czynić z tego momentów dramatycznych -- to jest po prostu 
+stan faktyczny -- my. Znajdujemy się w polu percepcyjnym. Dlaczego? Nigdy się 
+nie dowiemy. Badamy stan faktyczny, który został nam dany w danym czasie, danej 
+przestrzeni, danej historyczności. Z tym problemem musimy się zmagać.
+
+Dostępem do tego jest coś, co jest cielesnością uświadomioną. To jest ciało, 
+które wchodzi w rzeczywistość, gdzieś substancje świata i moje się mieszają jak 
+u filozofów jońskich -- one na siebie nachodzą i dlatego czuję pewną 
+rzeczywistość, bo ma ona podobne cechy charakterystyczne, jak ja mam ze światem. 
+Zamiast dualizmu podmiot-przedmiot, MP głosi swoistego rodzaju jedność.
+
+27:50
+
 
 
 
