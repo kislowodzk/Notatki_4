@@ -4432,9 +4432,28 @@ Znajdziemy u Marcela opisy tego, co późniejsza tradycja zainicjowana przez
 Marleau-Ponty'ego będzie traktowała w terminach **ciała własnego**, albo 
 **świadomości ucieleśnionej**
 
+Paradoks, że ten chrześcijański egzystencjalizm -- ta samodzielna myśl 
+marcelowska, zamiast udawać się w rekursy idealistyczne, idzie w drugą stronę -- 
+stara się rozwiązać odwieczny problem duszy i ciała (jak by tego nie nazwać). 
+Przekracza ten dualizm, stara się antynomię rozwiązać przez uposażenie podwójne: 
+cielesności nadaje formy charakterystyczne dla działań świadomości, natomiast 
+świadomość jest zawsze zaangażowana w to, co cielesne -- tak może wyjść do 
+świata, który jest dany na wiele różnych sposobów -- byt u Marcela wymaga 
+i partycypacji w nim, i wierności, i przede wszystkim aktów, które są istotne -- 
+dla tej wersji egzystencjalizmu są to fakty komunikacji. Jest **komunikacja 
+międzyludzka** i **komunikacja między ludźmi a światem i bytem**, różnymi 
+doświadczeniami tego bytu: negatywnymi i pozytywnymi. W tym wszystkim 
+uczestniczy, regulując te procesy, świadomość ucieleśniona.
+
+Marcel był pierwszy, jeśli chodzi o fenomenologię cielesności, która jest 
+obdarzona afektywnością, myśleniem, refleksyjnością, autorefleksyjnością. To 
+jest **świadomość ucieleśniona**.
+
 ### Marleau-Ponty
 
-13:15
+
+
+16:00
 
 
 
