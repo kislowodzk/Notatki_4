@@ -4360,3 +4360,128 @@ Camus rozumiał doskonale Dostojewskiego. Według Mroza sztuka jest czymś
 nieśmiertelnym, co pokonuje absurd. Czasy się zmieniają, ale najprawdopodobniej 
 absurd pozostanie ten sam.
 
+## Wykład 12 -- 31.05.
+
+### Jeszcze Marcel
+
+Mieszając w tej niesystemowej refleksji o człowieku w świecie coś takiego, jak 
+*odniesienie do transcendensu*, do bytu, który wykracza poza wszystkie ludzkie 
+możliwości i poznawczo, i doświadczeniowo; jest granicą ludzkiego projektu -- to 
+Marcel, prekursor wielu pomysłów filozofii egzystencjalistycznej. Był on 
+niezależny -- nie przejął Husserlowskiej metodologii. Wypracowywał swoje uwagi, 
+doświadczenia świata wewnętrznego w sposób samodzielny.
+
+Był godny miana myśliciela. Jego niesystematyczna filozofia jest ilustracją do 
+tego, co przedstawił w dramatach, bardzo trudno są dzisiaj ono dostępne. 
+Nieprzypadkowo zostaje podniesiona do rangi filozoficznego, antropologicznego 
+medium, ponieważ ukazuje dramaturgię ludzkiego istnienia.
+
+To jest fenomenologia swoista. To jest myśliciel głębi -- dociera do tych 
+doświadczeń, które pokazują w jakiej sytuacji znajduje się człowiek, szczególnie 
+człowiek pierwszej dekady XX wieku rażony atrofią po Nietzscheańskiej śmierci 
+Boga, która odziera człowieka z istotowości, natury. Tak naprawdę wszystko 
+sprowadza się do tego, że człowiek jest swoistego rodzaju obowiązkiem, bytem, 
+który nie może być tożsamy dopóki żyje. To jest jego pojęcie *człowieka 
+w drodze*, który powinien zmierzać do uzyskania istoty, ale nie samodzielnie, 
+ponieważ w horyzoncie najgłębszych doświadczeń jest taki byt, którego nie mogę 
+ogarnąć -- on mnie może ogarnąć. To jest byt, od którego wyczuwam daność, ten 
+dar. Nie da się go zrozumieć, kategoryzować, udowadniać jego istnienie. To są 
+błędy niewybaczalne. Człowiek zostaje sam na sam z doświadczeniem ostatecznym -- 
+doświadczeniem **daru**.
+
+Od poziomów istnienia dochodzących do czegoś najwyższego. Od problematyki, 
+problemu zewnętrznego, do tajemnicy, która angażuje całą osobowość i wymaga ode 
+mnie zaangażowania takiego, że utożsamiam się z prawdą, którą muszę 
+zinternalizować, wedle której muszę żyć. Bo inne to pseudoproblemy.
+
+Marcel pierwszym filozofem, który postawił problem relacji stałego dualizmu, 
+panującego między (zdawało by się -- antagonistycznymi) *duszą, umysłem* 
+a *ciałem, cielesnością*. Problem ten bardzo istotny -- dla Sartre'a człowiek 
+był zredukowany do nicościującej struktury świadomości, która rozpatrywana była 
+w terminach negowania, rozkruszania *bytów samych w sobie* -- jest nicością, nie 
+jest nigdy tożsama ze sobą samą. Tak będzie trwało przez cały okres egzystencji 
+do momentu ostatniej chwili, gdy człowiek traci status *bytu dla siebie*, 
+przechodzi w martwy -- nieprojektujący, nietranscendujący *byt w sobie*. 
+Człowiek staje się rzeczą. To stawanie się jest *doświadczeniem na raty* -- cały 
+czas się z tym stykamy, ponieważ człowiek jest przede wszystkim, będąc 
+świadomością, wyalienowany -- odczuwa element wyalienowany u siebie samego. 
+Chodziło o ciało -- jest ono elementem w bycie człowieka, który przypomina nam 
+przede wszystkim coś zamkniętego -- coś bliższego *bytu w sobie*. Cielesność 
+jest *nieczłowiecza*. Ciało ścieżką dostępu drugiego, który czyha na moją 
+wolność, stara się mnie urzeczowić. Jestem tym, czym jestem, w oglądzie drugiego 
+-- zamraża mnie jego wzrok, staje się nietranscendującą bryłą przypominającą 
+**coś, co tylko jest, a nie egzystuje**.
+
+Marcel podejmuje problem cielesności, który wykracza poza drogą i cenioną przez 
+Francuzów tradycję Kartezjańską (u którego dualizm dwóch substancji: rozciągłej 
+i myślącej, był dualizmem nie do przekroczenia). Ta tradycja utrzymała się aż do 
+XX wieku np. u Bergsona. Idealiści francuscy mówili o dwóch różnych 
+substancjach. Na pierwsze miejsce kładli myśl -- czystą świadomość. 
+Paradoksalnie Sartre też idzie tym kierunku.
+
+Sartre'owski neokartezjanizm, gdzie doświadczenie poznającego jest oparte na 
+nieprzekraczalnym dualizmie.
+
+Marcel przekracza ten model. On zna znakomicie języki obce. Sięga do 
+transcendentalizmu charakteryzującego myśl amerykańską XIX wieku, pisze pracę 
+o transcendentalizmie w poezji angielskiej, romantycznej. Zestawia Niemców 
+z poetami romantycznymi dochodząc do wniosku, że o człowieku można mówić 
+w terminach pewnej jedności.
+
+Znajdziemy u Marcela opisy tego, co późniejsza tradycja zainicjowana przez 
+Marleau-Ponty'ego będzie traktowała w terminach **ciała własnego**, albo 
+**świadomości ucieleśnionej**
+
+### Marleau-Ponty
+
+13:15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
