@@ -4526,8 +4526,117 @@ u filozofów jońskich -- one na siebie nachodzą i dlatego czuję pewną
 rzeczywistość, bo ma ona podobne cechy charakterystyczne, jak ja mam ze światem. 
 Zamiast dualizmu podmiot-przedmiot, MP głosi swoistego rodzaju jedność.
 
-27:50
+Następny moment to jak ucieleśniona świadomość może funkcjonować. Zawsze 
+w świecie naturalnego nastawienia. Za kardynalny błąd ze strony Sartre'a 
+i Husserla uznaje to, że chcą dokonywać redukcji -- czyścić coś, czego się nie 
+da wyczyścić na zasadzie *epoche*, bo nigdy się do tej rzeczywistości nie będzie 
+dało wrócić. Jeśli można mówić o zespole redukcji, to do **redukcji do 
+doświadczenia przedpredykatywnego, przedrozumiejącego** -- coś, co zapośrednicza 
+późniejsze działanie tego, co świadomość wnosi do świata, co przekaże filozofii, 
+nauce. To będą pewne kategorie, które nie są kategoriami, są warunkami 
+kategorii, warunkami pewnych idei. To jest fenomenologia genetyczna -- sięganie 
+do praźródeł, do tego, co wyjdzie za pomocą każdego z nas i zostanie osadzone 
+jako pewnego rodzaju dziedzictwo poznawcze. To jest filozof intersubiektywny. 
+Każdy typ wiedzy jest bezcenny, ponieważ każdy gest, wypowiedź, ekspresja, czyn, 
+jest osadzeniem sensu, który widzę i który mną kieruje, w świecie, który jest 
+zarazem światem obiektywnym, jak i ludzkim. Naprawdę jest światem dzielonym 
+przez nas wszystkich. To, co można przyrównać do partycypacji u Marcela.
 
+Punkt wyjścia -- nie ma czystego cogito, aktów świadomości. Świadomość jest 
+intencjonalna dlatego, że jest ona świadomością **ucieleśnioną**, która 
+nakierowuje się na rzeczywistość, która również ma charakter ze względu na 
+posiadanie podobnego ucechowienia, ona posiada mój charakter a ja posiadam 
+charakter tej rzeczywistości. Ten kontakt może być dużo bardziej owocny, niż 
+serie redukcji proponowane przez Husserla, czy działalność świadomości jako 
+nicości u Sartre'a, która jest świadomością działającą nie wiadomo gdzie, nie 
+wiadomo w jakich warunkach, bardzo ogólnikowe stwierdzenie, że *jest w świecie*, 
+świat jest absurdalny i może mu ona nadawać sensy, ale jak te sensy może 
+osadzić, skoro między świadomością a światem nie zachodzi punkt styku -- to jest 
+atak MP na Sartre'a.
+
+Punktem styku jestem ja, jako **ucieleśniona świadomość**, która jest wyjściem 
+na świat na wielu różnych płaszczyznach -- to jest cały zestaw pierwotnych 
+danych, które ja o rzeczywistości zbieram i które będę porządkował, 
+generalizował, ustawiał w pewne kategorie i idee, ale muszę wyjść od czegoś, co 
+jest źródłowo nieskażone, czyste, niezapośredniczone -- to jest poziom 
+prekognitywny. Z tego dopiero poziomu mogę wychodzić na poziomy *niższe*, bo one 
+nigdy nie są w świetle dwuznaczności świata, nierozproszone do samego końca -- 
+nie ma racji nadrzędnych. Będą korygowane innymi działaniami innych podmiotów 
+traktowanych na równi -- każda ekspresja się liczy. One zostają osadzone we 
+wspólnej rzeczywistości -- rzeczywistości znaczeń ludzkich. To jest cały świat 
+kultury, który powstał w wyniku działań ekspresywnej, postrzeżeniowej 
+świadomości, ustawiających ten niesamowity chaos (zarazem niesamowite bogactwo), 
+stwarzając wiele szans, ale też wiele zagrożeń. Uznaczeniowione byty najpierw 
+dla mnie, potem rzucone dla innych.
+
+Podstawowe punkty. Podstawę fenomenologii egzystencjalistycznej stanowi 
+fenomenologia genetyczna. Nie wystarczy dokonać redukcji, zawieszenia sądów, 
+całej wiedzy dotyczącej rzeczywistości, świata, który przyjmuje się za 
+istniejący -- to jest to, co charakteryzuje nastawienie naturalne tak, jak je 
+rozumiał Husserl. MP twierdzi, że nie jesteśmy w stanie tego zrobić, bo nie 
+wiedzielibyśmy jak wrócić. Nie jest to punktem prawdziwego początku, bo punktem 
+źródłowego początku będzie wskazanie na takie momenty, w których moja wiedza 
+rodzi się w zetknięciu z tym, co może ona objąć -- z poszczególnymi horyzontami 
+na danym świecie, w danej rzeczywistości. To jest moment *wrzucenia* mnie 
+w świat, nie jest on dramatyzowany -- ta rzeczywistość jest dana, ale jest to 
+również moja rzeczywistość.
+
+Człowiek specyficznym bytem. Rozumienie człowieka musi pozbyć się sztucznej 
+antynomii, która ciąży nad nami od tradycji klasycznej. Musimy zrozumieć (tutaj 
+MP jest uważnym czytelnikiem Hegla), że istnieje pewnego rodzaju jedność 
+*organiczna* między świadomością (jednak nie jako pojętą jako czyste *cogito*; 
+ale świadomością ucieleśnioną w świecie, ale **zarazem z tym światem partycypuje 
+w czymś wspólnym**, to jest dane przez właściwość, że jest ono doświadczane tak, 
+jak doświadcza się bytu-w-sobie w negatywny sposób u Sartre'a czy Heideggera, 
+ale zarazem jest czymś doświadczającym -- jeśli kładę tę rękę na tym stole, to 
+moja ręka przez uposażenie, które jest charakterystyczne dla ciała własnego, 
+a więc przez tą świadomość dotykową obejmuje pewien zespół wartości tegoż 
+fenomenu, że jest twardy, suchy, ...; płynie wiedza polegająca na tym, że 
+narzędzie tej percepcji ma podobne elementy, które pozwalają się łączyć ze sobą 
+i dają mi coś, co jest wiedzą wręcz niepowtarzalną gdzie indziej -- powstaje 
+stop między dwoma elementami; jeśli ręką dotykam drugiej ręki, która jest 
+wkorporowana w całość, jaką stanowię ja, to to doświadczenie będzie jeszcze 
+innego rodzaju -- strukturalnie ono jest doświadczające i doświadczane; 
+jakikolwiek dualizm byłby niemożliwy -- nie mogę sam siebie rozdzielić, Sartre 
+popełnił błąd uważając, że świadomość jest odseparowana, wiecznie zagrożona 
+przez istnienie bytu w sobie; opisy pokazują, jak świadomość zostaje osaczona 
+przez byt; świadomość przyrównana do osy, która wpadła do miodu i zostaje 
+zatopiona, jeśli się kładzie nogę do mułu -- Sartre'a taka wyobraźnia prowadzi 
+do dwóch typów bytowości; MP mówi, że jeśli włożę rękę do mułu, to ja najpierw 
+będę doświadczał mojej ręki jako tego mułowatego, a dopiero potem przerzucę to 
+doświadczenie na coś zewnętrznego -- istnieje pewnego rodzaju symbiotyczna 
+i symboliczna zarazem relacja; tak trzeba to zrozumieć).
+
+Podstawowym narzędziem w tej fenomenologii genetycznej jest to skończone, 
+temporalizujące, za Heideggerem *ekstatyczne*, które jest w świecie, ten świat 
+obejmuje swoim zakresem, ale nie ostatecznie, zawsze na zasadzie niedokończenia. 
+Struktury poznawcze są strukturami niedokończonymi. Wszystko jest w pewnym 
+procesie, który nie jest samotniczą walką, nie jest zagrożony przez czyhającą na 
+moją wolność, nicość, przezroczystość. To jest operacja z tymi innymi, ponieważ 
+świadomość ucieleśniona jest tym, co nazywa MP źródłem ekspresji.
+
+Metafora, że każde ciało przez język, gesty, wybory, czyny, budowę czegoś, czego 
+nie było, jest takim rozrzucaniem, sianiem, rozsypywaniem tych ekspresji 
+i ujęciem zarazem innych ekspresji, które nie są *de facto* negatywne w stosunku 
+do mnie, nie są konkurencyjne, tylko one budują pewien świat, to, co jest 
+charakterystyczne dla ucieleśnionej świadomości człowieka, ludzi. Jest to świat 
+powszechnie nam dostępny -- to jest tym światem przeżyciowym człowieka.
+
+Niedokończoność, dwuznaczność, wiara percepcyjna -- będą zawsze człowieka 
+trzymały w niedokończeniu. Będą stwarzały obietnicę nie czegoś iluzorycznego, 
+wiedzy absolutnej, jasnej; ale tego, że warto dokonywać postępu po to, by ten 
+świat czynić mniej dwuznacznym. To jest fenomenologia i egzystencjalizm MP.
+
+Świadomość ucieleśniona, świadomość w świecie, ale ten moment nie jest 
+dramatyzowany, świadomość, która jest źródłem sensów, ale źródłem sensów, które 
+są **dyktowane przez to, co świadomość zastanie**, co jest paradoksalne. Cały 
+świat cudem ekspresji -- zachwyt, że widzę coś po raz pierwszy. Jak dziecko, 
+które idzie do parku i nie widzę kategorii, gatunków. Widzę pewne jawiące się 
+fenomeny, które starają się opisać. To, co jest najbardziej twórcze u pewnych 
+świadomości ucieleśnionych, to jest **sposób** tej ekspresji, sposób opisywania 
+w danym, zastanym już na przykład języku i mowie.
+
+44:30
 
 
 
