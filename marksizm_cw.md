@@ -1504,3 +1504,125 @@ niezapośredniczone więzi międzyludzkie. To oznacza przejście do królestwa
 wolności, które oznacza, że urzeczowione stosunki między ludźmi zaczynają 
 oddawać swoją władzę -- człowiek odzyskuje siebie w społeczeństwie.  
 
+## Ćwiczenia 14 -- 01.06.
+
+Zamknięcie ery stalinowskiej. Przemiany polskich myślicieli lewicowych.
+
+### Kołakowski
+
+Rozważanie pojęcie prawdy w odniesieniu do marksizmu. Charakterystyka dwóch 
+koncepcji prawdy.
+
+Prawda: skuteczność (Engels), użyteczność (James). U Engelsa praktyka jest formą 
+weryfikacji, jest wtórna względem prawdy istniejącej obiektywnie, niezależnie od 
+człowieka. W przypadku pragmatyzmu człowiek sam tworzy tę prawdziwość, prawda 
+jest ściśle związana z tym jak działamy, w jakich, czy dane rozpoznanie przyda 
+się w praktyce. Z jednej strony obiektywny punkt widzenia, proces ewolucyjny, 
+w którym zbliżamy się do prawdy; z drugiej strony podejście subiektywne, 
+w którym prawda jest aktualizowana, nie ma prawdy uniwersalnej, ponadczasowej. 
+
+W koncepcji scjentystycznej mimo wszystko ostatecznie poznać bytu samego w sobie 
+nie jesteśmy w stanie, ponieważ posługujemy się kategoriami naszego intelektu. 
+W sensie poznania bytu samego w sobie... Relacja odpowiedniości tutaj zachodzi. 
+W koncepcji pragmatycznej poznanie za każdym razem jest funkcją działania. 
+Fundamentalna różnica: z jednej strony człowiek, który nie jest bierny wobec 
+obiektywnie istniejącej rzeczywistości, bo musi sprawdzać hipotezy naukowe, 
+które postuluje, natomiast sama rzeczywistość istnieje poza nim -- jest 
+pierwotna względem samego aktu poznania/działania; z drugiej strony punktem 
+odniesienia jesteśmy my sami, akt tworzenia tej rzeczywistości w ramach 
+działalności praktycznej. Z jednej strony poznanie receptywne, w którym 
+przybliżamy się do praw rządzących rzeczywistością, z drugiej strony człowiek 
+ostateczną instancją prawdy.
+
+Kwestia fałszywości wiąże się z odniesieniem tych koncepcji do klasycznej 
+definicji prawdy. W koncepcji Engelsowskiej fałsz niezgodnością sądu 
+z rzeczywistością. W przypadku koncepcji pragmatycznej prawda jest narzędziem, 
+instrumentem działania, jest *funkcją biologiczną* człowieka, sposobem, w jaki 
+odnosimy się do rzeczywistości -- fałsz oznaczałby nieskuteczność działania, to, 
+że uznając dany sąd, nie jesteśmy w stanie spełnić potrzeb, które wiązaliśmy 
+z danym sądem.
+
+Stosunek do pozytywizmu. Z jednej strony radykalnie scjentystycznie ujęcie: 
+poznanie ma charakter naukowy, taki, w którym cały czas przybliżamy się do 
+prawdy. Z drugiej strony interpretacja w kategoriach biologicznych, co zrywa 
+z naukowością, pozytywizmem, jednak przez uznanie, że jest to narzędzie 
+praktyczne, do pozytywizmu nawiązuje.
+
+Odniesienie tego do myśli Marksa. Praktyka stwarza świat. Jak Marks ujmuje świat 
+poza człowiekiem? Praktyka jest granicą naszego poznania. Jeśli jest 
+rzeczywistość, która nie stawia oporu wobec człowieka, nie jest potencjalną 
+przestrzenią do realizacji potrzeb, to jest ona *niczym*, ponieważ nie jest do 
+niczego potrzebna. Nie jest interesująca poznawczo, ani nie jest interesująca 
+praktycznie. Sam akt zmagania się z rzeczywistością jest już aktem poznawczym, 
+odniesieniem się do rzeczywistości, wykorzystania jej. Przyroda ciałem 
+nieorganicznym człowieka -- przyroda jest przedłużeniem ciała. Granice tej 
+przyrody wydają się być ustalone praktycznie. Poznanie wpisane w praktykę. To 
+poznanie jest częścią działania, odnoszenia się do świata. Nie istnieje myśl 
+oderwana od praktyki. Cała kultura nie istnieje bez odnoszenia się do 
+rzeczywistości, jednak to odnoszenie nie jest jakimś aktem poznawczym, jest 
+związane z punktem wyjścia.
+
+Punkt wyjścia refleksji epistemologicznej: stosunki między człowiekiem i jego 
+środowiskiem są stosunkami między gatunkiem i przedmiotami jego potrzeb. Ta 
+część przyrody, która istnieje jako abstrakcja niezwiązana z praktycznym 
+działaniem, z oporem, który materia stawia człowiekowi, byłaby sprowadzona do 
+nicości.
+
+Kołakowski wskazuje na pewną logikę poznawania -- przyswajanie sobie świata 
+zewnętrznego dochodzi do skutku jako organizacja natura. Świadomość rodzi się 
+z potrzeb praktycznych. Radykalne uzależnienie poznania od procesu przyswajania 
+otaczającej rzeczywistości, o ile ta rzeczywistość jest możliwą przestrzenią do 
+realizacji naszych potrzeb. Natura jako opór, z którym spotykają się ludzkie 
+popędy.
+
+U Brzozowskiego tak samo człowiek i otaczający go świat jest w relacji 
+ustanawianej przez pracę, przez to, jak jesteśmy w stanie poradzić sobie 
+z rzeczywistością. Człowiek punktem wyjścia, który prowadzi nieustanne starania 
+z rzeczywistością. Cała dalsza działalność wtórna względem praktyki poznawczej, 
+jest uzależniona od niego. Jest względem niego wtórna. To też wiąże się 
+z problemem wartości: poznanie wartości wydaje się ważne w odniesieniu do tych 
+dwóch koncepcji prawdy.
+
+Twórcze stanowisko człowieka w tym procesie poznawczym. Świadomość ludzka nie 
+produkuje bytu samego w sobie, produkuje jednak byt jako złożony z indywiduów, 
+podzielony na gatunki i rodzaje, rozporządza narzędziami, które mogą 
+klasyfikować. Klasyfikacja wyznaczona przez praktyczne życie w środowisku.
+
+Jakie jest miejsce człowieka w procesie poznania? Intersubiektywny, w sensie 
+gatunkowym, punkt widzenia związany z pracą, która ma znaczenie społeczne. Nie 
+polega tylko na odniesieniu do rzeczywistości nieożywionej, ale także do innych 
+ludzi. Język, pojęcia nie są pojęciami intelektu, są pojęciami społecznymi -- to 
+wszystko ma znaczenie dla pojęcia praktyki u Marksa.
+
+Stwarzając prawdę nie jesteśmy w stanie o niej mówić bez umysłu, który działa. 
+U Jamesa człowiek za każdym razem stwarza. Z drugiej strony Kołakowski odróżnia 
+stanowisko Marksa od stanowiska Engelsa i pisze, że nie chodzi o odkrywanie 
+obiektywnie istniejącej rzeczywistości, ale o aktywny stosunek człowieka do 
+świata, w który wpisane jest zagadnienie poznania.
+
+Gdyby rzeczywistość istniała niezależnie od nas, to nie moglibyśmy mówić o nas, 
+bo my tę rzeczywistość tworzymy. To, co rzeczywiste, jest rzeczywiste dla 
+człowieka. Niemożliwość człowieka w przypadku rzeczywistości niezależnej od 
+niego. To wiąże się z kwestią oporu, który stawia rzeczywistość względem 
+człowieka. Człowiek z tą rzeczywistością wchodzi w dialog.
+
+Jeśli obraz rzeczywistości nieadekwatny z praktyką, to najprawdopodobniej by nie 
+istniał. Kołakowski przekonuje, że punktem odniesienia, stałą dla wszystkich 
+pojęć, jest działalność praktyczna. Zawsze jest to względem praktyki i pracy.
+
+Z jednej strony stwarzamy to, co rzeczywiste, poza nami, przedłużenie ciała. 
+Jednocześnie jako język, który tę rzeczywistość stwarza, klasyfikuje. Jest 
+dowolny (mógłby być inny), ale również nie mógłby być dowolny (ponieważ pewne 
+kategorie, pewien kierunek ujmowania wyznaczają względy praktyczne).
+
+Skromniejsza definicja prawdy -- skromniejsza w sensie odpowiedniości, ale 
+jednocześnie włączenie człowieka w aktywne stwarzanie tej prawdy. W jakimś 
+sensie połączenie dwóch koncepcji, które pojawiają się na początku. Pewne 
+podobieństwo jest, cały czas jest to próba organizacji intelektualnej, jest 
+ciągle związana z praktyką jako punktem wyjścia, a nie tylko przedmiotem 
+laboratoryjnym, próbnikiem. Prawdziwość sądu pochodną praktyki a nie odwrotnie.
+
+Istotną kwestią stosunek propozycji Kołakowskiego na gruncie koncepcji młodego 
+Marksa, do Gramsciego, koncepcji nowych, które nie odwołują się do klasycznych 
+pojęć.
+

@@ -867,7 +867,7 @@ u Comte wytwarzać.
 
 Zamiast niego wysłany wykład z Marcela
 
-## Ćwiczenia _ -- 25.05.
+## Ćwiczenia 13 -- 25.05.
 
 ### Camus -- Upadek
 
@@ -892,4 +892,170 @@ W plikach jest *Wzlot* Iwaszkiewicza, który jest poniekąd *odpowiedzią*
 Camusowi, przełożeniem na polskie realia.
 
 Dwie główne interpretacje: jako jednostkę, albo jako pewna zbiorowość.
+
+## Ćwiczenia 14 -- 01.06.
+
+### Marleau-Ponty
+
+Jak pozycjonowanie ciała ma wpływ na podmiot. Rola ciała w samej percepcji.
+
+Apele szkolne jako "wdrukowywanie" pamięci zbiorowej w ciało. -- to Kutrzeba. MP 
+ucieleśnia pamięć.
+
+Znany z eseju "humanizm i terror", w którym MP rozważał, czy gdyby wszystkie 
+zbrodnie stalinizmu faktycznie doprowadziły do społeczeństwa bezklasowego, to 
+były usprawiedliwione.
+
+U Kanta rzecz sama w sobie, która pozostaje poza granicą poznania. Powodowało to 
+sprzeciw wśród idealistów. Fenomenologia nie do końca się z tym zgadza. Rzuciła 
+hasło powrotu do rzeczy. Kilka ciężkich do rozstrzygnięcia kwestii. Ciężko jest 
+fenomenologię zdefiniować. Używana także poza filozofią (fenomenologia religii 
+na przykład).
+
+Próba zjednoczenia skrajnego obiektywizmu i subiektywizmu.
+
+Zarzut odcięcia, odseparowania podmiotu od sfery rzeczy. Jest, zdaniem MP, 
+uwikłany w introwertyczne spojrzenie na samego siebie. Ostatecznie podmiot 
+redukuje się do "myślę, więc jestem i nic innego", albo kantowskiego "jestem", 
+które musi towarzyszyć przedstawieniom jako podstawa.
+
+Tradycja idealizmu zakłada, że relacja podmiotu wobec rzeczy jest relacją 
+porządkowania tych rzeczy. Okazuje się, że problemem jest to, że świat jest dla 
+Kanta reprezentacją, tym, co zsyntetyzowane i skopiowanie przez sam podmiot, 
+który narzucił mu formy, kategorie i tym podobne ramy. Podmiot tym, co ujmuje 
+świat w karby.
+
+Figura człowieka wewnętrznego, którego MP odrzuca. Człowiek wewnętrzny formułą od 
+Augustyna -- tradycja augustiańska, która akcentuje duszę jako coś wewnątrz 
+ciała. Ruch wewnątrz do tego, co jest najgłębszą treścią duszy, miałby być 
+ruchem w którym, dla idealistów, miałyby się rodzić przedstawienia.
+
+Kiedy powracam do siebie, odkrywam podmiot wydany światu -- założenie, że nie 
+mamy możliwości spojrzenia wewnątrz, by tę prawdę wydobyć.
+
+Introspekcja nic nie daje, bo podmiotowość jest konstytuowania przez relacje 
+w świecie, intersubiektywna.
+
+Metaforyka podmiotu atakowanego przez świat, który ma możliwość bycia podatnym 
+na jakieś bodźce, które przekraczają bycie człowieka wewnętrznego. Jak jest 
+z tym światem, który wypełnia podmiot. Jak możliwe hasło powrotu do rzeczy 
+samych w sobie.
+
+Nie może on być ograniczony do sensualizmu. Same bodźce nie wystarczą, by 
+stworzyć przedmiot. Podmiot musi się w jakiś sposób na przedmiot nakierować. 
+Ostatecznie w tym założeniu to, co jest ujawniane, nie pochodzi z samej latarni, 
+która to oświetla, tylko odkrywa się w sobie. Wzięcie w nawias przeświadczeń, 
+związków ze światem, by spojrzeć na te rzeczy innym okiem. Zawsze już jesteśmy 
+w świecie. Trzeba spróbować wziąć w nawias te przeświadczenia, dokonać tej 
+redukcji i dojść do **zdziwienia wobec świata**, jak powiedział Fink, asystent 
+Husserla.
+
+Jesteśmy w świecie, co uniemożliwia prawdziwe zdziwienie. To ma być umożliwione 
+dzięki redukcji fenomenologicznej. Husserl zarzuca Kantowi, że jest filozofią 
+światową, czyni świat immanentnym dla podmiotu, podmiot ma dokonać gestii 
+absorpcji rzeczy, szczególnie u Hegla jest to widoczne. Zamiast tego gestu 
+zagarniania świata ku zewnątrz, MP zaleca **dziwienie się**, transcendowanie ku 
+światu, wychodzenia ku przedmiotowości.
+
+Linia Kantowska -- jedyna obecność jest dana w tym, że podmiot ubiera 
+rzeczywistość -- *bodźce zmysłowe bez pojęć byłyby ślepe*.
+
+Założenie, że rzeczy mogą same się ujawniać, oferować się podmiotowi. Jeśli 
+podmiot będzie skłonny wyczyścić swoje spojrzenie, nie narzucać kategorii, to 
+miałby możliwość zobaczenia tego -- MP. Nauką redukcji jest niemożliwość 
+redukcji zupełnej.
+
+MP ostatecznie mówi, że Heidegger jest możliwy tylko na gruncie Husserla, jest 
+w całości rozwinięciem jednego czy dwóch pojęć Husserla. Na poziomie 
+metafizycznym u Husserla jest przeświadczenie, że przedmioty napełniają podmiot 
+jak fale wrak na plaży oraz założenie, że intencjonalność może pozwolić 
+przedmiotom ukazać się. Założenie, że świat w którym żyjemy, to nie tylko 
+kwestia relacji podmiotu do przedmiotów, ale także relacji do innych podmiotów 
+-- nad tym pracował późny Husserl. Mamy predyspozycje do takiego postrzegania 
+rzeczywistości. Nasze ugruntowanie w świecie oznacza też to, że mamy pewne ramy, 
+przez które będziemy ten świat określać.
+
+MP uważa, że *Bycie i czas* jest rozwinięciem tej tezy. Istniejemy w świecie 
+w sposób rozumiejący, nie możemy istnieć nie rozumiejąc, istniejemy z wewnątrz 
+tego świata. Nasze rozumienie jest z góry sformułowane. MP chce wyrwać 
+fenomenologię z metafizycznej relacji podmiotu i przedmiotu, jak i też wyrwać 
+z przekonania, że całkowite zawieszenie nie jest możliwe. Świadomości 
+przedosobowe umożliwiają komunikację.
+
+Świat jest w tej mierze, w jakim wszyscy uczestniczymy w niepodzielnym *Jednym*. 
+Odniesienie do monizmu. MP podkreśla, że nie jest tak, że postrzeganie świata 
+przez Pawła jest dziełem Pawła. Świadomości przedosobowe, które mogą się ze sobą 
+komunikować. Pewne słowa, pojęcia, sprawiają, że ludzie mogą się ze sobą 
+porozumiewać. To nie są doświadczenia jednostek -- jednostkowe sądy na temat 
+świata, depsychologizacja fenomenologii.
+
+Tutaj będzie MP mówił o Duchu w rozumieniu Hegla.
+
+Trzeba mieć wzajemność, żeby założyć wzajemne istnienie.
+
+Trzeba dojść do jakiegoś poziomu zero.
+
+Redukcja ejdetyczna jest postanowieniem, aby przed powrotem do nas samych 
+pozwolić ukazać się światu takim, jakim jest.
+
+Doścignięcie refleksją nierefleksyjnego życia świadomości. Świadomość ma coś 
+intuicyjnego, wydarzającego się szybciej, niż da się pomyśleć. Fenomenologia 
+chce doścignąć refleksją te uciekające momenty. Nie można dokonać redukcji 
+transcendentalnej bez redukcji fenomenologicznej. Szukać istoty percepcji, to 
+uznanie, że percepcja stanowi dostęp do prawdy. To nie jest problem 
+epistemologiczny -- problem reprezentacji, to jest problem ontologiczny. 
+Percepcja ma doprowadzić do tego, by rzeczy ukazały się takie, jakie są. Świat 
+jest tym, co przeżywam, nie tym, co myślę.
+
+MP stara się podkreślić to, że świat jest w mocnym sensie bezpośrednio 
+przeżywany -- nie jest kontemplowany, postrzegany. To co jest postrzegane 
+podlega przeżywaniu.
+
+Pokazanie przeżywania świata przez kolory. Jawienie się kolorów jest przeżyciem. 
+Nie mam idei niebieskiego, ani świadomości swojego stanu. To nas atakuje. Chęć 
+pokazania, że istnieją formy percepcji, które są nieświadome. Jest to percepcja 
+nie do końca świadoma. Synestezja jest rodzajem stanu naturalnego dla zmysłów. 
+Patrzenie na szorstką cegłę jest widzenie szorstkości.
+
+Wszystkie zmysły są przestrzenne. MP stara się stwierdzić, że każdy zmysł 
+w sobie zakłada pewną przestrzeń. Ostatecznie te zmysły uzupełniają się. Tak jak 
+przestrzeń jest właściwa wszystkim ludziom, którzy to łączą. Okazuje się, że 
+jeden zmysł przechodzi w drugi. Wspólna przestrzeń. To też jest ostatecznie 
+w świadomości przeżywane.
+
+Rosyjski formalizm -- *chwyt udziwnienia*
+
+Postrzegamy też ciałem. Ciało jako węzeł, gdzie pojawia się przeżycie, które nie 
+jest w 100% ani cielesne, ani rozumowe. MP mówi z jednej strony, że nie jest 
+tak, że wewnętrzny człowiek postrzega we mnie. Percepcja jest z natury cielesna. 
+Nie można się percepcji ciała wyzbyć. Z drugiej strony nie jest też tak, że oko 
+postrzega, ucho słyszy -- ciała nie można zredukować do sumy przedmiotów, 
+organów wytłumaczalnych na gruncie przedmiotowym. Ciało konfiguracją, jednością, 
+która syntetyzuje.
+
+Pytanie jak te rzeczy można wziąć w redukcję fenomenologiczną.
+
+Próba pomyślenia o intersubiektywnej świadomości bezosobowej. Sfera 
+intersubiektywności jak sfera sensów okazuje się być bardzo ważna.
+
+Sensu nie można oddzielić od subiektywności i intersubiektywności. 
+Depsychologizacja w wyniku intersubiektywności.
+
+Nie można dokonać analizy ani redukcji transcendentalnej bez redukcji 
+ejdetycznej. Jeśli chcemy zobaczyć skąd bierze się sens, to musimy na chwilę 
+zawiesić też to, co wiemy o tym świecie. Jeśli chcę *przemyśleć myślenie*, to 
+muszę na chwilę wynik tego myślenia zawiesić. W tym sensie potrzebne są dwie 
+redukcje: pytanie o to jak istnieje sens wymaga wzięcie w nawias samego sensu. 
+To ma dać możliwość dziwienia się światu.
+
+Jesteśmy osadzeni w świecie intersubiektywności. Jednocześnie ciało, które ma 
+poziom percepcji i reakcji. Odejście od tego jest trudne.
+
+Fenomenologia zwrócona w stronę skrajnie subiektywną -- postrzeganie latarnią, 
+bez której nie jesteśmy w stanie istnieć. Kwestia punktowości -- każde 
+doświadczenie należałoby tłumaczyć jako doświadczenie narodzin i śmierci. 
+Z drugiej strony realizm -- ta tendencja skrajnie obiektywistyczna, tendencja 
+społeczna. Jak wygląda całokształt doświadczenia epoki. Introspekcja, ale 
+wielość bodźców cielesnych. Również miałaby mieć charakter namysłu nad 
+teraźniejszością.
 
