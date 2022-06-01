@@ -2574,7 +2574,9 @@ u Marksa sprzyjanie kwestii niepodległościowej w Polsce, ponieważ Polska mia�
 być wentylem bezpieczeństwa odgradzającym rewolucyjny zachód od reakcyjnej 
 monarchii rosyjskiej.
 
-W latach 80-tych pierwsza polska partia odwołująca się do marksizmu.
+W latach 80-tych pierwsza polska partia odwołująca się do marksizmu. Wtedy 
+ukazują się wypowiedzi przedstawiciela pierwszego pokolenia polskich marksistów. 
+Jest to pokolenie urodzone w okolicach powstania styczniowego.
 
 Najbardziej wpływowi, najbardziej oryginalny:
 
@@ -2584,39 +2586,67 @@ Wpływał na partię socjalistyczną. Wywierał też wpływ na światową socjol
 
 Jeden z pierwszych nowoczesnych socjologów
 
-Pojęcie retrospekcji rekonstruktywnej
+Pojęcie retrospekcji dekonstruktywnej
 
 Żył 33 lata, zmarł na gruźlicę.
 
 Kołakowski odnosi go do nurtu ortodoksyjnego, ale nie w sensie Kautskyego, czy 
 Luksemburg. Był marksistą twardym. Był rewizjonistą w sensie filozoficznym -- 
-próbował łączyć Marksa z Kantem.
+próbował łączyć Marksa z Kantem. Jeśli chodzi o rewizjonizm polityczny, to 
+próbował wypracować stanowisko inne od Kautskyego i Bernsteina. Stanowisko 
+czegoś, co K-K nazywa *klasowym posybilizmem*. Co więc znaczy to określenie 
+Kołakowskiego? Ze względów politycznych K-K chciał być blisko myślicieli 
+głównego nurtu, żeby mógł wywierać wpływ na arenie politycznej. To była bardziej 
+postawa strategiczna, jeśli chodzi o spór z Różą Luksemburg.
 
-Charakterystyczne przystawianie do przeszłośći. Stwierdzamy, że socjalizm, do 
-któreo zmiarzamy. Co przycczynia się do ideologizacji dawnych epok? Powoływanie 
-się na psychologistyczną socologią. Analiza marksistowska miałaby mieć 
-odpowiednik w nowoczesnym społeczeństwie. Jak sposób produkcjia wywołuje pewne 
-ludzkie zachodznia potrzeby. Powracają dawne potrzeby i odpowiadające im ideały.
+Próbuje on uzupełnić teorio-poznawczy kościec o filozofię Kanta, próbuje 
+Kantowski idealizm przełożyć na język rzeczywistości społecznej. Bada na 
+przykład aprioryczny charakter ludzkiego poznania. Odrzuca założenie, że to, co 
+poznajemy, wynika z apriorycznej zawartości, treści obecnych w podmiocie 
+transcendentalnym. Nasze poznawcze apriori wywodzi się ze społecznego wpływu, 
+jakiemu każdy człowiek jest poddany żyjąc wśród innych ludzi.
+
+Marksowska teoria ideologii, choć dzieło *ideologia niemiecka* Marksa jeszcze 
+się nie ukazała.
+
+Społeczne apriori, społeczna apercepcja. K-K bada tutaj przede wszystkim 
+tradycję. Oddziaływanie przeżytków historycznych, jak pisał Krzywicki, który też 
+się tym zajmował.
+
+W ramach świadomości jednostki badamy tradycję.
+
+Charakterystyczne przystawianie do przeszłości. Stwierdzamy, że socjalizm, do 
+którego zmierzamy. Co przyczynia się do ideologizacji dawnych epok? Powoływanie 
+się na psychologistyczną socjologię. Analiza marksistowska miałaby mieć 
+odpowiednik w nowoczesnym społeczeństwie. Jak sposób produkcji wywołuje pewne 
+ludzkie potrzeby. Powracają dawne potrzeby i odpowiadające im ideały.
+
+Kto wie, czy nie najważniejszą była koncepcja *retrospekcji rewolucyjnej*, czy 
+też, w innym tłumaczeniu *rewolucji przewrotowej* (gdyż koncepcja formułowana 
+w języku francuskim). Jest ona pewnym elementem charakterystycznego dla 
+polskiego marksizmu badania ideologicznych treści naszej świadomości. Ta 
+koncepcja jest tak naprawdę próbą krytycznej analizy ideałów socjalistycznych -- 
+próba *genealogii socjalizmu*. Wskazania pewnych źródeł idei socjalistycznych, 
+których socjaliści mogą nie dostrzegać. -- TUTAJ SKOŃCZYŁEM
 
 Kwestia narodowa. Próba pogodzenia socjalizmu z programem niepodległości Polski.
 
 Jego spór o to z Różą Luksemburg doprowadził do rozłamu partii. Luksemburg 
-twierdziła, że ważniejsza jest rewolucja protetariatu. Starała się to udowodnić. 
+twierdziła, że ważniejsza jest rewolucja proletariatu. Starała się to udowodnić. 
 Nie była przeciwko narodowi, ale uważała, że nie można już cofnąć rozbiorów, 
 ponieważ poszczególne obszary są już gospodarczo ujednolicone z krajami 
-zaborców.
-
-Była przekonana, że nacjonalizm zaburza czystość dążeń socjalistycznych. 
+zaborców. Była przekonana, że nacjonalizm zaburza czystość dążeń 
+socjalistycznych. 
 
 Kelles-Krauz próbował zbijać te argumenty. Nie zgadzał się, że tylko 
 przynależność do Rosji zapewni polskiemu przemysłowi rozwój gospodarczy 
 i społeczny. Dostęp do rynku rosyjskiego jest wynikiem dekretu caratu, a nie 
 rozwoju. Natomiast Luksemburg argumentowała, że polska ma zamknięte rynki zbytu 
-i zostaje rosyjski. Kelles-Krauz mówi, że naiwne jest robienie sobie nadzieii na 
+i zostaje rosyjski. Kelles-Krauz mówi, że naiwne jest robienie sobie nadziei na 
 wiązanie się z rynkiem autorytarnego rynku rosyjskiego, który jest zacofany.
 
 Kelles-Krauzowi chodziło o rewolucji podwójnej dokonanej jednocześnie, w której 
-dla każdego będzie miejsce, polsce niewykluczającej, demokratycznej, 
+dla każdego będzie miejsce, Polsce niewykluczającej, demokratycznej, 
 socjalistycznej.
 
 Dopóki żył, to miał jednoczyć prawe i lewe skrzydło PPS-u. Być może gdyby żył, 
@@ -2624,17 +2654,17 @@ PPS by się nie rozpadł. To jest zdanie jakiegoś interpretatora, natomiast Boh
 uważa, że to przesada.
 
 Postać wybitna, niesłusznie zapomniana. Socjolog wykształcony i wykładający 
-w Paryżu i Brukseli. Przedwczesa śmierć ucięła także karierę naukową.
+w Paryżu i Brukseli. Przedwczesna śmierć ucięła także karierę naukową.
 
 Teoretyk nowoczesnego nacjonalizmu, podczas gdy większość ideologów II 
 Międzynarodówki o tym nie mówiono. Z jednej strony teoretyk narodu, z drugiej 
-strony działacz, który uważał, że postultem także postulat ustanowienia państwa 
+strony działacz, który uważał, że postulatem także postulat ustanowienia państwa 
 narodowego.
 
 Zdawał on sobie sprawę, że nowoczesna socjologia nie kopiuje biologii, jest krok 
 dalej, dlatego trzeba badać tradycję, systemy wartości, ideologie. Traktuje 
 marksizm przede wszystkim jako teorię socjologiczną. Nie uważał się za filozofa. 
-Uznawał, żę marksizm jest teorią wyłącznie społeczną. Że to nie jest uniwersalny 
+Uznawał, że marksizm jest teorią wyłącznie społeczną. Że to nie jest uniwersalny 
 system filozoficzny, który wszystko wyjaśnia.
 
 Badania nadbudowy -- ludzkiej świadomości, indywidualnej i zbiorowej.
@@ -2647,14 +2677,18 @@ nowoczesnej socjologii. Ewidentnie wykraczają poza pozytywizm. To jest myśl
 społeczna w momencie zwrotu antynaturalistycznego.
 
 Snajder uważa, że tę myśl trzeba przeciwstawić nie Luksemburg czy Kautskiemu, 
-ale bardziej Lukacsowi i Gramsciemu. 
+ale bardziej Lukacsowi i Gramsciemu.
 
-####  Brzozowski
+#### Brzozowski
 
 Próba łączenia Marksa z Kantem, Nietzschem, Bergsonem. To nie jest rewizjonizm 
 polityczny, ale filozoficzny.
 
-Myśliciel bardzo intensywny, różnorodny jeśli chodzi o zainteresownia.
+Rewizjonizm na polską modłę -- alternatywa filozoficzna dla 
+scjentystyczno-dogmatycznej interpretacji Kautskyego i Plechanowa, którzy 
+bazowali na pracach teoretycznych Engelsa.
+
+Myśliciel bardzo intensywny, różnorodny jeśli chodzi o zainteresowania.
 
 Można wyrobić sobie przekonanie, że jest myślicielem zmiennym. On musi 
 funkcjonować w dialogu -- wypowiada się zazwyczaj w formie krytyki. Wnika 
@@ -2671,7 +2705,7 @@ stwórczy. Chce pokazać człowiekowi, że to jest to, co świadczy o wielkości
 człowieka, ale zarazem jest powodem frustracji. Za twórczość, lub nie tworzenie, 
 ponosi odpowiedzialność.
 
-Bohun twierdzi, że jest to myśliciel monoidealny, Mamy jedną ideę, która 
+Bohun twierdzi, że jest to myśliciel monoidalny, Mamy jedną ideę, która 
 organizuje wszystkie jego polemiki. Jest to czyn, twórczość, walka, 
 przekształcanie świata.
 
@@ -2698,11 +2732,72 @@ Pokazuje w jaki sposób pewne idee mogą być przyjmowane w środowiskach, gdzie
 ma dla nich materialnego przygotowania. Chce pokazać jak możliwa jest recepcja 
 w Polsce. Pokazuje, jak idee mogą przyspieszać przemiany społeczno-gospodarcze.
 
+Przedstawiciel marksizmu adogmatycznego, twórczego, który jest nie tyle 
+doktryną, co skutecznym narzędziem badań społecznych, głównie antropologicznych.
+
+Postać bardzo ważna i charakterystyczna.
+
+
 #### Główne cechy polskiego marksizmu
+
+Szczególne cechy:
+
+- orientacja praktycystyczna i antropocentryczna -- marksizm humanistyczny, 
+niezainteresowany filozofią przyrody, sprowadzony do materializmu historycznego, 
+dziejowego, historycznego; marksizm rozumiany jako filozofia praktyki -- to jest 
+pojęcie wypracowane przez Włochów rozpropagował Brzozowski
+- nie ma zainteresowania dla materializmu dialektycznego
+- u Krzywickiego zdecydowanie odrzucenie filozofii w ogóle, które jest 
+manifestacją pozytywistycznych ideałów
+- recepcja pism filozoficznych Engelsa z jego scjentyzmem, metafizyką, a nie 
+dialektyką, pozytywistyczną neutralizacją filozofii jest tu słaba
+- jest to marksizm otwarty, skupiony na zagadnieniach 
+społeczno-antropologicznych
+- marksizm otwarty na wpływy pochodzące nie tylko od marksistów
+- marksizm jako metoda badań nad człowiekiem i społeczeństwem -- z tych badań 
+może co najwyżej wynikać określona teoria rozwoju
+
+Pierwsza ważna polemika z Bolesławem Prusem, który reprezentuje pozytywizm 
+warszawski (wydał programowy tekst).
 
 Cała trójka próbuje podważyć podział na bazę i nadbudowę, próbując pokazać, że 
 ludzka myśl, idee, są względnie niezależne od procesów zachodzących 
-w materialnej bazie, co więcej, mogą na bazę wtórnie oddziaływać.  
+w materialnej bazie, co więcej, mogą na bazę wtórnie oddziaływać. 
+
+Fenomenalizm -- poznajemy tylko zjawiska, rzeczywistość dana jest nam nie 
+w bytowej określoności, ale wyłącznie przez zjawiska, które badamy. To też jest 
+wpływ kantowski.
+
+Mamy do czynienia z subiektywizmem, ale to nie jest subiektywizm indywidualny, 
+tylko to jest subiektywizm społeczny, albo, jak u Brzozowskiego, subiektywizm 
+gatunkowy. Fakt, że poznaje człowiek, nie tylko poznanie ludzkie jakoś 
+dookreśla, ale człowiek w akcie poznawczym współkonstytuuje świat badany przez 
+siebie.
+
+Fenomenalizm, ale nie bierny, percepcyjny, tylko uzupełniony przez swoisty 
+aktywizm. W akcie poznania poznający zbiorowy podmiot stwarza poznawany 
+przedmiot. Brzozowski idzie najdalej -- podmiotem jest ludzkość, przedmiotem 
+jest cały świat. Nie ma innego świata, niż ten, który stworzyli ludzie, przede 
+wszystkim pracą. Ludzie, którzy w swoich wytworach się rozpoznają, a częściej 
+może nie rozpoznają. To nierozpoznawanie, ta zbiorowa apercepcja, to jest 
+czynnik alienujący -- to jest źródło alienacji. Może nawet ważniejsze, jeśli 
+chodzi o społeczne warunkowanie poznawania świata, jest to, czego nie widzimy, 
+a nie to, co dostrzegamy. To wszystko, co zasłania przed nami zasłona 
+ideologicznych iluzji, jest ważniejsze. Badanie społecznych determinacji 
+procesów poznawczych. Badanie dokonywane w przekonaniu, że to człowiek a nie 
+jakieś czynniki pozaludzkie, jest czynnikiem aktywnym, że to ludzie robią 
+historię.
+
+Podstawowy stosunek człowieka do świata to stosunek władczego przekształcania 
+i dyktowania praw światu. *Człowiek jest istotą prawodawczą* -- mówi Brzozowski 
+i rozszerza kolejne kantowskie pojęcie -- ekstrapoluje je ze sfery moralności na 
+całość rzeczywistości ludzkiej. Jednak jest tylko jeden język, w którym człowiek 
+światu, czyli temu co nieludzkie, może dyktować swoje prawa. Tym językiem jest 
+praca.
+
+Naszą najbardziej fundamentalną relacją ze światem jest to, co Brzozowski nazywa 
+*mięśniowym stosunkiem do rzeczywistości* -- nasza zdolność dokonywania realnych 
+zmian.
 
 Trzy główne obszary działalności:
 
@@ -2711,15 +2806,17 @@ marksizm; rozprawy Krzywickiego o materialistycznym pojmowaniu dziejów, choć
 słowo *materializm* nie ma tutaj znaczenia metafizycznego, oznacza rzeczywistość 
 społeczno-gospodarczą. Materializm oznacza tu po prostu *ekonomizm*. 
 Najważniejsza jest determinacja naszego myślenia wynikająca z przemian 
-zachodzących w sposobach produkcji.
+zachodzących w sposobach produkcji. Uznanie, że zjawiska gospodarcze stanowią 
+podstawę historii i na tym powinniśmy się skupić.
 - marksistowska socjologia wiedzy (choć ten termin jeszcze wtedy nie 
 obowiązywał) -- badania nad społecznym warunkowaniem świadomości, nad 
 światopoglądami, świadomością społeczną, która mimo że determinowana przez 
 zjawiska społeczne, jest jednak względnie niezależna. Nie jest bierką. 
 Świadomość czynnikiem aktywnym, który może prowadzić do realnych przemian. Idee 
 mają znaczenie, konsekwencje. Mogą zmieniać świat.
-- marksistowska krytyka kultury (zarówno mieszczańskiej, nowoczesnej, ale też 
-ideałowej, robotniczej, którą stworzy wyzwoląca ludzkość)
+- marksistowska krytyka i teoria kultury -- zarówno mieszczańskiej, nowoczesnej, 
+ale też ideałowej, robotniczej, którą stworzy wyzwoląca ludzkość. Mistrzem był 
+tutaj Brzozowski
 
 Wypadałoby jeszcze wspomnieć Różę Luksemburg
 
@@ -2735,4 +2832,7 @@ przede wszystkim neokantyzm. Apriori naszego myślenia to jego społeczny
 konteskst, tradycja, miejxsce, jakie podmiot zajmuje w społeczeństwie klasowim.
 
 Kwestia narodowa -- potrzeba społecznego opracowania. 
+
+Koniec -- 42:40 -- linia 2630
+https://www.youtube.com/watch?v=m24AGNMgz3w -- ten wykład
 
