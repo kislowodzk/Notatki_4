@@ -2664,7 +2664,34 @@ którego wzywa Nietzsche, jak nie powrotem do dawnej, zapoznanej, zniszczonej
 przez bunt niewolników hierarchii aksjologicznej, hierarchii stworzonej przez 
 rasę doskonałych.
 
-Kwestia narodowa. Próba pogodzenia socjalizmu z programem niepodległości Polski.
+KK rozumuje po marksowsku, czyli po heglowsku. Czym jest socjalizm? Pokonaniem 
+i obaleniem kapitalizmu, ale jest to pokonanie *po heglowsku*, które z tego, co 
+pokonuje, coś zachowuje. Zniesienie, a nie destrukcja. KK bada w jaki sposób 
+dokonuje się to w świecie ludzkich wartości, projektów, pragnień.
+
+Dochodzi do wniosku, że możemy myśleć o przyszłości tylko dlatego, że znamy 
+przeszłość. My obracamy się wśród materiału danego przez historię 
+i teraźniejszość. Z tego materiału projektujemy przyszłość.
+
+Im bardziej radykalny, rewolucyjny jest jakiś ruch społeczny, to związane jest 
+to najczęściej z tym, że jego ideały sięgają głębiej i dalej w historię. 
+Socjalizm, jako najbardziej radykalny i nowoczesny, zgodnie z takim przekonaniem 
+sięgać musi najdalej w przeszłość szukając swoich wartości, uzasadnień aż 
+w czasach wspólnoty pierwotnej, gdzie panował swoisty komunizm.
+
+Jak to działa dla kapitalizmu, dla burżuazyjnego sposobu produkcji? To pokazał 
+Krzywicki analizując w jaki sposób kapitalizm związany jest z renesansową 
+recepcją starorzymskiej aksjologii. Krzywicki przede wszystkim bada wpływ prawa 
+rzymskiego na prawodawstwa państw nowożytnych -- to też jest swoista 
+retrospekcja, szukanie wartości i uzasadnień w przeszłości.
+
+Kwestia narodowa. Dwa wymiary, teoretyczny -- ogólnie problem narodowy w ramach 
+doktryny marksistowskiej; partykularny -- problem Polski, o co mają walczyć 
+robotnicy: o pokonanie kapitalizmu w skali globalnej, czy też o odrodzenie 
+państwa polskiego, które odrodzi się w formie socjalnej i demokratycznej. Czy 
+bardziej istotna jest rewolucja społeczna z robotnikami całego świata, czy też 
+walka o niepodległość i odrodzenie państwa. Próba pogodzenia socjalizmu 
+z programem niepodległości Polski.
 
 Jego spór o to z Różą Luksemburg doprowadził do rozłamu partii. Luksemburg 
 twierdziła, że ważniejsza jest rewolucja proletariatu. Starała się to udowodnić. 
@@ -2684,9 +2711,102 @@ Kelles-Krauzowi chodziło o rewolucji podwójnej dokonanej jednocześnie, w któ
 dla każdego będzie miejsce, Polsce niewykluczającej, demokratycznej, 
 socjalistycznej.
 
+KK odrzuca twierdzenie Luksemburg, że tylko związek z nowoczesnymi rynkami 
+państw zaborczych daje szanse Polakom na rozwój gospodarczy, cywilizacyjny, 
+społeczny, który jest konieczną przesłanką dla socjalizmu. Odrzuca argument 
+z rynku -- mówi, że aby być na rynku rosyjskim nie trzeba znajdować się 
+w bezpośredniej, politycznej zależności od Rosji. Dlaczego Luksemburg twierdzi, 
+że jeśli powstanie niepodległe państwo polskie, to Rosja odgraniczy się od niego 
+nieprzenikalnym kordonem i przemysł polski straci rynki zbytu. Rynek wschodni 
+wciąga każdą ilość towaru, jednak czy na pewno? Czy Luksemburg nie widzi, że 
+rynek rosyjski może być zamknięty arbitralną decyzją urzędnika. Rozwój 
+przemysłu, nawet w Królestwie polskim nie następuje tak, jak opisał to Marks 
+w kapitale -- jest to rozwój zależny od arbitralnych decyzji carskiej 
+administracji. Zdarzały się sytuacje, w których rząd carski nakładał cła 
+zewnętrzne. Poza tym to jest absurd, że Polacy mają wiązać nadzieje na rozwój 
+cywilizacyjny z krajem, który jest krajem zacofanym, pół-feudalnym, 
+barbarzyńskim. KK pyta Luksemburg, czy to ma być to źródło nowoczesności.
+
+Polacy mają jedyną szansę -- muszą unowocześnić się sami, a to będzie możliwe 
+dopiero, kiedy będą mieli własne państwo, wolność polityczną, swobodę 
+decydowania o sobie. Nie należy więc wzywać proletariatu do rezygnacji z walki 
+o niepodległość -- przeciwnie, na ziemiach polskich cele społeczno-ekonomiczne 
+proletariatu zbiegają się z walką o narodowe wyzwolenie. Kapitał, z którym 
+robotnicy polscy walczą, w większości nie jest polski. Struktura narodowościowa 
+na ziemiach polskich jest taka, że dominują w niej przedstawiciele narodów 
+zaborczych, a nie Polacy.
+
+W tej polemice KK i PPS miała dwóch wielkich sojuszników -- wpływ ich opinii był 
+nadal ważny. Byli to Marks i Engels. Stanowisko Kautskyego na przykład było 
+bardziej chwiejne. Odzyskanie niepodległości, w przypadku KK i socjalistów z PPS 
+-- od lewicy po prawicę, reprezentowaną przez Piłsudskiego, było zgodne. Nikomu 
+nie chodziło o restytucję Polski szlachetnej, feudalnej -- oni chcieli nowej, 
+demokratycznej, wolnej Polski, która da wolność narodowościom, które sama kiedyś 
+gnębiła. Polski, w której każdy będzie się czuł dobrze. Jednym z jej 
+podstawowych zadań będzie emancypacja Żydów, ale też umożliwienie Białorusinom, 
+Litwinom, samodzielnego określenia się a nawet stworzenia własnych państw. To 
+będzie Polska, która nie będzie gnębić ani własnych chłopów i robotników, ani 
+przedstawicieli innych narodowości. To będzie Polska ludowa -- demokratyczna.
+
 Dopóki żył, to miał jednoczyć prawe i lewe skrzydło PPS-u. Być może gdyby żył, 
 PPS by się nie rozpadł. To jest zdanie jakiegoś interpretatora, natomiast Bohun 
-uważa, że to przesada.
+uważa, że to przesada. Po jego śmierci natychmiastowy rozpad PPS-u.
+
+KK marksistą, który wyprzedzał swoją epokę. Jego marksizm bardziej przystaje do 
+marksizmu Lukasca, Gramsciego, czy szkoły frankfurckiej, niż do II 
+Międzynarodówki. Próbuje to wykazać w swojej monografii Snajder, który napisał 
+doktorat o KK. Tam argumentuje, że gdyby nie przedwczesna śmierć, Polacy mieliby 
+jednego z najwybitniejszych marksistowskich teoretyków XX wieku, który mógłby 
+być porównywalny tylko z postaciami tej miary, co Lukasc, czy w pewnym momencie 
+Marleau-Ponty.
+
+KK nie jest zupełnym anachronizmem, który przypadkiem znalazł się w swojej 
+epoce. Snajder też pokazuje, że KK oddziaływał nie tylko na Piłsudskiego, 
+Luksemburg, ale również na Kautskyego czy Bernsteina. W odróżnieniu od 
+Brzozowskiego KK najważniejsze prace teoretyczne tworzył w językach, w których 
+czytała ówczesna Europa: przede wszystkim po francusku i niemiecku. KK zarówno 
+jako działacz partyjny podnosi postulat demokratycznego państwa narodowego, 
+odrodzenia Polski, ale też jest jednym z pierwszych marksistowskich teoretyków 
+kwestii narodowej i jednym ze współtwórców teorii nowoczesnego nacjonalizmu. 
+I to w czasie, kiedy II Międzynarodówka wykazywała się brakiem zrozumienia 
+nacjonalizmów.
+
+KK pod pewnymi względami wyprzedza konstruktywistyczną koncepcję narodu, jaka 
+została zaproponowana u schyłku XX wieku. Naród nie jest tworem organicznym, 
+biologicznym, jest wytworem naszego myślenia. Narody nie stwarzają się same, 
+narody stwarzają nacjonalistyczni politycy. Nacjonalizm jest źródłem narodu, nie 
+odwrotnie -- słynna teza Gellnera, którą rozpracowuje Anderson. Pod tym względem 
+KK wyprzedzałby swoją epokę.
+
+KK uważa, że skoro tak, to problem narodowy jest ważny i partie socjalistyczne 
+powinny zajmować określone stanowisko w polityce zagranicznej właściwych im 
+państw i kształtować je. Nie można już patrzeć na świat z punktu widzenia 
+abstrakcyjnych kategorii, takich jak *klasa społeczna*, *imperializm*, 
+*kapitalizm*, *pokój*. Są konkretne wyzwania w ramach poszczególnych państw 
+i jest konkretna walka, jaką partie socjalistyczne powinny toczyć.
+
+Obcy jest mu determinizm historyczny. Nie ma czegoś takiego, jak z góry 
+zaplanowana, automatyczna historia, odbywająca się wedle mechanizmów 
+bezosobowych i niezmiennych praw. To ludzie kształtują historię -- w tym 
+kształtowaniu równie ważne, co czynniki gospodarczo-społeczne, ekonomiczne, są 
+czynniki intelektualne takie, jak ideologie polityczne, czy też elementy na wpół 
+uświadamiane, jak tradycja czy religia. Poza tym ludzie są wolni, to oni 
+kształtują swój los.
+
+Nie ma też naturalizmu pseudopozytywistycznego. Marksizm nie jest dialektyką 
+przyrody, albo inaczej -- dialektyka przyrody nie jest marksizmem, bo marksizm 
+jest wyłącznie teorią społeczną -- zajmuje się wyłącznie ludźmi, którzy 
+przekształcają swój świat, jako realnie istniejące w historii zbiorowości.
+
+Zatem liczy się zarówno nadbudowa, jak i baza. Rola nadbudowy -- to jest ta 
+forma, w którą my ujmujemy realnie zachodzące procesy społeczno-gospodarcze. Ale 
+marksizmu nie da się ograniczyć wyłącznie do teorii gospodarki. To jest ważny 
+element życia społecznego, być może najważniejszy, ale nie jedyny. Gospodarka 
+nie jest odrębnym uniwersum, tylko formą aktywności społecznej, realnego bycia 
+w świecie. Trzeba zrzucić ten pozytywistyczny gorset, jaki został nałożony 
+marksizmowi po śmierci Marksa. Wypracować nowe metody badań, które będą 
+współczesne, będą brały pod uwagę najnowsze osiągnięcia nauk społecznych. -- TU 
+KONIEC
 
 Postać wybitna, niesłusznie zapomniana. Socjolog wykształcony i wykładający 
 w Paryżu i Brukseli. Przedwczesna śmierć ucięła także karierę naukową.
@@ -2868,7 +2988,7 @@ konteskst, tradycja, miejxsce, jakie podmiot zajmuje w społeczeństwie klasowim
 
 Kwestia narodowa -- potrzeba społecznego opracowania. 
 
-Koniec -- 42:40 -- linia 2630
+Koniec -- 1:12:20 -- linia 2807
 https://www.youtube.com/watch?v=m24AGNMgz3w -- ten wykład
 
 
