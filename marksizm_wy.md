@@ -2805,8 +2805,12 @@ element życia społecznego, być może najważniejszy, ale nie jedyny. Gospodar
 nie jest odrębnym uniwersum, tylko formą aktywności społecznej, realnego bycia 
 w świecie. Trzeba zrzucić ten pozytywistyczny gorset, jaki został nałożony 
 marksizmowi po śmierci Marksa. Wypracować nowe metody badań, które będą 
-współczesne, będą brały pod uwagę najnowsze osiągnięcia nauk społecznych. -- TU 
-KONIEC
+współczesne, będą brały pod uwagę najnowsze osiągnięcia nauk społecznych.
+
+KK mówi, że zmierzamy ku socjalizmowi, natomiast musimy to robić w sposób 
+przemyślany i świadomy. Mamy ideał, który ujmujemy co prawda w kategoriach 
+z przeszłości, który dany jest przez retrospekcję. Ten ideał wyznacza nam 
+przyszłość, dla której mamy działać.
 
 Postać wybitna, niesłusznie zapomniana. Socjolog wykształcony i wykładający 
 w Paryżu i Brukseli. Przedwczesna śmierć ucięła także karierę naukową.
@@ -2845,11 +2849,23 @@ bazowali na pracach teoretycznych Engelsa.
 
 Myśliciel bardzo intensywny, różnorodny jeśli chodzi o zainteresowania.
 
-Można wyrobić sobie przekonanie, że jest myślicielem zmiennym. On musi 
-funkcjonować w dialogu -- wypowiada się zazwyczaj w formie krytyki. Wnika 
-w poruszaną materię bardzo głęboko, część akceptuje. Można odnieść wrażenie, że 
-*skakał z kwiatka na kwiatek*. Już za życia mówiono, że to człowiek gąbka -- 
-wchłania wszystko, by wycisnąć na papier.
+Być może największa postać ogólnie polskiego modernizmu. W pewnym momencie sam 
+on ogłosił się za marksistę i faktycznie jego *filozofia pracy* była jakąś 
+wersją marksizmu. Jednak za marksistę uważał się rok, jednak z drugiej strony to 
+prawie 1/10 jego twórczego życia. Brzozowski w ciągu tych 13 lat twórczych 
+napisał tysiące stron. Przez kilkanaście lat stworzył tyle dzieł, zarówno jeśli 
+chodzi o ilość, jak i o jakość, którymi można by obdarzyć kilku/kilkunastu 
+myślicieli i każdy stałby się interesujący. Wyjątkowa osobowość.
+
+Bez Brzozowskiego nie byłoby polskiej nowoczesności w obecnej formie.
+
+Można wyrobić sobie przekonanie, że jest myślicielem zmiennym -- to nie jest 
+prawda. On musi funkcjonować w dialogu -- wypowiada się zazwyczaj w formie 
+krytyki, potrzebuje dialogu, by przedstawiać własne -- oryginalne -- poglądy. 
+W każdym z dzieł przede wszystkim Brzozowski, inni są pretekstem do formułowania 
+własnej myśli. Wnika w poruszaną materię bardzo głęboko, część akceptuje. Można 
+odnieść wrażenie, że *skakał z kwiatka na kwiatek*. Już za życia mówiono, że to 
+człowiek gąbka -- wchłania wszystko, by wycisnąć na papier.
 
 Też żył 33 lata, też gruźlica.
 
@@ -2861,8 +2877,41 @@ człowieka, ale zarazem jest powodem frustracji. Za twórczość, lub nie tworze
 ponosi odpowiedzialność.
 
 Bohun twierdzi, że jest to myśliciel monoidalny, Mamy jedną ideę, która 
-organizuje wszystkie jego polemiki. Jest to czyn, twórczość, walka, 
-przekształcanie świata.
+organizuje wszystkie jego polemiki, jedno marzenie. Jest to czyn, zmiana, 
+twórczość, walka, przekształcanie świata. Środowiskiem tego działania jest 
+kultura -- ona interesuje Brzozowskiego zawsze. Interesuje go to, jak człowiek 
+tworzy świat, bo niczego innego nie znamy. Obracamy się wyłącznie pośród 
+wytworów ludzi. Nie ma czegoś takiego, jak *natura*, to jest pojęcie stworzone 
+przez kulturę, my patrzymy na nią poprzez emocje, słowa, wartości, które mają 
+kulturalną genezę. Przyroda zakresem panowania nad światem za pomocą 
+technicznych narzędzi. A więc działanie, które tworzy świat -- w ten sposób 
+powstaje człowiek, kultura, naród. To musimy sobie uświadomić, to jest główne 
+zadanie filozofii, to jest *filozofia dojrzałości dziejowej*. Za wszystko 
+jesteśmy odpowiedzialni, bo wszystko jest naszym czynem.
+
+Marksizm jako filozofia świadomego przekształcania świata, żeby każdy mógł 
+znaleźć w nim miejsce. Współczesny marksizm go nie zadowala -- szuka on 
+marksizmu u samego Marksa. Uważa, że nie jest on filozofią gotowego świata, 
+tylko filozofią praktyki pracy. Rozumieniem stworzonego świata, żeby go 
+sprawniej przekształcać i zmieniać. My jesteśmy zmianą w świecie, a świat nie 
+jest czymś zastygłym, nie ma też niezmiennych praw. Są tylko te prawa świata, 
+które mu podyktujemy.
+
+W momencie zbliżenia do marksizmu uważał, że przede wszystkim praca fizyczna 
+jest sposobem rozumienia i wyrazem prawodawczego stosunku do świata. Brzozowski 
+odrzuca wszelkie pozytywistyczne, scjentystyczne interpretacji marksizmu. 
+Przeciwstawia Marksa Engelsowi.
+
+Brzozowski proponuje czytanie Marksa przez Kanta, aktywne, nieobiektywistyczne. 
+Pojmowanie człowieka w świecie, który jest wynikiem ludzkich działań 
+i zaniechań. Świat jako wytwór historyczny. Człowiek, który nie znał *ideologii 
+niemieckiej*, wielu podstawowych prac młodego Marksa, z których można takie 
+stanowisko wyczytać. Posiłkował się zaledwie *tezami o Feuerbachu*. Tak go 
+odczytał, jak będą go odczytywać marksiści zachodni.
+
+Mieliśmy postać, która gdyby żyła dłużej i publikowała w innych językach, 
+mogłaby stać się jedną z pomnikowych postaci marksizmu XX wieku. Jednak również 
+umiera wcześnie.
 
 Brzozowski Marksa interpretuje przede wszystkim przez Kanta. Twierdzi, że to 
 Marks dokończył Kantowską rewolucję kopernikańską. Marks uważał, że postawił 
@@ -2891,7 +2940,6 @@ Przedstawiciel marksizmu adogmatycznego, twórczego, który jest nie tyle
 doktryną, co skutecznym narzędziem badań społecznych, głównie antropologicznych.
 
 Postać bardzo ważna i charakterystyczna.
-
 
 #### Główne cechy polskiego marksizmu
 
@@ -2988,56 +3036,10 @@ konteskst, tradycja, miejxsce, jakie podmiot zajmuje w społeczeństwie klasowim
 
 Kwestia narodowa -- potrzeba społecznego opracowania. 
 
-Koniec -- 1:12:20 -- linia 2807
-https://www.youtube.com/watch?v=m24AGNMgz3w -- ten wykład
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Brzozowski, KK są szybko zapomniani nawet w Polsce, ponieważ zmiany historyczne 
+następują bardzo szybko -- rewolucja w Rosji, I wojna światowa. Świat zmienił 
+się na tyle, że nawet Polacy zapomnieli. Dopiero lata 50-te i 60-te związane 
+z próbą wyciągnięcia polskiego marksizmu ze stanu stalinowskiej zapaści, 
+prowadzą do ponownego rozbudzenia zainteresowania KK i Brzozowskim, ale to już 
+jest zupełnie inna historia.
 
