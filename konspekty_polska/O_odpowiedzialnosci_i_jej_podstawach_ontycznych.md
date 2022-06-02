@@ -136,7 +136,7 @@ i nie zostaje mu odjęta należna wartość bohaterskiego trwania przy swoim ide
 Z odpowiedzialnością wiążą się wartości. Ich istnienie i relacje określają sens 
 i możliwość odpowiedzialności.
 
-Wartości:
+#### Wartości:
 
 #### A
 
@@ -161,9 +161,26 @@ Ponad tymi wartościami **sprawiedliwość**, która domaga się wszystkich
 *wyrównań* wartości.
 
 Gdyby nie istniały wartości pozytywne i negatywne, związki bytowe i określania, 
-**nie mogłaby istnieć żadna prawdziwa odpowiedzialność**.
+**nie mogłaby istnieć żadna prawdziwa odpowiedzialność**. Bez tych wartości nie 
+ma idei odpowiedzialności.
 
-Teraz strona 100
+Teorie wartości, które niweczą odpowiedzialność, ponieważ okazują się 
+sceptyczne:
+
+1. *Subiektywności* wartości
+    - mają nie przysługiwać przedmiotom, tylko być iluzjami ludzi, którzy je 
+    przypisują przedmiotom
+    - w takim przypadku nieważne co się działa, nie byłoby odpowiedzialności
+    - niektórzy broniliby odpowiedzialności przez odwołanie do nakazów 
+    postawionych przez społeczeństwo lub państwo, jeśli tak, to albo:
+        - te wymagania są *rzeczowo* uzasadnione, sensowne i celowe, ale wtedy 
+        zakładają istnienie odnośnych wartości
+        - te wymagania nie mają uzasadnień niezależnych od rozstrzygnięć 
+        społecznych; przepisy są wtedy samowolnymi dekretami pozbawionymi 
+        uzasadnienia rzeczowego
+2. Społecznego źródła wartości
+3. *Relatuwności* wartości
+    - także warunkująca je historycznie
 
 
 
