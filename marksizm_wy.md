@@ -2627,7 +2627,42 @@ w języku francuskim). Jest ona pewnym elementem charakterystycznego dla
 polskiego marksizmu badania ideologicznych treści naszej świadomości. Ta 
 koncepcja jest tak naprawdę próbą krytycznej analizy ideałów socjalistycznych -- 
 próba *genealogii socjalizmu*. Wskazania pewnych źródeł idei socjalistycznych, 
-których socjaliści mogą nie dostrzegać. -- TUTAJ SKOŃCZYŁEM
+których socjaliści mogą nie dostrzegać.
+
+K-K, który chciał być blisko nurtu ortodoksyjnego II Międzynarodówki z powodów 
+politycznych, nie akceptował charakterystycznego dla niej determinizmu. Sedno 
+koncepcji K-K są dalekie od koniecznościowego, mechanicystycznego odczytywania 
+koncepcji marksistowskiej, ale też ogólnie patrzenia na świat przez pryzmat 
+obiektywnych, niezależnych od ludzi procesów, łańcuchów przyczynowo-skutkowej, 
+z której świat miałby się składać.
+
+Echa heglowskiej dialektyki.
+
+Chodziło o odpowiedź na pytania:
+
+- Dlaczego socjaliści, z Engelsem na czele, tak bardzo fascynują się badaniami 
+antropologicznymi i dlaczego przeciwstawiają społeczeństwa prymitywne 
+społeczeństwu nowoczesnemu -- dlaczego dokonują idealizacji wspólnot 
+pierwotnych, co przekłada się ostatecznie na koncepcję socjalizmu, jako pewnego 
+rodzaju powrotu do bezklasowej wspólnoty plemiennej. Nawet Róża Luksemburg 
+skłania się do tego stanowiska, że socjalizm jest urzeczywistnieniem na powrót 
+gospodarki naturalnej w skali całego społeczeństwa.
+
+K-K uniwersalizuje ten problem -- pyta w ogóle dlaczego w naszym myśleniu 
+skłonność do idealizowania dawnych epok, skąd skłonność do *złotego wieku*. KK 
+chce pokazać, że to nie jest forma ucieczki od rzeczywistości, forma 
+retrospektywnej utopii, która nas obezwładnia i godzi ze światem, bo oddajemy 
+się marzeniom. KK twierdzi, że to jest **normalne narzędzie walki politycznej**. 
+Chodzi o to, by zbadać jego społeczną genezę, wskazać mechanizm, wskazać w jaki 
+sposób myślimy o historii. W jakim sensie społeczeństwo socjalistyczne będzie 
+powrotem do wspólnoty pierwotnej?
+
+To nie jest motyw tylko marksowski. Ideologizacja przeszłości wraca -- jest to 
+wątek *rousseauistyczny*. KK zdaje sobie sprawę, że to jest również motyw 
+nietzscheański, bo czym innym jest przewartościowanie wszystkich wartości, do 
+którego wzywa Nietzsche, jak nie powrotem do dawnej, zapoznanej, zniszczonej 
+przez bunt niewolników hierarchii aksjologicznej, hierarchii stworzonej przez 
+rasę doskonałych.
 
 Kwestia narodowa. Próba pogodzenia socjalizmu z programem niepodległości Polski.
 
@@ -2835,4 +2870,54 @@ Kwestia narodowa -- potrzeba społecznego opracowania.
 
 Koniec -- 42:40 -- linia 2630
 https://www.youtube.com/watch?v=m24AGNMgz3w -- ten wykład
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
