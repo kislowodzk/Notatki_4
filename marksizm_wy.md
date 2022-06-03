@@ -3018,7 +3018,7 @@ zjawiska społeczne, jest jednak względnie niezależna. Nie jest bierką.
 Świadomość czynnikiem aktywnym, który może prowadzić do realnych przemian. Idee 
 mają znaczenie, konsekwencje. Mogą zmieniać świat.
 - marksistowska krytyka i teoria kultury -- zarówno mieszczańskiej, nowoczesnej, 
-ale też ideałowej, robotniczej, którą stworzy wyzwoląca ludzkość. Mistrzem był 
+ale też ideałowej, robotniczej, którą stworzy wyzwolona ludzkość. Mistrzem był 
 tutaj Brzozowski
 
 Wypadałoby jeszcze wspomnieć Różę Luksemburg
@@ -3029,10 +3029,10 @@ niewielka, przeciwnie, skłonność do krytyki Engelsa. Nie ma też skłonności
 kodyfikacji marksizmu, ubierania go w spójny system. Marksizm jest praktyką 
 badawczą.
 
-Krzywicki i Kelles-Krauz uważają, że marksizm nie może izolwać się kultury 
+Krzywicki i Kelles-Krauz uważają, że marksizm nie może izolować się kultury 
 politycznej. Nie może znajdować się w heglowskiej dialektyce. Był to dla nich 
 przede wszystkim neokantyzm. Apriori naszego myślenia to jego społeczny 
-konteskst, tradycja, miejxsce, jakie podmiot zajmuje w społeczeństwie klasowim.
+kontekst, tradycja, miejsce, jakie podmiot zajmuje w społeczeństwie klasowym.
 
 Kwestia narodowa -- potrzeba społecznego opracowania. 
 

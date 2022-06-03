@@ -143,7 +143,7 @@ i możliwość odpowiedzialności.
 1. Wartość wywołana przez czyn
 2. Wartość czynu prowadzącego do wyniku
 3. Wartość woli/decyzji i zamiaru
-4. Wartość przysługująca sprawdy w następstwie spełnienia czynu
+4. Wartość przysługująca sprawcy w następstwie spełnienia czynu
 
 #### B
 
@@ -168,19 +168,73 @@ Teorie wartości, które niweczą odpowiedzialność, ponieważ okazują się
 sceptyczne:
 
 1. *Subiektywności* wartości
-    - mają nie przysługiwać przedmiotom, tylko być iluzjami ludzi, którzy je 
-    przypisują przedmiotom
-    - w takim przypadku nieważne co się działa, nie byłoby odpowiedzialności
-    - niektórzy broniliby odpowiedzialności przez odwołanie do nakazów 
-    postawionych przez społeczeństwo lub państwo, jeśli tak, to albo:
-        - te wymagania są *rzeczowo* uzasadnione, sensowne i celowe, ale wtedy 
-        zakładają istnienie odnośnych wartości
-        - te wymagania nie mają uzasadnień niezależnych od rozstrzygnięć 
-        społecznych; przepisy są wtedy samowolnymi dekretami pozbawionymi 
-        uzasadnienia rzeczowego
-2. Społecznego źródła wartości
-3. *Relatuwności* wartości
-    - także warunkująca je historycznie
+- mają nie przysługiwać przedmiotom, tylko być iluzjami ludzi, którzy je 
+przypisują przedmiotom
+- w takim przypadku nieważne co się działa, nie byłoby odpowiedzialności
+2. Społecznego źródła wartości, albo:
+- te wymagania są *rzeczowo* uzasadnione, sensowne i celowe, ale wtedy zakładają 
+istnienie odnośnych wartości, więc mamy sprzeczność z założeniem
+- te wymagania nie mają uzasadnień niezależnych od rozstrzygnięć 
+społecznych; przepisy są wtedy samowolnymi dekretami pozbawionymi 
+uzasadnienia rzeczowego
+- jeśli uznamy, że prawa są wydane *dla korzyści* na przykład władców, 
+to musimy przyznać wartość choćby tej korzyści -- nie da się więc 
+utrzymać ogólnej koncepcji subiektywistycznej
+- nie można się opierać tylko na takiej utylitarnej koncepcji, ponieważ 
+dla sprawcy, który podejmuje odpowiedzialność zazwyczaj jest to dla 
+niego niekorzystne, natomiast Ingarden twierdzi, że prawdziwa wartość -- 
+moralna -- rośnie wraz z tą niekorzystnością
+3. *Relatywności* wartości
+- to, co wartościowe dla innego człowieka, dla innego nie musi takie być
+- można to stwierdzenie *uhistorycznić* twierdząc, że to, co użyteczne w jakiejś 
+epoce, w innej może takie nie być
+- Ingarden argumentuje tutaj, że można być w błędzie przyznając czemuś wartość, 
+ale nie wynika z tego, że taka wartość nie istnieje, dowodzi to tylko 
+niedoskonałości poznania ludzkiego, rzeczywiste istnienie wartości nie zależy 
+natomiast od historycznie uwarunkowanej zmiany poglądów
+
+A tak ogólnie, to jak tylko filozofq uznasz, że wartości nie istnieją 
+obiektywnie, to zaprzeczasz z możliwości odpowiedzialności i musisz zrezygnować 
+z domagania się, by inni tę odpowiedzialność podejmowali.
+
+Co ma oznaczać mówienie o istnieniu wartości? Dwie sprawy:
+
+1. Istnieją idealne jakości wartości (sprawiedliwość, wolność, głupota…), które 
+dopuszczają konkretyzację w indywidualnym wypadku, a tym samym umożliwiają 
+wartościowe przedmioty indywidualne. Chodzi tu o niezbędny warunek 
+odpowiedzialności w ogóle.
+2. Ta konkretyzacja faktycznie zachodzi w jakimś przedmiocie i ma w nim 
+wystarczający warunek istnienia. Odpowiednie czynniki faktycznie zawierają 
+indywidualne konkretyzacje idealnych wartości, dzięki czemu dopiero dochodzi do 
+faktycznego wystąpienia odpowiedzialności.
+
+I to jest **pierwszy ontyczny fundament odpowiedzialności**.
+
+### VII. Odpowiedzialność a identyczność jej podmiotu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
