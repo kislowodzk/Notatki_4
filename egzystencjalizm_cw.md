@@ -853,7 +853,7 @@ złem diabolicznym, które byłoby zupełnie niezrozumiałe.
 
 Esencjalizm (filozofia kultury) -- przeciwstawiany konstruktywizm; czy *kobieta* 
 jest jakąś esencję, czy jest konstruktem. Czy dany typ tożsamości jest 
-konstruktem społczenym, czy czymś, co tkwi w istocie rzeczy.
+konstruktem społecznym, czy czymś, co tkwi w istocie rzeczy.
 
 Relacja humanizmu klasycznego i faszyzmu: dlaczego humanizm w stylu Comte 
 zmierza do faszyzmu? Mimo, że teoretycznie wychwala człowieka jako coś 
