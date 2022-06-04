@@ -212,3 +212,96 @@ I to jest **pierwszy ontyczny fundament odpowiedzialności**.
 
 ### VII. Odpowiedzialność a identyczność jej podmiotu
 
+Odpowiedzialność jest jednoznacznie określona w chwili dokonania czynu, potem 
+nie zmienia się, dopóki nie zostaną podjęte kroki zmierzające do odciążenia się 
+od niej ze strony sprawcy, albo nie zostanie on do odpowiedzialności 
+pociągnięty. Może jednak zmienić się sposób, w jaki zostaje poznana i zrozumiana 
+przez sprawcę.
+
+Aby odpowiedzialność była ponoszona przez sprawcę, musi zachodzić **identyczność 
+sprawcy**. Odpowiedzialność może także zostać utrzymana po jego śmierci.
+
+Sprawca mimo wymiany materii organicznej, pozostaje w pewnym okresie czasu jedną 
+całością. Warunkiem koniecznym bycia sobą jest *ciągłość istnienia*. Negatywnym 
+kryterium byłoby to, że jeśli w okresie między narodzinami a śmiercią istnieje 
+jakiś czas, w którym nie istnieje żadna część ciała, to ciało po tym czasie nie 
+jest identyczne z ciałem sprzed tego czasu, nawet jeśli przemawiają za tym inne 
+okoliczności.
+
+Identyczność osoby również jest niezbędne dla zachowania odpowiedzialności 
+i pociągania do niej. Ingarden przytacza pewne przykłady patologii: 
+*rozszczepienia świadomości*, takie jak przerwanie pamięci czy występowanie 
+w danym człowieku dwóch centrów *ja*. Po zupełnej utracie pamięci 
+odpowiedzialność ciąży na osobie sprzed utraty, ona powinna być do niej 
+pociągnięta, lecz kara nie może spaść na *drugą* osobę po utracie pamięci.
+
+Ścisła identyczność działającej osoby jest **drugim ontycznym fundamentem 
+odpowiedzialności**.
+
+### VIII. Substancjalna struktura osoby a odpowiedzialność
+
+Identyczność osoby musi być zakotwiczona głębiej, niż w świadomości i pamięci. 
+Musi istnieć w istocie bądź strukturze osoby.
+
+W fenomenologii pojawia się rozróżnienie na *ja osobowe* i *ja czyste*
+
+- *ja czyste* jest tylko czymś, co odbiera poszczególne wrażenia, jest 
+pozbawione cech
+- *ja osobowe* ma być czymś transcendującym się w określonych przebiegach 
+czystych przeżyć
+
+Ingarden twierdzi, że nie może w zdrowym człowieku być dwóch ośrodków *ja*, *ja 
+osobowe* jest pierwotne, *ja czyste* okazuje się być jedynie abstrakcją 
+z konkretnej osobowej istoty człowieka. Tylko *ja osobowe*, jako posiadające 
+określoną naturę, realne zdolności, które tworzą charakter osoby (nie dający się 
+zredukować do przeżyć, wrażeń), może spełnić postulaty odpowiedzialności.
+
+### IX. Wolność a odpowiedzialność
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
