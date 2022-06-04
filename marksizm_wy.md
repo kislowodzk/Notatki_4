@@ -1138,7 +1138,7 @@ Jest ona w swojej rzeczywistości całokształtem stosunków społecznych.
 sprowadzające teorię na manowce mistycyzmu znajdują swe racjonalne rozwiązanie 
 w praktyce ludzkiej i pojmowaniu tej praktyki.
 
-##  Wykład 5 -- 04.04.
+## Wykład 5 -- 04.04.
 
 Sam Marks przekonany, że żyje w szczególnym momencie historii. Chodzi o to, żeby 
 walkę klas (której efektem panowanie jednej klasy nad inną) zakończyć. Ten 
