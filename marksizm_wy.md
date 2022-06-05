@@ -447,7 +447,7 @@ emancypacji:
 
 Najmłodsi uczniowie Hegla, często już nie spotykali go osobiście. Dostosowanie 
 myśli Hegla, zastosowanie jej do krytyki społecznej, wskazanie kierunku rozwoju. 
-Celem racjonalizacha stosunków społecznych. Uznanie, że wolność urzeczywistnia 
+Celem racjonalizacja stosunków społecznych. Uznanie, że wolność urzeczywistnia 
 się poprzez urzeczywistnienie rozumu w życiu społecznym. Rzeczywistość na tyle 
 odbiegała od celów, że doprowadziło to do szukania słabych punktów w systemie 
 Hegla, co doprowadziło do mniej lub bardziej świadomej negacji jego systemu.
