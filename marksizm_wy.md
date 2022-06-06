@@ -459,7 +459,7 @@ z myśli Hegla i jej przekształcenie).
 Wyrasta z interpretacji zdania "wszystko, co rozumne, jest rzeczywiste, 
 wszystko, co rzeczywiste, jest rozumne".
 
-Interpretacja młodoheglistów: Hegel w logice nie utożsaimia rzeczywistości 
+Interpretacja młodoheglistów: Hegel w logice nie utożsamia rzeczywistości 
 z faktem. Fakty mogą być nierozumne. Rzeczywistość nie jest jeszcze rozumna, 
 trzeba ją rozumną uczynić, przemienić strukturę. Miała to być krytyka 
 filozoficzno-teologiczna. Krytyka przeciwko resztkom mitologii, które fałszują 
@@ -483,11 +483,11 @@ z chrześcijaństwem. Jednak uniwersytety zamykały się na osoby pochodzenia
 
 Ludwig Feuerbach: do krytyki Straussowskiej dołącza antropoteizm, apoteoza 
 człowieka, jako istoty, która powinna zrzucić z piedestału wszystkie fałszywe 
-bożki i zająć miejsce Boga. Od niego Marks i Engles byli najbardziej zależni. 
-Jego myśli nigdy nie poddali jego myśli takiej krytyce, jak naprzykad Straussa. 
+bożki i zająć miejsce Boga. Od niego Marks i Engels byli najbardziej zależni. 
+Jego myśli nigdy nie poddali jego myśli takiej krytyce, jak na przykład Straussa. 
 Nie było wykpienia Feuerbacha, ale zaproponowanie czegoś nowego. Podobnie 
 istotny wpływ (większy?) wywarł na Marksa Max Stirner. Feuerbach nie ogranicza 
-się do krytycznej analizypotocznej świadomości religijnej. Proponuje program 
+się do krytycznej analizy potocznej świadomości religijnej. Proponuje program 
 pozytywny, który pod koniec życia nazwie komunizmem (u niego oznacza to to samo, 
 co antropoteizm). Zrozumienie, że to człowiek jest miarą wszechrzeczy, żadnego 
 innego świata nie ma, jest tylko człowiek i jego wytwory. Bóg i religia także są 
@@ -497,7 +497,7 @@ samego siebie. Człowiek bierze z siebie to, co ma najlepsze (dobroć, miłość
 wymyślonego bytu jest nikim, niewolnikiem, głupcem, skażony złem. Obnaża 
 mechanizm (alienację), który potem Marks będzie analizował na przykładzie pracy 
 produkcyjnej (wkłada w nią swoje siły zatracając samego siebie). To jest (wg. 
-Bohuna) ważny moment, który decyduje o Makrsiźmie. Uznanie, że człowiek jest 
+Bohuna) ważny moment, który decyduje o Marksizmie. Uznanie, że człowiek jest 
 istotą twórczą, a świat jest ludzkim wytworem. Marks i Engels ekstrapolują ten 
 mechanizm ponad religie. Pracując, człowiek tworzy samego siebie, oraz jedyny 
 świat, który zna. Jak u Hegla: byt wywołuje z siebie innobyt po to, by w tym 
@@ -522,23 +522,23 @@ W ten sposób można jednak usprawiedliwiać i maskować niesprawiedliwość i z
 Z drugiej strony religie oferują ludziom szczęście, rekompensatę, ale w życiu 
 przyszłym, którego warunkiem jest przyjęcie ziemskiej rzeczywistości. Słuchając 
 Boga można zasłużyć sobie na lepsze życie,. Ale bądź cichy, potulny, nie 
-krytykuj, a spotka Cię nagoda w tamtym świecie. Ta obietnica pełni funkcję 
+krytykuj, a spotka Cię nagroda w tamtym świecie. Ta obietnica pełni funkcję 
 paliatywu, który usprawiedliwia cierpienie. Religia jest rodzajem narkotyku, 
 który ma łagodzić nasze cierpienia, pokazywać naszą lepszą perspektywę. Religia 
-to jest opium ludu, jak powie za Hessem Kaorl Marks. Lenin ujmuje to słowami 
+to jest opium ludu, jak powie za Hessem Karol Marks. Lenin ujmuje to słowami 
 *religia jest duchową gorzałką*, chodzi o ideologiczne odurzenie, które godzi 
 nas ze światem, ale i nas wobec tego świata obezwładnia, odbiera nam nasze siły. 
 Marks tylko poszerzył i pogłębił koncepcje Feuerbacha. Rozszerzył ze sfery 
 religijnej na sferę społeczną. U źródeł teorii teologii i alienacji Marksa leży 
 krytyka religii Feuerbacha. Przez Marksa zostaje zdecydowanie rozszerzona. 
 Człowiek wytwarza, ale równocześnie wyzbywa się tego, co ma najlepszej, oddając 
-to rzeczwistości nieludzkiej.Te byty zaczynają dyktować, jak ludzie mają żyć. 
+to rzeczywistości nieludzkiej.Te byty zaczynają dyktować, jak ludzie mają żyć. 
 Ludzie oddają się im ze strachem, bo widzą tu siły. Człowiek staje się zależny 
 od własnych wytworów. To się nazywa alienacja. Ludzie przestali wierzyć w Boga 
 Ojca, ale wierzą w prawa rynku. Wierzą, że są trybikami w wielkiej maszynie. 
 Tymczasem należy ludziom uświadomić, że rynek jest ludzkim dziełem. Że kapitał 
 to nie jest byt odrębny, ale relacja społeczna. Skoro jest to relacja społeczna, 
-to na końcach tej relacji będą ludzie, konkretne osobniki. Przezyciężenie 
+to na końcach tej relacji będą ludzie, konkretne osobniki. Przezwyciężenie 
 alienacji polegałoby na tym, że ludzie odzyskują na powrót świat i władzę nad 
 nim. Pojawia się tu droga do komunizmu, rozumianego jako kontrola ludzkości nad 
 jej procesem życiowym -- tak Marks rozumie wolność. W sposób sprzeczny 
@@ -566,11 +566,11 @@ Kształtowana według wzorców wypracowanych przez krytyczną myśl heglowską.
 Państwo ma być syntezą myśli politycznych i filozoficznych. Ma być dobrze 
 funkcjonującym mechanizmem, w którym ważne są relacje panowania (warstwa 
 biurokratyczna), z drugiej strony element filozoficzny (emancypacyjny, 
-oznaczający odniesienie się do rzeczywistości. Treścią państwa uczeczywistnianie 
+oznaczający odniesienie się do rzeczywistości. Treścią państwa urzeczywistnianie 
 wolności (proces niedokonany, chodzi o proces, który nigdy się nie domknie). Nie 
 oznacza to, że państwem rządzić mają naukowcy, Chodzi raczej o wspieranie władzy 
 politycznej poprzez krytykę. Przypisuje warstwie naukowej cechy, jakie 
-tradycyjnie przypisywało się inteligencji w krajach wchodnich -- inteligencja, 
+tradycyjnie przypisywało się inteligencji w krajach wschodnich -- inteligencja, 
 to ludzie, którzy ciągle szukają dziury w całym, ciągle krytykują i podchodzą 
 refleksyjnie nie tylko do rzeczywistości, ale i do samych siebie. Obnażanie 
 tego, co tamuje rozwój, nie dopuszcza do urzeczywistniania wolności. Motyw 
@@ -603,7 +603,7 @@ Wszystkie wielkie słowa to upiory, wydmuszki. Za słowami Naród, Państwo,
 Historia, Braterstwo, Wolność, Komunizm, Socjalizm, nic nie stoi. To są 
 ideologiczne fantomy, które pełnią podobnie opresyjną rolę, jak kiedyś Bóg. 
 Trzeba dokonać krytycznej dekonstrukcji wszystkich pojęć, które ograniczają 
-naszą działalność. Podporządkowujemy się pojęcią, rządzą nami pojęcia, co do 
+naszą działalność. Podporządkowujemy się pojęciom, rządzą nami pojęcia, co do 
 których wmawia się nam, że kryje się za nimi coś wielkiego. Ważny jest konkret. 
 Jedyną istotą, którą naprawdę mogę poznać, jestem ja. Mogę mieć obiekcje co do 
 realnego istnienia innych ludzi. Chodzi o to, bym sam przestał być niewolnikiem 
@@ -652,7 +652,7 @@ własności środków produkcji wpływa nie tylko na produkcję, ale też determ
 strukturę polityczną. Nie pomogą więc żadne reformy polityczne, nie pomoże 
 filozoficzna krytyka. Jeśli będzie istnieć własność prywatna, to będzie istnieć 
 nieproporcjonalny dostęp do dóbr. Jeśli tak, to ci, którzy mają więcej, dalej 
-będą rzędzić tymi, którzy mają mniej. Wolność to nie jest subiektywna 
+będą rządzić tymi, którzy mają mniej. Wolność to nie jest subiektywna 
 niezależność od woli innych jednostek, jak się potocznie wydaje. Wolność to nie 
 jest stan, w którym możemy robić co chcemy w granicach prawa, czy praw przyrody. 
 Prawdziwa wolność to jest zniesienie własności prywatnej oraz własności 
@@ -675,7 +675,7 @@ racjonalnym wnioskiem z obserwacji społeczeństwa, z definicji człowieka.
 Człowiek istotą społeczną, radykalnie wspólnotową. Radykalna afirmacja 
 wspólnotowości. Komunizm będzie się zgadzał z uniwersalistyczną wizją ludzkiej 
 natury. To niesie za sobą obietnicę zniesienia wszystkich innych konfliktów, 
-które nawarstwieją się na problemach fundamentalnych środków produkcji. Zniknie 
+które nawarstwiają się na problemach fundamentalnych środków produkcji. Zniknie 
 dorobkiewiczostwo, egoizm. Dokona się to nie tylko w relacjach z innymi ludźmi, 
 ale też w skali makro. Zanikną państwa, narody, jako odseparowane wspólnoty, 
 którego tożsamość wyrasta z wrogiego ustosunkowywania się u innych.
@@ -714,8 +714,8 @@ oryginalnych.
 Utopijni socjaliści nie byli utopistami w potocznym znaczeniu. Ich analizy 
 funkcjonowania nowoczesnego (porewolucyjnego) społeczeństwa są równie wnikliwe 
 co analizy ekonomistów klasycznych. W tym kontekście można przedstawić całą 
-historię premarksistowskiego socjalizmu, jednak wystarczy skupić się na 4-ech 
-postacach. Pierwszą hrabia Saint-Simon.
+historię premarksistowskiego socjalizmu, jednak wystarczy skupić się na czterech 
+postaciach. Pierwszą hrabia Saint-Simon.
 
 Pierwsza kwestia -- problem socjalizmu i jego statusu. Przekonanie Marksa 
 i Saint-Simona, że socjalizm nie jest utopią, że to nie jest idealny projekt, 
@@ -725,7 +725,7 @@ realnością historyczną, stanowi efekt, wynik kryzysu (załamania) wcześniejs
 ustroju społeczno-gospodarczego. Marks, podobnie jak Saint-Simon pojmuje 
 mechanizm historii, siłę napędową dziejów. Tą siłą siła gospodarcza, przemiany 
 gospodarcze, które są wynikiem przemian w sferze technologicznej. Tym, co jest 
-realną ludzką historą nie są opowieści o zmianach królow na tronach. Prawdziwa 
+realną ludzką historią nie są opowieści o zmianach królów na tronach. Prawdziwa 
 zmiana tam, gdzie ludzie opracowują coraz doskonalsze narzędzia. To jest koło 
 zamachowe historii. Historia społeczna, polityczna jest w istocie wtórna wobec 
 historii zmian technicznych. To rozwój narzędzi ostatecznie określa przemiany 
@@ -746,14 +746,14 @@ walącego młotem w blachę po bankowca udzielającego pożyczki właścicielowi
 fabryki. Saint-Simon nie dąży do zniesienia własności prywatnej, ale do tego, 
 aby była ona owocem naszej pracy. Nie jest fanem proletariatu, komunizmu. 
 Podstawowy podział społeczny również jest dychotomiczny: podział na próżniaków 
-i producentów, tych, którzy życią z własnej pracy oraz tych, którzy na pracy 
+i producentów, tych, którzy żyją z własnej pracy oraz tych, którzy na pracy 
 innych żerują. Do tej warstwie producentów należy też *kadra menadżerska*, 
-kupcy, bankowcy. Tym wszystkim powinna przysługiwać władza. Wtedy nastranie 
+kupcy, bankowcy. Tym wszystkim powinna przysługiwać władza. Wtedy nastanie 
 epoka industrialna, w której ludzkie siły nie będą się marnować. Chodzi o to, 
 żeby ludzie panowali nad przyrodą, a nie na innymi ludźmi. Stąd pochodzi formuła 
 wyzysku człowieka przez człowieka, którą przejmie Marks.
 
-U Saint-Simona mamy materializm historyczy, analizę społeczeństwa w kategorii 
+U Saint-Simona mamy materializm historyczny, analizę społeczeństwa w kategorii 
 niemal sił fizycznych. Mamy analizę konfliktu społecznego, którego podstawą 
 relacja pomiędzy pracą najemną a kapitałem.
 
@@ -773,14 +773,14 @@ która pchnęła go w stronę myśli samobójczych.
 Proudhon był przez pewien czas zajmował się księgowością. Widział w jaki sposób 
 rodzi się niewypracowany dochód przedsiębiorcy. Widział różnicę pomiędzy 
 wartością wypracowanych przez robotników dóbr i sumą wypłat. Proudhon bodaj 
-najważniejszym przeciwnikiem Makrsa, najbardziej dla Marksa niepokojącym.
+najważniejszym przeciwnikiem Marksa, najbardziej dla Marksa niepokojącym.
 
 Jedna z najważniejszych prac młodego Marksa (*Nędza filozofii*) odpowiedzią na 
 Proudhonowską *Filozofię nędzy*. To jedyna książka, którą Marks napisał po 
 francusku.
 
 Proudhon jednym z najbardziej wpływowym przeciwników. Proudhonizm dominował we 
-francuskim socjaliźmie, później odrodził się w formie syndykalizmu w latach 
+francuskim socjalizmie, później odrodził się w formie syndykalizmu w latach 
 90-tych. Oddziałuje na ruchy socjalistyczne, związki zawodowe, anarchistów 
 (pierwszy raz wypowiedział ten termin w znaczeniu pozytywnym). Pojęcie 
 socjalizmu naukowego również pochodzi od Proudhona. Tak samo pojęcie rewolucji 
@@ -791,37 +791,37 @@ nieufny wobec abstrakcji, syntezy, uogólnień. Jego socjalizm ma być naukowy -
 opierający się na wnikliwej analizie życia samego, które oparte jest na 
 sprzecznościach, przypływach, odpływach. Próba skonceptualizowania doświadczeń 
 życiowych, który każdej władzy musiał zajść za skórę, atakowany przez rząd 
-równie mocno, co przez kościół. On pierwszy ogłosił, że religią ludzi wolnych 
-jest lucyferyzm -- chodzi o to, by nie było panów i bogów. M. (Marks) naukowcem, 
-który uważa, że po Heglu ma doskonałą metodę, za pomocy której rozwiąże 
-problemy. Jest u P. element heglowski (wizja sprzeczności i negacji jako źródła 
-ruchu). M. zarzucał P. niekompetencję, jeśli chodzi o myśl Hegla. U P. są 
-sprzeczności, nie ma systemu. U M. monizm, obiektywistyczna wizja historii. M. 
-wierzy, że stworzył filozofię, która może obyć się bez moralizmu, wartościowań, 
-sentymentu; że odkrył mechanizm kryjący się za koniecznością. P. upiera się, że 
-antynomia pomiędzy bytem a powinnością jest z bytu nieusuwalna. U P. mamy 
-kantyzm w formie moralizmu -- jest obecny duch mieszczański. M. nazwałby P. 
-francuskim Kantem. Wg. M. największy filozoficzny błąd P. leży w tym, że popadł 
-on w dogmatyzm. Jeśli chodzi o dalsze poglądy dotyczące polityki, to P. jest 
-wolnościowcem -- chodzi o to, by nastał kres rządu człowieka nad człowiekiem, 
-środkiem oddolna organizacja w spółdzielnie, stowarzyszenie. Obowiązkiem państwa 
-ułatwianie tej samoorganizacji. W duchu mutualizmu postulowanie zakładanie 
-banków ludowych: uczynienie z państwa pierwszego pracodawcy. Robotnicy powinni 
-zakładać społeczne kasy, towarzystwa ubezpieczeniowe, spółdzielnie, by tworzyć 
-gospodarkę alternatywną, gdzie nie będzie nacisku rządu i wielkich 
-gospodarczych. M. powiada, że w rewolucji władzę powinna przejąć rewolucyjna 
-elita, partia, konieczna jest czasowe dyktatura partii (choć nikt nie wie ile 
-czasu będzie to trwało). P. nie jest przeciwnikiem własności prywatnej jako 
-takiej, jest zwolennikiem, by własność rozpowszechnić, przede wszystkim przez 
-banki ludowe, dostarczanie nieoprocentowanych kredytów dla zrzeszeń. Dla P. 
-komunizm, który głosi Marks, to jest zamiana kilkunastu kapitalistów na jednego 
-kapitalist rzędowego, który zastąpi wcześniejszych wyzyskiwaczy. Kapitał trzeba 
-rozproszyć. Ważne jest to, co jest małe, co dzieje się lokalnie. Nie komunizm, 
-a wzajemność, mutualizm, politycznie federalizm. Chodzi o powstrzymanie, 
-zmniejszenie centralizacji. Małe organizacje społeczne. M. uznaje komunizm za 
-konsekwencję historii, dokonuje się ona przez monopolizację. Dla M. ważna nie 
-wolność swobodnie organizującego się społeczeństwa, a jedność. Na początku 
-konieczna centralizacja. *Proletariusze wszystkich krajów, łącie się*.
+równie mocno, co przez kościół. On pierwszy ogłosił, że chodzi o to, by nie było 
+panów i bogów. M. (Marks) naukowcem, który uważa, że po Heglu ma doskonałą 
+metodę, za pomocy której rozwiąże problemy. Jest u P. element heglowski (wizja 
+sprzeczności i negacji jako źródła ruchu). M. zarzucał P. niekompetencję, jeśli 
+chodzi o myśl Hegla. U P. są sprzeczności, nie ma systemu. U M. monizm, 
+obiektywistyczna wizja historii. M. wierzy, że stworzył filozofię, która może 
+obyć się bez moralizmu, wartościowań, sentymentu; że odkrył mechanizm kryjący 
+się za koniecznością. P. upiera się, że antynomia pomiędzy bytem a powinnością 
+jest z bytu nieusuwalna. U P. mamy kantyzm w formie moralizmu -- jest obecny 
+duch mieszczański. M. nazwałby P. francuskim Kantem. Wg. M. największy 
+filozoficzny błąd P. leży w tym, że popadł on w dogmatyzm. Jeśli chodzi o dalsze 
+poglądy dotyczące polityki, to P. jest wolnościowcem -- chodzi o to, by nastał 
+kres rządu człowieka nad człowiekiem, środkiem oddolna organizacja 
+w spółdzielnie, stowarzyszenie. Obowiązkiem państwa ułatwianie tej 
+samoorganizacji. W duchu mutualizmu postulowanie zakładanie banków ludowych: 
+uczynienie z państwa pierwszego pracodawcy. Robotnicy powinni zakładać społeczne 
+kasy, towarzystwa ubezpieczeniowe, spółdzielnie, by tworzyć gospodarkę 
+alternatywną, gdzie nie będzie nacisku rządu i wielkich gospodarczych. M. 
+powiada, że w rewolucji władzę powinna przejąć rewolucyjna elita, partia, 
+konieczna jest czasowe dyktatura partii (choć nikt nie wie ile czasu będzie to 
+trwało). P. nie jest przeciwnikiem własności prywatnej jako takiej, jest 
+zwolennikiem, by własność rozpowszechnić, przede wszystkim przez banki ludowe, 
+dostarczanie nieoprocentowanych kredytów dla zrzeszeń. Dla P. komunizm, który 
+głosi Marks, to jest zamiana kilkunastu kapitalistów na jednego kapitalistę 
+rządowego, który zastąpi wcześniejszych wyzyskiwaczy. Kapitał trzeba rozproszyć. 
+Ważne jest to, co jest małe, co dzieje się lokalnie. Nie komunizm, a wzajemność, 
+mutualizm, politycznie federalizm. Chodzi o powstrzymanie, zmniejszenie 
+centralizacji. Małe organizacje społeczne. M. uznaje komunizm za konsekwencję 
+historii, dokonuje się ona przez monopolizację. Dla M. ważna nie wolność 
+swobodnie organizującego się społeczeństwa, a jedność. Na początku konieczna 
+centralizacja. *Proletariusze wszystkich krajów, łączcie się*.
 
 ### Louis Auguste Blanqui
 
@@ -845,7 +845,7 @@ aby z korzeniami wyrwać dawny ustrój
 - walka klas, dyktatura proletariatu
 - z nim Marks częściej się zgadza
 - przejmuje on Proudhonowską koncepcję rewolucji permanentnej (tu była koncepcja 
-reform), jednak dla Blancquiego rewolucja trwająca tak dłuo, aż nie wybije 
+reform), jednak dla Blancquiego rewolucja trwająca tak długo, aż nie wybije 
 wszystkich poprzednich władz
 - partia idealną robotniczą reprezentacją
 - proletariat monolityczny a partia jako jedyna w pełni ogarnęła ich pogląd
@@ -863,7 +863,7 @@ Blanc:
 konspiracja, zbrojne przejęcie władzy
 - państwo, które stopniowo naprawia życie społeczne, usuwa wyzysk, bezrobocie
 - państwo bez wykluczania, stwarzające równe szanse
-- to właśnie jest rewolucja: nie wojna, nie przemoc, a długotrwaa rewolucja 
+- to właśnie jest rewolucja: nie wojna, nie przemoc, a długotrwała rewolucja 
 społeczna
 - tylko państwo demokratyczne zdobędzie się na reformy
 - szeroki zakres przywilejów socjalnych, państwo opiekuńcze
@@ -872,8 +872,8 @@ i socjaldemokratycznych
 
 Dwie linie zrozumienia Marksistów. Ludzie uważający się za marksistów będą szli 
 linią Mao, Lenina, Tkaczowa, Blanquiego. Część socjaldemokratyczna, 
-rewizjonistyczna, będzie szła linią Blanca, współpraca z państwej. Dwa żywioły, 
-które w marksiźmie, ale i w głowie samego Marksa będą się zmagać. Wydaje się, że 
+rewizjonistyczna, będzie szła linią Blanca, współpraca z państwem. Dwa żywioły, 
+które w marksizmie, ale i w głowie samego Marksa będą się zmagać. Wydaje się, że 
 częściej duch Blanquistowski będzie przemawiał. Lecz kiedy Marks szuka 
 argumentów przeciwko argumentom Bakunina, to będzie powoływał się na Blanca. Tak 
 jak dla całego ruchu rewolucyjnego są to dwa modele idealne, to one zmagają się 
@@ -881,7 +881,7 @@ w samym Marksie.
 
 ## Wykład 4 -- 28.03.
 
-Wracając do poprzedniewo wykładu pożytecznie będzie wspomnieć o kilku książkach 
+Wracając do poprzedniego wykładu pożytecznie będzie wspomnieć o kilku książkach 
 (klasycznych, które się nie starzeją):
 
 - Herbert Marcuse -- *Rozum i rewolucja* (pokazanie, jak z heglizmu wyrasta 
@@ -922,7 +922,7 @@ się oddzielić od marksistowskiego ideału. Dopóki nie uchwycimy czym jest
 komunizm, nie zrozumiemy materializmu historycznego (i na odwrót). W przekonaniu 
 Marksa materializm historyczny jest filozoficznym ujęciem świadomości 
 społeczeństwa burżuazyjnego. Jest to metoda, która jest generowana przez 
-kapitalizm, jest to rodzaj kapitalistycznej samowiedzy. Róża Luxemburg będzie 
+kapitalizm, jest to rodzaj kapitalistycznej samowiedzy. Róża Luksemburg będzie 
 twierdzić, że wraz z zanikiem społeczeństw klasowych materializm historyczny 
 zniknie jako metoda badania społeczeństwa, ponieważ społeczeństwa klasowego już 
 nie będzie. Można powiedzieć, że wbrew intencji samego Marksa, opis świata za 
@@ -935,7 +935,7 @@ Czym jest materialistyczne pojmowanie dziejów?
 Pokazanie, że człowiek jest istotą społeczną. Marks pokazuje swoistość tej 
 relacji, która jest zapośredniczona przez pewne *dobra*, bardzo szeroki zakres 
 przedmiotów, które tworzą relacje społeczne. Przedmioty konsumpcji -- nie tylko 
-dobra materialne, ale też dobra kultury, konusmpcja innych ludzi w relacjach 
+dobra materialne, ale też dobra kultury, konsumpcja innych ludzi w relacjach 
 społecznych. Marks pyta skąd się biorą wartości, dlaczego za coś chcemy 
 zapłacić. Skąd wartość? Pytanie *Czym jest człowiek i skąd się biorą wartości*. 
 Różnica pomiędzy tym, co jest, a co powinno istnieć. To, co jest, to natura. My 
@@ -989,18 +989,18 @@ podziału pracy, jako generującej naszą osobowość).
 
 Podsumowaniem młodzieńczej wizji *Tezy o Feuerbachu*:
 
-- Marks myślicielem rewolucejnym (revolutio -- obracać się)
-- Odwrócenie myślenia -- niekoniecznie natura jest pierwsza. Tak naperawdę 
+- Marks myślicielem rewolucyjnym (revolutio -- obracać się)
+- Odwrócenie myślenia -- niekoniecznie natura jest pierwsza. Tak naprawdę 
 najbardziej istotne jest działanie praktyczne, w wyniku którego natura się 
 kształtuje. Być może nie ma natury jako takiej, istniejącej niezależnie od 
-człowieka. Moć może świat sumą naszych czynów i naszych zaniechań
+człowieka. Być może świat sumą naszych czynów i naszych zaniechań
 - Esencja powstała w latach 40-stych, potem była praktyka. Powstawały dzieła, 
 jednak te fundamentalne myśli i intuicje zawarte są w pismach wczesnych.
 
 Fundamentem, punktem wyjścia: historia procesem jednorodnym, choć podzielonym na 
 fazy. Historia ma charakter fundamentalny i niepowtarzalny. Nie ma w historii 
-wiecznych powrotów, ale są powroty o charaktecze strukturalnym. Można traktować 
-komunizm jako pewnego rodzaju powrót społeczeńst bezklasowych, od których 
+wiecznych powrotów, ale są powroty o charakterze strukturalnym. Można traktować 
+komunizm jako pewnego rodzaju powrót społeczeństw bezklasowych, od których 
 zaczyna się rozwój ludzkości. Stąd Marks tak żywo był zainteresowany badaniami 
 antropologów.
 
@@ -1022,7 +1022,7 @@ Marks mówi, że nie jest historiozofem. On jest tylko zainteresowany małym
 fragmentem historii pewnego małego zakątka świata. Prawidłowości, które 
 odkrywam, nie powinny być przenoszone do innych rejonów świata. Jednak sposób 
 rozwoju *wyższych* społeczeństw wyraża przyszły rozwój społeczeństw teraz 
-*niższych*. Marks nie chce rysować obrazu przyszlości -- jej nie ma w ogóle, 
+*niższych*. Marks nie chce rysować obrazu przyszłości -- jej nie ma w ogóle, 
 możemy prognozować na temat cech zjawisk, natomiast nie da się przeszłości 
 zaprognozować.
 
@@ -1031,18 +1031,18 @@ społeczeństwa. Można domniemywać, że ma to filozoficzne źródła u Hegla. 
 mniemał, że przekłada filozoficzne abstrakcie na grunt realnego życia, pokazuje, 
 co dzieje się, kiedy ludzie walczą o życie, o byt. Marksa nie obchodzą wątki 
 jednostkowe, tylko społeczeństwo. Czy Marks nie staje się platonikiem, jeśli 
-zakłada niezależny byt bytów społeczcnych. Metafizycznymi konkretami są ludzie, 
+zakłada niezależny byt bytów społecznych. Metafizycznymi konkretami są ludzie, 
 kamienie, drzewa, ... . Marksa najbardziej interesuje żądzą do panowania. Jeśli 
 ktoś jest bogaty, to ma władzę. Marks: chodzi o to, żeby poza sferą 
 subiektywnych ideałów dostrzec to, co tkwi u podstaw, a co jest realną wartością 
 naszego życia. Jeśli ją mamy, to za jej pomocą można konstruować obiektywne siły 
 społeczne, gospodarczo-społeczne, czyli klasy. To największa siła, 
-a równocześnie jeden z jego najwyększych błędów. Nie dostrzegł on wielu sił, na 
-przykład poczucia narodowościowe i nacjonalizm. Wprost błąd Makrsa pokazuje 
-Roman Spohr? (Problmeatyka narodowościowa a Marks).
+a równocześnie jeden z jego największych błędów. Nie dostrzegł on wielu sił, na 
+przykład poczucia narodowościowe i nacjonalizm. Wprost błąd Marksa pokazuje 
+Roman Spohr? (Problematyka narodowościowa a Marks).
 
-To przypomina, że nie ma uniwersalnych wytryhów. Nasza wiedza jest zawsze wiedzą 
-warunkową i względną. Można go bronić, że nie miał skłonnośi systemowych. Jednak 
+To przypomina, że nie ma uniwersalnych wytrychów. Nasza wiedza jest zawsze wiedzą 
+warunkową i względną. Można go bronić, że nie miał skłonność systemowych. Jednak 
 Marks był filozofem niemieckim, niektórzy jego następcy twierdzą, że w jego 
 pismach jest zdanie na każde pytanie, trzeba tego dobrze je sformułować.
 
@@ -1050,7 +1050,7 @@ Ważne posiadanie środków produkcji (narzędzi i surowców). Burżuazyjne śro
 produkcji. Robotnicy pozbawieni narzędzi środków produkcji, nie mają narzędzi 
 ani surowców. Swój czas, rozum, sprzedają kapitaliście w formie zasobów.
 
-Wcześniej właściciel środków produjkcji sam był robotnikiem. Lepszym przykładem 
+Wcześniej właściciel środków produkcji sam był robotnikiem. Lepszym przykładem 
 rzemieślnik. Gospodarka wiejska bardziej, zdaniem Marksa, pasuje do pierwotnego 
 społeczeństwa -- chłopska mentalność, chłopi nie chcą pracować. Zadowalają się 
 tym, co mają, pracują tyle, ile muszą, żeby wyżywić rodzinę.
@@ -1067,7 +1067,7 @@ pracowników, inwestują. Co z nauczycielami, prawnikami, (...), którzy sprzeda
 swoje zdolności, swoją pracę? Czy można ich zaliczyć do klasy robotniczej? Nie 
 pracuje na swoim, nie ma środków produkcji. Robi to, co każe mu przedsiębiorca. 
 Marks musiał dokonać kolejnego uproszczenia, skupić uwagę na proletariacie 
-fabrycznym. Tam w najczystrzym stanie widać charakter. Jeśli ten mechanizm uda 
+fabrycznym. Tam w najczystszym stanie widać charakter. Jeśli ten mechanizm uda 
 się zbadać, to można będzie go odnieść do innych klas społecznych (na przykład 
 *proletariatu umysłowego*, chłopów), gdzie relacje są dużo bardziej 
 skomplikowane.
@@ -1075,7 +1075,7 @@ skomplikowane.
 Okazuje się jednak, że to nie bardzo działa. Ten mechanizm nie stosuje się do 
 krajów mniej rozwiniętych (Rosji, Chin, Indii). Klasa wyznaczana przez własność 
 środków produkcji. To opiera się na bardziej ogólnym założeniu. Jesteśmy 
-istotami egzystencjalnie kruchymi, musimy przetważać przyrodę, żeby przetrwać. 
+istotami egzystencjalnie kruchymi, musimy przetwarzać przyrodę, żeby przetrwać. 
 Chcemy istnieć. To nas skłania, żeby zacząć świat przetwarzać, pracować. 
 Pracując, człowiek zmienia świat i samego siebie. Nadaje przedmiotom naturalnym 
 ludzki charakter, jakąś wartość. Pracując człowiek wchodzi w relacje z innymi, 
@@ -1182,7 +1182,7 @@ wykorzystywanie, niż kooperacja). Praca jest czymś innym -- przede wszystkim
 jest ekspresją ludzkiej natury. Jedyny rodzaj natury, którym człowiek może mówić 
 do świata i który świat rozumie. Dzięki niej człowiek może dyktować prawa 
 przyrodzie i afirmować swoje człowieczeństwo. Praca jest więc tym mechanizmem, 
-który człowiekowi powiniem przynosić najwięcej spełnienia, szczęścia. Natomiast 
+który człowiekowi powinien przynosić najwięcej spełnienia, szczęścia. Natomiast 
 teraz praca jest przykrym obowiązkiem. Jest pewnym nieszczęściem, brzemieniem 
 (zgodnie z biblijną klątwą). Chodzi o to, aby przywrócić pracy jej ludzki -- 
 twórczy, ekspresyjny -- sens. Żeby to był proces, w którym człowiek się nie 
@@ -1225,7 +1225,7 @@ wartości użytkowej) i pracę abstrakcyjną (źródło wartości wymiennej --
 użytkowej).
 
 Marksa interesuje problem wartości. Dlaczego ludzie są skłonni płacić za towary 
-więcej, niż faktyczcnie pochłania ich wyprodukowanie. Wartość użytkowa zaspokaja 
+więcej, niż faktycznie pochłania ich wyprodukowanie. Wartość użytkowa zaspokaja 
 potrzebę. Wartość wymienna ma być ekonomicznym reprezentantem pracy 
 abstrakcyjnej -- tę, która nie jest włożona w przedmiot, ale którą liczy sobie 
 kapitalista i która decyduje o wartości rynkowej. Wartość wymienna jest pewną 
@@ -1235,11 +1235,11 @@ produktów markowych, gdzie płacimy za etykietę, za zaspokojenie naszej ambicj
 posiadania modnego przedmiotu). Jeśli chodzi o produkty codziennego spożycia, to 
 relacja między wartością użytkową a wymienną nie jest tak bardzo zaburzona.
 
-Carl Levit w swojej historii filozofii XIX wieku skłania się ku temu, że dla 
+Carl Levitt w swojej historii filozofii XIX wieku skłania się ku temu, że dla 
 myśli Marksa (szczególnie młodego) najważniejszy jest problem pracy. Argumentuje 
 on, że to wynika z filozoficznego usytuowania myśli Marksa. Mają się tu 
 przeczytać dwie linie frontu. Pierwsza krytyka -- krytyka ekonomii politycznej. 
-Druga linia frontu -- krytyka filozofii Hegla. Levit mówi, że to jest istotne, 
+Druga linia frontu -- krytyka filozofii Hegla. Levitt mówi, że to jest istotne, 
 że lektura wczesnych dzieł Marksa pozwala uchwycić związek pomiędzy filozofią 
 i ekonomią. Marks wypowiada wojnę ekonomii politycznej, chce, żeby przestała ona 
 fałszować rzeczywistość -- powinna być częścią prometeistycznej antropologii, 
@@ -1256,7 +1256,7 @@ tym, czym dla Hegla była filozofia jeśli chodzi o dążenie ducha do pewnej
 samowiedzy -- jest to ostateczny moment. Ekonomia to jest sowa Minewry, która 
 wlatuje po tym, jak już procesy twórcze zamarły. Jest zwiastunem zmierzchu 
 kapitalizmu. Dotyczy to społeczeństw, które stoją tak wysoko, że ludzie mogą 
-refleksyjnie przyjrzeć się gospodarce. Tak jak dla Hegla pojawinie się filozofii 
+refleksyjnie przyjrzeć się gospodarce. Tak jak dla Hegla pojawienie się filozofii 
 miało zwiastować koniec historii (bo ludzie już nie mają siły tworzyć historii), 
 tak dla Marksa pojawienie się nauk ekonomicznych jest zwiastunem końca 
 kapitalizmu.
@@ -1265,25 +1265,25 @@ Paradoks zauważony przez Różę Luksemburg -- analogicznie z marksizmem, wraz
 z przemianami społecznymi przestanie on być potrzebny. Dla niej materializm 
 historyczny (i cały marksizm) nie ma nic wspólnego z filozofią. 
 
-Zdaniem Marksa różnica jest taka, że ekonomia jest ideologią, któej zadaniem 
+Zdaniem Marksa różnica jest taka, że ekonomia jest ideologią, której zadaniem 
 jest maskowanie procesów dziejowych, fałszowanie ich obrazu.
 
 Kiedy myślimy o gospodarce, praca jest podstawową kategorią naszego myślenia. 
 Mechanizmem rozwojowym jest praca. Dlatego fałszywe ujęcie ekonomii będzie 
 przede wszystkim fałszować to, czym jest praca. Praca została błędnie powiązana 
 z wartością prywatną, natomiast praca jest procesem społecznym. Ekonomia 
-polityczna tworzy monstrum *homo economicus*, które jest nastawione na własny 
+polityczna tworzy monstrum *homo oeconomicus*, które jest nastawione na własny 
 zysk, które nie potrafi działać inaczej, jak tylko na podstawie zimnej 
 kalkulacji, która w imię zysku jest w stanie poświęcić wszelkie inne wartości. 
 Marks idzie krok dalej przełamując tę koncepcję, ale nie przełamuje jej do 
 końca. Marks burzy koncepcję idealnego indywiduum, wprowadza zbiorowość -- grupy 
 społeczne. Bada zależności, jakie się tworzą. To jest zbiorowość, którą rządzę 
-mechanizmy kooperacji. Póżniejsza krytyka będzie zauważać, że kategoria zysku 
+mechanizmy kooperacji. Późniejsza krytyka będzie zauważać, że kategoria zysku 
 została, ale jest przeniesiona na całe grupy społeczne.
 
 Później antropologia ekonomiczna będzie argumentować, że to nie zysk jest 
 podstawą, a dar, dobrowolne przekazanie. Podstawą badania terenowe. Pokazanie, 
-że cała ekonomia wychodząca od Smitha, jest faszywa, bo oparta na złych 
+że cała ekonomia wychodząca od Smitha, jest fałszywa, bo oparta na złych 
 przesłankach.
 
 W krytyce ekonomii politycznej Marks podąża drogą Feuerbacha i popełnia te same 
@@ -1292,7 +1292,7 @@ błędy, które zarzuca Feuerbachowi. Przenosi spór z ekonomią na pole antropo
 wizji człowieka obaj przeciwstawiają wizję komunistyczną. Człowiek jest istotą, 
 która żyje (w tym zdobywa środki do życia) z gruntu społecznie. Perspektywa 
 wspólnoty, grupy jest dominująca. W systemie kapitalistycznym dominuje 
-perspektywa indywidualna, stąd perspektywa własności prytwatnej. To sprawia, że 
+perspektywa indywidualna, stąd perspektywa własności prywatnej. To sprawia, że 
 człowiek pozbawiony własności prywatnej spada do poziomu towaru (skoro własność 
 prywatna i rynek dominują nad wszystkim, to robotnik, żeby przeżyć, musi 
 sprzedawać samego siebie, swoje siły wytwórcze). Nie ma szans, żeby robotnik 
@@ -1300,7 +1300,7 @@ odnajdywał siebie w pracy. Im robotnik więcej wytwarza, tym bardziej jest
 zubożony (w sensie materialnym i duchowym). Produkuje towary sam siebie 
 zamieniając w towar -- pozbywa się człowieczeństwa. To jest zasadnicza forma 
 antropologicznej opresji. To jest odwrócenie porządku świata. Człowiek, który 
-powinien być panem świata, czuje się spbą, kiedy nie pracuje, a kiedy zaspokaja 
+powinien być panem świata, czuje się sobą, kiedy nie pracuje, a kiedy zaspokaja 
 swoje zwierzęce potrzeby. Tam, gdzie powinien afirmować swoje człowieczeństwo, 
 w pracy, czuje się jak bezduszne zwierzę. Sobą czuje się poza pracą.
 
@@ -1328,7 +1328,7 @@ w sposób antropologiczny.
 Ludzie tworzą rzeczywistość, która zaczyna żyć własnym życiem. Twór oddziela się 
 od stwórcy i przeciwstawia się ludzkim pragnieniom. Okazuje się, że człowiek nie 
 rozpoznaje, nie ubogaca się w swoich wytworach, a przez nie cierpi. Zapomina 
-o tym, że jest ich producentem. To, co jes ludzkim dziełem, zaczyna żyć pozornym 
+o tym, że jest ich producentem. To, co jest ludzkim dziełem, zaczyna żyć pozornym 
 swoim życiem, w ludzkiej wyobraźni zaczynają jawić się jako nieludzkie, 
 nadludzkie. Ludzie stają się niewolnikami własnych dzieł, praw. Rynek to nazwa, 
 dla tych wszystkich dzień. Kapitaliści też są ofiarami, choć ich wyobcowanie 
@@ -1343,7 +1343,7 @@ opanowanie gospodarki, bo ma ona fundamentalny charakter również egzystencjaln
 -- zapewnia warunki do życia.
 
 Dla Marksa kapitalizm nie jest złem wcielonym -- jest konieczną fazą rozwoju 
-ludzkości. Podnosi na wysoki poziom rozwój technologiczny, produkune narzędzie 
+ludzkości. Podnosi na wysoki poziom rozwój technologiczny, produkuje narzędzie 
 przetwarzania świata. Również w ujęciu jednostkowym Marks nie ukrywa, że jednak 
 ludzie żyli nieco lepiej, niż żyli w poprzednich epokach. To jest jednak 
 związane z rozwojem narzędzi, które jednak potem są one marnowane. Marks ma żyć 
@@ -1355,7 +1355,7 @@ się przeciwko ludziom. Marks stwierdza, że nadszedł czas, żeby zastąpić je
 Co więcej, Marks w pewnym sensie jest entuzjastą kapitalizmu -- jeśli sensownie 
 by tym pokierować, to jesteśmy w stanie rozwiązań problem niedoboru dóbr (w 
 cieniu którego rozwijała się ludzkość). Niektórzy badacze twierdzą, że ekonomia 
-ma dwa etapy: maltuzjański i pomaltuzjański (pomarksowska). Ten pierwszy to jest 
+ma dwa etapy: maltuzjański i pomaltuzjański (pomarksowski). Ten pierwszy to jest 
 nauka posępna (ponieważ traktuje człowieka jako istotę, która nigdy nie będzie 
 syta, ponieważ mamy wieczny niedobór dóbr koniecznych nawet dla naszej fizycznej 
 egzystencji). Ten drugi jest bardziej optymistyczny -- nawet zaczyna uderzać 
@@ -1447,8 +1447,8 @@ Ekonomia nie jest czymś wszechobejmującym -- ekonomia częścią realnego życ
 ale tylko częścią. To, czym zajmuje się ekonomia to zinstytucjonalizowane 
 relacje między ludźmi z innymi ludźmi i relacje między ludźmi a przyrodą. Aby 
 rozumieć gospodarkę społeczeństwa, to zdaniem Polanyi'ego trzeba najpierw 
-zrozuieć kulturę. Marks twierdzi inaczej, w drugą stronę. U Marksa pojawia się 
-skłonność do ekonomii formalnej -- która bada pewnego *homo economicusa*, bada 
+zrozumieć kulturę. Marks twierdzi inaczej, w drugą stronę. U Marksa pojawia się 
+skłonność do ekonomii formalnej -- która bada pewnego *homo oeconomicusa*, bada 
 racjonalne zachowania jednostek przy mniejszej lub większej skali niepewności -- 
 w tym sensie ekonomię można opisać matematyką. U Polanyi'ego substancjalna.
 
@@ -1468,7 +1468,7 @@ potrzebami witalnymi. Te drugie mają swoją naturę już w społeczeństwie,
 pojawiają się w momencie zaspokojenia tych pierwszych. Sam akt zaspokojenia 
 potrzeb pierwszego rodzaju tworzy potrzeby drugiego rodzaju. Żeby zaspokajać 
 potrzeby pierwszego rzędu potrzebne nam są pewne narzędzia a tworzenie narzędzi 
-to jest druga natura, choćby podniesiony kamień staje sie elementem kultury. 
+to jest druga natura, choćby podniesiony kamień staje się elementem kultury. 
 Wchodzimy w relację z innymi, żeby zaspokajać potrzeby. Wtedy pojawiają się 
 relacje a z ich powstaniem pojawiają się zupełnie innego rodzaju potrzeby. 
 Wydaje się, że zwierzęta (zwłaszcza te, które są w świecie ludzkim), też mają 
@@ -1494,7 +1494,7 @@ poprzez pracę, która ma charakter dwoisty: nie tylko daje władzę nad przyrod
 ale też uzależnia.
 
 Społeczeństwa pierwotne społeczeństwami bezklasowymi. Społeczeństwa cywilizowane 
-sa społeczeństwami klasowymi a klasy to są takie części społeczeństwa, które są 
+są społeczeństwami klasowymi a klasy to są takie części społeczeństwa, które są 
 generowane/tworzone poprzez pracę. Poprzez funkcje, które dani ludzie mają 
 w społeczeństwie. O przynależności do danej klasy decyduje charakter pracy, 
 zamożność, styl życia, które są skorelowane z pracą. Czy pracuje się na siebie 
@@ -1511,7 +1511,7 @@ Jednak pytanie, czy klasy dla Marksa istniały naprawdę (realnie), czy były ty
 konceptem. 
 
 Świadomość klasowa rodzi się jako świadomość wspólnych interesów. Jednak 
-w przypadku empitycznych ludzi te interesy nie są uświadomione. Marks mówi 
+w przypadku empirycznych ludzi te interesy nie są uświadomione. Marks mówi 
 o klasach w sobie i klasach dla siebie. Klasy w sobie nie mają jeszcze 
 świadomości. Staną się klasą w pełni (dla siebie), kiedy w pełni uświadomią 
 sobie swoje intencje. Klasa jest z jednej strony pojęciem ekonomicznym. 
@@ -1523,17 +1523,17 @@ pośrednich a zwłaszcza klasy średniej, która ma być skazana na zagładę. T
 z tez, przy której Marks się pomylił.
 
 Lenin twierdził, że proletariat sam w sobie (bez partii, bez inteligenckich 
-przywódców) nie wypracuje swojej świadomości (co najwyżej ukszatłtuje związki 
+przywódców) nie wypracuje swojej świadomości (co najwyżej ukształtuje związki 
 zawodowe), nie będzie chciał obalić istniejącego porządku. Rozwiązanie Lenina -- 
 trzeba świadomość klasową robotnikom **zaszczepić** -- od tego jest partia. 
 
 O co toczy się walka klasowa? O zaspokojenie interesów klasowych -- od 
 przetrwania do panowania. Marks wprowadza element Hobbesowski. Hegel mówi, że 
-niewolnik walczy z panem, by pan uznał go. Chodzi o to, byśmu nad innym 
+niewolnik walczy z panem, by pan uznał go. Chodzi o to, byśmy nad innym 
 zapanowali. Walka klas walką o hegemonię, o panowanie w społeczeństwie.
 
 W jaki sposób odbywa się ta walka? Nie toczy się ona przede wszystkim w trakcie 
-strajków, powstań, rebelii. Toczy się pernamentnie, ale w sferze naszych 
+strajków, powstań, rebelii. Toczy się permanentnie, ale w sferze naszych 
 poglądów -- w sferze wizji. Jeśli mówimy, że nie można pluć na godło, 
 sprzeciwiać się nauczycielowi, to klasa, która to głosi, wygrywa. Marks później 
 nie rozwijał tego aspektu swojej myśli (skupił się na sferze materialnej), ale 
@@ -1545,20 +1545,20 @@ Musimy odpowiedzieć sobie na pytanie jak można być socjalistą w społeczeńs
 bez kapitalizmu? Nie możemy przeskoczyć sfery kapitalizmu. Przedwczesne 
 rewolucja spowoduje więcej złego. Nasze myślenie nie jest prostą, mechaniczną 
 kopią procesów gospodarczych. Nie da się poddać wszystkiego interpretacji 
-gospodarzzej. Chodzi o dwa zjawiska trakrowane jak banały. Istnieje więź 
-pomiędzy tym jak myślimy, a poziomem rozwolu przemysłu, to wszystko wpływa na 
+gospodarczej. Chodzi o dwa zjawiska traktowane jak banały. Istnieje więź 
+pomiędzy tym jak myślimy, a poziomem rozwoju przemysłu, to wszystko wpływa na 
 nasze myślenie. Ten, kto ma władzę, widzi świat inaczej. Uwikłanie, geneza, 
 odniesienie.
 
 Dla Marksa interesuje to, że nasz umysł tę ideę ukrywa. Co oznacza, że trzeba 
-badać takie struktury naszego myślenia, które związane z usprawieliwiami . Jest 
-rodzajem zasłony dymnej -- propagandy skierowanej przeciwko. Klasa rządząca swój 
-interes przedstawia jako inerel, który jest wspólny wszystkim. Chodzi o to, żeby 
-ukazywać społeczną genezę, społeczne interesy, które kryją się za naszymi 
+badać takie struktury naszego myślenia, które związane są z usprawiedliwianiem. 
+Jest rodzajem zasłony dymnej -- propagandy skierowanej przeciwko. Klasa rządząca 
+swój interes przedstawia jako taki, który jest wspólny wszystkim. Chodzi o to, 
+żeby ukazywać społeczną genezę, społeczne interesy, które kryją się za naszymi 
 myślami. Jak daleko to pociągnąć? Czy teorie matematyczne mogą być 
 zideologizowane? Według niektórych marksistów tak. To dotyczy ideologii i badań 
 nad społecznym kreowaniem rzeczywistości. Zwłaszcza takiej socjologii. 
-Poszukiwanie ukrytych znaczeń (psychoalaniza), Cały system Marksa, jeśli 
+Poszukiwanie ukrytych znaczeń (psychoanaliza), Cały system Marksa, jeśli 
 o ideologię chodzi, oderwany trochę od jego nazwiska. Nie skojarzony z nim.
 
 ## Wykład 7 -- 25.04.
@@ -1570,7 +1570,7 @@ Utopia -- ideał komunistyczny
 Zniesienie alienacji -- ideał radykalnie wolnościowy, zapanowanie człowieka nad 
 sobą.
 
-Filozoficzna etymologia -- termin z rzymskieg oprawa cywilnego, części handlowej 
+Filozoficzna etymologia -- termin z rzymskiego prawa cywilnego, części handlowej 
 -- przejęte przez teologię -- przejmuje Hegel, stąd młodohegliści.
 
 Wychodzenie podmiotu poza siebie, mowa -- alienacja świadomości, utrata 
@@ -1601,7 +1601,7 @@ przeżyć, zaspokoić podstawowe potrzeby. Dalej pokazanie, że pieniądz jest
 wyobcowanym wytworem pracy, który przejmuje władzę nad człowiekiem. W komunizmie 
 to człowiek ma panować nad tym, co sam stwarza.
 
-Alienacja pracy jest stanem, w którym bezpośredni wytrórca z góry zakłada, że 
+Alienacja pracy jest stanem, w którym bezpośredni wytwórca z góry zakłada, że 
 produkt nie będzie zaspakajał jego własnych potrzeb, być może nie będzie mu 
 nawet dostępny. Produkt trafia na rynek. Robotnik nie dysponuje środkami, które 
 pozwalałyby mu ten produkt nabyć. Im więcej robotnik produkuje, tym bardziej 
@@ -1645,7 +1645,7 @@ zjawiska. Alienacja opowiada jak tracimy wolność i jakie fikcje tworzymy, by
 z tą utratą się pogodzić. Komunizm jest obietnicą odzyskania wolności.
 
 Jak Marks rozumie **wolność**? Nieintuicyjnie -- potocznie raczej koncepcja 
-negatywna: jestem wolny, kiedy mogę powiedzieć *nie*, gdy nie muszę tobić tego, 
+negatywna: jestem wolny, kiedy mogę powiedzieć *nie*, gdy nie muszę robić tego, 
 co ktoś mi każe. Marks pojmuje **wolność** jako **kontrolę** i **panowanie**. 
 Takie rozumienie komunizmu będzie w życie starał się wprowadzić Lenin. Same te 
 pojęcia zdają się stać w sprzeczności z naszym rozumieniem wolności.
@@ -1673,7 +1673,7 @@ potrzeb, ale nieustanne gromadzenie pieniędzy.
 
 Jednak elementem gospodarki rynkowej jest również praca sprzedawana przez 
 robotnika. To znaczy, że ludzie zmieniają się w towary sprzedawane na 
-mocybezosobowych praw rynku. Alienacja rodzi wartość prywatną, która rodzi 
+mocy bezosobowych praw rynku. Alienacja rodzi wartość prywatną, która rodzi 
 podział społeczeństwa na pracy, które prowadzi do pojawienia się klasy 
 najbardziej uciśnionej, w której kumuluje się cała niesprawiedliwość tego 
 systemu, której członkom odebrano w zasadzie wszystko oprócz czasu, który mogą 
@@ -1740,8 +1740,8 @@ bezklasowego, gdzie człowiek nie jest niewolnikiem wyobcowanych procesów
 gospodarczych -- ma władzę nad własnym losem. Materializm historyczny jest 
 teorią antropologiczną mówiącą o człowieku w świecie, który wymyka mu się z rąk. 
 Komunizm radykalnym przezwyciężeniem sytuacji opisywanej przez materializm 
-historyczny. Dlatego Róża Luxemburg opisywała ograniczoność czasową materializmu 
-historycznego. 
+historyczny. Dlatego Róża Luksemburg opisywała ograniczoność czasową 
+materializmu historycznego. 
 
 Komunizm to marzenie o tym, że ludzie będą panować nad siłami, które sami 
 wytworzyli na swoje własne nieszczęście. On zakłada też panowanie nad przyrodą, 
@@ -1776,22 +1776,22 @@ społecznej obłudy. Dodatkowo fakt, że jest to pierwsza klasa o charakterze
 uniwersalnym. Kapitalizm wytworzył globalnego adwersarza.
 
 Jednak dlaczego proletariat, a nie burżuazja, będąca również wytworem 
-kapitalizmu? Możę jednak burżuazja jest bardziej zintegrowana w wymiarze 
+kapitalizmu? Może jednak burżuazja jest bardziej zintegrowana w wymiarze 
 globalnym. To jest jedno z tych pytań, na które Marks nie chce odpowiedzieć. 
 Klasa robotnicza ma urzeczywistnić nie jakieś ideały, lecz się rozwinąć. 
 Proletariat zniesie na skalę światową gospodarkę rynkową. Zniszczy fetysze 
 ukrywające się za PKB.
 
 Czym jest komunizm zwłaszcza pojmowany jako zniesienie podziały pracy. Rzecz 
-w tym, żę Bohun nie jest przekonany, czy Marks pisał to na poważnie -- czy ta 
+w tym, że Bohun nie jest przekonany, czy Marks pisał to na poważnie -- czy ta 
 jego wizja może mieć charakter ironiczny skierowany przeciwko naiwnym oponentom. 
 Podział pracy bardzo istotny.
 
 Społeczeństwo komunistyczne -- gdy praca zaczyna być podzielona, to każdy ma 
-krąg działania, z którego nie może się wydostać, jeśli nie chce straciś środków 
+krąg działania, z którego nie może się wydostać, jeśli nie chce stracić środków 
 do życia. W komunizmie człowiek może dziś robić to, a potem owo. Czynić to, na 
 co akurat człowiek ma ochotę. Bohun uważa, że błędne jest literalne rozumienie 
-tego fragmentu o społeczeństwo, w którym każdy możę robić co chce. Mimo 
+tego fragmentu o społeczeństwo, w którym każdy może robić co chce. Mimo 
 zniesienia podziału pracy Marks zakłada organizację, sprawdzanie. Chodzi o to, 
 że każdy może stać się tym, kim chciałby być. Nikt nie może być skazany na 
 powtarzanie losu rodziców. Dziecko (dzięki edukacji) robotników może zostać 
@@ -1799,21 +1799,21 @@ lekarzem. Społeczeństwo każdej jednostce rozwój predyspozycji. (Co z ludźmi
 którzy chcą władać, gromadzić własność? Mogą się wykształcać, wykonać pracę, 
 w której będzie to spełniać. Wierzy w to, że człowiek naturalnie chce pracować, 
 nie tylko dla siebie, ale także dla dobra ogółu. Praca dalej będzie w królestwie 
-konieczności. Państwo naturalnie obumrze, poprzez sprawiedliwse organizowanie. 
+konieczności. Państwo naturalnie obumrze, poprzez sprawiedliwie organizowanie. 
 Ludzie sami będą się organizować w ramach większych wspólnot. Kiedy przestępstwo 
-przestanie być problemem, zniknie policja, prokutatora. To mają być procesy 
-w skali globalnej -- obumrą społeczeństwoa najpotężniejsze, w końcu dokona się 
-zjednoczenei glonalne.). Druga uwaga:  fakt, że Marks wymienił tylko takie 
-funksje, które związkane są z rolnictwem (rybek, pasterz, myśliwy). Kiedy to 
+przestanie być problemem, zniknie policja, prokuratora. To mają być procesy 
+w skali globalnej -- obumrą społeczeństwa najpotężniejsze, w końcu dokona się 
+zjednoczenie globalne.). Druga uwaga:  fakt, że Marks wymienił tylko takie 
+funkcje, które związane są z rolnictwem (rybek, pasterz, myśliwy). Kiedy to 
 przeniesiemy do współczesnej gospodarki, to trudno jest utrzymać się 
 w klasycznej koncepcji podziału czasu pracy. Ze społecznego podziału pracy 
 zostaje to przeniesione na poziom jednostki i przestaje być problemem. Bohun 
-intepretowałby to w stronę banalną -- społeczeństwo równych klas, gdzie każdy 
+interpretowałby to w stronę banalną -- społeczeństwo równych klas, gdzie każdy 
 może się wykształcić, gdzie nie ma zniewolenia. Czy to jest w ogóle możliwe? Sam 
-Marks miałl wątpliwości. Być może wolność tylko wtefdy, gdy jesteśmy sami.
+Marks miał wątpliwości. Być może wolność tylko wtedy, gdy jesteśmy sami.
 
-Kolejny wątek (rozszeżający) wprowazi Engels, który stworzy kolejne 
-przeciwieństwo międyz komunizmem (interpretowany ako fabrykę) a kapitalismem 
+Kolejny wątek (rozszerzający) wprowadzi Engels, który stworzy kolejne 
+przeciwieństwo między komunizmem (interpretowany jako fabrykę) a kapitalizmem 
 (rynkiem). Za tym później pójdzie Lenin. O tym za 2 tygodnie.
  
 ## Wykład 8 -- 09.05.
@@ -2064,7 +2064,7 @@ Luksemburg ośmielała się prowadzić dyskusje. Ale o tym za tydzień
 ### II Międzynarodówka
 
 Ta interpretacja marksizmu zaproponowana przez Engelsa stała się pod koniec 
-życia dominująca dla zwolenników marksizmu i socjalizmu w ogóle. Dzisjaj o tej 
+życia dominująca dla zwolenników marksizmu i socjalizmu w ogóle. Dzisiaj o tej 
 25 lat trwającej epoce II międzynarodówki.
 
 II międzynarodówka -- 1889r. Funkcjonowała do roku 1914r. Wtedy rozpadła się 
@@ -2131,8 +2131,8 @@ nauką przyszłości, która o kilka kroków wyprzedza inne nauki społeczne.
 W odróżnieniu od Marksa i Engelsa teoretycy II Międzynarodówki już mniej-więcej 
 wiedzieli, czym będzie socjalizm. Będzie  to zniesienie własności środków 
 produkcji. Zniesienie tego, że ktoś jest lepszy, ktoś gorszy. Równe prawo do 
-edukacji, obieki zdrowotnej. Społeczeństwo będzie dążyć do bezklasowości. 
-Zmiejszać się będzie natężenie konfliktów społecznych, będą też zanikać problemy 
+edukacji, opieki zdrowotnej. Społeczeństwo będzie dążyć do bezklasowości. 
+Zmniejszać się będzie natężenie konfliktów społecznych, będą też zanikać problemy 
 kryminalne. Socjalizm to pokój wewnątrz społeczeństwa i pomiędzy państwami. 
 Zniknie nierówność na tle płci, rasy, ... .
 
@@ -2148,7 +2148,7 @@ będzie nie do zniesienia dla ludzi. Nierówności na skalę globalną doprowadz
 Rewolucja, o której mówi Luksemburg i Plechanow (ale nie Kautsky), to nie jest 
 przewrót polityczny, zbrojne przejęcie władzy przez spiskowców. Rewolucja ma być 
 dziełem masowym. Większość społeczeństwa będzie zmuszona wystąpić przeciw. 
-Natomiast rewolucja leninowska przejuje władzę w formie zamachu stanu, to będzie 
+Natomiast rewolucja leninowska przejmuje władzę w formie zamachu stanu, to będzie 
 tylko zmiana reżimu, rozumowanie leninowskie musi prowadzić do terroru. 
 
 #### Karol Kautsky
@@ -2182,19 +2182,19 @@ osobę.
 
 Być naukowym oznacza dla Kautskyego to, że rządzi tym konieczność. Marksizm 
 traktowany jako konieczność -- interpretacja naturalistyczna. Świadomość 
-kolejnym ogniwem ewolucji świata. Nie ma innego wyjścia, niż socjalzm. To jest 
-ten sam mechaznizmzzm, który sprawił, że na ziemi pojawia się corazwięcej osób. 
+kolejnym ogniwem ewolucji świata. Nie ma innego wyjścia, niż socjalizm. To jest 
+ten sam mechanizm, który sprawił, że na ziemi pojawia się coraz więcej osób. 
 Kapitalizm załamie się, bo jego formy społeczne nie nadążą za rozwojem 
 społecznym.
 
 Dla Kautskyego wybór jest pomiędzy socjalizmem albo barbarzyństwem. Jest to 
-wybór moralny. Ludziemają prawo a nawet obowiązek podejmować działania w celu 
+wybór moralny. Ludzie mają prawo a nawet obowiązek podejmować działania w celu 
 uniknięcia barbarzyństwa. Te działania oznaczają rewolucję -- przejąć władzę ma 
 proletariat, a nie partia.
 
 Problem polega na tym, że na razie demokracje burżuazyjne nie pozwala na 
 prawdziwie wolne wybory. Jeśli robotnicy uświadomiliby sobie swoje interesy, to 
-uczciwie przeliczone głosy w urnach powiedzią, kto wygrał.
+uczciwie przeliczone głosy w urnach powiedzą, kto wygrał.
 
 Ważne organizowanie robotników, edukacja, wyrabianie robotniczej świadomości.
 
@@ -2210,15 +2210,15 @@ Raczej za odnalezieniem wspólnego ducha wspólnoty.
 To stanowisko opierało się również o jej bataliach. W ramach uprzemysłowienia 
 Polski wszystko jest wchłaniane przez Rosję. Gdyby Polska odzyskała 
 niepodległość, upadłaby gospodarka polska przez stratę wschodnich rynku zbytu. 
-Emancypacja narodowa ma następić **po** emancpacji społecznej. Nie można 
+Emancypacja narodowa ma nastąpić **po** emancypacji społecznej. Nie można 
 podjudzać nastrojów separatystycznych.
 
-Pewnie gdyby nie fakt, że została zamordowana, to zapewnie albo zostałaby 
-potępiona przez Lenina.
+Pewnie gdyby nie fakt, że została zamordowana, to zostałaby potępiona przez 
+Lenina.
 
 Krytyka Luksemburg przeprowadzone ze strony rewolucyjnej. Lenin 
 ultrarewolucjonistą, Luksemburg rewolucjonistką, nie zgadzała się na zniesienie 
-swobód demokratyczncyh.  
+swobód demokratycznych.  
 
 Luksemburg przy całej krytyce mimo wszystko nie potępiła rewolucji bolszewickiej 
 jako takiej, że jest droga do przekształcenia jej w rewolucję proletariacką, 
@@ -2289,7 +2289,7 @@ i hipotezy niekoniecznie muszą być prawdziwe po 50 latach.
 
 Rewizjoniści twierdzą, że Marksizm nie jest zamkniętą skarbnicą mądrości, którą 
 trzeba strzec przed zmianami. Przeciwnie -- jest to doktryna naukowa, a więc 
-pewne jej elementy są falsyfikowalne. Niektóre elementy trzeba zmieniać reagując 
+pewne jej elementy są falsyfikowanie. Niektóre elementy trzeba zmieniać reagując 
 na zjawiska społeczne i kulturalne. Trzeba brać pod uwagę różne okoliczności 
 polityczne jak na przykład legalna działalność parlamentarna partii 
 socjalistycznych -- najbardziej wyrazistym przykładem SPD.
@@ -2566,7 +2566,7 @@ ugruntowała się i rozwinęła w krajach, których nie dotyczyła.
 Brytyjski ruch socjalistyczny, tak samo amerykański, nie był ruchem wpływowym. 
 Natomiast zainteresowani przedstawiciele narodów peryferyjnych, zacofanych, 
 kolonialnych. Tutaj marksizm trafił na podatny grunt. To oddziaływało też na 
-polityczne wpływy i praktykę. Dlatego warto powiedzieć kilka słów o marksiźmie 
+polityczne wpływy i praktykę. Dlatego warto powiedzieć kilka słów o marksizmie 
 polskim.
 
 Kolejny powód to zainteresowanie Marksa i Engelsa kwestią polską. Zwłaszcza 
