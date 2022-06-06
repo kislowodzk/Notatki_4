@@ -3043,3 +3043,228 @@ z próbą wyciągnięcia polskiego marksizmu ze stanu stalinowskiej zapaści,
 prowadzą do ponownego rozbudzenia zainteresowania KK i Brzozowskim, ale to już 
 jest zupełnie inna historia.
 
+## Wykład 12 -- 06.06.
+
+### Egzamin
+
+- 20, 27.06. -- 12:00-14:00
+- jeśli to komuś nie pasuje, to pisać i dogadać się z Bohunem indywidualnie
+- pokój 94, ale jak co, to na teamsach też można
+
+### Marksizm rosyjski
+
+W Rosji rewolucja pod sztandarami marksistowskimi. Rewolucja, w wyniku której 
+powstało państwo o charakterze ideokratycznym, które swoją legitymizację 
+widziało w marksizmie.
+
+Trzeba by opracować kontekst historyczny i społeczny, ale nie mamy na to czasu, 
+więc skupimy się tylko na bezpośredniej genezie. Bez tego trudno przeniknąć 
+w ideową treść. Tej genezy też nie będziemy szukać bardzo daleko. Skupimy się na 
+środowisku, z którego ten marksizm wyrasta.
+
+Jurij Plechanow -- pierwszy rosyjski marksista o światowym znaczeniu, dochodzi 
+do niego poprzez **narodnictwo**, teoretyk II Międzynarodówki. Walicki 
+twierdził, że do marksizmu i odejścia od narodnictwa poprowadziła go 
+konsekwencja -- uważał, że rewolucja społeczna ma pierwszeństwo nad polityczną. 
+Narodnicka recepcja Marksa.
+
+Narodnictwo nie tylko gruntem, z którego wyrasta, ale też układ odniesienia.
+
+Pod koniec lat 40-stych głośna książka Engelsa -- zainteresowanie tym raportem 
+społecznym. Prawdziwa recepcja rozpoczyna się od lat 60-tych. Wtedy ruch 
+narodnicki zaczyna zdobywać znaczenie. To narodnicy zaczynają czytać Marksa -- 
+pierwsze tłumaczenie Kapitału właśnie na rosyjski. To tłumaczenie ukazało się 
+w pełni legalnie, cenzor uznał, że *Kapitał* traktuje tylko o świecie zachodnim, 
+o tym, jak pogrąża się w kryzysie. Narodnicy czytali Marksa w taki sposób -- 
+jako ostrzeżenie przed kapitalizmem. Cena, jaką lud zapłacił, za modernizację. 
+Opinia, że trzeba zrobić wszystko, aby Rosja do kapitalizmu nie przeszła. 
+Rozwiązaniem ma być przeskok od razu do socjalizmu, ale socjalizmu chłopskiego, 
+bo takie jest społeczeństwo Rosji.
+
+Dla takich myślicieli jak Struwe, Bierdiajew, Bułhakow, narodnictwo było 
+negatywnym układem odniesienia, podobnie jak dla Lenina. Lenin odrzucając 
+werbalnie narodnictwo, jednak wiele z niego czerpał. Od początku lat 90-tych 
+Lenin jako teoretyk z narodnictwem polemizuje. Jednak jest to polemika 
+taktyczna, chce przez to przyciągnąć do siebie, do swojej partii masy, które 
+zawsze ku ideom społeczeństwa agrarnego, trochę anarchistycznego się zwracały. 
+Lenin chce te masy przyciągnąć. Jednak sedno myśli Marksa to narodnictwo: trzeba 
+zdobyć władzę, ustanowić dyktaturę państwową i od góry narzucić socjalizm. Lenin 
+de facto zrealizował ten program.
+
+Ulianow -- starszy brat Lenina -- rewolucyjnym narodnikiem, który szukał 
+inspiracji u Marksa. Przygotowywał zamach na cara, za który skończył na 
+szubienicy. To miało zdecydować o kolejnych działaniach Lenina.  
+Nieprzepracowana żałoba po bracie jednym z wielu wątków.
+
+Istotna trudność, gdy próbujemy dookreślić czym było narodnictwo -- nurt bardzo 
+szeroki obejmujący różne wizje, strategie. Było narodnictwo legalne, nawet 
+monarchistyczne ale też ultrarewolucyjne jakobińskie. Zamach na cara w 81 r. 
+Bombę rzucił Polak, w szeregach narodników wielu Polaków. 
+
+Co takiego łączy tych bardzo różnych przedstawicieli? Po pierwsze socjalizm, 
+tyle że socjalizm archaizujący, agrarny, chłopski, uznający, że Rosja do 
+socjalizmu musi zmierzać zupełnie inną drogą, niż Zachód. W Rosji zachował się, 
+w szczątkowej formie, socjalizm *pierwotny*, zachował się na rosyjskiej wsi, 
+w rosyjskiej wspólnocie gminnej, gdzie ziemia jest własnością całej wioski -- co 
+kilka lat ziemia dzielona między mieszkańców, by nikt się do swojej ziemi nie 
+przywiązał. To miała być naturalna ostoja socjalizmu w Rosji, ale też skocznia, 
+dzięki której Rosja będzie mogła ominąć kapitalizm i dramat industrializacji, 
+modernizacji, której koszta opisywali Marks i Engels. Narodnicy wierzą, że 
+istnieje trzecia droga do socjalizmu.
+
+Te trzy elementy: socjalizm agrarny, antykapitalizm, pluralizm historiozoficzny 
+(Rosja może inną drogą, niż Zachód) były punktami zapalnymi w dyskusjach. 
+Marksiści polemizujący z narodnikami, na przykład Engels, podkreślali, że bez 
+przekształcenia ekonomicznego nie ma socjalizmu. Ale też czytanie Marksa przez 
+II Międzynarodówkę, zgodnie z którym mamy konieczność historyczną. Wszystkie 
+kraje nierozwinięte miały koniecznie przejść przez rozwój. 
+
+Jednak co ma wtedy marksista rosyjski? Budować kapitalizm?
+
+Tekst Michajowskiego pokazał, że o ile dla filozofów zachodnich nie ma rozdarcia 
+między rzeczywistością a ideałem, jednak co ma robić socjalista rosyjski? 
+W opisach Marksa musiałby rozpoznać to, co się będzie w Rosji rodziło, wszystkie 
+koszta, jakie lud poniesie. Czy ten marksista ma pragnąć urzeczywistnienia tego 
+piekła w swojej ojczyźnie? Dylemat -- albo socjalizm, albo konieczność dziejowa.
+
+Marks odpowiedział na ten tekst w liście do Michajłowskiego, w którym złagodził 
+swój deterministyczny pogląd. Dopuścił istnienie innych dróg. Zastrzegł, że jego 
+analizy dotyczą wyłącznie kumulacji kapitału w Europie Zachodniej i to 
+w określonym momencie. Tych analiz nie należy przekładać na inne kraje. Nie ma 
+uniwersalnego klucza do historii -- w rzeczywistości trzeba badać fakty, które 
+pokazują, że są zależne od zmieniających się stosunków. Jednak ten list nie 
+został wysłany. List opublikowany 10 lat później z komentarzem Engelsa, w którym 
+zmieniał on wymowę, dopełnił komentarzem, że Marks nie chciał osłabiać wiary 
+w sens rewolucji i socjalizmu, natomiast twierdził, że na podstawie przeżytków 
+gospodarki przedfeudalnej nie da się wprowadzić socjalizmu.
+
+Jednak Engels nie ma tu racji. Trzy kraje interesowały Marksa: Rosja, Chiny 
+i Indie. Marks zaczął poważne studia nad gospodarkami tych krajów. Azjatycki 
+sposób produkcji składał się z i feudalizmu, i kapitalizmu. Książka Ewy 
+Borkowskiej *Rosja, Chiny, Indie w badaniach Marksa. Budowa ontologii 
+wspólnoty*.
+
+Podobne wątpliwości -- rewolucjonistka Wiera Zasuwicz, która pracowała 
+z Plechanowem. Napisała do Marksa *jak być marksistą w Rosji*. Marks napisał 
+cały tekst z odpowiedzią, jednak ostatecznie dał odpowiedź zdawkową. Jednak ten 
+napisany tekst pokazuje, że Marks dopuszcza inną drogę, niekapitalistyczną. Te 
+opinie nie mogły wywierać wpływu na dyskusję, ponieważ znajdowały się w archiwum 
+Marksa. 
+
+Na rok przed śmiercią ukazuje się manifest po rosyjsku, we wstępie do którego 
+Marks i Engels proponują przeskakiwanie pewnych etapów. Możliwe jest radykalne 
+skrócenie pełnego cyklu rozwoju kapitalizmu w Rosji, o ile tylko rewolucja 
+wybuchnie w momencie zalążku kapitalizmu.
+
+W Rosji wybuchnie rewolucja burżuazyjna, która uruchomi procesy rewolucyjne na 
+zachodzie, która przeskoczy  do Rosji, co spowoduje przyjęcie kapitalizmu 
+i w Rosji, i na zachodzie. 
+
+Stąd próby eksportu rewolucji na Zachód.
+
+Marks i Engels nie dopuszczali przypadku, w którym Rosja byłaby jedynym krajem 
+politycznym. 
+
+W oczach narodników mark krytykiem kapitalizmu, sygnalistą, który mówi ile zła 
+spadnie na masy w transformacji społecznej.   
+
+Marks do końca sądzi, że chłopi i socjalizm się wykluczają -- nie są oni zdolni 
+do zorganizowania socjalizmu. Marksiści uważali się za przedstawicieli 
+proletariatu przemysłowego, jednak jak w kraju, w którym proletariatu 
+przemysłowego nie ma.
+
+Żelazna droga: kapitalizm niezbędną fazą kapitalistycznego rozwoju ludzkości. 
+Kraje zacofane muszą przejść przez rozwój. Natomiast narodnicy osłabiali fetysz 
+praw rozwoju, głosili program, który zwalcza socjologię, gdzie element wyboru, 
+działalność krytycznie myślących jednostek może przełamywać opór. Uznawanie 
+odrębności rozwoju krajów zacofanych.
+
+Ekonomia rozwoju -- kraje zacofane szybciej się modernizują. Młodsi mają 
+łatwiej, 
+
+Lenin stwierdził, że w Rosji kapitalizm już jest, trzeba go obalić. Problem 
+historiozoficzny -- czy w dziejach mamy polilinearyzm (wielość dróg rozwoju) czy 
+monolinearyzm. Marks osłabia monolityczność monolinearyzmu. Jednak generalnie 
+Kant i Engels uważają, że kapitalizm jest tak zaborczy, drapieżny, że dąży do 
+pochłaniania wszelkich innych regionów świata. Burżuazyjne środki produkcji tak 
+działają.
+
+Za życia Engelsa kolonizacja przechodzi do imperializm.
+
+To jest proces dialektycznie postępowy, poparty konieczności. Burżuazja kierując 
+się swoimi interesami przyczynia się do sprawy historycznej.
+
+Engels bardziej europocentryczny. Dla niego społeczność na niższym szczeblu 
+rozwoju nie może rozwiązać problemów wyższego stopnia. Marks to dopuszcza.
+
+Tkaczów mówi, że rewolucję można przeprowadzić, ale trzeba to zrobić teraz, 
+dopóki kapitalizm jest słaby. Z ludem nie da się tego zrobić (nauczyciele -- tu 
+uzupełnić opis), bo jest przeżarty przez religię, zabobon. Trzeba przeprowadzić 
+rewolucję dla ludu, ale wbrew ludowi -- najpierw trzeba przejąć władzę a potem 
+uświadomić ludowi, że to dobre. To później przejmie Lenin.
+
+Plechanow odrzucał koncepcje terroru, Tkaczowa, bolszewików, którzy przejęli 
+miano jakobinów. Plechanow mówi, że nie sposób zmienić społeczeństwa za pomocą 
+terroru. Odwołuje się do Marksa, do tego, że kluczowe są przemiany ekonomiczne. 
+Rosja musi do socjalizmu dojrzeć, musi na nią poczekać. Przedwczesna rewolucja 
+zagrożeniem. Jako narodnik twierdził, że Rosja może jeszcze kapitalizmu uniknąć, 
+skoro go nie ma. Zachód nie mógł uniknąć, ponieważ nie było społeczności 
+wiejskich. Należy wywłaszczyć ziemie posiadaczy, kościoła, państwa. Jeśli chłopi 
+będą mieli ziemię, to urządzą się zgodnie z tymi socjalistyczno pierwotnym 
+porządkiem. Nie potrzebuje do tego partii.
+
+Tkaczow mówi, że bez partii nie da się tego zrobić. Lud ma być z natury zacofany 
+i konserwatywny.
+
+Plechanow już jako narodnik wykorzystuje marksizm. Pod koniec lat 70-tych coraz 
+bardziej odsuwa się od ruchu narodnickiego, który przechodzi na pozycje 
+tkaczowskie. Dwa powody opowiedzenia się za marksizmem: 
+
+- radykalizacja ruchu narodnickiego, sięganie po rozwiązania terrorystyczne
+- dane statystyczne, które pokazują jego zdaniem, że w Rosji już jest 
+kapitalizm, a skoro już jest, to musimy przejść przez całą drogę 
+kapitalistycznej akumulacji; pocieszeniem jest to, że proces rozwoju kapitalizmu 
+będzie krótszy, niż na zachodzie
+
+Walka polityczna prowadzona pokojowymi środkami -- praca wśród chłopów. Trzeba 
+dążyć do demokratyzacji.Nikt za robotników rewolucji nie przeprowadzi. Robotnicy 
+muszą sami przeprowadzić rewolucję. Misja ciążąca na robotnikach, którzy mają 
+wyzwolić społeczeństwo, ale też doprowadzić do końca proces europeizacji. 
+
+Plechanow wierzy, że Rosja jest częścią Europy, jednak zmrożoną przez polityczny 
+ucisk, zacofaną.
+
+Okres przechodzenia przez kapitalizm nie będzie tak długi -- kraje zacofane nie 
+muszą dochodzić do wszystkiego same, mogą opierać się na zdobyczach krajów 
+lepiej rozwiniętych. Jednak wciąż konieczna jest cierpliwość. Cierpliwość cnotą 
+Marksisty.
+
+Plechanow uważany za marksistę o wpływie i zasięgu światowym, który po śmierci 
+Engelsa był uważany za największego. Marksizm nie jest, wg. niego, tylko 
+narzędziem analizy, jest filozofią w pełnym tego słowa znaczenia -- jest 
+marksistowska metafizyka, epistemologia, etyka. Tak samo powinna istnieć 
+marksistowska estetyka, filozofia kultury (nad którymi pracował) i tak dalej. 
+Plechanow jako pierwszy stosuje analizę społeczną do interpretacji dzieł sztuki.
+
+Nauka, w której prawda ma łączyć się z dobrem, która jest również filozofią 
+życiową. Marksista płynie z nurtem historii. Historyzm, który wyklucza 
+woluntarystyczny gwałt na rzeczywistości historycznej, jak i niepotrzebne 
+wartościowane, *sentymentalizowane*.
+
+To *płynięcie z duchem historii* nie oznacza bierności, raczej *wiosłujemy 
+z duchem historii* -- my wiemy, w którą stronę płynąć. Nie chodzi tu o ucieczkę 
+od rzeczywistości. Jest to konieczność rozumna. Działanie zgodne z kierunkiem 
+rozwoju historycznego, a kierunek jest jeden, już wyznaczony przez Hegla -- 
+wolność przez rozumność, racjonalizacja procesów społecznych, produkcji. Również 
+rozumna polityka, czyli demokracja, która musi posługiwać się argumentami.
+
+Plechanow kładzie nacisk na heglowski element. Neguje woluntaryzm.
+
+Plechanow w polemice Lenina wytrwał do końca życia. Jednak jego stanowisko wobec 
+Lenina nie było konsekwentne. Gdyby od początku sprzeciwiał się Leninowi, gdyby 
+nie wahania po której stronie się opowiedzieć, może historia potoczyłaby się 
+inaczej. Jednak chcąc zachować pozycję arbitra nie opowiedział się ani po 
+stronie bolszewików, ani mienszewików i Trockiego (który jeszcze wtedy tam był). 
+Być może Lenin nie byłby w stanie przejąć władzy. Ale to już historia, która się 
+nie wydarzyła.
+
