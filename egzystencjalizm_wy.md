@@ -84,7 +84,7 @@ musieli uwzględniać. Kierkegaard jest tym myślicielem, który uczy podstawowe
 prawdy: nie ma czegoś takiego, jak poznanie obiektywne, prawdy, które 
 przypominają schematy logiczne, prawda jest prawdą człowieka, jest 
 subiektywnością, skoro tak, to może ona być nieprzekazywalna, ale musi być 
-przeżywalna, czyli doświadczana albo przyswojona, i przynależeć do każdego z nas 
+przeżywana, czyli doświadczana albo przyswojona, i przynależeć do każdego z nas 
 z osobna. Postawienie przede wszystkim na subiektywizm. Co jest moją 
 egzystencją, moją myślą, moim przeżyciem. Może być przeżyciem Twoim, ale pod 
 pewnymi warunkami, które są u Kierkegaarda niesamowicie ostre. One wymagają 
@@ -138,7 +138,7 @@ niesystemowy, poprzez nagromadzenie pewnych paradoksów, posługiwanie się
 przypowieścią, imitowanie stylów literacko-poetyckich (Nietzsche). Wszystko po 
 to, żeby doświadczenie egzystencji uchwycić najzasadniej, nie w sposób 
 nieludzki, z perspektywy naukowej, tylko wprowadzić bezpośrednio do swojego 
-wnętrza, do swojej przeżyciowości, rzucić na prywatny, intymny ekran. Istotne 
+wnętrza, do swojej *przeżyciowości*, rzucić na prywatny, intymny ekran. Istotne 
 dotarcie nie do rozumu, ale do wyobraźni.
 
 Kierkegaard jest myślicielem skazanym z początku na zapomnienie, dopiero na 
@@ -667,8 +667,8 @@ Popada on w to, co Kierkegaard opisał po raz pierwszy, w trzy stany:
 
 - melancholii -- znużenie pewnego elementu naszej syntezy, której nigdy nie 
 możemy zrealizować, to jest choroba ducha, to jest przemęczenie ducha, gdy 
-patrzy co elementy takie jak cielesność czy libidalność (czysta zmysłowość) mogą 
-z nami zrobić; one nami władają, to jest ta ciemna moc, której nie możemy 
+patrzy co elementy takie jak cielesność czy *libidalność* (czysta zmysłowość) 
+mogą z nami zrobić; one nami władają, to jest ta ciemna moc, której nie możemy 
 opanować. To jest nie tyle smutek, ile brak jakiejkolwiek jedności. Życie estety 
 jest w sensie negatywnym sprzeczne, jest brakiem jedności, nie da się nigdy go 
 scalić.
@@ -1179,7 +1179,7 @@ francuską, interesować się Balzakiem, ale z pisarzy bliższych mu można też
 wymienić Hoffmanna, Rosjanin Gogol. Pierwsze próby, gdy Dostojewski zarzuca 
 karierę inżynierską, będą się koncentrowały na opisie realizmu poszerzonego, 
 nadrealizmu, życia w Rosji za cara Mikołaja II. Ważnym momentem w jego życiu 
-i twórczości zwrócenie się ku postępowej inteligencji, ku kołu pietraszowców. To 
+i twórczości zwrócenie się ku postępowej inteligencji, ku kołu pietraszewców. To 
 była niewinne stowarzyszenie młodych ludzi, którzy dyskutowali na temat tego, co 
 dzieje się poza Rosją i co powinno się w Rosji zrobić. Rosja nie przyjmowała 
 żadnych reform. Młodzi ludzie wpadają w sidła prowokacji. Wysłać ludzi na 
@@ -1188,7 +1188,7 @@ w Dostojewskim wzbudzona refleksja, która będzie mu towarzyszyć do końca.
 Pytanie za jakie wartości można poświęcić swoje własne życie.
 
 Reformy edukacyjne, próby zlikwidowania niewolnictwa, pańszczyzny, rozluźnienie 
-cenzury albo jej zniesienie -- takie idee głoszone przez pietraszowców. Młody 
+cenzury albo jej zniesienie -- takie idee głoszone przez pietraszewców. Młody 
 Dostojewski po przejściu (konwersji) uznaje, że dla spraw ziemskich nie warto 
 nigdy się poświęcać. Udaje się na katorgę. Tam zbiera podstawowy materiał, który 
 interesuje każdego egzystencjalistę. Nie było w historii europy miejsc 
@@ -1977,7 +1977,7 @@ dorobek (Husserl jest samoukiem, nie jest przerażony tradycją, którą musi
 poznać, ma odwagę odrzucania tego, czego nie chce zaakceptować) włożyli w pewien 
 nawias, przyjęlibyśmy taką postawę, w której to by się nie liczyło. Epoche -- 
 wzięcie w nawias. Zawieszenie sądu. Sceptycyzm, jeśli się go uporczywie będzie 
-trzymało (jak powie Husserl), też prowadzi do nikąd. Sceptycyzm w ostatniej 
+trzymało (jak powie Husserl), też prowadzi donikąd. Sceptycyzm w ostatniej 
 instancji sam siebie musi zakwestionować. Ten pierwszy impuls w stronę tego, co 
 wiemy, zostaje wyłączony, ma się ukazać oczyszczone z założeń pole 
 fenomenologiczne.
@@ -1988,7 +1988,7 @@ jawi. Musi się to zjawiać pewnemu *czemuś* podmiotowemu -- świadomości.
 Jest Husserl, który należy do najbardziej wybujałego idealizmu 
 transcendentalnego, jest Husserl, którego się nieco inaczej interpretuje -- nie 
 ma ostatecznego rozwiązania. Fenomeny pojawiają się w pewnej świadomości, która 
-jest bytem w świeciem, jest w czasie i przestrzeni, jest poddana pewnym 
+jest bytem w świecie, jest w czasie i przestrzeni, jest poddana pewnym 
 procesom. Nasze redukcje (redukcje transcendentalne) pokazują inny aspekt, że 
 świadomość empiryczna nie interesuje go -- interesuje go coś, co byłoby matrycą 
 o idealnym charakterze pozaprzestrzennym i pozaczasowym -- to jest *ja 
@@ -2046,7 +2046,7 @@ a tym mniejszym zakresem jego badań, kiedy Husserl koncentruje się na relacji
 członu podmiotowego i członu przedmiotowego
 
 Można ująć to w pewien schemat. *Cogito/ego* -- odesłanie do podmiotowości, gra 
-intencji -- interakcie i intencje; przedmiot obejmowany przez intencje: 
+intencji -- interakcje i intencje; przedmiot obejmowany przez intencje: 
 *cogitatum*. Działania świadomości czyli podmiotu oraz przedmioty. Najważniejszy 
 związek między tym, co podmiotowe, a tym, co przedmiotowe. Aksjomatem 
 fenomenologii husserlowskiej (jak i każdej fenomenologii) jest to, że 
@@ -2065,7 +2065,7 @@ rzeczywistością, stosuje wszelkie prawa, które płynął do niego z zewnątrz
 świata przyrody. Husserl nazywa to naturalizmem. Panuje zasada niesprzeczności, 
 wyłączonego środka o ile istnieje co najmniej jeden podmiot, który tę prawdę 
 wytworzył, przyswoił i jej pilnuje. Tyle naturaliści. Jeśli cokolwiek złego by 
-się stało, to te prewdy przestają być prawdami. Może być tak, że zasada 
+się stało, to te prawdy przestają być prawdami. Może być tak, że zasada 
 niesprzeczności przestanie obowiązywać. Husserl zaczyna się zastanawiać i mówi, 
 że naturaliści pomylili treść z formą sądu. Formy mogą się zmienić, ale jeśli 
 jakiś szaleniec będzie chciał być szaleńcem, (Husserl jest 100% racjonalistą, to 
@@ -2085,7 +2085,7 @@ trwałości, tożsamości, po co tu podnosić zarzuty, poruszać tę kwestię? J
 jak jest. Jeśli przyjdzie biologiczny kognitywista, to powie, że to są pewne 
 procesy, które są odzwierciedleniem. Jednak załóżmy taki model, kiedy świadomość 
 nieuprzedzona (nic nie założę przed), jeśli to nieuprzedzenie każe mi ten świat 
-na nowo strukturować, to ten świat będzie zależny od serii moich nakierowań 
+na nowo strukturyzować, to ten świat będzie zależny od serii moich nakierowań 
 intencjonalnych. To istnieje jako... Przedmiot jako coś. Max Scheller opisał 
 różnego typu *przedmioty intencjonalne*, czyli *korelaty świadomości* różnego 
 typu. Świadomość jest czymś takim, co posiada strukturę dynamiczną, twórczą, 
@@ -2148,9 +2148,9 @@ i sposób jego dania, sposób jego prezentowania się. Tych przedmiotów jest
 nieskończenie wiele, bo jest nieskończenie wiele intencji. Intencji, które 
 działają w określonej rzeczywistości w rzeczywistym świecie.
 
-Husserl ateistą, ale i on miał przeblyski. Jest coś, co oświetla, fenomenologia 
+Husserl ateistą, ale i on miał przebłyski. Jest coś, co oświetla, fenomenologia 
 próbuje puścić snop światła. On przenosi z jednego świata w inny. To się dzieje 
-w badaniu fenomenologicznym. Jeśli ujmuję przedmiot jakodany w myśli, to jest on 
+w badaniu fenomenologicznym. Jeśli ujmuję przedmiot jako dany w myśli, to jest on 
 wykluczony jako wyobrażenie. Żeby wyczerpać świat musiałby zaprosić do działania 
 super świadomość transcendentalną. Ale jej nigdy Husserl wprost nie opisał. 
 Mówi, że może wszystko zniknąć, ale ona zostanie. Jest tym czynnikiem, który 
@@ -2230,12 +2230,12 @@ się przełożyć na jednostki.
 rzeczywistości ma być wyjaśnialna, eksplikowalna, wytłumaczalna poprzez 
 odniesienie się do danych o charakterze psychicznym, czyli związanym z tym, co 
 nazywa się *aparatem psychicznym* -- pewne procesy myślowe o charakterze 
-fizologicznym; sprowadził i uzależnił tzw. *rzeczywistość obiektywną* do 
+fizjologicznym; sprowadził i uzależnił tzw. *rzeczywistość obiektywną* do 
 procesów myślowych -- jedynie te procesy myślowe są racją poznania, jednak 
 prawdy (efekty takiej procedury) mają charakter subiektywny, ograniczony -- 
 wszelkie poznanie nie może wykroczyć poza procesy fizjologiczne, wszystkie 
-prawdy związane z procesami umyśłu o charakterze wymiernym -- to było 
-stanowisko, które odsuwało prawdy o charakterze apriorucznym, uważało, że gdyby 
+prawdy związane z procesami umysłu o charakterze wymiernym -- to było 
+stanowisko, które odsuwało prawdy o charakterze apriorycznym, uważało, że gdyby 
 zmieniła się sama struktura ludzkiego umysłu, przepływów nerwowych, to 
 zmieniłyby się prawdy, które my uznajemy za prawdy niezmienne, prawdy 
 o charakterze apriori
@@ -2389,7 +2389,7 @@ jako element świadomości absolutnej, o której marzył Hegel.
 
 *Ego transcendentalne* ma być źródłem konstytucji świata. Skłon ku idealizmowi 
 powodem do licznych polemik. Świat całkowicie zależny od działań świadomości 
-znajdującej się w jakiejś przestrzeni ezotorycznej, bez odniesień czasowych, bez 
+znajdującej się w jakiejś przestrzeni ezoterycznej, bez odniesień czasowych, bez 
 historii. Byłaby czymś absolutnym zarówno jeśli chodzi o przestrzeń, jak 
 i o czas.
 
@@ -2434,7 +2434,7 @@ w pierwotnych intuicjach poznane. To jest problem **bycia**.
 Młody Heidegger otrzymał w młodości książkę Brentany o wielu znaczeniach bycia 
 u Arystotelesa. Przejął się tym problemem -- z nim pozostał do samego końca. 
 Myśliciel myśli o jednym, nabiera różnych sposobów, jak sam stwierdzi w *Liście 
-o humaniźmie*. Problem **bycia**, **sein**. Problem jednostki ustosunkowującej 
+o humanizmie*. Problem **bycia**, **sein**. Problem jednostki ustosunkowującej 
 się do tego bycia. Bycie wpadło w zapomnienie, zostało pomieszane, zestawione na 
 swoją niekorzyść i utożsamione z bytami.
 
@@ -2451,7 +2451,7 @@ przyznamy, że dla Husserla intencjonalność dotyczyła związku świadomości 
 istnieje już związek świadomości ze światem, bo to jest coś wtórnego. To być 
 może nastąpi pod wpływam działań poznawczych, ale to nie jest istotne.
 
-Przedstępne rozeznanie faktu, że jeśli mam do czynienia z bytem, to jest on 
+Przedwstępne rozeznanie faktu, że jeśli mam do czynienia z bytem, to jest on 
 w związku ze swoim byciem. Ten związek będzie inspiracją poczynań wczesnego 
 Heideggera, zostanie na wiele sposobów wytłumaczony i opisany w podstawowym 
 dziele: *Byciu i czasie*.
@@ -2476,7 +2476,7 @@ jak *ego transcendentalne*.
 
 Dla Husserla źródłem sensu jest twór ponadczasowy, ponadprzestrzenny, 
 wyczyszczony z empirii, emocji, cielesności, związków z jakimkolwiek światem. 
-Matryca wszselkich matryc; możliwość i źródło wszystkich możliwych sensów. 
+Matryca wszelkich matryc; możliwość i źródło wszystkich możliwych sensów. 
 Husserl poszedł w stronę idealizmu. Tego nie mógł mu wybaczyć na przykład 
 Heidegger.
 
@@ -2500,9 +2500,9 @@ Dasein, w co zostało wrzucone. Od ontologicznej struktury pochodzą wszystkie
 ontologiczne stosunki między jednym elementem Dasein a tym, przez co ten element 
 został uwarunkowany i co musi warunkować. Heidegger swój wykład, hermeneutykę 
 bytu jednostkowego, przygodnego, umieszczonego w czasie i przestrzeni rozpoczyna 
-od przedstawienia tego, co nazywa **egzystencjaliami**. Tego, co dotyczy 
-*Dasein* i jego związków ze światem, w przeciwieństwie do tego, co filozofia 
-będzie nazywała kategoriami. Podstawową charakterystyką tego specyficznego 
+od przedstawienia tego, co nazywa **egzystencjałami**. Tego, co dotyczy *Dasein* 
+i jego związków ze światem, w przeciwieństwie do tego, co filozofia będzie 
+nazywała kategoriami. Podstawową charakterystyką tego specyficznego 
 uprzywilejowanego onto-ontycznie bytu, który jest nakierowany na swoje własna 
 bycie i poprzez to bycie nakierowuje się na inne bycia innych bytów, jest 
 w charakterze czasowym, jest w danej przestrzeni, posiada swoją przeszłość, 
@@ -2540,14 +2540,14 @@ ostatecznej możliwości, jaką jest śmierć:
 
 - mogę stanąć oko w oko z nią, zachować autentyzm istnienia jako czegoś 
 niepowtarzalnego
-- mogę dokonać ucieczki/próbu ucieczki, tutaj wchodzę w modi ucieczki w *się*, 
+- mogę dokonać ucieczki/próby ucieczki, tutaj wchodzę w modi ucieczki w *się*, 
 to jest takie modi, które powoduje, że próbuję rezygnować z tego, co sumienie 
 nakazuje realizować jako swój byt, uciekam w nieautentyczność, chowam się między 
 innymi *Dasein*, zawierzam im i przyjmuje ich propozycje, rozwiązania: czytam 
 tak jak się czyta, wybieram to, co mam wybrać; tutaj Heidegger jest przenikliwym 
-prorokiem tego, co nastąpi jako kiltura masowa, a z drugiej strony pozbawienia 
+prorokiem tego, co nastąpi jako kultura masowa, a z drugiej strony pozbawienia 
 indywidualności z szeregu wyborów, które mają charakter świadomości, która 
-została ztotalizowana i poddana zbiorowemu charakterowi egzystencji
+została *ztotalizowana* i poddana zbiorowemu charakterowi egzystencji
 
 Bycie w świecie jako podstawowy egzystencjał opisujący *Dasein* jest byciem 
 szczególnego rodzaju. Nie jest nam potrzebna wiedza (jak rozumie ją tradycja), 
@@ -2595,7 +2595,7 @@ w rzeczywistości pewnych sygnałów takich jak coś niesamowitego, kiedy człow
 czuje się obco to jest ta alienacja, albo też dostosowanie na tej zasadzie, że 
 jest współpraca z innymi *Dasein* zaangażowanymi w pewien naczelny projekt.
 
-Podsumowując: można powiedzieć, że rozpoczynając swojąc przygodę z filozofią 
+Podsumowując: można powiedzieć, że rozpoczynając swoją przygodę z filozofią 
 jako swoistego rodzaju hermeneutyką, czyli próbą wytłumaczenia struktury 
 specyficznego bytu jakim jest człowiek, *Dasein*, Heidegger wskazuje na pewne 
 racje nadrzędne, które muszą zaistnieć, by w ogóle taka robota filozoficzna 
@@ -2641,11 +2641,12 @@ do tego, co ma realizować swoje autentyczne możliwości.
 Heideggera przerobiliśmy dość schematycznie -- odwołując się do egzystencjałów. 
 Heidegger rozróżnia dwa typy badań -- ontyczne, dotyczące rzeczywistości danej, 
 rzeczywistej, rzeczowej. Heidegger odchodzi od głównego założenia Husserla 
-uznając, że wynawiasowanie, które chce badać jedynie martwe, pozaczasowe istoty, 
-jest badaniem wręcz szkodliwym, niewnoszącym wiele do tego, czego oczekiwałby 
-człowiek od badań filozoficznych, od swoiście przez Heideggera pojętej 
-hermeneutyki -- wyjaśnienia tego, co człowiek nie jest w stanie bezpośrednio 
-uchwycić, a jest w środku procesu bycia tym, co jest *najbliższe i najdalsze*.
+uznając, że *wynawiasowanie*, które chce badać jedynie martwe, pozaczasowe 
+istoty, jest badaniem wręcz szkodliwym, niewnoszącym wiele do tego, czego 
+oczekiwałby człowiek od badań filozoficznych, od swoiście przez Heideggera 
+pojętej hermeneutyki -- wyjaśnienia tego, co człowiek nie jest w stanie 
+bezpośrednio uchwycić, a jest w środku procesu bycia tym, co jest *najbliższe 
+i najdalsze*.
 
 Ważne rozróżnienie, którego dokonuje Heidegger -- pomiędzy byciem a bytami. 
 Z bytami jesteśmy zaznajomieni od Platona, przez całą tradycję filozofii -- 
@@ -2663,13 +2664,13 @@ fenomenologii husserlowskiej. Ta transgresja polega na tym, że deklaruje on
 wprost, że jeśli fenomenologia ma mieć uzasadnienie, to musi być ontologią -- 
 musi więc postawić pytanie o racje (nie w sensie Leibnizowskiej *racji 
 dostatecznej*), tą racją jest intuicja, obraz czegoś, co ledwo przybiera tę 
-nazwę, jak w teolgoii apofatycznej (negatywnej), można zwracać się do tego 
+nazwę, jak w teologii apofatycznej (negatywnej), można zwracać się do tego 
 czegoś jako do *bycia*. Nie jest to coś transcendentnego, absolutnego. Jest 
 *byciem* danego bytu. To bycie danego bytu jest sprzężeniem, synergią, który 
 odsyła jeden element do drugiego, a drugi do pierwszego. Bez żadnych decyzji co 
 do ważności stopnia tego czegoś.
 
-To jest intuicja pierwotna, dotyczy czegoś ważnego -- póżniej zastąpiono to 
+To jest intuicja pierwotna, dotyczy czegoś ważnego -- później zastąpiono to 
 czymś, co jest *będące*. Dokonano zapomnienia zasadniczej różnicy między byciem 
 i bytami. Mówiono o byciu, ale poruszano się w domenie bytów.
 
@@ -2695,7 +2696,7 @@ uzasadnienia.
 
 To jest to, co Heidegger rozwija w odniesieniu do Dasein w odróżnieniu od 
 kategorii, które służą innym faktom poznawczym, nauce. Nazywa je (te, które 
-rozwija) *egzystencjaliami* jako tymi, które obejmują ten typ *bycia w świecie*, 
+rozwija) *egzystencjałami* jako tymi, które obejmują ten typ *bycia w świecie*, 
 ponieważ bycie w świecie jest podstawowym wyznacznikiem, jakie charakteryzuje 
 Dasein.
 
@@ -2745,7 +2746,7 @@ upadania** -- ona jest wpisana w los człowieka, w udział w historyczności,
 dziejowości. To jest ta koncepcja opisana poprzez kategorie możliwości bycia 
 nieautentycznym, przyjęcia modi *das Mann* -- bezosobowe modi, które 
 przyjmujemy, gdy człowiek nie chce/boi się/jest głuchy na głos sumienia 
-przychodzący z nikąd -- przyjmuje sposób istnienia na wzór istnienia innych, to 
+przychodzący znikąd -- przyjmuje sposób istnienia na wzór istnienia innych, to 
 jest to *się*, to co robią inni, żeby się nie wyłamywać. Heidegger sięga do 
 etymologii -- ona zatrzymała pewną głębię.
 
@@ -2851,13 +2852,13 @@ antropologicznej).
 
 W pewnym okresie bardzo blisko współpracował z Heideggerem. Autobiografia: pewne 
 fakty bulwersujące, jeśli chodzi o stosunek tych dwóch. Zdawałoby się, że 
-pozorna zblieżność, jednak rozbieżność zarówno jeśli chodzi o osobowość 
+pozorna zbieżność, jednak rozbieżność zarówno jeśli chodzi o osobowość 
 i rozbieżność badań. Kiedy nie przetłumaczono jeszcze wszystkich pism, to 
 tendencje ich łączące były popularne.
 
 Jaspers psychiatrą. Najpierw inspirował się Kantem, później odkrywa Kierkegaarda 
 i Nietzschego, którego wprowadza na scenę filozofii europejskiej. Jest 
-wyposażony w narzędzie do rozstrzegania fałszywych sądów, egzystencjalizm 
+wyposażony w narzędzie do rozstrzygania fałszywych sądów, egzystencjalizm 
 uważany jest za naukę nieopartą w rzeczywistości -- ten mit zostaje obalony. 
 Jaspers dokonuje ścisłego podziału między nauką i filozofią. Żyje wtedy jeszcze 
 pozytywizm, który chce zepchnąć jedynie do analizy pojęć, albo wprost odebrać 
@@ -2875,7 +2876,7 @@ Punktem wyjścia jest *byt* -- rozumiany na sposób filozoficzny (nie jest to
 się zajmowały nauki empiryczne -- one mają określony, ale i ograniczony 
 charakter i zakres działania. Chodzi o rozgraniczenie, dokonanie eliminacji, 
 żeby nie popadać w zamęty zakresowe. Byt jest kategorią *rządzącą*, jest 
-kategorią, która ustawia refleksję filozoficzną. Ten byt jest w pewnym sensiem 
+kategorią, która ustawia refleksję filozoficzną. Ten byt jest w pewnym sensie 
 zrelacjonowany do tego, co stanowi pierwotne zainteresowanie Jaspersa, a więc do 
 bytu ludzkiego.
 
@@ -2889,7 +2890,7 @@ poziomie czystej empirii, czyli mówi o czymś takim, że Dasein, czyli byt ludz
 w wymiarze empirycznym, jest bytem cielesnym, który jest zindywidualizowany, 
 bytem, który wykazuje funkcje organiczne, który musi dbać, by dokonać 
 prokreacji, utrzymać się przy istnieniu, spełniać podstawowe potrzeby -- jest on 
-w pewnej określonej rzeczywistości, ale Jaspers już tu inicjuje swoją katerorię 
+w pewnej określonej rzeczywistości, ale Jaspers już tu inicjuje swoją kategorię 
 (bardzo, zdaniem Mroza, twórczą, nośną) -- kategorię **sytuacji**. Mówi o tym, 
 że byt empiryczny, pierwszego poziomu Dasein, jest bytem usytuowanym, czyli 
 mieści się w określonej rzeczywistości, w określonym świecie. Byt, który nie 
@@ -2924,14 +2925,14 @@ możliwościowe -- on dokonuje wyborów, takiej budowy, nadawania sensu temu, co
 pierwotnie jest tego sensu pozbawione. Przebudowuje rzeczywistość, wychodzi poza 
 nią i następny motyw tej filozofii to jest kierunek tego wychodzenia.
 
-Podsumowując dotychczasowe -- lekar psychiatra, uważa, że człowiek nie może 
+Podsumowując dotychczasowe -- lekarz psychiatra, uważa, że człowiek nie może 
 zostać zamknięty w jakiejś jednej formule -- na przykład antropologii, która 
 traktuje go tylko w jednym aspekcie. Nie jest natomiast skłonny przyznać 
 idealizmowi racji, że człowiek to jest tylko duch, albo fenomenologom (zarówno 
 Husserlowi jak i Heideggerowi), że to jest świadomość i ona narzuca światu swoje 
 prawa, ten świat konstytuuje. On jest trzeźwo myślącym filozofem, który stara 
 się nie odchodzić od podstawowych faktów. Jest trójdzielna koncepcja Dasein, 
-czyli bytu ludzkieg jako bytu empirycznego, bytu świadomościowego, który potrafi 
+czyli bytu ludzkiego jako bytu empirycznego, bytu świadomościowego, który potrafi 
 dokonywać uogólnień (pewien typ wiedzy) no i to, co człowieka będzie wyróżniało, 
 co stanowi o jego człowieczeństwie, to jest poziom trzeci -- poziom duchowy, 
 który jednym wskazuje na to, w kierunku czego człowiek będzie przekraczał świat  
@@ -2973,7 +2974,7 @@ samostanowieniem, jak gdyby kreowaniem świata, który jest światem dla człowi
 człowieka, że on napotyka pewne granice, osiąga pewien stan, który jest stanem 
 niemożności, nieprzeniknięcia -- to jest tajemnica. Ona jest różnie opisywana 
 w różnych pismach -- jest to przede wszystkim działanie jakiejś struktury, która 
-byłaby wszechoragniającym wszechogarniającego. Jaspers jest wytrawnym erudytą, 
+byłaby wszechogarniającym wszechogarniającego. Jaspers jest wytrawnym erudytą, 
 jest autorem pojęcia *okresów osiowych*, kiedy ludzkość niezależnie od siebie 
 wpada na pewne pomysły -- wszędzie znajduje się pewien ładunek wskazujący na to, 
 że człowiek od samego zarania z zagadką i problemem bytu zmagał się -- on przed 
@@ -3007,7 +3008,7 @@ empiryczno-fizjologicznego, życzeniowego -- na pierwszy poziom. Świadomość a
 Ćwiczenie duchowe polega na tym, że to wszystko musimy komunikować -- filozofia 
 Jaspersa jest **filozofią komunikacji**. Komunikacja z szyfrem, z tym, co jest 
 transcendencją, wolnością, wreszcie międzypodmiotową, z poszczególnymi 
-dziedzinami aktywności człowieka. Taką dziedziną na przykład filozofia, króra 
+dziedzinami aktywności człowieka. Taką dziedziną na przykład filozofia, która 
 nie rości sobie praw do podania ostatecznych rozwiązań, ale jest próbą 
 *ujaśniania*. Komunikacja, która ma wskazywać, że od stuleci jesteśmy 
 nakierowani na kierunek *tam*, na szyfry, które płyną, staramy się w jakiś 
@@ -3035,7 +3036,7 @@ konflikt między filozofią jako działalnością, refleksją nad bytem jako byt
 a naukami poszczególnymi, które chciałyby filozofię wepchnąć w określone ramy 
 i kazać zajmować się tylko tym, co jest wymierne. Jaspers protestuje przeciw 
 temu. Jako lekarz psychiatra i filozof wierzy w coś takiego jak wyjątkowość bytu 
-ludzkikego -- poświęca temu pierwsze prace wskazując na przygodę z istnieniem na 
+ludzkiego -- poświęca temu pierwsze prace wskazując na przygodę z istnieniem na 
 przykładzie dwóch myślicieli, których właściwie udostępnia kulturze europejskiej 
 -- Kierkegaarda i Nietzschego. Uważa, że prawdziwym sposobem na istnienie 
 człowieka jest transcendencja, czyli przekraczanie tego, co znajduje się tu 
@@ -3162,7 +3163,7 @@ jako specyficzne modi nakierowywania się świadomości na świat, to wyobraźni
 jest zubożeniem, koncentracją na wybranych aspektach konstytuowanego przedmiotu. 
 Nie traktujemy i nie zakładamy tezy o istnieniu, operujemy tezą o nieistnieniu. 
 Operujemy tezą **nicościującą**. Musimy przedmiot wyjąć z całej siatki 
-wszystkich współzależnień, całości danej we fragmencie świata, wyjąć, 
+wszystkich współuzależnień, całości danej we fragmencie świata, wyjąć, 
 wyizolować, odebrać mu pewne uposażenia, które przysługują mu z natury. Tak 
 ukonstytuowany przedmiot nazywamy przedmiotem wyobrażonym -- on daje nam się 
 w całości, jako coś, co jest skończone i zamknięte.
@@ -3194,7 +3195,7 @@ tak, jak traktowano go dawniej. Ona może ten świat opatrzeć tezą nicościuj�
 Świadomość jest raczej procesem takim, który ma możliwość *prucia* 
 rzeczywistości -- to okaże się jej funkcją podstawową. Ona wprowadza porządek, 
 który nie interesował filozofów. Teraz będzie Sartre'a interesował stosunek 
-świadomości do świata taki, że od świada się odsuwa, aby realizować swoją *cechę 
+świadomości do świata taki, że od świata się odsuwa, aby realizować swoją *cechę 
 konstytutywną*, jaką jest zdolność do *neantyzacji == nicościowania*. To jest 
 zaczątek, geneza tego wszystkiego, co rozumiemy pod słowem *egzystencjalizm* -- 
 wskazanie na takie uposażenie świadomości, że jest ona ocieraniem się do 
@@ -3202,7 +3203,7 @@ nicości. Z możliwości neantyzowania rzeczywistości przejście do analiz
 w kategoriach bytu ludzkiego. Jest to byt, który został naznaczony (bez żadnych 
 autorów tego naznaczenia) podstawową nicością.
 
-Z innych modi, jak myśl czy emocje, Sartr też wyciągnie wnioski, najważniejszym 
+Z innych modi, jak myśl czy emocje, Sartre też wyciągnie wnioski, najważniejszym 
 wnioskiem jest to, że byt ludzki jest związany ze świadomością i charakteryzuje 
 się on różnicą ontologiczną z rzeczywistością, bo tak naprawdę tego bytu 
 ludzkiego *nie ma* w takim sensie, jak są przedmioty -- jest on nicością, bo nie 
@@ -3252,7 +3253,7 @@ człowieka opisać, co jest najistotniejsze, jest coś takiego?
 
 Zwrócenie uwagi na drugi sposób nakierowywania się na świat -- przez 
 wyobrażenia, przez zdolność odwracania się od tego świata, negowania go, 
-neantyzowania, unicestwienia. Powieść, które miała te tezy uplastyzcnić, 
+neantyzowania, unicestwienia. Powieść, które miała te tezy uplastycznić, 
 przedstawić w porządku narracyjnym, okazała się arcydziełem.
 
 Forma powieści -- dziennik, który pozwala w sposób plastyczny przedstawić pewne 
@@ -3445,9 +3446,9 @@ dopiero, aż zacznie się ten żywioł moich projektów, które mają mnie do
 przyszłości doprowadzić i tam ma czekać na mnie to, co zostanie ze mnie -- tym, 
 kim będę, ale wtedy, w tym momencie, kiedy już mnie nie ma, bo przestałem 
 egzystować, zapadam się w tę absolutną niemożliwość możliwości -- to jest 
-śmierć. Zostaję przesunięty ze sferty egzystencji do sfery martwego 
+śmierć. Zostaję przesunięty ze sfery egzystencji do sfery martwego 
 bytu-w-sobie. Wtedy dopiero można powiedzieć o tym, że to był człowiek taki 
-a taki, bo cała jego projektowość się zamknęła, wyczzerpała, ona się 
+a taki, bo cała jego projektowość się zamknęła, wyczerpała, ona się 
 *zamroziła*, taki człowiek nabywa cech, które charakteryzują świat, 
 bytu-w-sobie.
 
@@ -3491,7 +3492,7 @@ przepaść, coś, czego nie da się przekroczyć. Nie da się przekroczyć pola
 podmiotowo-świadomościowego i tego, na co to pole się nakierowuje, w czym to 
 pole się znalazło jako świadomość usytuowana. To jest różnica nie do pogodzenia. 
 Ta formuła wygląda tak, że jeśli przyjmuję ten niepodważalny związek cogito ego 
-i cogitatum, więc związek trzech jedności (jest świadomość, ona prawem 
+i *cogitatum*, więc związek trzech jedności (jest świadomość, ona prawem 
 intencjonalności jest świadomością czegoś), to okazuje się, że jeśli działa 
 prawo kartezjańskie i zasada intencjonalności Husserla, to mojemu oglądowi, 
 mojemu nakierowaniu *ja* będzie dany przedmiot bliski mi, to będzie będzie to 
@@ -4063,7 +4064,7 @@ tajemnicą, musi się on całkowicie zaangażować, nie żeby wyjaśnić tę taj
 ten świat wymaga pewnego innego odniesienia, że nie jest on końcem i początkiem 
 samym w sobie. On wskazuje na to, co później Marcel nazywa **darem**, co płynie 
 z transcendensu, bytu absolutnego, jako takiego. Marcel nie mówi tu o Bogu, nie 
-chce uprawiać taniej teologii. On jest w sferze tajemnicy, angażując jednotkę 
+chce uprawiać taniej teologii. On jest w sferze tajemnicy, angażując jednostkę 
 otwiera mnie na to absolutne **Ty**, bo podstawą świata nie tylko wypełnienie 
 żyjącymi egzystencjami, ale też tymi, które kiedyś istniały -- one nie umierają, 
 ponieważ my podtrzymujemy je w ich istnieniu.
@@ -4446,8 +4447,8 @@ doświadczeniami tego bytu: negatywnymi i pozytywnymi. W tym wszystkim
 uczestniczy, regulując te procesy, świadomość ucieleśniona.
 
 Marcel był pierwszy, jeśli chodzi o fenomenologię cielesności, która jest 
-obdarzona afektywnością, myśleniem, refleksyjnością, autorefleksyjnością. To 
-jest **świadomość ucieleśniona**.
+obdarzona afektywności, myśleniem, refleksyjnością, autorefleksyjnością. To jest 
+**świadomość ucieleśniona**.
 
 Ten problem pojawi się u myśliciela, który zaważył nie tylko na losach XX 
 wiecznego egzystencjalizmu, ale na całej filozofii. *Sklamrował* problematykę 
@@ -4478,7 +4479,7 @@ poznanie filozoficzne -- **doświadczenie świata przeżywanego jako pewnej
 
 Czy to nie jest zmiana czysto werbalna? Czy nie jest to jakiś wybieg? MP widzi 
 stan poznawczy jako obciążony tymi samymi ciężarami, które zauważali Husserl 
-i Heidegger -- całym dziedzictwem pozytywizmu, scientyzmu idącego ku stronie 
+i Heidegger -- całym dziedzictwem pozytywizmu, scjentyzmu idącego ku stronie 
 przedmiotowej: rozdział między włazami poznawczymi podmiotowymi a przedmiotem 
 jest ciągle nie zniesiony, uniemożliwia dotarcie do źródeł.
 
@@ -4690,7 +4691,7 @@ Percepcja to jest pojęcie niesamowicie pojemne. To jest cały zestaw. Ten świa
 wymaga też cudu objęcia go. Percepcja jest opisana na tysiące sposobów. Ja 
 *mogę* układać te elementy, poznawać je kolejnymi rzutami. To nie jest 
 olśnienie, ja się mozolnie tego uczę. Świat się jawi w pewnych rzutach. Sens 
-tego domu, transfenomen (jak mówił Sartre), sens, jak mówił MP, to jest całość 
+tego domu, *transfenomen* (jak mówił Sartre), sens, jak mówił MP, to jest całość 
 możliwych oglądów przeszłości, teraźniejszości i przeszłości. To jest ta całość. 
 Ona nigdy nie będzie dana, mogłaby być dana tylko w oglądzie boskim. Bóg byłby 
 *spełniaczem* wszystkich aktów, bo Bóg wie czego my nie wiemy. Koncept wiedzy 
