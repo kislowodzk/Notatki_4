@@ -258,50 +258,155 @@ zredukować do przeżyć, wrażeń), może spełnić postulaty odpowiedzialnośc
 
 ### IX. Wolność a odpowiedzialność
 
+Osoba, która ma ponosić odpowiedzialność, musi być **wolna** w decyzjach 
+i czynach. Czyn musi wynikać z inicjatywy tej osoby.
 
+Aby osoba działająca była *niezależna* od otoczenia, musi mieć w sobie centrum 
+działania i pewne mechanizmy obronne, które ochraniają ją od przeszkodzeń 
+w działaniu, jednak równocześnie ma być podatna na ingerencje pochodzące 
+z zewnątrz o tyle, że jej odpowiedzialność płynie ze współpracy z innymi ludźmi. 
+Pod jednym względem ma więc być *otwarta*, pod innym *zamknięta* -- tworzy więc 
+*system względnie izolowany*.
 
+Działanie jednostki przy tym wszystkim musi być *rozumne*, musi prowadzić do 
+danego celu.
 
+Tworzący osobę człowiek systemem bardzo skomplikowanym, zbudowanym z systemów 
+pomniejszych. Sam jest systemem częściowo izolowanym, jego podsystemy (na 
+przykład organy wewnętrzne) też takie są. Dzięki temu człowiek to cała 
+hierarchia względnie izolowanych systemów wyższych i niższych rzędów 
+spełniających odpowiednie funkcje.
 
+Organizm ma dwa podstawowe systemy:
 
+- A -- System utrzymania się przy życiu
+- B -- System rozmnażania
 
+Wszystkie podsystemy w ramach organizmu mają *osłony*, które pozwalają do ich 
+wnętrza przeniknąć szczególnym wpływom, a innym wpływom przejść na zewnątrz. To 
+prowadzi do współpracy wszystkich funkcji tych systemów, a w konsekwencji ro 
+płynnej równowagi organizmu.
 
+Narządy zmysłowe są systemami częściowymi otwartymi, które przeprowadzają 
+selekcję procesów zewnętrznych, jeśli te procesy przekraczają pewien *próg 
+wrażliwości*, to dochodzi do *wrażenia*. Sito narządów zmysłowych zatrzymuje 
+jednak część danych. Tak samo jest z detekcją informacji o zdarzeniach 
+zachodzących w ciele.
 
+Szczególnym elementem, który konstytuuje się w dzięki systemowi informacji, jest 
+*strumień świadomości*. Nie jest to system, ponieważ ma formę procesu. Wymaga 
+fundamentu bytowego i znajduje go z jednej strony w ciele, z drugiej w duszy. 
+Jest *płaszczyzną styku między duszą a ciałem*.
 
+Dusza nie jest tożsama ze strumieniem świadomości. Lecz także nie wszystko, co 
+dzieje się w duszy, dochodzi do świadomości. *Ja* musi dopiero spostrzec, co 
+dzieje się w jego duszy -- także w zakresie charakteru. Dusza, tak jak ciało, 
+jest również systemem względnie izolowanym. Skoro nie wszystko w duszy jest 
+rejestrowane przez świadomość, to okazuje się, że dusza może działać na ciało 
+bez wpływania na świadomość.
 
+Skoro duszę można uważać za system względnie izolowany od ciała, to okazuje się, 
+że człowiek składa się z następujących elementów:
 
+- ciała (systemy A i B)
+- *ja* ze strumieniem przeżyć
+- duszy
 
+Dzięki koncepcji człowieka jako względnie izolowanego systemu otwiera się 
+możliwość realizowania *własnych*, *niezależnych* od świata zewnętrznego 
+działań, które są przyczynowo uwarunkowane w samym człowieku. Zależą nie tylko 
+od systemowej struktury człowieka, ale też od jego indywidualnej historii 
+i okoliczności, w których znajduje się w świecie. Chodzi tu nie o dogłębną 
+analizę, lecz tylko wskazanie, że istnieje *zasadnicza możliwość* wolnych 
+działał.
 
+### X. Przyczynowa struktura świata
 
+Pozostaje jeszcze pytanie, czy przyczynowa struktura świata realnego jest taka, 
+że możliwe są w niej systemy względnie izolowane? Jeśli na przykład świat byłby 
+ściśle zdeterminowane, to nie mogłaby istnieć odpowiedzialność.
 
+Założenia radykalnego determinizmu:
 
+- każda przyczyna jest wcześniejsza od skutku
+- gdy mamy dwa przekroje przez świat zdarzeń jednoczesnych, z których jeden jest 
+wcześniejszy od drugiego, to przekrój późniejszy jest wyznaczony przez 
+wcześniejszy jednoznacznie i kompletnie
 
+Co jednak z wydarzeniami tej samej teraźniejszości (yup, Ingarden ignoruje tu 
+teorię względności aż miło)? Czy mogą między nimi istnieć powiązania 
+przyczynowe? Jeśli nie, to stanowią one jedną całość, która byłaby niezmienna 
+w teraźniejszości i punktowo zmieniałaby się z przejściem do następnej. Nie ma 
+wtedy sensu pytać o pojedyncze przyczyny. Jeśli mogą one istnieć, to w jednym 
+(teraźniejszym) stanie świata istnieje wielość zdarzeń, ale musi też istnieć 
+inna zasada jednolitości stanu świata.
 
+Ingarden na miejsce skrajnego indeterminizmu i determinizmu proponuje inną 
+koncepcję, zgodnie z którą świat byłby wielością częściowo otwartych, a zarazem 
+częściowo izolowanych systemów, które są powiązane związkami przyczynowymi. Mamy 
+tu stany faktyczne, które są jednoczesne, a zarazem bytowo niezależne. W losy 
+jednego systemu może wniknąć proces z innego systemu -- przynajmniej częściowo 
+zależy to od pewnych wcześniejszych stanów faktycznych drugiego systemu.
 
+Struktura systemów również może być hierarchiczna lub tworzona przez systemy 
+równorzędne. Skutek jest przyczynowo niezależny od zewnętrznego otoczenia 
+systemu nadrzędnego, jeśli ogół początkowych zdarzeń procesów krzyżujących się 
+w systemie nadrzędnym (a przez to prowadzących do skutku) znajduje się we 
+wnętrzu systemu nadrzędnego.
 
+Możliwość takiej struktury należy wykazać.
 
+Nowość tego ujęcia polega na tym, że dopuszcza ono różne stopnie i sposoby 
+*wolności* i *niewoli*.
 
+### XI. Czasowość świata a odpowiedzialność
 
+Odpowiedzialność splata się z czasem na trzy sposoby:
 
+1. przez to, że sprawca *pozostaje* odpowiedzialny po dokonaniu czynu
+2. przez to, że zostaje zachowana waga wartości, które przez czyn są 
+stworzone/unicestwione
+3. przez to, że wszystkie działania wiążą się z przyczynowym porządkiem świata 
+zakładającym czasową strukturę
 
+Kantowska koncepcja czasu nie pozwala na odpowiedzialność, ponieważ mogłaby ona 
+istnieć tylko w sferze doświadczenia, skoro dają nam się tylko zdarzenia
 
+Jeśli przyjmiemy realną strukturę czasu, to rozróżnia się na pewno przeszłość, 
+teraźniejszość i przyszłość. Bycie-teraz rozumie się jako punkt wstąpienia-w-byt 
+i natychmiastowego wystąpienia-z-bytu. Jeśli uznajemy coś takiego, to 
+wystąpienie-z-bytu uniemożliwia postanie identycznym przez wartości w czasie, 
+uniemożliwiając odpowiedzialność.
 
+Uznajemy więc, że to, co przyszłe, różni się od tego, co przeszłe swoją pozycją 
+wobec *teraz*, ale też swoim sposobem istnienia, jednak dalej pozostaje 
+*realne*, a przede wszystkim bytowo autonomiczne.
 
+To, co teraz, istnieje *in actu*. To, co przeszłe, już nie ma tego *in actu*, 
+w jego byciu przeszłym wyczuwa się to, że kiedyś *in actu* było ze szczególnym 
+wskazaniem na określone *teraz*, w którym było aktualne. To, co przyszłe, nie 
+jest *in actu*, charakteryzuje się jako nieobecne, jeszcze nie spełnione. To, co 
+przyszłe, musi zaczepić się o *in actu esse* teraźniejszej rzeczywistości, musi 
+z niej zaczerpnąć zdolność przejścia w określonym momencie czasowym do pełni *in 
+actu esse*. W określonym momencie czasowym przechodzi w aktualność i przez to 
+w tej teraźniejszości uzyskuje *in actu essse*. Przeszłe i przyszłe różni się 
+w swych sposobach istnienia od czegoś realnie istniejącego w jakimś *teraz*, ale 
+nie można powiedzieć, że jedno i drugie w ogóle nie istnieje, jak chciał 
+Augustyn.
 
+Wtedy, gdy wolno mówić o tym, co przeszłe i przyszłe, jako o bytowo 
+niezależnych, można twierdzić, że sprawca jest odpowiedzialny za spełniony przez 
+siebie czyn i jego efekt.
 
+Jaki jest w tym status wartości? Mówi się o realizowaniu wartości przez czyny. 
+Przy odpowiedzialności chodzi więc o czyny realizujące bądź unicestwiające 
+wartości, wartości wydają się więc włączone i wplątane w bieg realnych zdarzeń 
+w świecie.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Wartości są zawsze wartościami *czegoś*/*na czymś*/*w czymś* -- w tym, czego są 
+wartościami, znajdują podstawę bytową, która umożliwia ucieleśnienie się w tym 
+przedmiocie, osiągnięcie wcielenia. Sprawca jest odpowiedzialny za to, że 
+unicestwił lub stworzył przedmiot realny *jako* fundament bytowy określonej 
+skonkretyzowanej wartości. Tak samo odnosi się to do przeszłych konkretyzacji 
+wartości.
 
