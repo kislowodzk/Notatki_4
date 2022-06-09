@@ -158,7 +158,7 @@ pobrać, albo ona go nie kocha. Rycerz rezygnacji będzie podtrzymywał swoje
 uczucie. 
 
 Przeciwieństwo do Hegla. Hegla problemy jednostki pewnie by zbagatelizował, 
-porzędek i tak się zrealizuje.
+porządek i tak się zrealizuje.
 
 To nie jest tak, że ten porządek musi się dokonać. Esteta może cały czas 
 pozostać na tym stadium.
@@ -182,7 +182,7 @@ jest historia Hioba. Bóg może zawiesić prawo.
 Jung napisał książkę o Hiobie. Hiob jest terapeutą Boga, który pokazuje mu 
 ciemne zakamarki.
 
-Bóg u Kierkegarda: jaki jest?
+Bóg u Kierkegaarda: jaki jest?
 
 - niezrozumiały
 - obecny
@@ -229,7 +229,7 @@ Wielbłąd -> Lew -> Dziecko
 (afirmacja 1) -> (negacja) -> (afirmacja 2)
 
 Wielbłąd to ugięcie się pod ciężarem zastanych przekonań. Mówi tak, choć jest to 
-dla niego obciążające. To wymaga siły. Moment lwa jes momentem negacji 
+dla niego obciążające. To wymaga siły. Moment lwa jest momentem negacji 
 (absolutnej), to jest *nie* rzucone wszystkiemu. To jest moment powolnego 
 wykształcania się wolności. Wolność wewnętrznie pusta. Jeśli ten element jest 
 traktowany w stopniu absolutnym, to się wyczerpuje. Dziecko bliżej tego, żeby 
@@ -240,7 +240,7 @@ przechodzimy przez etapy nieczłowiecze. Dziecko wszystko tworzy, może to być
 początek dalszej drogi.
 
 Nietzsche lubi paradoksalne figury -- starzec stający się młodzieńcem, człowiek 
-znów stający się dzieckiem. Mamy prewną podwójność. *Nie* lwa jest czymś 
+znów stający się dzieckiem. Mamy pewną podwójność. *Nie* lwa jest czymś 
 odmiennym od *nie* Zaratustry. Stare tablice, które kruszy Nietzsche, są pewnymi 
 zastanymi przekonaniami. Domaga się ich kruszenia, jednak nie ma jeszcze nowych. 
 Stare tablice są już skruszone, a z drugiej nowych nie ma.
@@ -255,7 +255,7 @@ jest deklaracja ontycznego nieistnienia Boga. Bóg, jako gwarant porządku, ład
 jest martwy. Bóg-zombie. Coś, co jeszcze przygniata, ale już nie ma siły 
 sprawczej, być może zostanie za niedługo zostanie usunięte. Oparcie na 
 paradoksie -- Chrześcijaństwo przetrwało śmierć Boga. Paradoks tego, że raz 
-Zaratustra mówi, że tablice są skruszone, a póżniwj nawołuje do ich kruszenia.
+Zaratustra mówi, że tablice są skruszone, a później nawołuje do ich kruszenia.
 
 Co musi się stać po śmierci Boga? Człowiek musi sam podjąć wysiłek 
 kształtowania, tworzenia. Istotny element wytwarzania nowych wartości.
@@ -270,7 +270,7 @@ wszystkiego jako możliwość nowego doświadczenia, jako udowodnienia czegoś
 
 Wrogów się nienawidzi, a nie nimi gardzi.
 
-Cnota darząca -- w jaki sposób coś dajemu. Chodzi o to, że samym swoim 
+Cnota darząca -- w jaki sposób coś dajemy. Chodzi o to, że samym swoim 
 istnieniem, samą maksymalizacją siebie coś ludziom dajemy zachowując w tym 
 siebie. Nie jest to jałmużna -- wyparcie się siebie na rzecz innych.
 
@@ -292,11 +292,11 @@ jest nieustannym łamaniem siebie jest tutaj kluczową kategorią. Ten nadczłow
 nie jest żadną antropologicznie różną od człowieka istotą. Jest figurą, która 
 podkreśla inny stan podmiotowości, jest w stanie akceptować życie, nie uciekać 
 w eskapizm ani negację. Nadczłowiek będzie tym, który nowe wartości będzie 
-potrawił tworzyć.
+potrafił tworzyć.
 
 Wola mocy. To, co żyje, cechuje się wolą mocy. Ostatecznie wola mocy powinna 
 okazać się silniejsza od woli życia. Wola mocy nie jest wyłącznie kwestią 
-świadomej i wyartykuowanej woli mocy. Jeśli ktoś jest akademikiem, badaczem 
+świadomej i wyartykułowanej woli mocy. Jeśli ktoś jest akademikiem, badaczem 
 i mówi, że ma obiektywną prawdę, to nieświadomie kieruje nim wola tego, żeby być 
 dysponentem tej prawdy. Asceza (prawdziwa) ma w sobie głęboki rdzeń poszukiwania 
 perwersyjnej przyjemności. Ktoś w ascezie potrzebuje narcystycznego 
@@ -340,7 +340,7 @@ i fizyczne.
 Fenomenologia miała polegać na tym, że ani z matematyki, ani z psychologii nie 
 czerpie się wzorców, nie można ich brać z nauk szczegółowych -- filozofia ma być 
 nauką bezzałożeniową. Kartezjusz chciał osiągnąć punkt wyjścia -- musiał wątpić 
-w sposób absolutny. Metoda musi spełniać warunki punktu, do którego chcemu 
+w sposób absolutny. Metoda musi spełniać warunki punktu, do którego chcemy 
 dojść. Kartezjusz uznał, że jest to wątpienie. Różnica polega na tym, że Husserl 
 w swoim epoche zawiesza nie tylko tezę o istnieniu, ale także tezę 
 o nieistnieniu. Dzięki temu mógł opisać to, co się jawi, jak się jawi. To jest 
@@ -348,7 +348,7 @@ pierwszy Husserl. Problem redukcji.
 
 Epoche to *zawieszenie*, *wzięcie w nawias*, *zawieszenie naturalnego 
 nastawienia* -- to się czasem uważa za pierwszą redukcję. Druga redukcja to 
-redukcja ejdeetyczna -- do istoty fenomenu. Kolejna redukcja to redukcja do ego 
+redukcja ejdetyczna -- do istoty fenomenu. Kolejna redukcja to redukcja do ego 
 transcendentalnego -- to jest już Husserl późniejszy.
 
 Transcendentny to wykraczający poza. Transcendentalny to ze względu na warunki, 
@@ -361,7 +361,7 @@ aktów*, które jest jakimś założeniem. Jak możliwe są akty, myśli? Mamy a
 skąd one są? Jak je mentalnie *przedłużymy*, to zejdą się w punkcie ego 
 transcendentalnego. Akt świadomy daje nam się razem ze świadomością tego aktu 
 (to pozwala uniknąć problemu trzeciego człowieka w intencjonalności aktu aktu 
-aktu.... Ingarden i Heidegger odrzulali ten idealizm, ponieważ jest tu pewna 
+aktu.... Ingarden i Heidegger odrzucali ten idealizm, ponieważ jest tu pewna 
 pułapka -- wtedy to ego umożliwia, jest twórcze. U Husserla można to rozumieć 
 tak, że jest ego transcendentalne, które umożliwia świat, który widzimy. Czy 
 jest to ego nasze, jedyne, czy jakiś Bóg? Jeśli nasze, to mamy solipsyzm. Jak 
@@ -373,7 +373,7 @@ zewnętrznego, który zawiesił.
 W aktach *cogitationes* są ich przedmioty -- są takie sytuacje, gdzie nie ma 
 tych przedmiotów fenomenów (liczny, przedmioty myślowe), to one nie są w sensie 
 zwykłym rzeczywiste. One będą przedmiotem aktu myślowego. Zawiesiliśmy istnienie 
-i nieistnienie, możemy je swobodnie opisywać. Intencjonalność świadomośći jest 
+i nieistnienie, możemy je swobodnie opisywać. Intencjonalność świadomości jest 
 *oczymśnością*. Czysty opis tego, co mamy w świadomości, to jest fenomenologia 
 -- zwykle to robimy bez zawieszenia tezy o naturalnym nastawieniu. Husserl 
 chciał znaleźć podstawę naukową nauk szczegółowych. Twierdził, że jest jedna 
@@ -404,13 +404,13 @@ opiszemy go każdorazowo z innej strony.
 wprowadzenie.
 
 Opis fenomenu musi być intuicyjnie oczywisty. W naukach szczegółowych metodą 
-weryfikacji jest eksperyment, w fenomenologii jest to oczywistość, u Heidegerra 
+weryfikacji jest eksperyment, w fenomenologii jest to oczywistość, u Heideggera 
 jest to badanie egzystencjalne.
 
 Krzysztof Michalski -- najbardziej jasne wytłumaczenie Heideggera, jaką spotkał 
 prowadzący.
 
-Naczelne hało Husserla: *z powrotem do rzeczy samych*. Wcześniej filozofii 
+Naczelne hasło Husserla: *z powrotem do rzeczy samych*. Wcześniej filozofii 
 zarzucało się spekulatywność, brak pewności. Mamy wrócić do rzeczy -- do tego, 
 co nam się jawi, co jest niepodważalne. Im czystszy opis, tym lepszy.
 
@@ -449,7 +449,7 @@ strachu, cierpienia, to one się dają. Potem dopiero je *przed miotamy*, ale on
 najpierw są. Najpierw cierpimy, najpierw jesteśmy bólem, później je opisujemy. 
 To są *fenomeny nasycone* -- możemy na ich temat pisać i nie wyczerpiemy ich. 
 Takie fenomeny to też *miłość*, *zmęczenie*, *radość*, ... . Jedną z metod 
-wyjścia poza solipsyzm jest nie wychodzenia poza tefenomeny -- w nich nie ma 
+wyjścia poza solipsyzm jest nie wychodzenia poza te fenomeny -- w nich nie ma 
 tego dystansu.
 
 Husserl też próbował w ten sposób wrócić do tego *świata życia* -- taki świat 
@@ -461,7 +461,7 @@ Heidegger zastąpił Husserla na katedrze we Fryburgu. Różnica między Husserl
 a Heideggerem. Rozejście się ich sposobów myślenia. Według Heideggera Husserl 
 rozważał byt bez jego bycia -- bez czasu. Dla Heideggera ten zwrot 
 epistemologiczny będzie drugorzędny -- najpierw problem bycia. Rozróżnienie 
-poręczności i podręczności (/przedręczności) -- rozróżnienie użytecznego 
+poręczności i *podręczności* (/*przedręczności*) -- rozróżnienie użytecznego 
 przedmiotu i martwego przedmiotu. Nie poznamy długopisu dopóki nie będziemy go 
 używać, dopóki nie będzie on pisał.
 
@@ -509,7 +509,7 @@ szczególnym bytem, który ma możliwość zapytania o swoje bycie, a także o b
 innych bytów. Przekracza swój byt w stronę bycia. Byciem Dasein jest egzystencja 
 -- przekraczanie. Egzystencja jest właściwa tylko Dasein.
 
-Naistotniejsza jest czasowość. Dasein przekracza byt w kierunku bycia, ale jest 
+Najistotniejsza jest czasowość. Dasein przekracza byt w kierunku bycia, ale jest 
 w świat wrzucone. Funkcjonuje więc w jakiejś rzeczywistości. Nie ma Dasein bez 
 świata. Dasein zawsze do czegoś się odnosi, jednocześnie projektuje coś na 
 przyszłość, a więc jest już przed sobą. Napięcie pomiędzy byciem w świecie, 
@@ -563,11 +563,11 @@ określa podmiot, ale nie jest podmiotem. Drugim kontekstem (fenomenologia) --
 kontekst hermeneutyki. Koło hermeneutyczne -- ten przykład błędnego koła, które 
 ma nie być czymś złym. Będąc w świecie interpretujemy ten świat. To rozumienie 
 nigdy nie odbywa się w próżni -- mamy określone pojęcia, przesądy, zwyczaje, 
-wiedzę. Przez to budujemy kolejne przedsądy, które wpływają na rozumienie 
+wiedzę. Przez to budujemy kolejne *przedsądy*, które wpływają na rozumienie 
 świata. Dasein, jako bycie w świecie, oznacza, że zawsze jesteśmy w środku koła 
 hermeneutycznego, z którego nie możemy się wydostać. Jeśli w ten sposób 
 postrzegamy świat przez pośrednictwo jakichś kategorii, wysiłku rozumienia, 
-intepretowania, to być może rzeczywiście pozostajemy na kantowskiej pozycji. 
+interpretowania, to być może rzeczywiście pozostajemy na kantowskiej pozycji. 
 Potrzebujemy przestrzeni pojęć (języka), zbioru naszych przedsądów, które jest 
 tym światłem, które rzuca możliwość zrozumienia bytu. Język, pojęcia -- to 
 sprawia, że byty stają się bytami. Język poetycki jest dość migotliwy -- poezja 
@@ -601,7 +601,7 @@ Odwrócenie metafizyki to jeszcze nie jest zniesienie metafizyki -- to
 odniesienie do stwierdzenie Sartre'a, że egzystencja poprzedza esencję. Człowiek 
 swoją mniej lub bardziej świadomą aktywnością wytwarza swoją esencję (Sartre).
 
-Heidegger odróżnia eg-isstencję od egzystencji. Człowieka nie można sprowadzić 
+Heidegger odróżnia eg-sistencję od egzystencji. Człowieka nie można sprowadzić 
 do jego istoty, ani tym bardziej do jego faktyczności (egzystowania w takiej, 
 czy innej formie). Jak należy zadać pytanie o człowieka? O jego eg-sistencję 
 w prześwicie bytu. Pytanie o bycie ściśle łączone z myśleniem. Myślenie ma 
@@ -611,14 +611,14 @@ Myślenie może odnosić się do bycia jako takiego. Bycie nastawione na skutek.
 Myślenie stara się Heidegger oddzielić od działania -- ma ono być kontemplacyjne 
 -- kontemplacja bycia. Myślenie sprowadzone do działania jest dla Heideggera 
 *techne*, myślenie staje się techniką -- to jest problem. To się łączy ze 
-znienawidząną *amerykanizacją* -- dążenie do osiągania konkretnych celów za 
+znienawidzoną *amerykanizacją* -- dążenie do osiągania konkretnych celów za 
 pomocą zdobyczy techniki. To mylenie działania i myślenia miało się zacząć już 
 z Platonem i Arystotelesem. Tak, jak mowa może być domostwem bycia, może też 
 ulec dyktaturze opinii publicznej. Może też stać się machinacją, gdy ludzie nie 
 są w niej naprawdę zakorzenieni, przez użytkowanie mowy do panowania nad bytem. 
 To również jest wycieczka Heideggera w stronę techniki, ale również nauki, jako 
 tej, która uzurpuje sobie prawo do wyrażania bytu w języku jednoznacznym, 
-intersubiektywnym. Mowa staje się mową katalogijącą, a nie mową istoczącą.
+intersubiektywnym. Mowa staje się mową katalogującą, a nie mową istoczącą.
 
 Opinia publiczna, której ulega mowa. *Gramatyka* opinii publicznej -- mowa sama 
 miałaby potencjał nawet anarchijny, natomiast opinia publiczna narzuca pewne 
@@ -682,7 +682,7 @@ w świecie *są*.
 Wymiar sensu będzie kluczowy. Na każdą sytuacje możemy spojrzeć obiektywnie 
 (naukowo) i subiektywnie. Mamy osoby, które pozornie znajdują się w tej samej 
 sytuacji, jednak widzą w niej inne sensy, ograniczenia. Każda sytuacja istnieje 
-w sposób niedokończony, to my ją kończymy nadająć sensu.
+w sposób niedokończony, to my ją kończymy nadając sensu.
 
 Jesteśmy częściowo zdeterminowani przez warunki zewnętrznie. Mamy jednak możność 
 działania, wyboru, tworzenia samego siebie. Egzystencja ma możliwość kreacji 
@@ -695,7 +695,7 @@ naszą niemożliwością poznania w obliczu sytuacji, które nas przerastają,
 w których wiedza nabyta na podstawie codziennego doświadczenia już nie pomoże.
 
 Łatwo jest się zanurzyć w codziennej rutynie, jednak gdy rozwiązania, które 
-stosujemy na codzień, aby odwrócić wzrok od samego siebie, przestają działać, 
+stosujemy na co dzień, aby odwrócić wzrok od samego siebie, przestają działać, 
 mamy sytuację graniczną.
 
 Podobne myślenie jak u Kanta, u którego nie jesteśmy wolni, ponieważ mamy jakieś 
@@ -708,17 +708,17 @@ Jeśli boimy się śmierci jako piekła, to myślimy w takich kategoriach, w kt�
 byt nie kończy się na śmierci -- mamy ciągłość. Musimy wybrać możliwość 
 niemożliwości. Autentyczni jesteśmy wtedy, kiedy nie próbujemy tego *zagadać*
 
-(Tutaj Skibowski poleca *Śmierć Iwana Illicza*, jako przykład, który pomoże 
+(Tutaj Skibowski poleca *Śmierć Iwana Iljicza*, jako przykład, który pomoże 
 zrozumieć *trwogę*).
 
 To, jak podejdziemy do śmierci, rzutuje na to, jak będziemy myśleć o życiu. 
-Samobójstwo jest bewnym wyborem, przez który poddaję się lękowi -- nie jestem 
+Samobójstwo jest pewnym wyborem, przez który poddaję się lękowi -- nie jestem 
 *ja sam*, nie jestem sobą, uciekam przed możliwościami, na przykład przed 
-możliwością braku relacji miłosmych, straty pozycji społecznej.
+możliwością braku relacji miłosnych, straty pozycji społecznej.
 
 Sytuacje graniczne sytuacjami, które odsłaniają prawdę o świecie, ale też 
 o sobie samym. Sprawdzenie, czy moje wyobrażenie o sobie zgadza się z tym, kim 
-faktycznie okazuję się byc.
+faktycznie okazuję się być.
 
 Każdy człowiek jest w sytuacji, że komuś coś zabiera a komuś coś daje.
 
@@ -1058,4 +1058,37 @@ Z drugiej strony realizm -- ta tendencja skrajnie obiektywistyczna, tendencja
 społeczna. Jak wygląda całokształt doświadczenia epoki. Introspekcja, ale 
 wielość bodźców cielesnych. Również miałaby mieć charakter namysłu nad 
 teraźniejszością.
+
+## Ćwiczenia 15 -- 08.06.
+
+### Obcy
+
+Bohater jest tu oparty na wątkach biograficznych. Jego imię to pseudonim 
+artystyczny Camusa.
+
+Bohater postawiony przed śmiercią matki. Bohater nie potrafi się odnaleźć, 
+powinien być w stanie być przejęty, spotyka ludzi, których więcej obchodzi 
+śmierć jego matki, niż jego. Brak emocjonalnego przywiązania do życia.
+
+Spotkanie z sąsiadem, który jest stręczycielem. Nie jest to powód, żeby 
+rezygnować z tej znajomości. Bohater pisze za niego list.
+
+Zabójstwo. Więzienie -- opis życia wewnętrznego. Sprawa sądowa, zeznania. Sędzia 
+chciałby go uratować, bo jest Francuzem, ale on mówi prawdę. To, że on mówi, że 
+nie żałuje, bo nie wie, dlaczego tak się stało. Zamierzony absurd sytuacji.
+
+Bohater współczesnym Chrystusem. Ale też druga sprawa -- na ile jest Sokratesem.
+
+Obcy miałby być Hemingway'em, który pisze Kafkę. Proste zdania, jakbyśmy 
+oglądali coś zza szyby. Jesteśmy odseparowani od bohatera, ponieważ jest inny. 
+Wyobcowanie na dwóch poziomach: ze społeczeństwa (jest poza, nie utożsamia się, 
+reaguje tylko na to, co inni robią, nie rozumie konwencji społecznych, co 
+najwyżej się im poddaje, jego zachowania się dla społeczeństwa niezrozumiałe); 
+drugi poziom -- on i on sam, wyobcowanie wewnętrzne (czy on siebie zna, czy się 
+rozumie? życie z dnia na dzień -- zdania podstawowe, pisane w pierwszej osobie 
+czasu dokonanego, przeszłego; zbiór impresji, które się nie łączą).
+
+Poczucie *dziwności*
+
+Słońce -- figura ojca, patriarchat. 
 
