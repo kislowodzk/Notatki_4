@@ -1,8 +1,11 @@
 ## PRZESTRZEŃ
 
 - przedstawienie stanowiska Kanta
-- krytyka -- odniesienie do tekstu z kwantówki
-- o geometriach nieeuklidesowych -- tekst z fczip
+- o geometriach nieeuklidesowych -- tekst z fczip -- Sklar I
+- krytyka -- odniesienie do tekstu z kwantówki -- Maudlin o Putnamie
+
+- jedna z możliwych interpretacji -- HatKtSpc -- s.89, że jest ok w odniesieniu 
+do naszej "widzialnej" geometrii
 - może istnieje jakaś "ukryta" struktura, która nie jest geometrią euklidesową, 
 natomiast my tylko euklidesową postrzegamy -- tutaj Poincare i ludziki w dziwnym 
 świecie
@@ -10,6 +13,7 @@ natomiast my tylko euklidesową postrzegamy -- tutaj Poincare i ludziki w dziwny
 argument Russela -- 814
 - więc przestrzeń nie jest niczym wyróżnionym, jest dokładnie taka, jak na 
 przykład barwa i tak dalej
+
 - prolegomena -- §13 -- przedmioty symetryczne
 - też u Gołosza w sporze o naturę czasu i przestrzeni -- s. 49 i dalsze
     > Earman pokazuje również ogólnie (1989b, s. 140), że bycie prawym i lewym 
@@ -43,5 +47,7 @@ nam być w doświadczeniu nigdy dany przedmiot, który by nie podpadał pod waru
 czasu); odrzuca wszelkie roszczenie czasu do absolutnej realności, w której by 
 czas przysługiwał rzeczom jako ich warunek lub własność (86-7)
 - McTaggart
+- Metafizyka, Loux
 - Gołosz Upływ czasu i ontologia, s 106,7,8 -- kolejne odniesienie do Kanta
 
+### No i oczywiście klasyczny Tatar na dokładkę do wszystkiego
