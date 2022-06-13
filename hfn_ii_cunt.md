@@ -75,8 +75,24 @@ pochodzące z zewnątrz.
 
 Zdaje się, że to stwierdzenie daje szerokie możliwości atakowania koncepcji 
 Kanta. Geometria, którą autor *Krytyki czystego rozumu* uznaje za obowiązującą 
-i konstytuującą wszelkie zjawiska, jest geometria euklidesowa (Janiak, 2022).
+i konstytuującą wszelkie zjawiska, jest geometria euklidesowa (Janiak, 2022). 
+Mogłoby się wydawać, że odkrycie geometrii nieeuklidesowych niemal w tym samym 
+czasie przez Gaussa, Schweikarta, Bolyaia i Łobaczewskiego jest czymś, po czym 
+koncepcja Kanta nie może być uznana za słuszną. Przykładowo w koncepcji 
+Łobaczewskiego przez punkt położony poza daną prostą można poprowadzić 
+nieskończoną liczbę prostych nieprzecinających ją, suma kątów w trójkącie jest 
+mniejsza niż 180 stopni a stosunek okręgu do jego średnicy jest większy niż 2π 
+(Sklar, 1974, s. 18-19). Wszystkie te twierdzenia są sprzeczne z aksjomatami 
+geometrii euklidesowej, Kant uznałby je więc za apriorycznie nieprawdziwe.
 
+Jednak, wbrew pozorom, samo powstanie geometrii nieeuklidesowych nie stanowi 
+zarzutu nie do odparcia w ramach koncepcji Kanta. Sam niemiecki filozof nie 
+uznawał przecież tej dziedziny matematyki za naukę o charakterze analitycznym -- 
+przeciwnie, postulował, by jej stwierdzenia pozostały syntetyczne. Można uznać 
+za Maudlinem (2005, s. 157), że dzięki temu można w duchu *Krytyki czystego 
+rozumu* przewidzieć powstanie czysto formalnej nauki w ramach matematyki, "(…) 
+której wytworem byłby zbiór aksjomatów które byłyby różne od tych proponowanych 
+przez Euklidesa, jednak nadal nie popadłaby ona w sprzeczność".
 
 
 ## Czas
