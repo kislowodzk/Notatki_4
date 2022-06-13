@@ -18,7 +18,7 @@
     Earman pokazuje również ogólnie (1989b, s. 140), że bycie prawym i lewym nie 
     może być określone wyłącznie przez wewnętrzne relacje i wzajemne polożenia 
     części ręki względem siebie, bez względu na to, jak szeroko te relacje 
-    i polożenia są rozpa trywane. -- Gołosz, Sonczip -- s. 50
+    i polożenia są rozpatrywane. -- Gołosz, Sonczip -- s. 50
     -------------
     Rozważmy jako przykład earmanowską globalną definicję obiektów, które Earman 
     nazywa „niezgodnymi odpowiednikami” (incongruent counterparts)55: Obiekty 
@@ -34,6 +34,8 @@ tej przestrzeni przez ludzki umysł nic nie zmieni. Musimy i tak odnieść go do
 czegoś niesymetrycznego -- na przykład do zjawiska naszego ciała. Przez 
 odniesienie do form umysłu poznającego nie zyskujemy wcale, jak chciałby Kant, 
 argumentu.
+można też chyba (sprawdzić to xd) odnieść to do całości przestrzeni, ale wtedy 
+chyba zaprzeczamy czwartemu aksjomatowi, prawda?
 
 Czy burzymy przez to syntetyczne poznanie a priori, na przykład matematyczne?
 

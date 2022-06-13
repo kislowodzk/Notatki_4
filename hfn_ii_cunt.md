@@ -1,4 +1,4 @@
-# Miejsce na Twój tytuł! (Krytyka Kantowskiej koncepcji czasu i przestrzeni obecnej w jego Estetyce transcendentalnej)
+# Krytyka Kantowskiej koncepcji czasu i przestrzeni obecnej w estetyce transcendentalnej
 
 ### Miłosz Dudek
 
@@ -44,8 +44,8 @@ Wychodząc od tych tez Kant rozpoczyna budowanie estetyki transcendentalnej. Ma
 ona opisywać wszelkie zasady a priori zmysłowości. Przez oddzielenie od 
 dostępnych podmiotowi przedstawień wszystkiego, co jest wyciągnięte 
 z doświadczenia, co jest pewnym wrażeniem, oraz co dodaje intelekt w swoich 
-pojęciach, mamy uzyskać czystą naoczność i nagą formę zjawisk. Kant otrzymuje 
-dwie formy zmysłowej naoczności: przestrzeń i czas. 
+pojęciach, podmiot ma uzyskać czystą naoczność i nagą formę zjawisk. Kant 
+otrzymuje dwie formy zmysłowej naoczności: przestrzeń i czas. 
 
 ## Przestrzeń
 
@@ -60,7 +60,7 @@ poznającego, oraz jest dopiero warunkiem możliwości wystąpienia w jego perce
 wszelkich zjawisk. Co więcej ma ona (3) nie być ogólnym pojęciem stosunków 
 między rzeczami, lecz czystą naocznością, co jest wyrazem sprzeciwu Kanta wobec 
 relacyjnej koncepcji przestrzeni, którą zaprezentował Leibniz między innymi 
-w swojej polemice z Clarkiem. Przestrzeń mamy również (4) "(…) wyobrażać sobie 
+w swojej polemice z Clarkiem. Przestrzeń należy również (4) "(…) wyobrażać sobie 
 jako nieskończoną daną nam wielkość" (Kant, 2010, B 38 -- B 40).
 
 Z tych tez wynika, że przestrzeń jest realna jedynie dla podmiotu w odniesieniu 
@@ -199,13 +199,87 @@ przestrzeni.
 
 ### Niezgodne odpowiedniki
 
+Kant dochodzi do sformułowania poglądu przedstawionego w estetyce 
+transcendentalnej również inną drogą. Posługuje się rozumowaniem, które było mu 
+bliskie już w okresie przedkrytycznym. Wtedy służyło mu ono do innego celu, 
+jednak finalnie zostało zastosowane również do ugruntowania poglądu, iż 
+przestrzeń jest formą naoczności nakładaną na postrzeżenia przez podmiot i nie 
+przysługuje przedmiotom percepcji.
 
+Pierwotnie argument, który został nazwany argumentem z "niezgodnych 
+odpowiedników" został przedstawiony przez Kanta w roku 1768 w pracy "Von dem 
+ersten Grunde des Unterschides der Gegenden im Raume". Przytaczam go za pracą 
+Gołosza (2001, s. 49-51). Kant występuje w tym dziele jeszcze jako obrońca 
+substancjalnej teorii przestrzeni przeciwstawiając się koncepcji 
+leibnizjańskiej, w której przestrzeń ma być jedynie zestawem relacji 
+zachodzących między poszczególnymi ciałami. Kant przeprowadza eksperyment 
+myślowy, w którym należy sobie wyobrazić, że "pierwszą stworzoną rzeczą jest 
+ludzka ręka -- niewątpliwie mamy do czynienia z ręką lewą albo prawą. Jednak 
+według relacjonistycznej teorii pierwszą stworzoną rzeczą nie mogłaby być ani 
+prawa, ani lewa ręka, ponieważ relacje wzajemne i położenie części ręki względem 
+siebie są dokładnie takie same w przypadku prawej i lewej ręki, które są swoimi 
+dokładnymi zwierciadlanymi odbiciami" (Ibid.).
+
+Niezgodne odpowiedniki zostaną później przez Kanta przywołane w "Prolegomenie" 
+do obrony przestrzeni jako formy naoczności. Jeśli dane są "dwie rzeczy 
+całkowicie jednakowe pod każdym względem, jaki tylko w każdej z nich z osobna 
+można poznać (we wszystkich własnościach należących do wielkości i jakości), to 
+musi (…) z tego wynikać, że jedną z nich we wszystkich przypadkach i stosunkach 
+można postawić na miejscu drugiej, przy czym zamiana ta nie spowoduje 
+najmniejszej nawet dostrzegalnej różnicy." (Kant, 1993, §13). Jednak okazuje 
+się, że w przypadku "niezgodnych odpowiedników", które są bryłami powstałymi za 
+pomocą "lustrzanego odbicia" niektórych przedmiotów, nie da się ich na siebie 
+nałożyć. Bardziej precyzyjną definicję "niezgodnych odpowiedników" przedstawia 
+Earman (za: Gołosz, 2001, s. 51), mają to być takie obiekty O i O', których 
+powierzchni nie można doprowadzić do pokrywania się "przez żaden sztywny ruch 
+(składający się z translacji i obrotów), a można to zrobić poprzez kombinację 
+sztywnych ruchów oraz (…) odbić" (Ibid.). Kant przywołuje przykład trójkątów 
+powstałych na przeciwległych półkulach, równie dobrze możemy użyć przykładu 
+z dłońmi.
+
+Kant argumentuje, że nie ma w tym przypadku "żadnych różnic wewnętrznych, które 
+by (…) intelekt mógł pomyśleć, a przecież różnice te są wewnętrzne" (Kant, 1993, 
+§13). Jako że przedmioty te mają nie być przedstawieniami rzeczy, jakimi one są 
+same w sobie, tylko naocznymi danymi zmysłowymi, Kant twierdzi, iż tej różnicy 
+"nie możemy uczynić zrozumiałą za pomocą żadnego pojęcia, lecz tylko przez 
+stosunek do prawej i lewej ręki, który dotyczy bezpośrednio naoczności" (Ibid.).
+
+Argument ten atakuje Earman (za: Gołosz, 2001, s. 50). Twierdzi on, że jeśli 
+relacje wewnętrzne pomiędzy częściami ręki są ograniczone tylko do relacji 
+pozostawania w danej odległości, współliniowości i tworzenia kąta, to faktycznie 
+relacje dla obu dłoni są takie same. Jednak Earman rozważa też co się stanie po 
+wprowadzeniu do tego układu przestrzeni, która może być również rozumiana (choć 
+Earman pierwotnie argument ten formułuje w odniesieniu do koncepcji 
+substancjalnej) jako forma zmysłowej naoczności. Okazuje się, że rozszerzenie 
+listy relacji zachodzących między częściami o relacje zachodzące także między 
+punktami w przestrzeni zajmowanej przez ciało, nic nie zmienia. To pozostaną te 
+same relacje. Wprowadzenie przestrzeni w żaden sposób nie pozwala poradzić sobie 
+z problemem, jak chciałby Kant.
+
+Natomiast nieuprawnione wydaje się powołanie się Kanta na stosunek do prawej 
+i lewej ręki, który to stosunek ma dotyczyć bezpośrednio naoczności. Jeśli 
+podmiot ma się odwołać do prawej i lewej ręki, to są, jak się wydaje, trzy 
+opcje: albo prawa i lewa ręki są dane a priori tak samo jak przestrzeń, albo 
+relacja ręki do prawej i lewej ręki jest dana a priori, albo wprowadzamy do 
+naoczności prawą i lewą rękę. Pierwszą opcję odrzuciłby Kant, ponieważ ręce, 
+jako pewna naoczność, znajdować się mają w przestrzeni, nie mogą więc same być 
+formą naoczności. Druga opcja nie może być przyjęta jako uzasadnienie, ponieważ 
+jeśli nawet dana by była taka relacja, to na mocy założenia eksperymentu 
+w czystej naoczności bez odniesienia nie bylibyśmy w stanie odróżnić ręki prawej 
+od lewej, nie wiedzielibyśmy więc do czego odnosimy daną rękę. Natomiast 
+wprowadzenie pewnej danej empirycznej do naoczności przeczy założeniu 
+eksperymentu myślowego, w którym nie mamy żadnego zewnętrznego punktu 
+odniesienia, poza relacjami poszczególych części ręki. Okazuje się więc, że bez 
+innego odniesienia nie da się w tej sytuacji, na podstawie przedstawionych przez 
+Kanta założeń, odróżnić ręki prawej od lewej, wprowadzenie przestrzeni jako 
+formy naoczności niczego tu nie zmieni.
 
 ## Czas
 
 ## Zakończenie
 
 ## Bibliografia
+
 
 
 
