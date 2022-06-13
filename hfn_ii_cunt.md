@@ -49,6 +49,8 @@ dwie formy zmysłowej naoczności: przestrzeń i czas.
 
 ## Przestrzeń
 
+### Krytyka czystego rozumu
+
 Przestrzeń charakteryzowana jest w *Krytyce Czystego Rozumu* za pomocą czterech 
 stwierdzeń. (1) Nie jest ona dla Kanta pojęciem empirycznym, nie została 
 wyprowadzona z doświadczenia ani z niego abstrahowana, jak chciałby Hume. 
@@ -195,6 +197,7 @@ i obiektywną odbierając jej tym samy status formy naoczności, a uzależniają
 warunków empirycznych odrzucając tym samym całkowicie kantowską koncepcję 
 przestrzeni.
 
+### Niezgodne odpowiedniki
 
 
 
