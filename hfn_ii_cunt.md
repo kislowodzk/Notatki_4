@@ -139,7 +139,7 @@ warunki -- temperatura zmniejsza się wraz ze zbliżaniem do krawędzi świata, 
 z nią ciała stają się coraz mniejsze. Pokazuje on, że jeśli hipotetyczni 
 mieszkańcy tej kuli stworzyliby geometrię, byłaby to geometria nieeuklidesowa. 
 Mielibyśmy więc do czynienia z dwoma geometriami świata -- stworzoną przez 
-istoty zamieszkujące kulę oraz z drugą -- realną, do której nie mają oni 
+istoty zamieszkujące kulę oraz z drugą -- realną, do której nie mają one 
 dostępu.
 
 Moglibyśmy przyjąć, że człowiek żyje w świecie, który nie jest nam bezpośrednio 
@@ -148,7 +148,54 @@ euklidesowa. Jednak w tej wizji widać, że przyjęcie dwóch geometrii: obiekty
 oraz dostępnej naszemu poznaniu, prowadzi do tego, iż stosowaną geometrię 
 miałyby wyznaczać względy praktyczne. Mogłoby dochodzić do jej rewizji wraz 
 z rozwojem nauki. Takie ujęcie problemu prowadzi nas więc dokładnie do tego, 
-czego Kant chciał uniknąć.
+czego Kant chciał uniknąć -- do geometrii wywiedzionej z empirii. Choć 
+oczywiście wciąż można utrzymywać, że geometria dostępna ludzkiej naoczności 
+w tej sytuacji byłaby euklidesowa, są argumenty przemawiające przeciwko nawet 
+tak okrojonej koncepcji przestrzeni.
+
+W wizji, która została, przedstawiona, przestrzeni wizualnej którą poznajemy 
+odpowiada pewnej przestrzeni niedostępnej, a przynajmniej niedostępnej od razu. 
+Możemy się do jej rozumienia zbliżać przez próbę opisu zjawisk w świecie. Takim 
+opisem zajmowałaby się fizyka teoretyczna, która utraciłaby zakładaną przez 
+Kanta możliwość wydawania sądów syntetycznych a priori -- jej twierdzenia 
+musiałyby dostosować się do danych empirycznych. Natomiast poza tą "przestrzenią 
+wyższego rzędu" istniałaby jeszcze sfera zjawisk samych w sobie, które nie 
+podlegałyby żadnemu możliwemu poznaniu, ponieważ nie mają przełożenia na żadne 
+formy naoczności. Tak jak zakłada Kant, rzeczy same w sobie byłyby przyczynami 
+wszystkich wrażeń zmysłowych, które dochodzą do świadomości podmiotu i musiałyby 
+być przez nią ujmowane w formie przestrzeni wizualnej za pośrednictwem 
+przestrzeni niedostępnej.
+
+Takie ujęcie krytykuje Bertrand Russell (2012, s. 814-5). Założeniem kantowskim 
+jest, że postrzeżenia ludzkiej zmysłowości mają przyczyny zewnętrzne. Te 
+przyczyny rzecz jasna są jakościowo różne od postrzeżeń danych nam przez 
+naoczność. Jednak musi istnieć pewne podobieństwo strukturalne między 
+postrzeżeniami a systemem ich przyczyn. Podobnie musi istnieć pewna korelacja 
+między przestrzenią daną nam w postrzeżeniu a przyczynami postrzeżeń, choćby 
+nawet same przyczyny nie dawały się opisać w terminach przestrzennych. Okazuje 
+się więc, że zgodnie z tym stanowiskiem istnieją dwie przestrzenie -- jedna 
+subiektywna i druga obiektywna. Russell tym samym dochodzi inną drogą do tego 
+samego wniosku, który poprzednio wyprowadzony był przy pomocy rozumowania 
+Hatfielda, Strawsona a następnie Poincare'go.
+
+Russell argumentuje następnie (Ibid.), że w takim razie "nie ma żadnej różnicy 
+między przestrzenią a pozostałymi aspektami percepcji, takimi jak barwy czy 
+dźwięki. Wszystkie tak samo, w ich formach subiektywnych, znane są empirycznie; 
+wszystkie tak samo, w ich formach obiektywnych, są wywnioskowane (…). Nie ma 
+w ogóle powodu uważać nasze poznanie przestrzeni za w jakikolwiek sposób 
+odbiegające od naszego poznania barwy, dźwięku i zapachu". Nie ma więc żadnej 
+podstawy, aby przestrzeń uznać za wyróżnioną. Nawet, jeśli ją za taką uznamy, to 
+nasz opis świata wymaga przestrzeni obiektywnej, która jest czymś, co nie jest 
+zgodne z postulatami Kanta. Na dodatek utrzymywanie, że istnieje "przestrzeń 
+fenomenalna" jest jedynie obciążeniem metafizycznym -- postuluje się coś, co nie 
+ma żadnej mocy eksplanacyjnej, a jest kosztowne ontologiczne, ponieważ wprowadza 
+byt szczególnego rodzaju. Powołując się na minimalizm, który ma przyświecać 
+metodzie krytycznej Kanta, należałoby więc utożsamić przestrzeń subiektywną 
+i obiektywną odbierając jej tym samy status formy naoczności, a uzależniając od 
+warunków empirycznych odrzucając tym samym całkowicie kantowską koncepcję 
+przestrzeni.
+
+
 
 
 ## Czas

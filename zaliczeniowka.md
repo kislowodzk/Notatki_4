@@ -5,13 +5,13 @@
 <!-- - krytyka -- odniesienie do tekstu z kwantówki -- Maudlin o Putnamie -->
 <!-- - jedna z możliwych interpretacji -- HatKtSpc -- s.89, że jest ok w odniesieniu --> 
 <!-- do naszej "widzialnej" geometrii -->
-- może istnieje jakaś "ukryta" struktura, która nie jest geometrią euklidesową, 
-natomiast my tylko euklidesową postrzegamy -- tutaj Poincare i ludziki w dziwnym 
-świecie
-- jeśli tak, to muszą z czymś korespondować w *realnym* świecie -- tutaj 
-argument Russela -- 814
-- więc przestrzeń nie jest niczym wyróżnionym, jest dokładnie taka, jak na 
-przykład barwa i tak dalej
+<!-- - może istnieje jakaś "ukryta" struktura, która nie jest geometrią euklidesową, --> 
+<!-- natomiast my tylko euklidesową postrzegamy -- tutaj Poincare i ludziki w dziwnym --> 
+<!-- świecie -->
+<!-- - jeśli tak, to muszą z czymś korespondować w *realnym* świecie -- tutaj --> 
+<!-- argument Russela -- 814 -->
+<!-- - więc przestrzeń nie jest niczym wyróżnionym, jest dokładnie taka, jak na --> 
+<!-- przykład barwa i tak dalej -->
 
 - prolegomena -- §13 -- przedmioty symetryczne
 - też u Gołosza w sporze o naturę czasu i przestrzeni -- s. 49 i dalsze
