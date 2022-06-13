@@ -1,0 +1,96 @@
+## Bibliografia
+
+
+
+
+
+
+
+
+
+### Bibliografia na brudno -- wszystkie rzeczy, które wykorzystałem
+
+- Kant I. (2010). Krytyka czystego rozumu. Warszawa: Wydawnictwo Naukowe PWN
+
+- Russell B. (2012). Dzieje zachodniej filozofii. Warszawa: Wydawnictwo Aletheia
+
+- Tatarkiewicz W. (1970). Historia filozofii, t. II. Warszawa: Wydawnictwo 
+Naukowe
+
+- Rohlf M. "Immanuel Kant", The Stanford Encyclopedia of Philosophy (Fall 2020 
+Edition), Edward N. Zalta (ed.), URL 
+= <https://plato.stanford.edu/archives/fall2020/entries/kant/>.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
