@@ -2,10 +2,9 @@
 
 <!-- - przedstawienie stanowiska Kanta -->
 <!-- - o geometriach nieeuklidesowych -- tekst z fczip -- Sklar I -->
-- krytyka -- odniesienie do tekstu z kwantówki -- Maudlin o Putnamie
-
-- jedna z możliwych interpretacji -- HatKtSpc -- s.89, że jest ok w odniesieniu 
-do naszej "widzialnej" geometrii
+<!-- - krytyka -- odniesienie do tekstu z kwantówki -- Maudlin o Putnamie -->
+<!-- - jedna z możliwych interpretacji -- HatKtSpc -- s.89, że jest ok w odniesieniu --> 
+<!-- do naszej "widzialnej" geometrii -->
 - może istnieje jakaś "ukryta" struktura, która nie jest geometrią euklidesową, 
 natomiast my tylko euklidesową postrzegamy -- tutaj Poincare i ludziki w dziwnym 
 świecie

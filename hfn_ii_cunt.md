@@ -81,7 +81,7 @@ czasie przez Gaussa, Schweikarta, Bolyaia i Łobaczewskiego jest czymś, po czym
 koncepcja Kanta nie może być uznana za słuszną. Przykładowo w koncepcji 
 Łobaczewskiego przez punkt położony poza daną prostą można poprowadzić 
 nieskończoną liczbę prostych nieprzecinających ją, suma kątów w trójkącie jest 
-mniejsza niż 180 stopni a stosunek okręgu do jego średnicy jest większy niż 2π 
+mniejsza niż 180 stopni a stosunek okręgu do jego średnicy jest większy niż 2 pi 
 (Sklar, 1974, s. 18-19). Wszystkie te twierdzenia są sprzeczne z aksjomatami 
 geometrii euklidesowej, Kant uznałby je więc za apriorycznie nieprawdziwe.
 
@@ -92,7 +92,63 @@ przeciwnie, postulował, by jej stwierdzenia pozostały syntetyczne. Można uzna
 za Maudlinem (2005, s. 157), że dzięki temu można w duchu *Krytyki czystego 
 rozumu* przewidzieć powstanie czysto formalnej nauki w ramach matematyki, "(…) 
 której wytworem byłby zbiór aksjomatów które byłyby różne od tych proponowanych 
-przez Euklidesa, jednak nadal nie popadłaby ona w sprzeczność".
+przez Euklidesa, jednak nadal nie popadłaby ona w sprzeczność". Oczywiście do 
+momentu, gdy nie zaczniemy twierdzić, że ta geometria jest nie tylko wnioskiem 
+z pewnych aksjomatów, nie ma charakteru czysto formalnego, ale także możemy ją 
+sobie wyobrazić.
+
+Okazuje się jednak, że dysponujemy argumentem znacznie silniejszym, niż tylko 
+wyobrażenie. Tym jednak, co zdaniem Maudlina pogrąża ostatecznie kantowską 
+teorię, jest włączanie geometrii nieeuklidesowych do teorii naukowych, które 
+opisują świat, a zwłaszcza przestrzeń. Jest to ta sama przestrzeń, która miała 
+być, wedle Kanta, formą naszego umysłu. Żadne zjawisko, które się w niej 
+pojawiało, nie mogło zaprzeczać postulatom Euklidesa. Wedle fizyki istnieją 
+natomiast zjawiska, które jawią się nam jako dane w zmysłach, do których opisu 
+nie możemy stosować geometrii euklidesowej nie wikłając się w dostarczane "ad 
+hoc" dodatkowe siły. Najsłynniejszym z takich przykładów jest obserwacja 
+dokonana w 1915 roku, która potwierdziła przewidywania wyprowadzone z ogólnej 
+teorii względności Einsteina. Okazało się, że pewne obserwacje dają się opisać 
+przez specyficzne zakrzywienie przestrzeni, które jest spowodowane efektami 
+grawitacyjnymi. Ich opisowi odpowiada model geometrii nieeuklidesowej (Maudlin, 
+2005, s. 157). Dobitnie pokazuje to, że zjawiska w przestrzeni nie dają się 
+opisać za pomocą geometrii euklidesowej, co wykazuje niezgodność koncepcji Kanta 
+z danymi empirycznymi.
+
+Neokantyści próbowali radzić sobie z powyższym argumentem przez znaczne 
+osłabienie koncepcji Kanta. Jedną ze strategii jest przejście na poziom pewnej 
+"przestrzeni wizualnej", jak ją nazywa Hatfield, czy "przestrzeni fenomenalnej" 
+w nomenklaturze Strawsona (Hatfield, 2006, s. 89). Zgodnie z tym podejściem 
+przestrzeń miałaby być pojęciem stosowanym jedynie do bezpośredniej sfery 
+naszych zjawisk, jest czymś, co nie ma zastosowania dla przestrzeni fizycznej. 
+Odnosząc się do przykładu pomiaru ugięcia się wiązki światła w pobliżu znacznego 
+pola grawitacyjnego, zgodnie z tym podejściem tłumaczyć to zjawisko można tak, 
+że w umyśle podmiotu obserwującego wiązka światła, która w geometrii 
+nieeuklidesowej biegnie po prostej -- po najkrótszej drodze między dwoma 
+punktami -- jest obserwowana jako zakrzywiona. Oznacza to, że przy teoretycznym 
+opisie jej ruchu nie są spełnione aksjomaty Euklidesa, jednak w bezpośrednim 
+postrzeganiu wiązkę tę widzimy tak, jakby przestrzeń, w której się ona porusza, 
+była przestrzenią euklidesową. Zakłada to wyróżnienie dodatkowej struktury 
+koniecznej do opisu świata -- sam Strawson wyróżnia także "przestrzeń widocznych 
+percepcji", która może być nieeuklidesowa.
+
+Przyjmując taką próbę obrony tego, co przetrwało z oryginalnej koncepcji Kanta, 
+zgadzamy się na wizję człowieka istniejącego na podobieństwo urojonych istot 
+z eksperymentu myślowego Poincare'go (1908, s. 202). Świat opisywany przez 
+francuskiego filozofa zamknięty jest w kuli wewnątrz której panują specyficzne 
+warunki -- temperatura zmniejsza się wraz ze zbliżaniem do krawędzi świata, wraz 
+z nią ciała stają się coraz mniejsze. Pokazuje on, że jeśli hipotetyczni 
+mieszkańcy tej kuli stworzyliby geometrię, byłaby to geometria nieeuklidesowa. 
+Mielibyśmy więc do czynienia z dwoma geometriami świata -- stworzoną przez 
+istoty zamieszkujące kulę oraz z drugą -- realną, do której nie mają oni 
+dostępu.
+
+Moglibyśmy przyjąć, że człowiek żyje w świecie, który nie jest nam bezpośrednio 
+dany, a do opisu zjawisk najbliższych najlepiej nadaje się geometria 
+euklidesowa. Jednak w tej wizji widać, że przyjęcie dwóch geometrii: obiektywnej 
+oraz dostępnej naszemu poznaniu, prowadzi do tego, iż stosowaną geometrię 
+miałyby wyznaczać względy praktyczne. Mogłoby dochodzić do jej rewizji wraz 
+z rozwojem nauki. Takie ujęcie problemu prowadzi nas więc dokładnie do tego, 
+czego Kant chciał uniknąć.
 
 
 ## Czas
@@ -100,6 +156,56 @@ przez Euklidesa, jednak nadal nie popadłaby ona w sprzeczność".
 ## Zakończenie
 
 ## Bibliografia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

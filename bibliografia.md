@@ -23,6 +23,10 @@ Press
 - Maudlin T. (2005) The Tale of Quantum Logic w: Ben-Menahem Y. Contemporary 
 Philosophy in Focus. Cambridge: University Press
 
+- Hatfield G. (2006) Kant and modern philosophy. Cambridge: University Press
+
+- Poincare H. (1908). Nauka i hipoteza. Warszawa: Nakład J. Mortkowicza
+
 - Janiak A. "Kant’s Views on Space and Time", The Stanford Encyclopedia of 
 Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), forthcoming URL 
 = <https://plato.stanford.edu/archives/sum2022/entries/kant-spacetime/>.
