@@ -1,6 +1,6 @@
 ## PRZESTRZEŃ
 
-- przedstawienie stanowiska Kanta
+<!-- - przedstawienie stanowiska Kanta -->
 - o geometriach nieeuklidesowych -- tekst z fczip -- Sklar I
 - krytyka -- odniesienie do tekstu z kwantówki -- Maudlin o Putnamie
 

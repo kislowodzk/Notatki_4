@@ -28,7 +28,7 @@ przedmioty są zależne od myśli" (Tatarkiewicz, 1970, s. 160).
 
 Swoją teorię Kant w pełni wyłożył w Krytyce Czystego Rozumu. Kluczowe jest 
 wprowadzone przez niego rozróżnienie na zjawisko (fenomen), oraz rzecz samą 
-w sobię (noumen), jako dwa składniki rzeczywistości. Ludzkie poznanie odnosi się 
+w sobie (noumen), jako dwa składniki rzeczywistości. Ludzkie poznanie odnosi się 
 "(…) jedynie do zjawisk, natomiast rzecz sama w sobie jest dla siebie wprawdzie 
 rzeczywista, ale dla nas niepoznawalna" (Kant, 2010, B XX). Mimo to, możemy być 
 przekonani o istnieniu rzeczy samych w sobie, ponieważ przedmiot pobudza nas do 
@@ -37,7 +37,8 @@ wrażenia są przez nas odbierane, jest zależne już od naszego umysłu, od jeg
 form, które narzucamy na dane, które docierają od nas (Russell, 2012, s. 805). 
 W pewien sposób to rzeczy same w sobie wywołują nasze wrażenia. "Rzeczy, które 
 postrzegamy, nie są same w sobie tym, czym je postrzegamy, ani też ich relacje 
-nie są tak ukonstytuowane same w sobie, jak nam się wydają" (Rohlf, 2020). 
+nie są tak ukonstytuowane same w sobie, jak nam się wydają" (Rohlf, 2020, tłum. 
+własne). 
 
 Wychodząc od tych tez Kant rozpoczyna budowanie estetyki transcendentalnej. Ma 
 ona opisywać wszelkie zasady a priori zmysłowości. Przez oddzielenie od 
@@ -47,6 +48,34 @@ pojęciach, mamy uzyskać czystą naoczność i nagą formę zjawisk. Kant otrzy
 dwie formy zmysłowej naoczności: przestrzeń i czas. 
 
 ## Przestrzeń
+
+Przestrzeń charakteryzowana jest w *Krytyce Czystego Rozumu* za pomocą czterech 
+stwierdzeń. (1) Nie jest ona dla Kanta pojęciem empirycznym, nie została 
+wyprowadzona z doświadczenia ani z niego abstrahowana, jak chciałby Hume. 
+Ponadto (2) jest "koniecznym wyobrażeniem a priori leżącym u podłoża wszelkich 
+zewnętrznych danych naocznych", a więc nie jest niezależna od podmiotu 
+poznającego, oraz jest dopiero warunkiem możliwości wystąpienia w jego percepcji 
+wszelkich zjawisk. Co więcej ma ona (3) nie być ogólnym pojęciem stosunków 
+między rzeczami, lecz czystą naocznością, co jest wyrazem sprzeciwu Kanta wobec 
+relacyjnej koncepcji przestrzeni, którą zaprezentował Leibniz między innymi 
+w swojej polemice z Clarkiem. Przestrzeń mamy również (4) "(…) wyobrażać sobie 
+jako nieskończoną daną nam wielkość" (Kant, 2010, B 38 -- B 40).
+
+Z tych tez wynika, że przestrzeń jest realna jedynie dla podmiotu w odniesieniu 
+do tego, co może się mu jawić z zewnątrz jako przedmiot. Przestrzeń nie jest 
+realna w odniesieniu do rzeczy samych w sobie (Kant, 2010, B 44).
+
+Z tezy drugiej wywnioskować można ponadto, że skoro przestrzeń jest "(…) 
+wyobrażeniem a priori, które leży koniecznie u podłoża zjawisk zewnętrznych", to 
+będzie ona określała formę wszystkich wrażeń dochodzących do podmiotu. Ma to 
+bardzo mocne ontologicznie konsekwencje: geometria, która również zdaniem Kanta 
+jest dana a priori, ma wynikać wprost z formy naoczności, jaką jest przestrzeń. 
+Powinna ona opisywać niezawodnie wszystkie zjawiska, których doświadczamy jako 
+pochodzące z zewnątrz.
+
+Zdaje się, że to stwierdzenie daje szerokie możliwości atakowania koncepcji 
+Kanta. Geometria, którą autor *Krytyki czystego rozumu* uznaje za obowiązującą 
+i konstytuującą wszelkie zjawiska, jest geometria euklidesowa (Janiak, 2022).
 
 
 
