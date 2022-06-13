@@ -293,9 +293,27 @@ własność" (Ibid. s. 86,7)
 Ta zmiana okazuje się być kluczowa. Nie da się tej koncepcji podważyć, jak 
 zwykło się to czynić z koncepcją przestrzeni, przez sprowadzenie jej do 
 nadmiarowego elementu systemu ontologicznego bez mocy eksplanacyjnej 
-i postulowanie odrzucenia jako niepotrzebnej.
+i postulowanie odrzucenia jako niepotrzebnej. Przy próbie takiego podejścia 
+zostaną do wytłumaczenia wszelkie doświadczenia, które nie są związane 
+z naocznością, przykładowo czynności umysłu same w sobie nie odnoszą się do 
+wrażeń zmysłowych, potrzeba więc pojęcia, które mogłoby opisać zmiany tam 
+zachodzące.
 
+Dodatkowo koncepcje pojawiające się w fizyce i filozofii nauki zdają się 
+zostawiać lukę, dzięki której istnieje możliwość opisania czasu jako 
+nierealnego. Przykładowo szczególna teoria względności, opublikowana przez 
+Einsteina w roku 1905, eliminuje jako archaiczne pojęcie absolutnego czasu 
+uzależniając jego upływ od prędkości obserwatora (Hawking, 1990, s. 29). 
+W kontraście do przestrzeni, której fizyka nie uzależnia od obserwatora, 
+w przypadku czasu istnieje możliwość obrony teorii czasu Kanta jako czegoś, co 
+dysponuje jedynie empityczną realnością.
 
+Russell (2012, s. 815) krytykuje koncepcję czasu w *Krytyce czystego rozumu* 
+odnosząc się do pojęcia "wyprzedzania". Argumentuje on, że słowo to powinno mieć 
+absolutne znaczenie, niezmienne w żadnej sytuacji. Natomiast w podanym przez 
+niego przykładzie, gdy rozmawia dwoje ludzi, to słyszenie rozmówcy wyprzedza 
+odpowiedź z punktu widzenia podmiotu, natomiast z punktu widzenia "obiektywnej 
+fizyki" odpowiedź wyprzedza słyszenie.
 
 ## Zakończenie
 
