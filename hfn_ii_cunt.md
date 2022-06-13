@@ -276,6 +276,27 @@ formy naoczności niczego tu nie zmieni.
 
 ## Czas
 
+Kantowska koncepcja czasu bardzo przypomina koncepcję przestrzeni. 
+W szczególności czas dla Kanta również nie jest pojęciem wyprowadzonym 
+z jakiegokolwiek doświadczenia, jest wyobrażeniem koniecznym leżącym u podłoża 
+wszelkich danych naocznych, ma tylko jeden wymiar, różne czasu mają być 
+częściami jednego czasu. Ma on też być nieskończony -- każdy określony przedział 
+czasu jest możliwy tylko przez ograniczenie jedynego czasu, który stanowi 
+podłoże (Kant, 2010, s. 82,3).
+
+Jednak w przypadku czasu zachodzi pewna kluczowa różnica: dla autora *Krtyki 
+czystego rozumu* przestrzeń jest czystą formą zewnętrznej naoczności, czas 
+natomiast ma być formą zjawisk w ogóle. (Ibid. s. 85). Nie przysługuje mu 
+absolutna realność, w której przysługiwałby rzeczom "jako ich warunek lub 
+własność" (Ibid. s. 86,7)
+
+Ta zmiana okazuje się być kluczowa. Nie da się tej koncepcji podważyć, jak 
+zwykło się to czynić z koncepcją przestrzeni, przez sprowadzenie jej do 
+nadmiarowego elementu systemu ontologicznego bez mocy eksplanacyjnej 
+i postulowanie odrzucenia jako niepotrzebnej.
+
+
+
 ## Zakończenie
 
 ## Bibliografia
