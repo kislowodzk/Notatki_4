@@ -8,6 +8,9 @@ mogła wystąpić jako nauka. Warszawa: Wydawnictwo Naukowe PWN
 Naukowe
 - Sklar L. (1974), Space, Time and Spacetine. Berkeley: University of California 
 Press
+- McTaggart J.M.E. (1927) The Nature of Existence w: Hempoliński (1994), s. 
+362-364
+- Loux M.J. (2021) Metafizyka współczesne wprowadzenie. Lublin: Wydawnictwo KUL
 - Maudlin T. (2005) The Tale of Quantum Logic w: Ben-Menahem Y. Contemporary 
 Philosophy in Focus. Cambridge: University Press
 - Hatfield G. (2006) Kant and modern philosophy. Cambridge: University Press

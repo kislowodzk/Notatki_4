@@ -313,11 +313,90 @@ odnosząc się do pojęcia "wyprzedzania". Argumentuje on, że słowo to powinno
 absolutne znaczenie, niezmienne w żadnej sytuacji. Natomiast w podanym przez 
 niego przykładzie, gdy rozmawia dwoje ludzi, to słyszenie rozmówcy wyprzedza 
 odpowiedź z punktu widzenia podmiotu, natomiast z punktu widzenia "obiektywnej 
-fizyki" odpowiedź wyprzedza słyszenie.
+fizyki" mówienie wyprzedza słyszenie. Jednak wszelkie zarzuty Russella można 
+również, zdaje się, odnieść bezpośrednio do teorii względności, w której można 
+wyróżnić punkt widzenia podmiotu oraz pewnego zewnętrznego obserwatora 
+(oczywiście nie ma tu mowy o perspektywie "obiektywnego świata fizyki"). Nie 
+wydaje się więc, żeby ten zarzut był znaczący, wszak można także przyjąć, że to 
+pojęcie "wyprzedzania" wymaga doprecyzowania.
+
+Jeśli chodzi o brak obiektywnej realności czasu, to zdaje się, że dowody 
+późniejszych filozofów potwierdzają, że nie możemy w prosty sposób przypisać 
+czasowi realności bez odniesienia empirycznego. Najbardziej znaczącym przykładem 
+takiego rozumowanie jest bez wątpienia argumentacja McTaggarta.
+
+Brytyjski filozof w swojej pracy [rekonstruuję argument na podstawie (McTaggart, 
+1927, s. 362,364) oraz (Loux, 2021, s. 224,238)] wprowadza dwa sposoby opisu 
+położenia w czasie. Pierwszy sposobem jest taki, w którym każde położenie jest 
+opisywane jako wcześniejsze lub późniejsze w stosunku do wydarzenia innego. 
+Relacja ta musi być przechodnia i asymetryczna. Autor nazywa ją serią B, można 
+ją rozumieć jako ciąg, który prowadzi od pozycji wcześniejszych, do 
+późniejszych. Drugi sposób opisu opiera się na założeniu, że każde położenie 
+w czasie można opisać jako przeszłe, teraźniejsze lub przyszłe. Taki opis jest 
+serią A.
+
+Te serie różnią się pod fundamentalnym względem: w serii B każde zdarzenie ma 
+ustalone, niezmienne położenie. Natomiast w serii A dostrzec można swoistą 
+dynamikę -- zdarzenia zmieniają swój status względem tej serii, zdarzenia 
+przyszłe przechodzą w teraźniejsze a następnie stają się przeszłe.
+
+Serie A i B, zdaniem McTaggarta, są wymagane równocześnie, aby można było mówić 
+o realności czasu. Jeśli mówi się o czasie, to zakłada się również, jego 
+zdaniem, pewną zmianę.
+
+Brytyjski filozof najpierw dowodzi, że seria B zakłada istnieje serii A. Relacja 
+bycia wcześniejszym/późniejszym jest stała, aby zaszła zmiana, musi nastąpić, 
+zdaniem McTaggarta, przekształcenie w zdarzeniach, które łącznie konstytuują 
+świat. Nie jest to możliwe w ramach opisu serii B, jeśli nie zmienimy zdarzeń, 
+które ją tworzą. Jeśli zdarzenia mają tworzyć schemat czasowy, muszą więc 
+zmieniać się pod względem określeń typu A. Okazuje się więc, że pod tym względem 
+seria A jest bardziej podstawowa, od serii B.
+
+Następnie Brytyjczyk skupia się nad analizą serii A -- stwierdza on, że 
+własności bycia przeszłym, teraźniejszym i przyszłym są ze sobą niezgodne. Jeśli 
+zdarzenie możemy opisać za pomocą jednego z tych pojęć, to znaczy, że pozostałe 
+nie dają się do niego zastosować. Jednak jeśli zakłada się istnienie serii A, to 
+każde jej zdarzenie ma wszystkie trzy te własności, ponieważ do istoty tej serii 
+należy przechodzenie z jednej własności w inną. Skoro jednak jest niemożliwe, by 
+zdarzenie miały wszystkie trzy z tych własności, to seria A nie może istnieć.
+
+Założenie więc istnienia serii A prowadzi do sprzeczności i musi być odrzucona 
+wraz z realnością serii B, a w związku z tym czas również musimy określić jako 
+nierealny. Sam McTaggart przywołuje w tym miejscu Kanta, jako myśliciela, który, 
+na innej drodze, dochodzi do tego samego wniosku o nierealności czasu. Wydaje 
+się więc, że postulat Kanta, aby czas traktować jako formę naoczności, 
+pozbawiając go realnego istienia, znajduje w argumencie McTaggarta cennego 
+sojusznika.
 
 ## Zakończenie
 
 ## Bibliografia
+
+- Kant I. (2010). Krytyka czystego rozumu. Warszawa: Wydawnictwo Naukowe PWN
+- Kant I. (1993) Prolegomena do wszelkiej przyszłej metafizyki która będzie 
+mogła wystąpić jako nauka. Warszawa: Wydawnictwo Naukowe PWN
+- Russell B. (2012). Dzieje zachodniej filozofii. Warszawa: Wydawnictwo Aletheia
+- Tatarkiewicz W. (1970). Historia filozofii, t. II. Warszawa: Wydawnictwo 
+Naukowe
+- Sklar L. (1974), Space, Time and Spacetine. Berkeley: University of California 
+Press
+- McTaggart J.M.E. (1927) The Nature of Existence w: Hempoliński (1994), s. 
+362-364
+- Loux M.J. (2021) Metafizyka współczesne wprowadzenie. Lublin: Wydawnictwo KUL
+- Maudlin T. (2005) The Tale of Quantum Logic w: Ben-Menahem Y. Contemporary 
+Philosophy in Focus. Cambridge: University Press
+- Hatfield G. (2006) Kant and modern philosophy. Cambridge: University Press
+- Poincare H. (1908). Nauka i hipoteza. Warszawa: Nakład J. Mortkowicza
+- Gołosz J. (2001). Spór o naturę czasu i przestrzeni. Kraków: Wydawnictwo 
+Uniwersytetu Jagiellońskiego
+- Hawking S. (1990). Krótka historia czasu. Warszawa: Wydawnictwo Alfa
+- Janiak A. "Kant’s Views on Space and Time", The Stanford Encyclopedia of 
+Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), forthcoming URL 
+= <https://plato.stanford.edu/archives/sum2022/entries/kant-spacetime/>.
+- Rohlf M. "Immanuel Kant", The Stanford Encyclopedia of Philosophy (Fall 2020 
+Edition), Edward N. Zalta (ed.), URL 
+= <https://plato.stanford.edu/archives/fall2020/entries/kant/>.
+
 
 
 
