@@ -1,8 +1,25 @@
 # Krytyka Kantowskiej koncepcji czasu i przestrzeni obecnej w estetyce transcendentalnej
 
-### Miłosz Dudek
+### Praca zaliczeniowa z historii filozofii nowożytnej II -- Miłosz Dudek
+
+
+
+
+
+
+
+
+
 
 ## Wstęp
+
+We współczesnej nauce uważa się koncepcję przedstawioną przez Kanta w estetyce 
+transcendentalnej za fałszywą. Powszechnie przyjmuje się realność istnienia 
+czasu i przestrzeni niezależną od podmiotu poznającego, nie traktuje się ich 
+jako apriorycznych form naoczności. W niniejszej pracy przedstawię kilka 
+zarzutów odnośnie teorii autora *Krytyki czystego rozumu* wyprowadzonych głównie 
+przez filozofów od niego późniejszych, starając się stwierdzić, czy faktycznie 
+estetyka transcendentalna powinna być odrzucona.
 
 ## Krytyczny zwrot Immanuela Kanta
 
@@ -370,6 +387,18 @@ sojusznika.
 
 ## Zakończenie
 
+Na podstawie omówionych argumentów wydaje się, że jeśli chodzi o kantowską 
+koncepcję przestrzeni, to nie ma żadnych podstaw, aby starać się ją utrzymać. 
+Krytyka, która rozbrzmiewa tak ze strony filozofów, jak i naukowców opierających 
+poznanie na empirii, wskazuje, że aby utrzymać pogląd Kanta, należało by okroić 
+go w takim stopniu, że nie pozostawałaby mu już żadna moc eksplanacyjna, byłby 
+on jedynie nadmiarowym obciążeniem teorii metafizycznej podnosząc jej koszt bez 
+wnoszenia jakiejkolwiek wartości. Natomiast jeśli chodzi o rozumienie czasu 
+przez estetykę transcendentalną, to na wydaje się, że jego krytyka nie jest tak 
+silna. Nie tylko pozwala to, moim zdaniem, utrzymać koncepcję czasu jako formy 
+zmysłowości, ale wręcz w argumencie McTaggarta znaleźć można potwierdzenie braku 
+obiektywnej realności czasu, którą postulował Kant.
+
 ## Bibliografia
 
 - Kant I. (2010). Krytyka czystego rozumu. Warszawa: Wydawnictwo Naukowe PWN
@@ -396,65 +425,4 @@ Philosophy (Summer 2022 Edition), Edward N. Zalta (ed.), forthcoming URL
 - Rohlf M. "Immanuel Kant", The Stanford Encyclopedia of Philosophy (Fall 2020 
 Edition), Edward N. Zalta (ed.), URL 
 = <https://plato.stanford.edu/archives/fall2020/entries/kant/>.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
