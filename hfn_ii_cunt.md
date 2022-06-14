@@ -18,17 +18,16 @@ estetyka transcendentalna powinna być odrzucona.
 ## Krytyczny zwrot Immanuela Kanta
 
 Immanuel Kant był bez wątpienia jednym z najważniejszych filozofów nowożytnych. 
-Do historii przeszły przede wszystkim jego wysiłki naukowe, których celem miało 
-być stworzenie koncepcji krytycznej, która zajmowała postawę minimalistyczną. 
-Miała ona dokonać rewizji metodologii filozoficznej jasno i ostatecznie 
-określając jej granice tak, aby filozofia stała się rzeczywiście naukowa. Kant 
-pisze tu o samej "metodzie (…), która wykreśla cały zakres nauki" (Kant, 2010, 
-B XXII), aby nie było w niej miejsca na snucie hipotez, których nie da się 
-w żaden sposób udowodnić, które nie są uprawnione na gruncie ludzkiego poznania. 
-Do tego ostatniego sam Kant we wczesnych pracach wykazywał pewne skłonności, na 
-przykład w "Powszechnej historii naturalnej i teorii nieba", gdzie prowadzi 
-niczym niepoparte rozważania na temat powstawania galaktyk (Russel, 2012, s. 
-803).
+Do historii przeszły przede wszystkim jego wysiłki, których celem miało być 
+stworzenie koncepcji krytycznej, która zajmowała postawę minimalistyczną. Miała 
+ona dokonać rewizji metodologii filozoficznej jasno i ostatecznie określając jej 
+granice tak, aby filozofia stała się rzeczywiście naukowa. Kant pisze tu o samej 
+"metodzie (…), która wykreśla cały zakres nauki" (Kant, 2010, B XXII), aby nie 
+było w niej miejsca na snucie hipotez, których nie da się w żaden sposób 
+udowodnić, które nie są uprawnione na gruncie ludzkiego poznania. Do tego 
+ostatniego sam Kant we wczesnych pracach wykazywał pewne skłonności, na przykład 
+w "Powszechnej historii naturalnej i teorii nieba", gdzie prowadzi niczym 
+niepoparte rozważania na temat powstawania galaktyk (Russell, 2012, s. 803).
 
 Zerwanie z klasyczną metodą uprawiania metafizyki, którą Kant znał ze studiów 
 poświęconych myśli przede wszystkim Leibniza, odbyło się poprzez całkowite 
@@ -37,7 +36,7 @@ swój pomysł do przewrotu, jakiego Kopernik dokonał w astronomii -- polegał o
 tym, że "nie myśl kształtuje się zależnie od przedmiotów, lecz, odwrotnie, 
 przedmioty są zależne od myśli" (Tatarkiewicz, 1970, s. 160).
 
-Swoją teorię Kant w pełni wyłożył w Krytyce Czystego Rozumu. Kluczowe jest 
+Swoją teorię Kant w pełni wyłożył w *Krytyce czystego rozumu*. Kluczowe jest 
 wprowadzone przez niego rozróżnienie na zjawisko (fenomen), oraz rzecz samą 
 w sobie (noumen), jako dwa składniki rzeczywistości. Ludzkie poznanie odnosi się 
 "(…) jedynie do zjawisk, natomiast rzecz sama w sobie jest dla siebie wprawdzie 
@@ -62,7 +61,7 @@ otrzymuje dwie formy zmysłowej naoczności: przestrzeń i czas.
 
 ### Krytyka czystego rozumu
 
-Przestrzeń charakteryzowana jest w *Krytyce Czystego Rozumu* za pomocą czterech 
+Przestrzeń charakteryzowana jest w *Krytyce czystego rozumu* za pomocą czterech 
 stwierdzeń. (1) Nie jest ona dla Kanta pojęciem empirycznym, nie została 
 wyprowadzona z doświadczenia ani z niego abstrahowana, jak chciałby Hume. 
 Ponadto (2) jest "koniecznym wyobrażeniem a priori leżącym u podłoża wszelkich 
@@ -74,9 +73,10 @@ relacyjnej koncepcji przestrzeni, którą zaprezentował Leibniz między innymi
 w swojej polemice z Clarkiem. Przestrzeń należy również (4) "(…) wyobrażać sobie 
 jako nieskończoną daną nam wielkość" (Kant, 2010, B 38 -- B 40).
 
-Z tych tez wynika, że przestrzeń jest realna jedynie dla podmiotu w odniesieniu 
-do tego, co może się mu jawić z zewnątrz jako przedmiot. Przestrzeń nie jest 
-realna w odniesieniu do rzeczy samych w sobie (Kant, 2010, B 44).
+Z tych stwierdzeń wynika, że przestrzeń jest realna jedynie dla podmiotu 
+w odniesieniu do tego, co może się mu jawić z zewnątrz jako przedmiot. 
+Przestrzeń nie jest realna w odniesieniu do rzeczy samych w sobie (Kant, 2010, 
+B 44).
 
 Z tezy drugiej wywnioskować można ponadto, że skoro przestrzeń jest "(…) 
 wyobrażeniem a priori, które leży koniecznie u podłoża zjawisk zewnętrznych", to 
@@ -105,10 +105,10 @@ przeciwnie, postulował, by jej stwierdzenia pozostały syntetyczne. Można uzna
 za Maudlinem (2005, s. 157), że dzięki temu można w duchu *Krytyki czystego 
 rozumu* przewidzieć powstanie czysto formalnej nauki w ramach matematyki, "(…) 
 której wytworem byłby zbiór aksjomatów które byłyby różne od tych proponowanych 
-przez Euklidesa, jednak nadal nie popadłaby ona w sprzeczność". Oczywiście do 
-momentu, gdy nie zaczniemy twierdzić, że ta geometria jest nie tylko wnioskiem 
-z pewnych aksjomatów, nie ma charakteru czysto formalnego, ale także możemy ją 
-sobie wyobrazić.
+przez Euklidesa, jednak nadal nie popadłaby ona w sprzeczność" (Ibid.). 
+Oczywiście do momentu, gdy nie zaczyna się ponadto twierdzić, że ta geometria 
+jest nie tylko wnioskiem z pewnych aksjomatów, nie ma charakteru czysto 
+formalnego, ale także możemy ją sobie wyobrazić.
 
 Okazuje się jednak, że dysponujemy argumentem znacznie silniejszym, niż tylko 
 wyobrażenie. Tym jednak, co zdaniem Maudlina pogrąża ostatecznie kantowską 
@@ -117,8 +117,8 @@ opisują świat, a zwłaszcza przestrzeń. Jest to ta sama przestrzeń, która m
 być, wedle Kanta, formą naszego umysłu. Żadne zjawisko, które się w niej 
 pojawiało, nie mogło zaprzeczać postulatom Euklidesa. Wedle fizyki istnieją 
 natomiast zjawiska, które jawią się nam jako dane w zmysłach, do których opisu 
-nie możemy stosować geometrii euklidesowej nie wikłając się w dostarczane "ad 
-hoc" dodatkowe siły. Najsłynniejszym z takich przykładów jest obserwacja 
+nie możemy stosować geometrii euklidesowej nie wikłając się w dostarczane *ad 
+hoc* dodatkowe siły. Najsłynniejszym z takich przykładów jest obserwacja 
 dokonana w 1915 roku, która potwierdziła przewidywania wyprowadzone z ogólnej 
 teorii względności Einsteina. Okazało się, że pewne obserwacje dają się opisać 
 przez specyficzne zakrzywienie przestrzeni, które jest spowodowane efektami 
@@ -128,32 +128,33 @@ opisać za pomocą geometrii euklidesowej, co wykazuje niezgodność koncepcji K
 z danymi empirycznymi.
 
 Neokantyści próbowali radzić sobie z powyższym argumentem przez znaczne 
-osłabienie koncepcji Kanta. Jedną ze strategii jest przejście na poziom pewnej 
-"przestrzeni wizualnej", jak ją nazywa Hatfield, czy "przestrzeni fenomenalnej" 
-w nomenklaturze Strawsona (Hatfield, 2006, s. 89). Zgodnie z tym podejściem 
-przestrzeń miałaby być pojęciem stosowanym jedynie do bezpośredniej sfery 
-naszych zjawisk, jest czymś, co nie ma zastosowania dla przestrzeni fizycznej. 
-Odnosząc się do przykładu pomiaru ugięcia się wiązki światła w pobliżu znacznego 
-pola grawitacyjnego, zgodnie z tym podejściem tłumaczyć to zjawisko można tak, 
-że w umyśle podmiotu obserwującego wiązka światła, która w geometrii 
-nieeuklidesowej biegnie po prostej -- po najkrótszej drodze między dwoma 
-punktami -- jest obserwowana jako zakrzywiona. Oznacza to, że przy teoretycznym 
-opisie jej ruchu nie są spełnione aksjomaty Euklidesa, jednak w bezpośrednim 
-postrzeganiu wiązkę tę widzimy tak, jakby przestrzeń, w której się ona porusza, 
-była przestrzenią euklidesową. Zakłada to wyróżnienie dodatkowej struktury 
-koniecznej do opisu świata -- sam Strawson wyróżnia także "przestrzeń widocznych 
-percepcji", która może być nieeuklidesowa.
+osłabienie estetyki transcendentalnej. Jedną ze strategii jest przejście na 
+poziom pewnej "przestrzeni wizualnej", jak ją nazywa Hatfield, czy "przestrzeni 
+fenomenalnej" w nomenklaturze Strawsona (Hatfield, 2006, s. 89). Zgodnie z tym 
+podejściem przestrzeń miałaby być pojęciem stosowanym jedynie do bezpośredniej 
+sfery naszych zjawisk, jest czymś, co nie ma zastosowania dla przestrzeni 
+fizycznej. Odnosząc się do przykładu pomiaru ugięcia się wiązki światła 
+w pobliżu znacznego pola grawitacyjnego, zgodnie z tym podejściem tłumaczyć to 
+zjawisko można tak, że w umyśle podmiotu obserwującego wiązka światła, która 
+w geometrii nieeuklidesowej biegnie po prostej -- po najkrótszej drodze między 
+dwoma punktami -- jest obserwowana jako zakrzywiona. Oznacza to, że przy 
+teoretycznym opisie jej ruchu nie są spełnione aksjomaty Euklidesa, jednak 
+w bezpośrednim postrzeganiu wiązkę tę widzimy tak, jakby przestrzeń, w której 
+się ona porusza, była przestrzenią euklidesową. Zakłada to wyróżnienie 
+dodatkowej struktury koniecznej do opisu świata -- sam Strawson wyróżnia także 
+"przestrzeń widocznych percepcji", która może być nieeuklidesowa.
 
 Przyjmując taką próbę obrony tego, co przetrwało z oryginalnej koncepcji Kanta, 
 zgadzamy się na wizję człowieka istniejącego na podobieństwo urojonych istot 
 z eksperymentu myślowego Poincare'go (1908, s. 202). Świat opisywany przez 
 francuskiego filozofa zamknięty jest w kuli wewnątrz której panują specyficzne 
-warunki -- temperatura zmniejsza się wraz ze zbliżaniem do krawędzi świata, wraz 
-z nią ciała stają się coraz mniejsze. Pokazuje on, że jeśli hipotetyczni 
-mieszkańcy tej kuli stworzyliby geometrię, byłaby to geometria nieeuklidesowa. 
-Mielibyśmy więc do czynienia z dwoma geometriami świata -- stworzoną przez 
-istoty zamieszkujące kulę oraz z drugą -- realną, do której nie mają one 
-dostępu.
+warunki -- temperatura zmniejsza się wraz ze zbliżaniem do krawędzi świata, 
+z jej zmianą ciała stają się coraz mniejsze. Francuski filozof pokazuje, że 
+jeśli hipotetyczni mieszkańcy tej kuli stworzyliby geometrię, byłaby to 
+geometria nieeuklidesowa. Mielibyśmy więc do czynienia z dwoma geometriami 
+świata -- stworzoną przez istoty zamieszkujące kulę oraz z drugą -- realną, do 
+której nie mają one dostępu, która jednak nie jest związana ze sferą rzeczy 
+samych w sobie i jest poznawalna.
 
 Moglibyśmy przyjąć, że człowiek żyje w świecie, który nie jest nam bezpośrednio 
 dany, a do opisu zjawisk najbliższych najlepiej nadaje się geometria 
@@ -166,7 +167,7 @@ oczywiście wciąż można utrzymywać, że geometria dostępna ludzkiej naoczno
 w tej sytuacji byłaby euklidesowa, są argumenty przemawiające przeciwko nawet 
 tak okrojonej koncepcji przestrzeni.
 
-W wizji, która została, przedstawiona, przestrzeni wizualnej którą poznajemy 
+W wizji, która została przedstawiona, przestrzeń wizualna którą poznajemy 
 odpowiada pewnej przestrzeni niedostępnej, a przynajmniej niedostępnej od razu. 
 Możemy się do jej rozumienia zbliżać przez próbę opisu zjawisk w świecie. Takim 
 opisem zajmowałaby się fizyka teoretyczna, która utraciłaby zakładaną przez 
@@ -204,8 +205,8 @@ fenomenalna" jest jedynie obciążeniem metafizycznym -- postuluje się coś, co
 ma żadnej mocy eksplanacyjnej, a jest kosztowne ontologiczne, ponieważ wprowadza 
 byt szczególnego rodzaju. Powołując się na minimalizm, który ma przyświecać 
 metodzie krytycznej Kanta, należałoby więc utożsamić przestrzeń subiektywną 
-i obiektywną odbierając jej tym samy status formy naoczności, a uzależniając od 
-warunków empirycznych odrzucając tym samym całkowicie kantowską koncepcję 
+i obiektywną odbierając jej tym samym status formy naoczności, a uzależniając od 
+warunków empirycznych, odrzucając tym samym całkowicie kantowską koncepcję 
 przestrzeni.
 
 ### Niezgodne odpowiedniki
@@ -231,7 +232,7 @@ prawa, ani lewa ręka, ponieważ relacje wzajemne i położenie części ręki w
 siebie są dokładnie takie same w przypadku prawej i lewej ręki, które są swoimi 
 dokładnymi zwierciadlanymi odbiciami" (Ibid.).
 
-Niezgodne odpowiedniki zostaną później przez Kanta przywołane w "Prolegomenie" 
+Niezgodne odpowiedniki zostaną później przez Kanta przywołane w *Prolegomenie* 
 do obrony przestrzeni jako formy naoczności. Jeśli dane są "dwie rzeczy 
 całkowicie jednakowe pod każdym względem, jaki tylko w każdej z nich z osobna 
 można poznać (we wszystkich własnościach należących do wielkości i jakości), to 
@@ -257,15 +258,15 @@ stosunek do prawej i lewej ręki, który dotyczy bezpośrednio naoczności" (Ibi
 
 Argument ten atakuje Earman (za: Gołosz, 2001, s. 50). Twierdzi on, że jeśli 
 relacje wewnętrzne pomiędzy częściami ręki są ograniczone tylko do relacji 
-pozostawania w danej odległości, współliniowości i tworzenia kąta, to faktycznie 
-relacje dla obu dłoni są takie same. Jednak Earman rozważa też co się stanie po 
-wprowadzeniu do tego układu przestrzeni, która może być również rozumiana (choć 
-Earman pierwotnie argument ten formułuje w odniesieniu do koncepcji 
-substancjalnej) jako forma zmysłowej naoczności. Okazuje się, że rozszerzenie 
-listy relacji zachodzących między częściami o relacje zachodzące także między 
-punktami w przestrzeni zajmowanej przez ciało, nic nie zmienia. To pozostaną te 
-same relacje. Wprowadzenie przestrzeni w żaden sposób nie pozwala poradzić sobie 
-z problemem, jak chciałby Kant.
+pozostawania w danej odległości, współliniowości i tworzenia pewnego kąta, to 
+faktycznie relacje dla obu dłoni są takie same. Jednak Earman rozważa też co się 
+stanie po wprowadzeniu do tego układu przestrzeni, która może być również 
+rozumiana (choć Earman pierwotnie argument ten formułuje w odniesieniu do 
+koncepcji substancjalnej) jako forma zmysłowej naoczności. Okazuje się, że 
+rozszerzenie listy relacji zachodzących między częściami o relacje zachodzące 
+także między punktami w przestrzeni zajmowanej przez ciało, nic nie zmienia. To 
+pozostaną te same relacje. Wprowadzenie przestrzeni w żaden sposób nie pozwala 
+poradzić sobie z problemem, jak chciałby Kant.
 
 Natomiast nieuprawnione wydaje się powołanie się Kanta na stosunek do prawej 
 i lewej ręki, który to stosunek ma dotyczyć bezpośrednio naoczności. Jeśli 
@@ -273,12 +274,13 @@ podmiot ma się odwołać do prawej i lewej ręki, to są, jak się wydaje, trzy
 opcje: albo prawa i lewa ręki są dane a priori tak samo jak przestrzeń, albo 
 relacja ręki do prawej i lewej ręki jest dana a priori, albo wprowadzamy do 
 naoczności prawą i lewą rękę. Pierwszą opcję odrzuciłby Kant, ponieważ ręce, 
-jako pewna naoczność, znajdować się mają w przestrzeni, nie mogą więc same być 
-formą naoczności. Druga opcja nie może być przyjęta jako uzasadnienie, ponieważ 
-jeśli nawet dana by była taka relacja, to na mocy założenia eksperymentu 
-w czystej naoczności bez odniesienia nie bylibyśmy w stanie odróżnić ręki prawej 
-od lewej, nie wiedzielibyśmy więc do czego odnosimy daną rękę. Natomiast 
-wprowadzenie pewnej danej empirycznej do naoczności przeczy założeniu 
+jako dane pewnej naoczności, znajdować się mają w przestrzeni, nie mogą więc 
+same być formą naoczności. Druga opcja nie może być przyjęta jako uzasadnienie, 
+ponieważ jeśli nawet dana by była taka relacja, to na mocy założenia 
+eksperymentu w czystej naoczności bez odniesienia nie bylibyśmy w stanie 
+odróżnić ręki prawej od lewej, nie wiedzielibyśmy więc do czego odnosimy daną 
+rękę, nie ma kryterium stwierdzenia do której ręki akurat się odnosimy. 
+Natomiast wprowadzenie pewnej danej empirycznej do naoczności przeczy założeniu 
 eksperymentu myślowego, w którym nie mamy żadnego zewnętrznego punktu 
 odniesienia, poza relacjami poszczególych części ręki. Okazuje się więc, że bez 
 innego odniesienia nie da się w tej sytuacji, na podstawie przedstawionych przez 
@@ -290,7 +292,7 @@ formy naoczności niczego tu nie zmieni.
 Kantowska koncepcja czasu bardzo przypomina koncepcję przestrzeni. 
 W szczególności czas dla Kanta również nie jest pojęciem wyprowadzonym 
 z jakiegokolwiek doświadczenia, jest wyobrażeniem koniecznym leżącym u podłoża 
-wszelkich danych naocznych, ma tylko jeden wymiar, różne czasu mają być 
+wszelkich danych naocznych, ma tylko jeden wymiar, różne czasy mają być 
 częściami jednego czasu. Ma on też być nieskończony -- każdy określony przedział 
 czasu jest możliwy tylko przez ograniczenie jedynego czasu, który stanowi 
 podłoże (Kant, 2010, s. 82,83).
@@ -313,23 +315,23 @@ zachodzące.
 Dodatkowo koncepcje pojawiające się w fizyce i filozofii nauki zdają się 
 zostawiać lukę, dzięki której istnieje możliwość opisania czasu jako 
 nierealnego. Przykładowo szczególna teoria względności, opublikowana przez 
-Einsteina w roku 1905, eliminuje jako archaiczne pojęcie absolutnego czasu 
-uzależniając jego upływ od prędkości obserwatora (Hawking, 1990, s. 29). 
-W kontraście do przestrzeni, której fizyka nie uzależnia od obserwatora, 
-w przypadku czasu istnieje możliwość obrony teorii czasu Kanta jako czegoś, co 
-dysponuje jedynie empityczną realnością.
+Einsteina w roku 1905, eliminuje pojęcie absolutnego czasu uzależniając jego 
+upływ od prędkości obserwatora (Hawking, 1990, s. 29). W kontraście do 
+przestrzeni, której fizyka nie uzależnia od obserwatora, w przypadku czasu 
+istnieje możliwość obrony teorii czasu Kanta jako czegoś, co dysponuje jedynie 
+empiryczną realnością.
 
-Russell (2012, s. 815) krytykuje koncepcję czasu w *Krytyce czystego rozumu* 
-odnosząc się do pojęcia "wyprzedzania". Argumentuje on, że słowo to powinno mieć 
-absolutne znaczenie, niezmienne w żadnej sytuacji. Natomiast w podanym przez 
-niego przykładzie, gdy rozmawia dwoje ludzi, to słyszenie rozmówcy wyprzedza 
-odpowiedź z punktu widzenia podmiotu, natomiast z punktu widzenia "obiektywnej 
-fizyki" mówienie wyprzedza słyszenie. Jednak wszelkie zarzuty Russella można 
-również, zdaje się, odnieść bezpośrednio do teorii względności, w której można 
-wyróżnić punkt widzenia podmiotu oraz pewnego zewnętrznego obserwatora 
-(oczywiście nie ma tu mowy o perspektywie "obiektywnego świata fizyki"). Nie 
-wydaje się więc, żeby ten zarzut był znaczący, wszak można także przyjąć, że to 
-pojęcie "wyprzedzania" wymaga doprecyzowania.
+Russell (2012, s. 815) krytykuje koncepcję czasu przedstawioną w *Krytyce 
+czystego rozumu* odnosząc się do pojęcia "wyprzedzania". Argumentuje on, że 
+słowo to powinno mieć absolutne znaczenie, niezmienne w żadnej sytuacji. 
+Natomiast w podanym przez niego przykładzie, gdy rozmawia dwoje ludzi, słyszenie 
+rozmówcy jest równoczesne z jego mówieniem z punktu widzenia podmiotu, natomiast 
+z punktu widzenia "obiektywnej fizyki" mówienie wyprzedza słyszenie. Jednak 
+wszelkie zarzuty Russella można również, zdaje się, odnieść bezpośrednio do 
+teorii względności, w której można wyróżnić punkt widzenia podmiotu oraz pewnego 
+zewnętrznego obserwatora (oczywiście nie ma tu mowy o perspektywie "obiektywnego 
+świata fizyki"). Nie wydaje się więc, żeby ten zarzut był znaczący, wszak można 
+także przyjąć, że to pojęcie "wyprzedzania" wymaga doprecyzowania.
 
 Jeśli chodzi o brak obiektywnej realności czasu, to zdaje się, że dowody 
 późniejszych filozofów potwierdzają, że nie możemy w prosty sposób przypisać 
@@ -371,7 +373,7 @@ każde jej zdarzenie ma wszystkie trzy te własności, ponieważ do istoty tej s
 należy przechodzenie z jednej własności w inną. Skoro jednak jest niemożliwe, by 
 zdarzenie miały wszystkie trzy z tych własności, to seria A nie może istnieć.
 
-Założenie więc istnienia serii A prowadzi do sprzeczności i musi być odrzucona 
+Założenie istnienia serii A prowadzi do sprzeczności i musi być ona odrzucona 
 wraz z realnością serii B, a w związku z tym czas również musimy określić jako 
 nierealny. Sam McTaggart przywołuje w tym miejscu Kanta, jako myśliciela, który, 
 na innej drodze, dochodzi do tego samego wniosku o nierealności czasu. Wydaje 
@@ -382,16 +384,16 @@ sojusznika.
 ## Zakończenie
 
 Na podstawie omówionych argumentów wydaje się, że jeśli chodzi o kantowską 
-koncepcję przestrzeni, to nie ma żadnych podstaw, aby starać się ją utrzymać. 
+koncepcję przestrzeni, nie ma żadnych podstaw, aby starać się ją utrzymać. 
 Krytyka, która rozbrzmiewa tak ze strony filozofów, jak i naukowców opierających 
 poznanie na empirii, wskazuje, że aby utrzymać pogląd Kanta, należało by okroić 
 go w takim stopniu, że nie pozostawałaby mu już żadna moc eksplanacyjna, byłby 
 on jedynie nadmiarowym obciążeniem teorii metafizycznej podnosząc jej koszt bez 
 wnoszenia jakiejkolwiek wartości. Natomiast jeśli chodzi o rozumienie czasu 
-przez estetykę transcendentalną, to na wydaje się, że jego krytyka nie jest tak 
-silna. Nie tylko pozwala to, moim zdaniem, utrzymać koncepcję czasu jako formy 
-zmysłowości, ale wręcz w argumencie McTaggarta znaleźć można potwierdzenie braku 
-obiektywnej realności czasu, którą postulował Kant.
+przez estetykę transcendentalną, to jego krytyka nie jest tak silna. Nie tylko 
+pozwala to, moim zdaniem, utrzymać koncepcję czasu jako formy zmysłowości, ale 
+wręcz w argumencie McTaggarta znaleźć można potwierdzenie braku obiektywnej 
+realności czasu, którą postulował Kant.
 
 ## Bibliografia
 
