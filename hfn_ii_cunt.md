@@ -2,13 +2,7 @@
 
 ### Praca zaliczeniowa z historii filozofii nowożytnej II -- Miłosz Dudek
 
-
-
-
-
-
-
-
+\ \ \ \ \ \ \ \ 
 
 
 ## Wstęp
@@ -101,7 +95,7 @@ koncepcja Kanta nie może być uznana za słuszną. Przykładowo w koncepcji
 Łobaczewskiego przez punkt położony poza daną prostą można poprowadzić 
 nieskończoną liczbę prostych nieprzecinających ją, suma kątów w trójkącie jest 
 mniejsza niż 180 stopni a stosunek okręgu do jego średnicy jest większy niż 2 pi 
-(Sklar, 1974, s. 18-19). Wszystkie te twierdzenia są sprzeczne z aksjomatami 
+(Sklar, 1974, s. 18,19). Wszystkie te twierdzenia są sprzeczne z aksjomatami 
 geometrii euklidesowej, Kant uznałby je więc za apriorycznie nieprawdziwe.
 
 Jednak, wbrew pozorom, samo powstanie geometrii nieeuklidesowych nie stanowi 
@@ -185,9 +179,9 @@ wszystkich wrażeń zmysłowych, które dochodzą do świadomości podmiotu i mu
 być przez nią ujmowane w formie przestrzeni wizualnej za pośrednictwem 
 przestrzeni niedostępnej.
 
-Takie ujęcie krytykuje Bertrand Russell (2012, s. 814-5). Założeniem kantowskim 
-jest, że postrzeżenia ludzkiej zmysłowości mają przyczyny zewnętrzne. Te 
-przyczyny rzecz jasna są jakościowo różne od postrzeżeń danych nam przez 
+Takie ujęcie krytykuje Bertrand Russell (2012, s. 814,815). Założeniem 
+kantowskim jest, że postrzeżenia ludzkiej zmysłowości mają przyczyny zewnętrzne. 
+Te przyczyny rzecz jasna są jakościowo różne od postrzeżeń danych nam przez 
 naoczność. Jednak musi istnieć pewne podobieństwo strukturalne między 
 postrzeżeniami a systemem ich przyczyn. Podobnie musi istnieć pewna korelacja 
 między przestrzenią daną nam w postrzeżeniu a przyczynami postrzeżeń, choćby 
@@ -299,13 +293,13 @@ z jakiegokolwiek doświadczenia, jest wyobrażeniem koniecznym leżącym u podł
 wszelkich danych naocznych, ma tylko jeden wymiar, różne czasu mają być 
 częściami jednego czasu. Ma on też być nieskończony -- każdy określony przedział 
 czasu jest możliwy tylko przez ograniczenie jedynego czasu, który stanowi 
-podłoże (Kant, 2010, s. 82,3).
+podłoże (Kant, 2010, s. 82,83).
 
 Jednak w przypadku czasu zachodzi pewna kluczowa różnica: dla autora *Krtyki 
 czystego rozumu* przestrzeń jest czystą formą zewnętrznej naoczności, czas 
 natomiast ma być formą zjawisk w ogóle. (Ibid. s. 85). Nie przysługuje mu 
 absolutna realność, w której przysługiwałby rzeczom "jako ich warunek lub 
-własność" (Ibid. s. 86,7)
+własność" (Ibid. s. 86,87)
 
 Ta zmiana okazuje się być kluczowa. Nie da się tej koncepcji podważyć, jak 
 zwykło się to czynić z koncepcją przestrzeni, przez sprowadzenie jej do 
@@ -343,7 +337,7 @@ czasowi realności bez odniesienia empirycznego. Najbardziej znaczącym przykła
 takiego rozumowanie jest bez wątpienia argumentacja McTaggarta.
 
 Brytyjski filozof w swojej pracy [rekonstruuję argument na podstawie (McTaggart, 
-1927, s. 362,364) oraz (Loux, 2021, s. 224,238)] wprowadza dwa sposoby opisu 
+1927, s. 362-364) oraz (Loux, 2021, s. 224-238)] wprowadza dwa sposoby opisu 
 położenia w czasie. Pierwszy sposobem jest taki, w którym każde położenie jest 
 opisywane jako wcześniejsze lub późniejsze w stosunku do wydarzenia innego. 
 Relacja ta musi być przechodnia i asymetryczna. Autor nazywa ją serią B, można 
