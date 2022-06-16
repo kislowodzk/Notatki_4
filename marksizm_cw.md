@@ -1626,3 +1626,19 @@ Istotną kwestią stosunek propozycji Kołakowskiego na gruncie koncepcji młode
 Marksa, do Gramsciego, koncepcji nowych, które nie odwołują się do klasycznych 
 pojęć.
 
+## Ćwiczenia 15 -- Althusser
+
+### Marksizm a humanizm
+
+- Humanizm socjalistyczny, klasowy, jednostki
+- teoretyczny antyhumanizm
+- dyktatura proletariatu
+- dystansowanie się od młodego Marksa
+- podział na:
+    - ideologię, która jest pozbawiona środków do poznania faktów -- tutaj 
+    humanizm
+    - naukę -- tutaj komunizm
+- dwa etapy myśli
+
+
+

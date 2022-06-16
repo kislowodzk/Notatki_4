@@ -1058,3 +1058,20 @@ Mogę łączyć pojęcia w sądach a priori tak, jak robię to w zwykłe logice.
 Otrzymuję pewną mnogość rodzajów pojęć, które mają charakter a priori. To daje 
 się sprowadzić do pytania, czy istnieje wiedza konieczna.
 
+## Ćwiczenia 12 -- 13.06.
+
+Noumeny -- rzeczy, jakimi są same w sobie
+
+Fenomeny -- zjawiska rzeczy samych, to jest to, co możemy mieć. Skoro mamy 
+zjawiska rzeczy samych, to same zjawiska też muszą być. Naoczność, która jest 
+nam dana, jest tylko naocznością zmysłową.
+
+Kategorie służą do pomyślenia przedmiotu danego w naoczności. W naoczności mamy 
+tylko coś, co jest zjawiskiem rzeczy samej. Wydaje się, że Kant popełnia 
+sprzeczność. Wydaje się, że myśli o rzecz samej, z drugiej strony mówi, że tak 
+daleko, jak sięga możliwe doświadczenie. 
+
+Jednak jak to tak, to potrafimy pomyśleć o rzeczy samej w sobie? Z jednej strony 
+tak, z drugiej nie, bo kategorie intelektu są skorelowane z naocznością, która 
+jest naocznością jedynie zmysłową.
+

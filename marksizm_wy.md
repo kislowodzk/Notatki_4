@@ -2,6 +2,141 @@
 
 Prowadzący Michał Bohun
 
+## Wykłady 0
+
+### Wprowadzenie
+
+Zainteresowanie myślą marksistowską odradza się w momencie wielkich kryzysów 
+gospodarczych. Przykładowo, Keynes inspirował się marksizmem, nawet jeśli tego 
+nie przyznawał (zainspirował się m.in. Różą Luksemburg czy Oskarem Lange). 
+Marksizm okazuje się lepszą teorią kryzysową niż teorie liberalne. 
+
+Profesor podaje przykład swojego paska wynagrodzeń i zwrócił uwagę na „ulgę dla 
+klasy średniej”. Zwykle podatki liczy się od dochodu, a nie dzieli ludzi na 
+klasy. Podział na klasy, jak stwierdza profesor, „jest czysto marksistowski”. 
+Ciekawe, że antymarksistowski rząd wprowadza jawnie marksistowski element 
+(pomijamy, że nie wiemy czym jest klasa średnia…). 
+
+Profesor nie potrafi odpowiedzieć na pytanie „Co to jest marksizm?”. Być może 
+Marks wcale nie był oryginalnym myślicielem? Mogło być tak, że wziął różne 
+elementy od różnych filozofów i stworzył z nich „mieszankę wybuchową”. A czy 
+komunizm to ostatnia faza rozwoju społecznego, czy po nim będzie coś jeszcze? 
+
+Marksizm wyrastający z heglizmu to „racjonalistyczny bunt przeciwko 
+chaotyczności życia”. Z kolei pozytywistycznie nastawieni marksiści uważali, że 
+marksizm nie jest filozofią, tylko teorią rozwoju dziejowego albo teorią 
+ekonomiczną. Młody Marks twierdził, że nadchodzi koniec filozofii. Na 
+filozofowanie już był czas, teraz czas na politykę. Stary Marks już w ogóle 
+porzucił filozofię. Uważał się on za przywódcę ruchu robotniczego, „demaskatora 
+liberalnej ekonomii”, ale za filozofa.
+
+Engels mógłby uchodzić za filozofa w klasycznym sensie. Przesiąknięty jednak 
+duchem pozytywizmu uważał, że filozofia rozpłynie się w naukach szczegółowych 
+lub przekształci się w metanaukę. Twierdził, że nie uprawia filozofii lecz 
+dialektykę, ale ta dialektyka była de facto czystą filozofią. W latach 40. XIX 
+wieku Marks pisał rozprawy filozoficzne, Engels zaś ekonomiczne. Najważniejsza 
+książka młodego Engelsa to Położenie klasy robotniczej w Anglii. 
+
+### Immanentne dla marksizmu niespójności i problemy
+
+Ostatnim wątkiem poruszanym w zeszłym tygodniu był problem ideologii w myśli 
+Marksa. Przy wszystkich próbach ukazania złożoności sytuacji może rodzić się 
+przeświadczenie, że nasze działanie to wyważanie otwartych drzwi. Wydaje się, że 
+problem ideologiczności marksizmu jest całkiem czytelny. Ale czy na pewno 
+marksizm jest równoznaczny z ideologią komunistyczną?
+
+L. Kołakowski rozpoczyna swoją pracę Główne nurty marksizmu od, zdaje się 
+trywialnego zdania, że „Karol Marks był filozofem niemieckim”. Stwierdzenie, że 
+marksizm jest ideologią komunistyczną nic nam nie wyjaśnia dopóki nie wiemy czym 
+jest komunizm. 
+
+Jeśli chcielibyśmy dowiedzieć się od Marksa czym jest komunizm, to pojawia się 
+wiele nowych problemów. Komunizm widzi się jako ideologię światowej rewolucji. 
+Rewolucja ta miała dokonać się w krajach rozwiniętych i ekonomicznie, 
+i politycznie. Miała zostać ona przeprowadzona przez światową, zjednoczoną klasę 
+robotniczą. Marks uważał, że przewrót musi dokonać się nieuchronnie, gdyż tak 
+wynikało z praw rozwoju historycznego, które ten miał odkryć. Później sam Marks 
+miał co do tego wątpliwości. Np. pod wpływem pytań Michajłowskiego Marks starał 
+się wycofywać z uniwersalności swojej koncepcji. Zastanawiał go bowiem rozwój 
+pojedynczych państw europejskich i nie oznacza to, że myśl tę należy przekładać 
+na inne kraje świata. 
+
+Rewolucja miała być dokonana ze względu na rozwój gospodarczy, technologiczny 
+i polityczny państw. Marks uważał, że zmechanizowana i scentralizowana 
+gospodarka musi wymóc przemianę w całym układzie społeczno-politycznym. Marks 
+odrzucał koncepcję rewolucji tylko w jednym kraju, a tym bardziej kraju 
+zacofanym, który nie osiągnął odpowiedniego stopnia rozwoju. Kapitalizm miał się 
+najpierw tak rozwinąć, aby w końcu zaczął „żywić się ludźmi”. 
+
+Rewolucja nie oznaczała przejęcia władzy politycznej. Miało to być głębokie 
+przekształcenie społeczno-gospodarcze. Miała skutkować uspołecznieniem środków 
+produkcji.
+
+Pojawia się także problem dyktatury proletariatu. Termin ten rozpalał wyobraźnię 
+ultrarewolucjonistów. Podnoszono, że Marksowi nie chodziło o dyktaturę rozumianą 
+jako władzę istniejącą ponad prawem. Podkreślić on chciał, że w warunkach 
+demokratycznych proletariat ma taką liczebną przewagę, że jest w stanie 
+wywalczyć on sobie władzę polityczną w drodze wyborów. Marks powiedziałby więc, 
+że nie chodzi o formę rządów, lecz o ich treść. Co więcej, Marks uważał, że 
+dyktatura proletariatu będzie stopniowo prowadzić do zaniku państwa jako 
+takiego, najpierw w jego wymiarach opresyjnych, a potem zaniku państwa w ogóle. 
+Lenin pokazał wszystkie marksistowskie antynomie; to, że można nadawać mu 
+konkretny kształt zależnie od interpretacji. 
+
+Marksowska koncepcja wolności związana jest z wizją zniesienia rynku. Tym, co 
+ogranicza naszą wolność to nie decydenci, ale procesy gospodarcze, które 
+przybierają formę wolnego rynku. Jeśli człowiek ma być autentycznie wolny, nie 
+może on być niewolnikiem rynkowych procesów. Ludzi boli najbardziej niepewność 
+życia wynikająca z anonimowych procesów prowadzących do alienacji. Komunizm ma 
+być zapanowaniem nad tymi procesami. Marks twierdził, że ludzkość może 
+racjonalnie kierować tymi procesami. Komunizm ma być więc organizacją 
+gospodarczą, w której ludzie panują nad własnym życiem (np. nad tym co 
+konsumujemy - wszystko jest bowiem, potencjalnie, towarem). 
+
+Marks postrzega przedmiot i kapitał jako relację społeczną. Nad tym zagadnieniem 
+Marks pracował do końca swojego życia. Większość jego dzieł po roku 1850 ma 
+podtytuł Krytyka ekonomii politycznej. Marks dekonstruował mit jakoby prawa 
+rynkowe były czymś naturalnym. Takie postrzeganie rynku są przejawem fałszywej 
+świadomości i skutkuje wyrażeniem zgody na wyzysk. Marks przypomina, że ekonomia 
+nie jest nauką ścisłą, lecz społeczną (a nawet gałęzią etyki); że determinują ją 
+ludzkie potrzeby i pragnienia. Wolną konkurencje, zdaniem Marksa, należy 
+zastąpić gospodarką scentralizowaną i planowaną, gdyż ostatecznie ma chodzić nie 
+o zwiększenie zysków przedsiębiorstw, lecz o zaspokojenie ludzkich potrzeb. 
+U schyłku swojego życia Marks stwierdził, że podstawową potrzebą ludzką jest 
+wolność. Ale wolni jesteśmy jedynie poza pracą. Jak więc zorganizować pracę, aby 
+była ona jak najmniej uciążliwa? Jak pokonać alienację pracy?
+
+Kolejne pytanie dotyczy polityczności marksizmu. Z jednej strony należy 
+przypomnieć fakt podstawowy: już za życia Marksa istniały ruchy, które wprost 
+odwoływały się do jego nazwiska. Trudno wyobrazić sobie historię polityczną bez 
+marksistów. Z drugiej strony u Marksa wciąż jest obecny element apolityczności: 
+polityka jest tylko refleksem realnych zdarzeń, które mają miejsce w bazie. 
+
+Czy marksizm jest doktryną ekonomiczną? Pierwotnie nie był. Obecnie jest nią 
+owszem, szczególnie w krajach Europy zachodniej. Nie ma jednej metody i teorii 
+ekonomicznej (jakby tego chciały teorie neoliberalne). Marks krytykował 
+klasyczną teorię ekonomii. Uważał ją bowiem za ideologię klasy panującej. Marks 
+zastanawiał się także skąd się biorą wartości. Dlaczego za koszulkę no-name 
+jesteśmy skłonni zapłacić mniej niż za koszulkę Adidasa? Marks uważa, że jeśli 
+chodzi o ekonomię, to ma ona tylko jedno dobre odkrycie: odkrycie podwójnej 
+natury wartości. 
+
+Ekonomia jest nauką, która jest rozdarta. Z jednej strony mamy traktowanie 
+ekonomii jako nauki ścisłej, która opisuje absolutnie obiektywne przebiegi 
+procesów społecznych; z drugiej mamy ekonomię jako naukę społeczną, która winna 
+być uzupełniana przez historię, socjologię itp. Paradoks polega na tym, że Marks 
+pierwotnie skłaniał się ku szerokiej, filozoficznej koncepcji gospodarki 
+(koncepcji substancjalnej) - chodzi o stosunki pomiędzy ludźmi a przedmiotami 
+istniejącymi w ludzkim świecie. 
+
+Schemat relacji społecznej u Marksa jest prosty: relacja między ludźmi jest 
+zapośredniczona przez przedmiot, który może być przedmiotem obrotu. 
+Marksistowska ekonomia później musiała się jednak dostosowywać do 
+pozytywistycznego, zmatematyzowanego dyskursu, w którym nie liczą się ludzie 
+i artefakty, lecz racjonalne wybory. 
+
+Za tydzień o młodoheglistach i socjalistach francuskich. 
+
 ## Wykład 1 -- Materializm Historyczny
 
 Waga myśli Marksa polega też na tym, że on być może podejmuje najbardziej 
@@ -3267,4 +3402,250 @@ inaczej. Jednak chcąc zachować pozycję arbitra nie opowiedział się ani po
 stronie bolszewików, ani mienszewików i Trockiego (który jeszcze wtedy tam był). 
 Być może Lenin nie byłby w stanie przejąć władzy. Ale to już historia, która się 
 nie wydarzyła.
+
+## Wykład 13 (ostatni ;----;)  -- 13.06.
+
+### Marksizm legalny
+
+W pewnym sensie rosyjska wersja rewizjonizmu, ale to jeszcze zanim pojawił się 
+oficjalnie rewizjonizm.
+
+**Struwe** i ludzie wokół niego traktowali marksizm za narzędzie badawcze, który 
+może być stosowany także do tego, co dzieje się w Rosji.
+
+Ci ludzie zajmowali katedry uniwersyteckie, mieli swoje pisma. Dlaczego władza 
+się zgodziła na legalizację? Ponieważ opozycyjni wobec rewolucyjnego 
+narodnictwa. Przeciągali ludzi na stronę reformistyczną, która uważała, że 
+należy współpracować z rządem, żeby w Rosji pojawił się kapitalizm. Uznali oni, 
+że kapitalizm jest konieczną fazą prowadzącą do socjalizmu. Ich stanowisko 
+zbiegało się ze stanowiskiem caratu, który chciał modernizować. Do tego reformy 
+rolne.
+
+Legalni marksiści: konieczność kapitalizmu, nieuchronność zaniku wspólnoty 
+gminnej, konieczność proletaryzacji chłopstwa, konieczność modernizacji.
+
+Obok Struwego wśród innych przedstawicieli możemy wymienić Bułgakowa, 
+Tugana-Baranowskiego, Bierdiajewa i Siemona Franka.
+
+Sercem legalnego marksizmu wielopłaszczyznowa polemika z narodnictwem.
+
+Struwe publikuje programowe dzieło: *Krytyczne uwagi na temat kwestii rozwoju 
+gospodarczego Rosji*.
+
+Odwrotna strona -- apologia kapitalizmu. Tego poświęcone wczesne dzieła 
+Bułgakowa i Tugana-Baranowskiego. Starali się oni pokazać, że możliwy byłby 
+rozwój kapitalizmu bez nieszczęść społecznych, które powouduje on w krajach 
+zachodnich. Kapitalizm *socjalizowany*, w którym dużą rolę odgrywa państwo. 
+Kapitalizm zreformowany.
+
+Krytyka socjalizmu narodnickiego. Obrona postępowego charakteru przemian 
+kapitalistycznych.
+
+Ten fragment w pewnym sensie korespondował ze stanowiskiem Plechanowa -- 
+zwłaszcza odrzucenie jakobińskiej strategii, uznanie, że szansą dla Rosji jest 
+upodobnianie się do zachodu. Uznanie, że socjalizm będzie uczynieniem z Rosji 
+Europy w pełnym sensie.
+
+Struwe -- w rozwoju nie liczą się subiektywne ideały -- to jest sentymentalizm. 
+Marksizm jest teorią naukową, jest obiektywny, jest teorią rozwoju społecznego.
+
+Z tej afirmacj ikapitalizmu nie płyną pouczenia moralne. Płyną wskazówki 
+polityczne, które wskazują na ustrój demokratyczno-burżuazyjny. Przekształcenie 
+autorytaryzmu carskiego w jakąś formę republiki konstytucyjnej, z której będzie 
+można przejść do demokracji a później do socjalizmu.
+
+Zbieżność nie tylko ze stanowiskiem Plechanowa, ale i Lenina.
+
+Lenin dostrzegł tu sojusznika w walce z narodnictwem. Lenin jednak walczył 
+w imię swojego ultrarewolucjonizmu. Lenin odsunął na dalszy plan antyrewolucyjny 
+charakter. Uznał, że w tym momencie przede wszystkim potrzebuje sojusznika. 
+Lenin, który wtedy był na wygnaniu, zaaprobował manifest programowy Struwego, 
+który też starał się w nim złagodzić reformizm, żeby nie drażnić Lenina.
+
+Jeśli chodzi o pytanie o stan kapitalizmu w Rosji, to Lenin się różnił, skłaniał 
+się ku stanowisku Tkaczowa i swojego starszego brata. Lenin twierdził, że już 
+w Rosji kapitalizm jest, nie trzeba czekać, trzeba od razu przystąpić do 
+destrukcji, do aktu rewolucyjnego, zniesienia kapitalizmu.
+
+Struwe głosił, że w Rosji burżuazja jest bardzo słaba, nie będzie w stanie 
+dokonać ani kapitalistycznych przekształceń, ani podjąć walki o wolność 
+polityczną. To oznacza, że burżuazję ma zastąpić pod tym względem proletariat. 
+Struwe pisał program jako szeroką formułę, pod którą mogliby się spotkać 
+przedstawiciele różnych podlądów.
+
+Walicki nazwał marksistów legalnych pierwszą ideologią inteligencką, która miała 
+charakter prokapitalistyczny. Pierwsza doktryna, której udało się usprawiedliwić 
+kapitalizm nie tylko wśród inteligencji, ale także wśród nielicznej wtedy klasy 
+robotniczej.
+
+Połączyły się tu dwie pozornie sprzeczne tendencje. Próba połączenia ideologii 
+prokapitalistycznej z antyburżuazyjnej. To nie jest już marksizm scjentystyczny. 
+Ideologia dziejowej tężyzny, bogacenia się jednostek i całego narodu dlatego. 
+Figurę rycerza zastąpił inżynier -- ten, który świat podbija za pomocą techniki. 
+Ideologia podboju, potęgi. Burżuazja jako sztuczność, obłuda, kicz.
+
+Odkrycie neokantyzmu. Aktywna rola człowieka jako autonomicznego podmiotu. W ten 
+sposób rozpoczęła się droga *od marksizmu do idealizmu*. Oni faktycznie przeszli 
+na to stanowisko -- dowodem almanach *problemy idealizmu*. Antyscjentystyczny 
+zwrot. Potem to środowisko wydało kolejny almanach *kamienie milowe*.
+
+Widać to również po wyborach politycznych. Struwe -- zwrot w stronę lewicowego 
+idealizmu, później coraz bardziej konserwatywny, nacjonalistyczny. Bułganow 
+i Tugan-Baranowski zwrócili się w stronę socjalizmu chrześcijańskiego.
+
+### Lenin
+
+Problematyka, która jest pewnym zwieńczeniem okresu historycznego 
+(kształtowania) marksizmu i początkiem marksizmu współczesnego. Lenin, 
+bolszewizm z rewolucją w tle. Marksizm przyjęty jako urzędowa, państwowa 
+filozofia, która w czasach stalinowskich stała się narzędziem indoktrynacji 
+społeczeństwa na masową skalę.
+
+Problemów jest bez miara. Czy w ogóle *marksizm* ma jakieś odniesienie 
+w stosunku do Lenina? Czy Lenin w ogóle był marksistą, czy chodziło mu tylko 
+o pewną nazwę, o przyciągnięcie ludzi.
+
+Z drugiej strony sposób argmentowania, że Lenin nie był marksistą, sam w sobie 
+jest pokazaniem czym marksizm jest, a czym nie. Kolejny obszar -- relacja między 
+leninizmem (pójście w stronę jakobinizmu, ultrarewolucyjności). Lenin twierdzi 
+w latach 90-tych, że kapitalizm już w Rosji jest. Zadaniem jest więc nie jego 
+przeskoczenie, budowanie kapitalizmu; zadaniem partii socjaldemokratycznej jest 
+obalenie kapitalizmu. Aby to obalenie mogło się powieść musi zmienić się partia. 
+Koncepcja partii nowego typu. Lenin uznaje, że robotnicy pozostawieni sami 
+sobie, bez opiekunów ze zmilitaryzowanej partii, nie staną się klasą robotniczą, 
+nie wytworzą świadomości klasowej. Zamiast walczyć o rewolucję społeczną, będą 
+walczyć o ręczniki i mydło w zakładach pracy. Nie będą mieli świadomości 
+rewolucyjnej.
+
+Stąd krok do kolejnego ważnego obszaru zainteresowań -- rewolucyjne sprawowanie 
+władzy. To wszystko w cieniu pytania o sens leninowskiego marksizmu. Faktem 
+jest, że strona teoretyczna była u Lenina zawsze realnie na drugim planie, 
+pełniła rolę służebną wobec tego, co robił.
+
+Lenin był jednak marksistą nie tylko w sensie głoszonych haseł. Jednak był to 
+marksizm bardzo przetworzony, selektywny, oparty na interpretacji stwierdzeń 
+Marksa i Engelsa czasem wyrwanych z kontekstu. To był marksizm jako instrument 
+działania politycznego. Dla Lenina najważniejsze pytanie to: *Kto kogo?* ogra, 
+załatwi, oszuka. Każdorazowa próba dopasowywania teoretycznych twierdzeń do 
+akcji politycznych. Próba ex post uzasadniająca wybory i pokazująca, że mimo 
+wszystko zgodne są z pewnymi elementami marksistowskiej dogmatyki. Lenin 
+przykładem człowieka, który potrafił łamać dogmaty i patrząc innym w oczy 
+twierdzić, że on jest strażnikiem ortodoksji.
+
+Lenin filozoficznym dyletantem. Albo filozofię odrzuca jako próżne mędrkowanie 
+dla elit, albo traktuje ją poważnie, by wykorzystać w walce politycznej i zostać 
+filozoficzną wyrocznią. 
+
+Nawet, jeśli Lenina uznamy za dyletanta, to dyletantów zazwyczaj cechuje pasja 
+i fascynacja przedmiotem, który nie w pełni opanowali. Z jednej strony zażarta 
+walka z Plechanowem. Z drugiej strony traktuje go jako flozoficzny wzorzec. 
+Marksizm Lenina, jeśli jest tam zawartość teoretyczna, jest marksizmem 
+Plechanowa. Plechanow jest wrogiem politycznym, ale autorytetem filozoficznym.
+
+Chodzi tu o politykę. Myślenie podporządkowane akcji rewolucyjnej. To jest 
+pancerz, którym Lenin się przykrywa. To jest jednocześnie oręż. Lenin jest 
+dogmatykiem, nie ma wątpliwości. Jeśli nawet wygłasza sąd sprzeczny z tym, co 
+mówił wcześniej, wygłasza go z pełną wiarą.
+
+Trzeba pamiętać, że był człowiekiem niezwykla oczytanym. Zajmował się głównie 
+lekturami. Również czytał filozofów -- Feuerbacha, Hegla, oczywiście Marksa. Nie 
+uważał się za filozofa, choć czasami wchodził w filozoficzne buty.
+
+Jest myślicielem scjentystyczno-dogmatycznym w stylu Plechanowa, starego 
+Engelsa. Jego marksizm nie wykracza poza marksizm II Międzynarodówki, jednak 
+ciekawy jest on nie jako myśliciel, tylko jako praktyk. Wydaje się, że Lenina 
+trzeba czytać nie przez Marksa. 
+
+Najciekawsze, zdaniem Bohuna, są antynomie. Rozdarcie pomiędzy ortodoksją 
+a herezją. Z jednej strony oskarża on narodników o ekonomiczny romantyzm, który 
+ma się uobecniać nie w ekonomicznych rozprawach, ale w stosunku do przyszłości 
+kapitalizmu i sensu rewolucji w Rosji. Z drugiej strony Lenin odrzuca 
+charakterystyczne dla II Międzynarodówki powoływanie się na historyczną 
+konieczność. Lenin może to zrobić, ponieważ wychodzi on ze stwierdzenia jawnie 
+fałszywego -- mówi, że kapitalizm w Rosji jest już teraźniejszością, ustrojem 
+dojrzałym, czyli gotowym do obalenia.
+
+Lenina praktycznie nie obchodzi faktograficzne oparcie kapitalizmu w Rosji -- od 
+razu motyw obalania. Element zmagań, walki, rywalizacji przesłania Leninowi 
+wszystko inne. Marksizm Lenina (ten prawdziwy, nie deklaratywny) nie jest 
+analizą obiektywnych zjawisk. Dla Lenina (tak jak dla Sorela) esencja marksizmu 
+jest teoria walki klas -- to jest prawdziwy marksizm. Teoria uzależniająca losy 
+ustroju od antagonizmów klasowych i realnie występujących konfliktów, co 
+sprowadza się do odwrócenia marksowskiego schematu, uznania, że to polityka jest 
+realnością, jest podstawowa. Natomiast dla Marksa jest jedynie odbiciem realnych 
+przemian w bazie ekonomicznej.
+
+Lenina interesuje rozkład sił między wolą walki a siłami reakcji. Skoro istnieje 
+Lenin, który chce obalić kapitalizm, to ten kapitalizm już jest. On mierzył jego 
+rozwój innymi kryteriami. Lenina nie interesują siły wytwórcze, interesuje go 
+struktura społeczna, antagonizm klasowy. Lenin utożsamia kapitalizm z walką klas 
+-- skoro ona się toczy, to jest już kapitalizm. To nie ważne, że to nie 
+proletariat walczy. Jakaś walka się toczy, możemy uznać, że jest to walka 
+klasowa, mamy więc warunek konieczny i wystarczający kapitalizmu. 
+
+Odwrócenie rozumowania związana z tym, co określa Lenina -- wojowniczość, 
+agresja, brutalność. Ważna jest wola walki, a nie obiektywne czynniki produkcji. 
+Intensywność walki, zdecydowanie przywódców. W oczach Kautskyego to była wola.
+
+Luksemburg odrzucała podmiot walki, którym była u Lenina partia o strukturze 
+militarnej, która nie musiała mieć klasowej genezy. Luksemburg uważała, że 
+klasy, które same się organizują, za którymi partie mogą podążać.
+
+Rewolucja środkiem niezastąpionym. To nie muszą być walki na barykadach, to mogą 
+być wewnętrzne działania w partii, ale to już jest wojna. Lenin przejmuje władzę 
+dzięki wojnie, dzięki osłabieniu. Zarazem przyjmuje zmilitaryzowane struktury 
+państwa.
+
+Rewolucja polega na maksymalnej koncentracji politycznej, by odebrać wrogom 
+władzę nad upaństwowionymi strukturami.
+
+Skoro to jest wojna, to czymś nieodzownym jest przemoc -- każde działanie 
+polityczne jest aktem przemocy, różni się tylko bronią. Po utrwaleniu władzy tą 
+bronią miała stawać się kultura. Próba wychowania nowych ludzi. Aparat represji. 
+Teraz chodziło o to, żeby przemienić ludzi. Chodzi o władzę skupioną w rękach 
+partii. Państwo upartyjnione. Partia albo przejmuje wszelkie ośrodki władzy, 
+albo tworzy równoległe struktury. Partia kontroluje wszystkie procesy społeczne. 
+Partia pojmowana jako komitet centralny skupiony wokół nieomylnego wodza.
+
+Gospodarka socjalistyczna to jest dla Lenina kontrola i planowanie, podmiotem 
+jest partia. Centrum systemu władzy. Partia, która przekształca się 
+w biurokratyczny aparat zarządzania. Partia nadająca słuszny kierunek. 
+
+Siłą logiki walki i zarządzania. Taka struktura musi wytwarzać mechanizmy 
+totalitarne. W pewnym sensie Lenin wyciągnął elementy totalitarne z utopii 
+Marksa. Komunizm jest przede wszystkim zniesieniem gospodarki rynkowej. Jednak 
+zarządzanie gospodarką w takich warunkach musi prowadzić do coraz większego 
+autorytaryzmu. To jest dla Lenina sedno marksizmu. Tutaj Lenin-praktyk 
+i teoretyk zbiegają się.
+
+Kiedy spojrzy się na teksty teoretyczne Lenina to widać, że Lenin konsekwentnie 
+działał zgodnie z tym, co formułował. Tak przeniknięty wizją świata jako walki, 
+że nie mógł inaczej. 
+
+Przede wszystkim ważne jest uchwycenie strukturalnego porządku w ramach rozwoju 
+historycznego. Marks odkrył i stworzył jednolitą strukturę, rozpoznał trwałą 
+strukturę procesu historycznego. Mechanizm zmiany społecznej -- walka klasowa. 
+Samo to odkrycie nie jest elementem zewnętrznym wobec historii. To czyni 
+z proletariatu niezwyciężony podmiot procesu historycznego, który zna podstawowy 
+mechanizm zmiany społecznej. 
+
+Lenin jest myślicielem *heraklitejskim* -- wojna ojcem wszechrzeczy, również 
+porządku. To samo możemy zaobserwować w procesie historycznym. Walka sił. Lenin 
+przenosi to na grunt społeczeństwa i historii. Od wojny nie ma ucieczki.
+
+Lenin postacią niejednoznaczną. Nie był postacią jednoznacznie heroiczną. To 
+końca swoich dni nie miał pewności co do sukcesu rewolucji. Później nie chciał 
+oficjalnie przejąć władzy, wejść do rządu, wyznaczał ludzi (w czym przypomina 
+innego zwolennika kotów -- Bohun). Lenin został zmuszony przez najbliższe grono 
+bolszewików i został premierem. Do końca uzależniał sukces od rewolucji w skali 
+europejskiej. Nie wierzył w sukces socjalizmu w jednym kraju. To dopiero 
+stalinizm.
+
+Lenin przez groźbę interwencji innych krajów wprowadza elementy gospodarki 
+rynkowej, szczególnie, jeśli chodzi o rolnictwo. Nie znosi gospodarki. Lenin 
+skłonny do korekty za cenę utrzymania władz. Bohun od wielu lat twierdzi, że 
+Karl Schmidt, którym pasjonuje się polska prawica, jest rozpisaniem praktyki 
+politycznej Lenina. To, co stanowi dla Schmidta esencję (rozróżnienie na 
+swój-obcy) to uznanie, że sednem polityki jest pytanie Lenina *kto kogo*. Ale to 
+już temat na odrębne rozważania. 
 
