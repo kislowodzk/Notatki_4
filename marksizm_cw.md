@@ -1638,7 +1638,37 @@ pojęć.
     - ideologię, która jest pozbawiona środków do poznania faktów -- tutaj 
     humanizm
     - naukę -- tutaj komunizm
-- dwa etapy myśli
-
-
+- dwa etapy myśli Marksa:
+    - humanizm racjonalistyczno-liberalny; naturą człowieka wolność i rozum, 
+    człowiek wydaje się niezależny od państwa
+    - humanizm feuerbachowski, *wspólnotowy*; pozbawienie złudzeń państwo-rozum: 
+    popadanie w sprzeczność -- idealne cele -- realne przesłanki; polityka 
+    praktycznego przyswojenia swej istoty przez człowieka; rewolucja: polityczna 
+    i ludzka -- rozdarcie na 2 abstrakcje: człowieka prywatnego i obywatela
+- od 1845:
+    - teoria historii i polityki oparta na pojęciach: formacja społeczna, siły 
+    wytwórcze, stosunki produkcji, nadbudowa, ideologia
+    - humanizm jako ideologia
+    - radykalna krytyka teoretycznego humanizmu filozoficznego
+- nowa problematyka: materializm historyczny, nowe pojęcia, nowa filozofia; 
+odrzucenie idealizmu istoty, empiryzmu podmiotu; skupienie na różnych poziomach 
+praktyki ludzkiej
+- przyjęcie humanizmu jako ideologii (istotna funkcja polityczno-społeczna) -- 
+poznanie ideologii -- poznanie warunków jej konieczności; antyhumanizm 
+teoretyczny; rozbicie filozoficznego mitu człowieka
+- ideologia organiczną częścią całości społeczeństwa; konieczność ideologii -- 
+uznanie tego pozwala jej przekształcanie
+- ideologia objawia się poprzez struktury przenikające do człowieka nieświadomie, 
+przeżywany stosunek do świata -- filtrowany przez ideologie
+- stosunek świadomy i nieświadomy, stosunek rzeczywisty i przeżywany/urojony 
+wobec rzeczywistych warunków egzystencji
+- język -- ideologia -- stosunek drugiego stopnia
+- panująca ideologia -- ideologia panującej klasy, zdominowanie klasy 
+wyzyskiwanej, konstytuowanie się samej w klasie panującej swój urojony stosunek 
+do rzeczywistości
+- Rousseau
+    - ideologia w społeczeństwie bezklasowym -- stosunek ludzi do ich warunków 
+    egzystencji -- przeżywanie na korzyść wszystkich ludzi
+- humanizm socjalistyczny -- ludzkie-nieludzkie; sprzeciw i potępienie 
+dyskryminacji
 
