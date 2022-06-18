@@ -349,7 +349,7 @@ egzystencji pracownika.
 
 Oswojenie odbywa się poprzez uprzedmiotowienie przyrody. Świat staje się w coraz 
 większym stopniu światem przetworzonym, a tym samym zagarniętym przez 
-kapitalistę, odebranym robotnikowi. Im więcej świata robotnik przetwoży, tym 
+kapitalistę, odebranym robotnikowi. Im więcej świata robotnik przetworzy, tym 
 mniej świata mu zostaje w efekcie przywłaszczenia, które dokonuje się na gruncie 
 produkcyjnego uprzedmiatawiania świata.
 
@@ -621,7 +621,7 @@ również sferę czynności. Ten materializm powinien zawierać w sobie procesy,
 aktywność, która kształtuje rzeczywistość zmysłową. Jesteśmy aktywną, 
 kształtującą sferą świata. Podkreślenie strony czynnej. Materializm historyczny, 
 który bierze pod uwagę również ten aspekt rzeczywistości. Czynne rozumienie 
-życia na gruncie materializmu. Dla marksa nie istnieje coś takiego, jak 
+życia na gruncie materializmu. Dla Marksa nie istnieje coś takiego, jak 
 *obiektywnie istniejąca rzeczywistość*, zawsze jest ona w odniesieniu do 
 człowieka. Już samo spojrzenie na rzeczywistość jest czynne. Człowiek patrzy 
 praktycznie na świat.
@@ -767,7 +767,7 @@ i przemysł (realne zastosowanie nauki do przemieniania świata, rzeczywistości
 Odpowiedzią na pytanie teoretyczne jest tutaj praktyka. Ona jest kryterium 
 umożliwiającym weryfikację naszych poglądów. Engels tutaj właściwie opowiada się 
 za naukami przyrodniczymi jako podstawowymi, za praktycznymi ich zastosowaniami. 
-Filozofia jest już właściwie skończona, nadchodzi czas scientyzmu. Co więcej -- 
+Filozofia jest już właściwie skończona, nadchodzi czas scjentyzmu. Co więcej -- 
 filozofowie dotychczas nie zdawali sobie sprawy, jak ich myślenie było 
 motywowane rozwojem nauk eksperymentalnych. Teraz to staje się rzeczywistością. 
 
@@ -788,7 +788,7 @@ procesów, praw. W świecie przyrody owe prawa zachodzą w sposób nieuświadomi
 w historii ludzkiej częściowo są nieświadome, częściowo uświadomione. Możemy 
 domniemywać, iż ta część uświadomionych praw będzie się poszerzać wraz z ludzkim 
 poznaniem i zastosowaniem tego poznania w praktyce. Człowiek poznaje 
-receptywnie, ale również współtworzy tę rzezcywistość. Scientystyczne rozumienie 
+receptywnie, ale również współtworzy tę rzezcywistość. Scjentystyczne rozumienie 
 rzeczywistości. Czy Marks by się z tym zgodził? Jaki byłby materializm 
 historyczny? Jest to pogląd, wedle którego obecne warunki bytowe wpływają na 
 myślenie jednostek w spoleczeństwie, które tę rzeczywistość przekształcają. 
@@ -811,7 +811,7 @@ przemian ludzkich, o tyle dla Engelsa dialektyka jest przesunięta do przestrzen
 obiektywnych praw przyrody. Engels pisze, że dialektyka to nauka o ogólnych 
 prawach ruchu zarówno w kwestii świata przyrody jak i umysłu ludzkiego.
 
-Historia u Engelsa całkowicie wpisana i opisana przez podejście scientyczne. 
+Historia u Engelsa całkowicie wpisana i opisana przez podejście scjentystyczne. 
 Ostatecznie nastepuje kres myślenia filozoficznego. Jeśli filozofia się ostanie, 
 to będzie to nauka o ogólnych prawach rzeczywistości czyli logika i dialektyka. 
 Tyle zostanie z filozofii, wszystko co zostanie przejmie nauka.
