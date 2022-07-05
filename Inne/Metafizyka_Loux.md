@@ -157,6 +157,81 @@ Na potrzeby tej książki przyjmujemy przedkantowskie podejście
 
 ### Metafizyka jako teoria kategorii
 
+- Celem metafizyki scharakteryzowanie natury rzeczywistości, opis tego, jak się 
+rzeczy mają
+- Dzisiaj główne tematy rozmaitych gałęzi metafizyki szczegółowej są przedmiotem 
+subdyscyplin filozofii, które nie dotyczą w sposób istotny czy wyłączny tematyki 
+metafizycznej -- stąd alternatywna strategia wprowadzenia do metafizyki 
+polegająca na ograniczeniu omawianych tematów wyłącznie do tych, które można 
+z grubsza przyporządkować do arystotelesowskiej nauki o bycie jako bycie lub do 
+racjonalistycznej dyscypliny metafizyki ogólnej
+- Współcześni filozofowie zwykle używają terminu *metafizyka* na oznaczenie 
+czegoś zbliżonego do tego, co racjonaliści nazywali metafizyką ogólną, 
+a Arystoteles określił jako naukę badającą byt jako byt
+- Można stwierdzić, że celem metafizyki we współczesnym rozumieniu jest 
+wyróżnienie i opisanie kategorii rzeczy
+    - Arystoteles uważał kategorie za najwyższe czy najogólniejsze rodzaje, na 
+    podstawie których można klasyfikować rzeczy
+    - metafizycy rozpatrują wszystkie istniejące rzeczy i dzielą je na 
+    najogólniejsze rodzaje
+    - dla Arystotelesa rodzaje, do których dana rzecz należy, pozwalają 
+    określić, czym dana rzecz jest
+    - ustalenie kategorii polega na zidentyfikowaniu krańcowego elementu na 
+    liście coraz ogólniejszyk odpowiedzi na pytanie *Co to jest?* -- zgodnie ze 
+    standardowym ujęciem, do kategorii danej rzeczy dochodzimy wtedy, gdy na to 
+    pytanie udzielamy odpowiedzi, od której ogólniejsze są już tylko takie 
+    terminy jak *istność*, *byt*, *rzecz*, *coś istniejącego*, stosujące się do 
+    wszystkiego, co istnieje -- przykładem takiej kategorii jest *substancja*
+    - wady
+        - w takim ujęciu ta dyscyplina okazuje się nudna -- mechaniczne 
+        odpowiedzi na pytanie *Co to jest?*
+        - jeśli zgodnie z tym podejściem dwóch metafizyków poda różne listy 
+        kategorii, to powodem może być jedynie to, że któryś z nich dopuścił się 
+        rażącej pomyłki -- skąd więc spory?
+- w rzeczywistości spór nie tylko o kategorie, ale też o to, jakie przedmioty 
+istnieją; spory w metafizyce na ogół dotyczą pytania *Jakie przedmioty 
+istnieją?*, a konkurencyjne listy kategorii to po prostu różne odpowiedzi na to 
+pytanie
+- spór o to, czy fakty związane z potocznym sposobem mówienia i prawdziwość 
+twierdzeń przedfilozoficznych wymagają uwzględnienia pewnych nazw w *oficjalnej* 
+filozoficznej opowieści o świecie i jego działaniu -- taki *oficjalny* wykaz 
+jest zazwyczaj nazywany *ontologią*
+- na przykład spór o to, czy w *oficjalnej* opowieści jest miejsce na fikołki, 
+zapewne dotyczy ogólnej kategorii zdarzeń
+- spór o kategorie dotyczy więc tego jakie rzeczy istnieją; pytanie o istnienie 
+rzeczy należących do jakiegoś bardzo ogólnego rodzaju czy kategorii: na przykład 
+czy istnieją własności, relacje, zdarzenia, substancje, sądy w sensie logicznym, 
+stany rzeczy, światy możliwe...
+- grupa faktów przedfilozoficznych pełni rolę danych
+- niekiedy strony zgodnie uznają istnienie bytów danej kategorii, ale jedna ze 
+stron dodaje, że choć istnieją one, należy je poddać analizie za pomocą bytów 
+innej kategorii; na przykład ktoś może uznawać istnienie przedmiotów 
+materialnych, jednak dodaje, że należy poddać je analizie za pomocą bytów innej 
+kategorii; sprzeciwia się on zaliczeniu przedmiotów materialnych do 
+*pierwotnych* czy *podstawowych* elementów swojej ontologii; choć twierdzi on, 
+że istnieją przedmioty materialne, to przyglądając się pierwotnym elementom jego 
+ontologii (które nie są redukowalne do bytów bardziej podstawowego rodzaju) nie 
+znajdujemy tam przedmiotów materialnych a jedynie jakości zmysłowe, przedmioty 
+zmysłowe są więc *kategorią pochodną*
+- aby sformułować całościową teorię metafizyczną, trzeba podać pełny katalog 
+kategorii, do których rzeczy należą, oraz ustalić, jakie relacje zachodzą między 
+kategoriami -- to drugie wymaga zidentyfikowania pewnych kategorii jako 
+podstawowych, a innych jako pochodnych, oraz określenia, w jaki sposób byty 
+z kategorii pochodnych można zredukować lub zanalizować odwołując się do bytów 
+z kategorii podstawowych.
+
+W tej książce zamiast podjęcia ambitnej próby podania pełnego systemu kategorii 
+ześrodkowana będzie uwaga na zagadnieniach, które pojawiają się w metafizyce, 
+gdy próbujemy odpowiedzieć na zaledwie kilka pytań dotyczących kategorii. 
+Wszystkie podjęte kwestie są fundamentalne, ich analiza da dobre pojęcie na 
+temat tego, czym jest metafizyka.
+
+## I. Problem uniwersaliów I: realizm metafizyczny
+
+### Przegląd treści
+
+
+
 
 
 
