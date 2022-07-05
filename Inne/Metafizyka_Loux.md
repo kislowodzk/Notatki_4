@@ -230,9 +230,50 @@ temat tego, czym jest metafizyka.
 
 ### Przegląd treści
 
+Przedmiotem sporu jest zjawisko podobieństwa czy zgodności atrybutywnej. 
+Realiści twierdzą, że gdy przedmioty są do siebie podobne lub są zgodne pod 
+względem atrybutu, istnieje coś, co ze sobą dzielą, co jest im wspólne; są to 
+uniwersalia, mają być one równocześnie egzemplifikowane przed różne przedmioty 
+i obejmować własności, relacje a także rodzaje, do których rzeczy należą. 
+Nominaliści temu twierdzeniu przeczą.
 
+Realiści podają dwa argumenty:
 
+- Uniwersalia mają stanowić przedmioty odniesienia wyrażeń orzecznikowych
+- Prawdziwość zdań zawierających abstrakcyjne terminy możemy wyjaśnić dopiero 
+wtedy, gdy potraktujemy uniwersalia jako identyfikowane przez użycie tych 
+terminów
 
+### Realizm i nominalizm
+
+Większość z nas uzna, że wiele naszych metod porządkowania wyznaczają same 
+przedmioty. Nie jest to jedynie konsekwencja ludziego języka czy myśli. 
+Przedmioty są nam dane w taki, a nie inny sposób i nasz język oraz myślenie 
+odzwierciedlają owe zastane fakty.
+
+Istnieją obeiektywne podobieństwa między rzeczami. Rzeczy są ze sobą zgodne pod 
+względem swoich cech, własności i atrybutów, zanim jeszcze przystąpimy do 
+klasyfikowania ich w ten czy inny sposób. Jest to przedfilozoficzny truizm.
+
+Czy da się ogólnie wyjaśnić obserwację, że rzeczy zgadzają się pod względem 
+atrybutu?
+
+Czy istnieje jakiś bardziej podstawowy albo fundamentalny fakt taki, że to tylko 
+i wyłącznie dzięki niemu wszystkie one są żółta? Jeśli tak, to czy istnieje 
+wysoce ogólny typ czy rodzaj faktu, taki że taki dowolny przypadek zgodności 
+atrybutywnej występuje tylko i wyłącznie dlatego, iż zachodzi odpowiedni fakt 
+tego rodzaju?
+
+Platoński *Parmenides* sugeruje odpowiedź twierdzącą. *Istnieją postacie pewne, 
+w których uczestniczą te tutaj inne rzeczy i stąd mają inne nazwy; na przykład 
+te, które uczestniczą w podobieństwie, nazywają się podobne…*. Gdy kilka 
+przedmiotów jest ze sobą zgodnych pod względem atrybutu, to istnieje rzecz 
+F i relacja R, taka że każdy z przedmiotów pozostaje w relacji R do F i właśnie 
+przez pozostawanie w tej relacji rzeczy są ze sobą zgodne pod względem atrybutu. 
+Podstawą zgodności atrybutywnej jest cecha czy jakość *wspólna* rzeczom czy 
+*dzielona przez nie*.
+
+### Ontologia metafizycznego realizmu
 
 
 
