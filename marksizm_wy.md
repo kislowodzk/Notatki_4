@@ -13,7 +13,7 @@ Marksizm okazuje się lepszą teorią kryzysową niż teorie liberalne.
 
 Profesor podaje przykład swojego paska wynagrodzeń i zwrócił uwagę na „ulgę dla 
 klasy średniej”. Zwykle podatki liczy się od dochodu, a nie dzieli ludzi na 
-klasy. Podział na klasy, jak stwierdza profesor, „jest czysto marksistowski”. 
+klasy. Podział na klasy, jak stwierdza profesor, "jest czysto marksistowski". 
 Ciekawe, że antymarksistowski rząd wprowadza jawnie marksistowski element 
 (pomijamy, że nie wiemy czym jest klasa średnia…). 
 
