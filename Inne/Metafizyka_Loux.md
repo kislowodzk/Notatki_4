@@ -275,6 +275,44 @@ Podstawą zgodności atrybutywnej jest cecha czy jakość *wspólna* rzeczom czy
 
 ### Ontologia metafizycznego realizmu
 
+Dwa typy przedmiotów:
+
+- *partykularia* -- konkretne przedmioty
+- *uniwersalia* -- byty powtarzalne, numerycznie jedno i to samo uniwersale może 
+całkowicie i w pełni przejawiać się (być egzemplifikowane) przez kilka różnych, 
+przestrzennie odrębnych partykulariów naraz
+
+Więcej niż jeden rodzaj uniwersaliów
+- przy zgodności atrybutywnej są to uniwersalia *jednoargumentowe*, 
+*monadyczne*, takie, które są egzemplifikowane przez partykularia indywidualnie, 
+pojedynczo
+- *relacje* -- uniwersalia egzemplifikowane przez kilka indywiduów pozostających 
+ze sobą w relacji -- mogą to być relacje *symetryczne* lub *asymetryczne*, 
+relacje są uniwersaliami *poliadycznymi*, *wieloargumentowymi*
+
+Wielu realistów podciąga wszystkie monadyczne uniwersalia pod nazwę *własność*, 
+ale niektórzy wprowadzają dodatkowe rozróżnienie na:
+
+- własności -- rzeczy je posiadają
+- rodzaje -- rzeczy do nich należą, określają czym rzeczy są, są uniwersaliami 
+indywidualizującymi -- konstytuują należące do nich rzeczy jako indywidua różne 
+zarówno od innych indywiduów tego samego rodzaju, jak i od indywiduów innych 
+rodzajów
+
+Realiści twierdzą, że w każdym przypadku zgodność atrybutywna jest stopniowalna. 
+Różnica stopnia zgodności wynika stąd, że uniwersalia egzemplifikowane przez 
+partykularia przejawiają różne stopnie ogólności: im bardziej ścisłe, 
+jednoznacznie określone jest wspólne uniwersale, tym większa zgodność 
+atrybutywna
+
+Uniwersalia, które służą do wyjaśniania zgodności atrybutywnej partykulariów, 
+mogą być między sobą zgodne w tym, że egzemplifikują kolejne uniwersalia.
+
+### Realizm i predykacja
+
+Zdania podmiotowo-orzecznikowe
+
+
 
 
 
