@@ -344,81 +344,10 @@ wynikać, że termin *odważny* wyodrębnia jeden i ten sam byt taki, że z uwag
 pozostawanie w relacji do niego zarówno Sokrates, jak i Platon należą do 
 odważnych.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Predykaty odnoszą się do uniwersaliów, a zdanie podmiowo-orzecznikowe jest 
+prawdziwe dlatego, że przedmiot odniesienia terminu występującego w roli 
+podmiotu egzemplifikuje uniwersale, będące przedmiotem odniesienia terminu 
+występującego w roli predykatu.
+
+# To notowanie chyba nie ma sensu, jeśli mam książkę, więc kończę notować w tym miejscu, na stronie 37. Następne zdanie to: *Jeśli jednak przedstawiona analiza ma być pełna…*.
 
