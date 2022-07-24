@@ -43,7 +43,7 @@ Nazwy podzielone na trzy grupy
 - migracja do Szwajcarii, wytworzenie się swobodnej atmosfery intelektualnej. 
 Badania także filologiczne. Także refleksja nad łaciną, którą użyto do 
 tłumaczenia Biblii. Przeciwstawienie się twierdzeniu katolików, że łaciński 
-przekład Biblii (vulgar ta) jest doskonały. Najpierw wsparcie Kalwina, ale później 
+przekład Biblii (vulgata) jest doskonały. Najpierw wsparcie Kalwina, ale później 
 zwalczanie przez niego ruchu
 - Czechy, ... -- wiele poglądów, które nie składały się na spójną linię. Próba 
 konsolidacji przez Sozziniego
